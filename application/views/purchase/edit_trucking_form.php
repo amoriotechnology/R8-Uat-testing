@@ -360,7 +360,7 @@
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Expenses - Trucking</h4>
         </div>
-        <div class="modal-body">
+        <div class="modal-body" style="font-weight:bold;text-align:center;">
           
           <h4>Trucking Invoice Updated Successfully</h4>
      
