@@ -147,7 +147,7 @@
                                     </label>
                                         <div class="col-sm-8">
                                         <?php $date = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control datepicker" name="etd" value="<?php echo $date; ?>" id="date"  />
+                                        <input type="text" required tabindex="2" class="form-control datepicker" name="etd" value="<?php echo $date; ?>" id="date"  />
                                     </div>
                                 
                                 </div> 
@@ -161,7 +161,7 @@
                                     </label>
                                        <div class="col-sm-8">
                                         <?php $date1 = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control datepicker" name="eta" value="<?php echo $date1; ?>" id="date1"  />
+                                        <input type="text" required tabindex="2" class="form-control datepicker" name="eta" value="<?php echo $date1; ?>" id="date1"  />
                                     </div>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                                     </label>
                                     <div class="col-sm-8">
                                         <?php $date3 = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control datepicker" name="invoice_date" value="<?php echo $date3; ?>" id="date3"  />
+                                        <input type="text" required tabindex="2" class="form-control datepicker" name="invoice_date" value="<?php echo $date3; ?>" id="date3"  />
                                     </div>
                                 </div>
                             </div>
@@ -318,7 +318,7 @@
                                     </label>
                                     <div class="col-sm-8">
                                            <?php $date2 = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control datepicker" name="bl_shipment" value="<?php echo $date2; ?>" id="date2"  />
+                                        <input type="text" required tabindex="2" class="form-control datepicker" name="bl_shipment" value="<?php echo $date2; ?>" id="date2"  />
                                     </div>
                                 </div> 
                             </div>
@@ -360,7 +360,7 @@
                                     <label for="eta" class="col-sm-2 col-form-label">Remarks / Details
                                     </label>
                                     <div class="col-sm-10">
-                                        <textarea class="form-control" rows="4" cols="50" name="remarks" placeholder="Remarks / Details" ></textarea>
+                                        <textarea class="form-control" rows="4" cols="50" name="remark" placeholder="Remarks / Details" ></textarea>
                                     </div>
                                 </div> 
                             </div>
@@ -537,20 +537,7 @@
                                 <input class="form-control" name="previous_balance" id="previous_balance" type="text" min="0" placeholder="<?php echo display('previous_balance') ?>" tabindex="5">
                             </div>
                         </div>
-                        <div class="form-group row">
-                        <label  class="col-sm-4 col-form-label"><?php echo "Preferred Currency"; ?></label>
-                          
-                        <div class="col-sm-8">
-            <select name="currency1" class="currency" id="currency1" style="width: 100%;">
-            <option id="im" value="select preferred currency">select preferred currency</option>
-    </select>
-<input type="hidden" name="" id="num" >
-<div class="right_box" style="display:none;">
-<select name="currency" class="currency" id="currency2" style="width: 95%;"></select>
-<input type="hidden" name="" id="ans" disabled>
-</div>
-<small id="errorMSG" style="display:none;"></small>
-                    </div>    </div> 
+                    </div> 
 
                     </div>
 
@@ -589,7 +576,7 @@
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Expenses - Ocean Import</h4>
         </div>
-        <div class="modal-body" style="text-align:center;font-weight:bold;">
+        <div class="modal-body" style="font-weight:bold;text-align:center;">
           
           <h4>Ocean Import Created Successfully</h4>
      
@@ -699,7 +686,7 @@ console.log(link);
     window.setTimeout(function(){
          popout.close();
       
-      }, 2500);
+      }, 1500);
       e.preventDefault();
 
 });  

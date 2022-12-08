@@ -47,7 +47,7 @@ class Linvoice {
         // $supplier_list = $CI->Suppliers->supplier_list("110", "0");
     
         // $supplier_selected = $CI->Suppliers->supplier_search_item($supplier_id);
-    
+   
     
     
         if (!empty($purchase_detail)) {
@@ -104,9 +104,10 @@ class Linvoice {
             'area'=>   $purchase_detail[0]['area'],
     
         );
+ 
     
     
-    
+      
         $chapterList = $CI->parser->parse('invoice/edit_packing_form', $data, true);
     
         return $chapterList;

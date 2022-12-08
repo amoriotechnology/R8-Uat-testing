@@ -491,7 +491,7 @@
         <label for="eta" class="col-sm-2 col-form-label">Remarks / Details
         </label>
         <div class="col-sm-10">
-        <textarea class="form-control" rows="4" cols="50" id="eta" name="remarks" placeholder="Remarks / Details" >{remarks}</textarea>
+        <textarea class="form-control" rows="4" cols="50" id="eta" name="remark" placeholder="Remarks / Details" >{remarks}</textarea>
         </div>
     </div> 
 </div>

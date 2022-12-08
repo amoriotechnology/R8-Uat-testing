@@ -612,12 +612,12 @@ textarea:focus, input:focus{
     <div class="form-group row">
             <label for="previous_balance" class="col-sm-4 col-form-label"><?php echo "Preferred Currency" ?></label>
             <div class="col-sm-6">
-            <select name="currency1" class="currency" id="currency1" style="width: 100%;">
+            <select name="currency_type" class="currency" id="currency1" style="width: 100%;">
             <option id="im" value="select preferred currency">select preferred currency</option>
     </select>
 <input type="hidden" name="" id="num" >
 <div class="right_box" style="display:none;">
-<select name="currency" class="currency" id="currency2" style="width: 95%;"></select>
+<select name="currency_type" class="currency" id="currency2" style="width: 95%;"></select>
 <input type="hidden" name="" id="ans" disabled>
 </div>
 <small id="errorMSG" style="display:none;"></small>

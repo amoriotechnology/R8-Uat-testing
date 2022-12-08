@@ -605,13 +605,34 @@ textarea:focus, input:focus{
                 <input class="form-control" name="previous_balance" id="previous_balance" type="text" min="0" placeholder="<?php echo display('previous_balance') ?>" tabindex="5">
             </div>
         </div>
-    </div> 
+        <div class="form-group row">
+            <label for="previous_balance" class="col-sm-4 col-form-label"><?php echo "Preferred Currency" ?></label>
+            <div class="col-sm-6">
+            <select name="currency_type" class="currency" id="currency1" style="width: 100%;">
+            <option id="im" value="select preferred currency">select preferred currency</option>
+    </select>
+<input type="hidden" name="" id="num" >
+<div class="right_box" style="display:none;">
+<select name="currency_type" class="currency" id="currency2" style="width: 95%;"></select>
+<input type="hidden" name="" id="ans" disabled>
+</div>
+<small id="errorMSG" style="display:none;"></small>
+<br><br>
+</div>
+
 
     </div>
 
     
 
         </div>
+    </div> 
+
+    </div>
+
+    
+
+     
 
 
 
@@ -633,7 +654,7 @@ textarea:focus, input:focus{
 
 </div><!-- /.modal-dialog -->
 
-<<<<<<< HEAD
+
             </div><!-- /.modal -->
             <div class="modal fade" id="myModal1" role="dialog" >
     <div class="modal-dialog">
@@ -699,9 +720,9 @@ textarea:focus, input:focus{
       
     </div>
   </div>
-=======
+
 </div><!-- /.modal -->
->>>>>>> 1aea0f6a65819f2c47e1cde06fbcdf8bca6e6c51
+
 
   <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
 <script type="text/javascript">
@@ -934,3 +955,89 @@ display:none;
      }
     </style>
 
+       <!-- script for currency selector -->
+       <script>
+const select = document.querySelectorAll(".currency");
+const btn = document.getElementById("btn");
+const num = document.getElementById("num");
+const ans = document.getElementById("ans");
+const err = document.getElementById("errorMSG");
+const info = document.getElementById("info");
+const baseFlagsUrl = "https://wise.com/public-resources/assets/flags/rectangle";
+const currencyApiUrl = "https://open.er-api.com/v6/latest";
+document.addEventListener('DOMContentLoaded', function(){
+  fetch(currencyApiUrl)
+    .then((data) => data.json())
+    .then((data) => {
+    err.innerHTML = "";
+    display(data.rates);
+    $('.currency').select2({
+      width: 'resolve',
+      templateResult: formatFlags,
+      templateSelection: formatCountry,
+      maximumInputLength: 3
+    });
+    info.innerHTML = "Result: "+data.result+"<br>Provider: "+data.provider+"<br>Documentation: "+data.documentation+"<br>Terms of use: "+data.terms_of_use+"<br>Time Last Update UTC: "+data.time_last_update_utc;
+    $('#pageLoader').fadeOut();
+  }).catch(function(error) {
+    err.innerHTML = "Error: " + error;
+    $('#pageLoader').fadeOut();
+  });
+  $('.currency').on('select2:select', function (e) {
+    let currency1 = select[0].value;
+    let currency2 = select[1].value;
+    let num1 = num.value;
+    convert(currency1, currency2, num1)
+  });
+}, false);
+function display(data){
+  const entries = Object.entries(data);
+  for (var i = 0; i < entries.length; i++){
+    select[0].innerHTML += `<option value="${entries[i][0]}">${entries[i][0]}</option>`;
+    select[1].innerHTML += `<option value="${entries[i][0]}">${entries[i][0]}</option>`;
+  }
+  if ($('#currency2').find("option[value='CLP']").length) {
+    $('#currency2').val('CLP').trigger('change');
+    $('#num').val(1);
+    let currency1 = select[0].value;
+    let currency2 = select[1].value;
+    let num1 = num.value;
+    convert(currency1, currency2, num1)
+  }
+}
+function formatFlags (country) {
+  if (!country.id) {
+    return country.text;
+  }
+  var $countryFlag = $('<span><img src="' + baseFlagsUrl + '/' + country.element.value.toLowerCase() + '.png" class="img-flag" /> ' + country.text + '</span>');
+  return $countryFlag;
+}
+function formatCountry (country) {
+  if (!country.id) {
+    return country.text;
+  }
+  var $countryFlag = $('<span><img class="img-flag"/> <span></span></span>');
+  $countryFlag.find("span").text(country.text);
+  $countryFlag.find("img").attr("src", baseFlagsUrl + "/" + country.element.value.toLowerCase() + ".png");
+  return $countryFlag;
+}
+function convert(currency1, currency2, value){
+  fetch(`${currencyApiUrl}/${currency1}`)
+    .then((val) => val.json())
+    .then((val) => {
+    console.log('Converting ' +currency1 + ' to '+currency2);
+    var res  = val.rates[currency2] * value
+    ans.value = res.toFixed(2);
+    err.innerHTML = "";
+  }).catch(function(error) {
+    err.innerHTML = "Error: " + error;
+  });
+}
+    </script>
+ <!-- style for currency list   -->
+<style>
+.img-flag{
+  max-height: 11px;
+ display: none;
+}
+    </style> 

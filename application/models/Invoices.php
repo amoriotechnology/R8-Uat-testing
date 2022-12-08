@@ -203,10 +203,7 @@ class Invoices extends CI_Model {
     public function packing_list_entry() {
     $purchase_id  = date('YmdHis');
     $p_id = $this->input->post('product_id',TRUE);
-    // $supplier_id = $this->input->post('supplier_id',TRUE);
-    // $supinfo =$this->db->select('*')->from('supplier_information')->where('supplier_id',$supplier_id)->get()->row();
-    // $sup_head = $supinfo->supplier_id.'-'.$supinfo->supplier_name;
-    // $sup_coa = $this->db->select('*')->from('acc_coa')->where('HeadName',$sup_head)->get()->row();
+    $invoice_no =$this->input->post('invoice_no',TRUE);
     $receive_by=$this->session->userdata('user_id');
     $receive_date=date('Y-m-d');
     $createdate=date('Y-m-d H:i:s');
@@ -221,16 +218,6 @@ class Invoices extends CI_Model {
     {
            $bankcoaid = '';
     }
-    //supplier & product id relation ship checker.
-    // for ($i = 0, $n = count($p_id); $i < $n; $i++) {
-    //     $product_id = $p_id[$i];
-    //     $value = $this->product_supplier_check($product_id, $supplier_id);
-    //     if ($value == 0) {
-    //         $this->session->set_flashdata('error_message', display('product_and_supplier_did_not_match'));
-    //         redirect(base_url('Cpurchase'));
-    //         exit();
-    //     }
-    // }
     $data = array(
         'expense_packing_id'        => $purchase_id,
         'create_by'       =>  $this->session->userdata('user_id'),
@@ -246,22 +233,29 @@ class Invoices extends CI_Model {
         'grand_total_amount'      => $this->input->post('total',TRUE),
         'status'             => 1,
     );
-      ///Inventory Debit
-//    $coscr = array(
-//   'VNo'            =>  $purchase_id,
-//   'Vtype'          =>  'Purchase',
-//   'VDate'          =>  $this->input->post('invoice_date',TRUE),
-//   'COAID'          =>  10107,
-//   'Narration'      =>  'Inventory Debit For Supplier ',
-//   'Debit'          =>  $this->input->post('grand_total_price',TRUE),
-//   'Credit'         =>  0,//purchase price asbe
-//   'IsPosted'       => 1,
-//   'CreateBy'       => $receive_by,
-//   'CreateDate'     => $createdate,
-//   'IsAppove'       => 1
-// );
-   //new end
+
+    $purchase_id_1 = $this->db->where('invoice_no',$this->input->post('invoice_no',TRUE));
+    $q=$this->db->get('sale_packing_list');
+    $row = $q->row_array();
+if(!empty($row['expense_packing_id'])){
+    $this->session->set_userdata("salepacking_1",$row['expense_packing_id']);
+  
+    $this->db->where('invoice_no',$this->input->post('invoice_no',TRUE));
+
+    $this->db->delete('sale_packing_list');
+
     $this->db->insert('sale_packing_list', $data);
+
+}   
+else{
+$this->db->insert('sale_packing_list', $data);
+
+}
+  $purchase_id = $this->db->select('expense_packing_id')->from('sale_packing_list')->where('invoice_no',$this->input->post('invoice_no',TRUE))->get()->row()->expense_packing_id;
+
+   $this->session->set_userdata("salepacking_2",$purchase_id);
+
+
     if($this->input->post('paytype') == 2){
       if(!empty($paid_amount)){
     $this->db->insert('acc_transaction',$bankc);
@@ -288,7 +282,7 @@ class Invoices extends CI_Model {
         $data1 = array(
             'product_id'   =>  $p_id,
             'expense_packing_detail_id' => $this->generator(15),
-            'expense_packing_id'        => $purchase_id,
+            'expense_packing_id'        => $this->session->userdata("salepacking_2"),
             'serial_no'         => $serial,
             'slab_no'               => $slabno,
             'height' => $heightt,
@@ -298,11 +292,15 @@ class Invoices extends CI_Model {
             'create_by'          =>  $this->session->userdata('user_id'),
             'status'             => 1
         );
-        if (!empty($serial_number)) {
-            $this->db->insert('sale_packing_list_detail', $data1);
-        }
+        $this->db->where('expense_packing_id', $this->session->userdata("salepacking_1"));
+ 
+        $this->db->delete('sale_packing_list_detail');
+        $this->db->insert('sale_packing_list_detail', $data1);
+     
+           
+        
     }
-    return $purchase_id;
+   return $purchase_id."/".$invoice_no;
 }
 
 

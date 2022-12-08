@@ -1238,14 +1238,10 @@ $this->db->update('bootgrid_data');
         $CI->auth->check_admin_auth();
         $CI->load->model('Invoices');
         $invoice_id=$CI->Invoices->packing_list_entry();
-      
-     
-        $this->session->set_userdata(array('packingid' => $invoice_id));
-        if (isset($_POST['add-packing-list'])) {
-            redirect(base_url('Cinvoice/add_packing_list'));
-            exit;
+      echo json_encode($invoice_id);
+    
         } 
-    }
+    
 
      public function manage_packing_list() {
 
