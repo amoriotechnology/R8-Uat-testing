@@ -633,7 +633,7 @@ textarea:focus, input:focus{
 
 </div><!-- /.modal-dialog -->
 
-
+<<<<<<< HEAD
             </div><!-- /.modal -->
             <div class="modal fade" id="myModal1" role="dialog" >
     <div class="modal-dialog">
@@ -644,7 +644,7 @@ textarea:focus, input:focus{
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Expenses - Trucking</h4>
         </div>
-        <div class="modal-body" style="text-align:center;font-weight:bold;">
+        <div class="modal-body" style="text-align:center;">
           
           <h4>Trucking Invoice Created Successfully</h4>
      
@@ -699,9 +699,9 @@ textarea:focus, input:focus{
       
     </div>
   </div>
-
+=======
 </div><!-- /.modal -->
-
+>>>>>>> 1aea0f6a65819f2c47e1cde06fbcdf8bca6e6c51
 
   <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
 <script type="text/javascript">
@@ -892,7 +892,7 @@ console.log(link);
     window.setTimeout(function(){
          popout.close();
    
-      }, 2000);
+      }, 1500);
       e.preventDefault();
 
 });  

@@ -1511,9 +1511,12 @@ $('.modal-backdrop').remove();
       }, 2500);
        
 });
+$('#add_purchase').on('click', function (e) {
+save.click =true;
 
+});
 window.onbeforeunload = function(){
-    if(!window.btn_clicked){
+    if(!window.btn_clicked && save.click){
        // window.btn_clicked = true; 
         $('#myModal3').modal('show');
        return false;

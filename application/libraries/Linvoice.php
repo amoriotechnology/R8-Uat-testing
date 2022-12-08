@@ -1001,7 +1001,7 @@ class Linvoice {
             'bank_list'     => $bank_list,
             'customer_list' => $get_customer
         );
-  
+
         $invoiceForm = $CI->parser->parse('invoice/trucking', $data, true);
         return $invoiceForm;
     }

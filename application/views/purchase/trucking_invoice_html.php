@@ -654,7 +654,7 @@ $(document).ready(function () {
    
    window.location ="<?php  echo base_url(); ?>Ccpurchase/manage_trucking";
 
-     }, 2000);
+     }, 2500);
    
    $( '.modal' ).addClass( 'open' );
 
