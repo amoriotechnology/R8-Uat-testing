@@ -480,17 +480,8 @@ echo json_encode($data);
         $CI->auth->check_admin_auth();
          $CI->load->model('Invoices');
         $invoiceid=$CI->Invoices->trucking_entry();
-
-        $this->session->set_userdata(array('truckid' => $invoiceid));
-        if (isset($_POST['add-trucking'])) {
-          //  print_r($_POST['add-trucking']);
-            redirect(base_url('Cinvoice/trucking'));
-            exit;
-        } elseif (isset($_POST['add-trucking-another'])) {
-           // print_r($_POST['add-trucking-another']);
-            redirect(base_url('Cinvoice/trucking'));
-            exit;
-        }
+        echo json_encode($invoiceid);
+      
     }
 
  
@@ -636,18 +627,8 @@ echo json_encode($data);
         $CI->auth->check_admin_auth();
         $CI->load->model('Invoices');
         $invoice_id=$CI->Invoices->ocean_export_entry();
-
+        echo json_encode($invoice_id);
         
-        $this->session->set_userdata(array('oceanid' =>$invoice_id));
-        if (isset($_POST['add-ocean-export'])) {
-           // print_r($_POST['add-ocean-export']);
-          redirect(base_url('Cinvoice/ocean_export_tracking'));
-            exit;
-        } elseif (isset($_POST['add-ocean-export-another'])) {
-           // print_r($_POST['add-ocean-export-another']);
-          redirect(base_url('Cinvoice/ocean_export_tracking'));
-            exit;
-        }
     }
 
 

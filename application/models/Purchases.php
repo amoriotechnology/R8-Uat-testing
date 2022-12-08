@@ -2025,17 +2025,7 @@ $chalan_no =$this->input->post('chalan_no',TRUE);
            $bankcoaid = '';
        }
 
-        //supplier & product id relation ship checker.
-        // for ($i = 0, $n = count($p_id); $i < $n; $i++) {
-        //     $product_id = $p_id[$i];
-        //     $value = $this->product_supplier_check($product_id, $supplier_id);
-        //     if ($value == 0) {
-        //         $this->session->set_flashdata('error_message', display('product_and_supplier_did_not_match'));
-        //         redirect(base_url('Cpurchase'));
-        //         exit();
-        //     }
-        // }
-        $data = array(
+      $data = array(
             'ocean_import_tracking_id'        => $purchase_id,
             'booking_no'          => $this->input->post('booking_no',TRUE),
             'container_no' =>$this->input->post('container_no',TRUE),
