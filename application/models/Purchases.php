@@ -1402,7 +1402,7 @@ return $output;
             'purchase_date'      => $this->input->post('bill_date',TRUE),
             'purchase_details'   => $this->input->post('purchase_details',TRUE),
             'payment_due_date'   => $this->input->post('payment_due_date',TRUE),
-            'remarks'            => $this->input->post('remarks',TRUE),
+            'remarks'            => $this->input->post('remark',TRUE),
             'message_invoice'    => $this->input->post('message_invoice',TRUE),
           
             'etd'   => $this->input->post('etd',TRUE),
@@ -1418,6 +1418,7 @@ return $output;
             'payment_type'       =>  $this->input->post('paytype',TRUE),
              'image'              =>  $profile_img,
         );
+        print_r($data);
         $purchase_id_1 = $this->db->where('chalan_no',$this->input->post('chalan',TRUE));
         $q=$this->db->get('product_purchase');
         $row = $q->row_array();
@@ -1429,6 +1430,7 @@ return $output;
    }   
     else{
     $this->db->insert('product_purchase', $data);
+  
     }
     $purchase_id = $this->db->select('purchase_id')->from('product_purchase')->where('chalan_no',$this->input->post('chalan',TRUE))->get()->row()->purchase_id;
       $this->session->set_userdata("purchase_2",$purchase_id);
@@ -1591,11 +1593,7 @@ return $output;
         $purchase_id  = date('YmdHis');
         $invoice_no =$this->input->post('invoice_no',TRUE);
         $p_id = $this->input->post('product_id',TRUE);
-        // $supplier_id = $this->input->post('supplier_id',TRUE);
-        // $supinfo =$this->db->select('*')->from('supplier_information')->where('supplier_id',$supplier_id)->get()->row();
-        // $sup_head = $supinfo->supplier_id.'-'.$supinfo->supplier_name;
-        // $sup_coa = $this->db->select('*')->from('acc_coa')->where('HeadName',$sup_head)->get()->row();
-        $receive_by=$this->session->userdata('user_id');
+     $receive_by=$this->session->userdata('user_id');
         $receive_date=date('Y-m-d');
         $createdate=date('Y-m-d H:i:s');
         $paid_amount = $this->input->post('paid_amount',TRUE);
@@ -1610,19 +1608,7 @@ return $output;
         {
                $bankcoaid = '';
         }
-
-        //supplier & product id relation ship checker.
-        // for ($i = 0, $n = count($p_id); $i < $n; $i++) {
-        //     $product_id = $p_id[$i];
-        //     $value = $this->product_supplier_check($product_id, $supplier_id);
-        //     if ($value == 0) {
-        //         $this->session->set_flashdata('error_message', display('product_and_supplier_did_not_match'));
-        //         redirect(base_url('Cpurchase'));
-        //         exit();
-        //     }
-        // }
-
-        $data = array(
+   $data = array(
             'expense_packing_id'        => $purchase_id,
             'create_by'       =>  $this->session->userdata('user_id'),
             'invoice_no'          => $this->input->post('invoice_no',TRUE),
@@ -1664,32 +1650,7 @@ return $output;
     
        $this->session->set_userdata("packing_2",$purchase_id);
 
-    // print_r($data);
-   
-          ///Inventory Debit
-    //    $coscr = array(
-    //   'VNo'            =>  $purchase_id,
-    //   'Vtype'          =>  'Purchase',
-    //   'VDate'          =>  $this->input->post('invoice_date',TRUE),
-    //   'COAID'          =>  10107,
-    //   'Narration'      =>  'Inventory Debit For Supplier ',
-    //   'Debit'          =>  $this->input->post('grand_total_price',TRUE),
-    //   'Credit'         =>  0,//purchase price asbe
-    //   'IsPosted'       => 1,
-    //   'CreateBy'       => $receive_by,
-    //   'CreateDate'     => $createdate,
-    //   'IsAppove'       => 1
-    // ); 
-
-
-
-
-
-       //new end
-
-
-      
-        if($this->input->post('paytype') == 2){
+  if($this->input->post('paytype') == 2){
           if(!empty($paid_amount)){
         $this->db->insert('acc_transaction',$bankc);
        
@@ -2025,17 +1986,7 @@ $chalan_no =$this->input->post('chalan_no',TRUE);
            $bankcoaid = '';
        }
 
-        //supplier & product id relation ship checker.
-        // for ($i = 0, $n = count($p_id); $i < $n; $i++) {
-        //     $product_id = $p_id[$i];
-        //     $value = $this->product_supplier_check($product_id, $supplier_id);
-        //     if ($value == 0) {
-        //         $this->session->set_flashdata('error_message', display('product_and_supplier_did_not_match'));
-        //         redirect(base_url('Cpurchase'));
-        //         exit();
-        //     }
-        // }
-        $data = array(
+      $data = array(
             'ocean_import_tracking_id'        => $purchase_id,
             'booking_no'          => $this->input->post('booking_no',TRUE),
             'container_no' =>$this->input->post('container_no',TRUE),

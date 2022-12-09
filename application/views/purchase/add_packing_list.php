@@ -534,7 +534,7 @@ $('#download').show();
        
 $('.modal-backdrop').remove();
 $("#bodyModal1").html("");
- },2500);
+ },3000);
 
 
        }
@@ -550,7 +550,7 @@ $('#download').on('click', function (e) {
     window.setTimeout(function(){
          popout.close();
         
-      }, 1500);
+      }, 2500);
       e.preventDefault();
 
 });  

@@ -225,7 +225,7 @@ textarea:focus, input:focus{
                                     </label>
                                     <div class="col-sm-8">
                                         <?php $date5 = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control datepicker" name="est_ship_date" value="<?php echo $date5; ?>" id="date5"  required/>
+                                        <input type="text" required tabindex="2" class="form-control datepicker" name="est_ship_date" value="<?php echo $date5; ?>" id="date5"  required/>
                                     </div>
                                 </div>
                             </div>
@@ -354,9 +354,7 @@ textarea:focus, input:focus{
 
 
                                            <td class="wt">
-                                                <input type="text" id="available_quantity_1" class="form-control text-right stock_ctn_1" placeholder="0.00" 
-                                                
-                                                />
+                                                <input type="text" id="available_quantity_1" class="form-control text-right stock_ctn_1" placeholder="0.00" readonly/>
                                             </td>
                                         
                                             <td class="text-right">
@@ -571,46 +569,26 @@ textarea:focus, input:focus{
            
  
 
-
 <!-- Purchase Report End -->
-<div class="modal fade modal-success" id="add_vendor" role="dialog">
-
+  <!-- Purchase Report End -->
+  <div class="modal fade modal-success" id="add_vendor" role="dialog">
 <div class="modal-dialog" role="document">
-
     <div class="modal-content">
-
         <div class="modal-header">
-
             <a href="#" class="close" data-dismiss="modal">&times;</a>
-
             <h3 class="modal-title">Add New Vendor</h3>
-
         </div>
-
-        
-
         <div class="modal-body">
-
             <div id="customeMessage" class="alert hide"></div>
-
-           
-
              <?php echo form_open_multipart('Csupplier/insert_supplier', array('id' => 'insert_supplier')) ?>
-
-
     <div class="panel-body">
-
-
-
         <div class="col-sm-6">
-
         <div class="form-group row">
             <label for="supplier_name" class="col-sm-4 col-form-label">Vendor Name<i class="text-danger">*</i></label>
             <div class="col-sm-8">
                 <input class="form-control" name ="supplier_name" id="supplier_name" type="text" placeholder="Vendor Name"  required="" tabindex="1">
             </div>
         </div>
-
         <div class="form-group row">
             <label for="mobile" class="col-sm-4 col-form-label">Vendor Mobile<i class="text-danger"></i></label>
             <div class="col-sm-8">
@@ -635,14 +613,12 @@ textarea:focus, input:focus{
                 <input class="form-control" name="emailaddress" id="emailaddress" type="email" placeholder="<?php echo display('email').' '.display('address') ?>"  >
             </div>
         </div>
-
           <div class="form-group row">
             <label for="contact" class="col-sm-4 col-form-label"><?php echo display('contact'); ?> <i class="text-danger"></i></label>
             <div class="col-sm-8">
                 <input class="form-control" name="contact" id="contact" type="text" placeholder="<?php echo display('contact') ?>"  >
             </div>
         </div>
-
         <div class="form-group row">
             <label for="fax" class="col-sm-4 col-form-label"><?php echo display('fax'); ?> <i class="text-danger"></i></label>
             <div class="col-sm-8">
@@ -664,9 +640,6 @@ textarea:focus, input:focus{
                </select>
             </div>
     </div>
-
-
-         
     </div>
     <div class="col-sm-6">
     <div class="form-group row">
@@ -675,8 +648,6 @@ textarea:focus, input:focus{
                 <input class="form-control" name="state" id="state" type="text" placeholder="<?php echo display('state') ?>"  >
             </div>
         </div>
-      
-         
          <div class="form-group row">
             <label for="zip" class="col-sm-4 col-form-label"><?php echo display('zip'); ?> <i class="text-danger"></i></label>
             <div class="col-sm-8">
@@ -689,21 +660,18 @@ textarea:focus, input:focus{
                 <input class="form-control" name="country" id="country" type="text" placeholder="<?php echo display('country') ?>"  >
             </div>
         </div>
-
         <div class="form-group row">
             <label for="address " class="col-sm-4 col-form-label"><?php echo display('supplier_address') ?></label>
             <div class="col-sm-8">
                 <textarea class="form-control" name="address" id="address " rows="2" placeholder="<?php echo display('supplier_address') ?>" ></textarea>
             </div>
         </div>
-
          <div class="form-group row">
             <label for="address2 " class="col-sm-4 col-form-label"><?php echo display('address') ?>2</label>
             <div class="col-sm-8">
                 <textarea class="form-control" name="address2" id="address2" rows="2" placeholder="<?php echo display('supplier_address') ?>2" ></textarea>
             </div>
         </div>
-
         <div class="form-group row">
             <label for="details" class="col-sm-4 col-form-label"><?php echo display('supplier_details') ?></label>
             <div class="col-sm-8">
@@ -716,8 +684,7 @@ textarea:focus, input:focus{
                 <input class="form-control" name="previous_balance" id="previous_balance" type="text" min="0" placeholder="<?php echo display('previous_balance') ?>" tabindex="5">
             </div>
         </div>
-    </div> 
-
+    </div>
     <div class="form-group row">
             <label for="previous_balance" class="col-sm-4 col-form-label"><?php echo "Preferred Currency" ?></label>
             <div class="col-sm-6">
@@ -732,36 +699,14 @@ textarea:focus, input:focus{
 <small id="errorMSG" style="display:none;"></small>
 <br><br>
 </div>
-
-
     </div>
-
-    
-
         </div>
-
-
-
-
-                        <div class="modal-footer">
-
-                            
-
+<div class="modal-footer">
                             <a href="#" class="btn btn-danger" data-dismiss="modal">Close</a>
-
-                            
-
                             <input type="submit" id="add-supplier-from-expense" name="add-supplier-from-expense"  class="btn btn-success" value="Submit">
-
                         </div>
-
-                        <?php echo form_close() ?>
-
-                    </div><!-- /.modal-content -->
-
-                </div><!-- /.modal-dialog -->
-
-            </div><!-- /.modal -->
+                        </div></div></div></div>
+  
 
 
             <div class="modal fade" id="product_info" role="dialog">
@@ -1230,7 +1175,6 @@ window.onbeforeunload = function(){
 
     </script>
 
-<!-- script for currency selector -->
 <script>
 const select = document.querySelectorAll(".currency");
 const btn = document.getElementById("btn");
@@ -1316,10 +1260,6 @@ function convert(currency1, currency2, value){
  display: none;
 }
     </style>
-
-
-
-         
 
 
 

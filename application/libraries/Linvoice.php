@@ -55,7 +55,7 @@ class Linvoice {
         // $supplier_list = $CI->Suppliers->supplier_list("110", "0");
     
         // $supplier_selected = $CI->Suppliers->supplier_search_item($supplier_id);
-    
+   
     
     
         if (!empty($purchase_detail)) {
@@ -112,9 +112,10 @@ class Linvoice {
             'area'=>   $purchase_detail[0]['area'],
     
         );
+ 
     
     
-    
+      
         $chapterList = $CI->parser->parse('invoice/edit_packing_form', $data, true);
     
         return $chapterList;
@@ -405,6 +406,100 @@ class Linvoice {
 
     }
 
+    public function trucking_edit_data($purchase_id) {
+
+        $CI = & get_instance();
+       
+        $CI->load->model('Invoices');
+
+        $CI->load->model('Suppliers');
+        $CI->load->model('Ppurchases');
+        
+        $CI->load->model('Web_settings');
+        $CI->load->model('Accounts_model');
+         //$bank_list        = $CI->Web_settings->bank_list();
+
+        $purchase_detail = $CI->Invoices->retrieve_trucking_editdata($purchase_id);
+
+        // print_r($purchase_detail); exit();
+
+     
+        $customer_id = $purchase_detail[0]['customer_id'];
+
+        // $supplier_list = $CI->Suppliers->supplier_list("110", "0");
+
+        // $supplier_selected = $CI->Suppliers->supplier_search_item($supplier_id);
+
+
+
+        if (!empty($purchase_detail)) {
+
+            $i = 0;
+
+            foreach ($purchase_detail as $k => $v) {
+
+                $i++;
+
+                $purchase_detail[$k]['sl'] = $i;
+
+            }
+
+        }
+
+        $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+        $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+      
+        $taxfield = $CI->db->select('tax_name,default_value')->from('tax_settings')->get()->result_array();
+        $taxfield1 = $CI->db->select('tax_id,tax')
+        ->from('tax_information')
+        ->get()
+        ->result_array();
+        $get_customer= $CI->Accounts_model->get_customer();
+        $all_supplier = $CI->Ppurchases->select_all_supplier_trucker();
+
+
+       
+
+        $data = array(
+            'all_supplier'  => $all_supplier,
+            'curn_info_default' =>$curn_info_default[0]['currency_name'],
+            'currency'  =>$currency_details[0]['currency'],
+
+            'title'         => 'Edit Trucking Invoice',
+            'taxes'         => $taxfield,
+            'tax'         => $taxfield1,
+
+            'trucking_id'   => $purchase_detail[0]['trucking_id'],
+
+            'invoice_no'     => $purchase_detail[0]['invoice_no'],
+
+            'customer_name' => $purchase_detail[0]['customer_name'],
+
+            'customer_id'   => $purchase_detail[0]['customer_id'],
+
+            'bill_to'   => $purchase_detail[0]['bill_to'],
+
+            'purchase_info' => $purchase_detail,
+
+            'shipment_company'   => $purchase_detail[0]['shipment_company'],
+
+            'container_pickup_date'   => $purchase_detail[0]['container_pickup_date'],
+
+            'delivery_date'   => $purchase_detail[0]['delivery_date'],
+
+            'total'         => number_format($purchase_detail[0]['grand_total_amount'] + (!empty($purchase_detail[0]['total_discount'])?$purchase_detail[0]['total_discount']:0),2),
+
+            'customer_list' => $get_customer
+
+        );
+print_r($purchase_detail);
+
+
+        $chapterList = $CI->parser->parse('invoice/edit_trucking_form', $data, true);
+
+        return $chapterList;
+
+    }
     public function trucking_details_data($purchase_id) {
 
 
@@ -554,90 +649,6 @@ class Linvoice {
         $invoiceList = $CI->parser->parse('invoice/trucking_invoice_list', $data, true);
         return $invoiceList;
     }
-
-
-          //trucking Edit Data
-
-    public function trucking_edit_data($purchase_id) {
-
-        $CI = & get_instance();
-
-        $CI->load->model('Invoices');
-
-        $CI->load->model('Suppliers');
-
-        $CI->load->model('Web_settings');
-
-         //$bank_list        = $CI->Web_settings->bank_list();
-
-        $purchase_detail = $CI->Invoices->retrieve_trucking_editdata($purchase_id);
-
-        // print_r($purchase_detail); exit();
-
-     
-        $customer_id = $purchase_detail[0]['customer_id'];
-
-        // $supplier_list = $CI->Suppliers->supplier_list("110", "0");
-
-        // $supplier_selected = $CI->Suppliers->supplier_search_item($supplier_id);
-
-
-
-        if (!empty($purchase_detail)) {
-
-            $i = 0;
-
-            foreach ($purchase_detail as $k => $v) {
-
-                $i++;
-
-                $purchase_detail[$k]['sl'] = $i;
-
-            }
-
-        }
-
-
-
-        $currency_details = $CI->Web_settings->retrieve_setting_editdata();
-
-        $data = array(
-
-            'title'         => 'Edit Trucking Invoice',
-
-            'trucking_id'   => $purchase_detail[0]['trucking_id'],
-
-            'invoice_no'     => $purchase_detail[0]['invoice_no'],
-
-            'customer_name' => $purchase_detail[0]['customer_name'],
-
-            'customer_id'   => $purchase_detail[0]['customer_id'],
-
-            'bill_to'   => $purchase_detail[0]['bill_to'],
-
-            'purchase_info' => $purchase_detail,
-
-            'shipment_company'   => $purchase_detail[0]['shipment_company'],
-
-            'container_pickup_date'   => $purchase_detail[0]['container_pickup_date'],
-
-            'delivery_date'   => $purchase_detail[0]['delivery_date'],
-
-            'total'         => number_format($purchase_detail[0]['grand_total_amount'] + (!empty($purchase_detail[0]['total_discount'])?$purchase_detail[0]['total_discount']:0),2),
-
-         
-
-        );
-
-
-
-        $chapterList = $CI->parser->parse('invoice/edit_trucking_form', $data, true);
-
-        return $chapterList;
-
-    }
-
-
 
     //pdf download
     public function pdf_download(){
@@ -1008,7 +1019,7 @@ class Linvoice {
             'bank_list'     => $bank_list,
             'customer_list' => $get_customer
         );
-  
+
         $invoiceForm = $CI->parser->parse('invoice/trucking', $data, true);
         return $invoiceForm;
     }

@@ -360,7 +360,7 @@
                                     <label for="eta" class="col-sm-2 col-form-label">Remarks / Details
                                     </label>
                                     <div class="col-sm-10">
-                                        <textarea class="form-control" rows="4" cols="50" name="remarks" placeholder="Remarks / Details" ></textarea>
+                                        <textarea class="form-control" rows="4" cols="50" name="remark" placeholder="Remarks / Details" ></textarea>
                                     </div>
                                 </div> 
                             </div>
@@ -576,7 +576,7 @@
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Expenses - Ocean Import</h4>
         </div>
-        <div class="modal-body" style="text-align:center;font-weight:bold;">
+        <div class="modal-body" style="font-weight:bold;text-align:center;">
           
           <h4>Ocean Import Created Successfully</h4>
      

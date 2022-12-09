@@ -481,20 +481,18 @@ textarea:focus, input:focus{
                         </div>
 
 
+                      
                         <div class="row">
-
-                            <div class="col-sm-12">
+                        <div class="col-sm-12">
                                <div class="form-group row">
-                                    <label for="eta" class="col-sm-2 col-form-label">Remarks / Details
+                                    <label for="adress" class="col-sm-2 col-form-label">Remarks / Details
                                     </label>
                                     <div class="col-sm-10">
-                                        <textarea class="form-control" rows="4" cols="50" name="remarks" placeholder="Remarks / Details" ></textarea>
+                                    <textarea class="form-control" rows="4" cols="50" id="remark" name="remark" placeholder="Remarks" rows="1"></textarea>
                                     </div>
                                 </div> 
                             </div>
-                        </div>
-                        
-
+                            </div>
                         <div class="row">
                         <div class="col-sm-12">
                                <div class="form-group row">
@@ -1511,9 +1509,12 @@ $('.modal-backdrop').remove();
       }, 2500);
        
 });
+$('#add_purchase').on('click', function (e) {
+save.click =true;
 
+});
 window.onbeforeunload = function(){
-    if(!window.btn_clicked){
+    if(!window.btn_clicked && save.click){
        // window.btn_clicked = true; 
         $('#myModal3').modal('show');
        return false;

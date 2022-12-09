@@ -133,9 +133,10 @@ $today = date('Y-m-d');
       <tr>
       <th data-column-id="id" class="ID" style="width: 100px; height: 43.0114px;">ID</th>
         <th data-column-id="Invoice" class="Invoice No" style="height: 38.0114px; width: 196.011px;">Invoice No</th>
-        <th data-column-id="Customer Name" class="Purchase Order ID" style="height: 39.0114px; width: 230.011px;" >Purchase Order ID</th>
-        <th data-column-id="Sale By" class="Supplier Name" style="width: 268.011px; height: 43.0114px;">Supplier Name</th>
         <th data-column-id="date" class="Purchase Date" style="width: 253.011px;">Purchase Date</th>
+        
+        <th data-column-id="Sale By" class="Supplier Name" style="width: 268.011px; height: 43.0114px;">Supplier Name</th>
+        <th data-column-id="Customer Name" class="Purchase Order ID" style="height: 39.0114px; width: 230.011px;" >Purchase Order ID</th>
          <th data-column-id="total" class="Total Amount" style="width: 199.011px; height: 37.0114px;">Total Amount</th>
       <div class="myButtonClass Action">
          <th class="text-center Action" data-column-id="action" data-formatter="commands" data-sortable="false" style="width: 185.011px;">Action</th>

@@ -628,7 +628,7 @@ class Ppurchases extends CI_Model {
         $query = $this->db->select('*')
                 ->from('supplier_information')
                 ->where('created_by',$this->session->userdata('user_id'))
-                ->where('category', 'trucker')
+             //   ->where('category', 'trucker')
                 ->where('status', '1')
                 ->get();
         if ($query->num_rows() > 0) {

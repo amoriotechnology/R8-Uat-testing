@@ -498,12 +498,12 @@ $('.modal-backdrop').remove();
 $('#download').on('click', function (e) {
 
 
-var popout = window.open("<?php  echo base_url(); ?>Ccpurchase/trucking_details_data/"+$('#invoice_hdn1').val());
+var popout = window.open("<?php  echo base_url(); ?>Cinvoice/trucking_details_data/"+$('#invoice_hdn1').val());
 
-  // window.setTimeout(function(){
-     //   popout.close();
+   window.setTimeout(function(){
+       popout.close();
   
-   //  }, 1500);
+  }, 1500);
      e.preventDefault();
 
 });  

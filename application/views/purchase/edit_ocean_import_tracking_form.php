@@ -351,7 +351,7 @@
         }
         </style>
       
-            <input type="text" id="remarks" class="form-control"  name="remarks" value="<?php echo $remarks; ?>" placeholder="Remarks / Details" />
+            <input type="text" id="remarks" class="form-control"  name="remark" value="<?php echo $remarks; ?>" placeholder="Remarks / Details" />
        
     </div> 
 

@@ -391,7 +391,29 @@ elseif($template==3)
     </section> <!-- /.content -->
 </div> <!-- /.content-wrapper -->
       <!-- </table> -->
+      <div class="modal fade" id="myModal1" role="dialog" >
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content" style="width: 500px;height:100px;text-align:center;margin-bottom:300px;">
+        <div class="modal-header" style="">
+      
+          <h4 class="modal-title">Sale - Packing List</h4>
+        </div>
+        <div class="content">
 
+        <div class="modal-body">
+          
+          <h4>Packing List Downloaded Successfully</h4>
+     
+        </div>
+        <div class="modal-footer">
+        </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
       <style>
 
 .key{
@@ -515,7 +537,56 @@ table th, table td {
 @media only screen and (max-width: 600px) {
     
 }
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+}
 
+.modal .content {
+  position: relative;
+  padding: 10px;
+ 
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: rgba(112, 128, 175, 0.2) 0px 16px 24px 0px;
+  transform: scale(0);
+  transition: transform 300ms cubic-bezier(0.57, 0.21, 0.69, 1.25);
+}
+
+.modal .close {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #7080af;
+  clip-path: polygon(0 10%, 10% 0, 50% 40%, 89% 0, 100% 10%, 60% 50%, 100% 90%, 90% 100%, 50% 60%, 10% 100%, 0 89%, 40% 50%);
+}
+
+.modal.open {
+    background-color:#38469f;
+  opacity: 1;
+  visibility: visible;
+}
+.modal.open .content {
+  transform: scale(1);
+}
+.content-wrapper.blur {
+  filter: blur(5px);
+}
+.content{
+    min-height:0px;
+}
 
 </style>     
 
@@ -534,54 +605,47 @@ table th, table td {
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
 <script>
-    $(document).ready(function () {
-  const invoice = document.getElementById("content");
-     var doc = new jsPDF('p','pt','letter');
-   const opt = {
-  margin: [1, 0, 1, 0],
-  filename: 'invoice'+'.pdf',
-  enableLinks: false,
-  pagebreak: {
-    avoid: ['tr'],
-    mode: ['css', 'legacy'],
-  },
-  image: { type: 'jpeg', quality: 1 },
-  html2canvas: {
-    allowTaint: true,
-    dpi: 300,
-    letterRendering: true,
-    logging: false,
-    scale: 5,
-    scrollX: 0,
-    scrollY: 0,
-  },
-  jsPDF: { doc },
-};
+$(document).ready(function () {
+ 
+ var pdf = new jsPDF('p','pt','a4');
+    const invoice = document.getElementById("content");
+             console.log(invoice);
+             console.log(window);
+             var pageWidth = 8.5;
+             var margin=0.5;
+             var opt = {
+   lineHeight : 1.2,
+   margin : 0.2,
+   maxLineWidth : pageWidth - margin *1,
+                 filename: 'invoice'+'.pdf',
+                 allowTaint: true,
+                 html2canvas: { scale: 3 },
+                 jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
+             };
+              html2pdf().from(invoice).set(opt).toPdf().get('pdf').then(function (pdf) {
+  var totalPages = pdf.internal.getNumberOfPages();
+ for (var i = 1; i <= totalPages; i++) {
+    pdf.setPage(i);
+    pdf.setFontSize(10);
+    pdf.setTextColor(150);
+  }
+ 
+  }).save();
+   });
+  window.setTimeout(function(){
+   
+   window.location ="<?php  echo base_url(); ?>Cpurchase/manage_packing_list";
 
-html2pdf()
-  .from(invoice)
-  .set(opt)
-  .toPdf()
-  .get('pdf')
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  .then((pdf) => {
-    const totalPages = pdf.internal.getNumberOfPages();
+	 }, 2000);
+  
+  $( '.modal' ).addClass( 'open' );
 
-    for (let i = 1; i < totalPages + 1; i++) {
-      pdf.setPage(i);
-      pdf.setFontSize(8);
-      pdf.text(
-        `${i}/${totalPages}`,
-        pdf.internal.pageSize.getWidth() - 10,
-        pdf.internal.pageSize.getHeight() - 5,
-      );
-    }
-  })
-  .save();
-  var timer = setTimeout(function() {
-            window.location='<?php  echo base_url();   ?>'+'Cinvoice/manage_packing_list'
-     }, 1000);
-
+if ( $( '.modal' ).hasClass( 'open' ) ) {
+ $( '.container' ).addClass( 'blur' );
+} 
+$( '.close' ).click(function() {
+ $( '.modal' ).removeClass( 'open' );
+ $( '.cont' ).removeClass( 'blur' );
 });
    </script>
  
