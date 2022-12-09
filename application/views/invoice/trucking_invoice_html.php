@@ -432,14 +432,14 @@ elseif($template==3)
     <div class="modal-dialog">
     
       <!-- Modal content-->
-      <div class="modal-content" style="width: 500px;text-align:center;margin-top: 100px;">
+      <div class="modal-content" style="width: 500px;height:100px;text-align:center;margin-bottom: 300px;">
         <div class="modal-header" style="">
       
           <h4 class="modal-title">Sales - Trucking</h4>
         </div>
         <div class="content">
 
-        <div class="modal-body" style="text-align:center;">
+        <div class="modal-body" style="text-align:center;font-weight:bold;">
           
           <h4>Trucking Invoice Downloaded Successfully</h4>
      
@@ -620,6 +620,9 @@ float: right;
 .content-wrapper.blur {
   filter: blur(5px);
 }
+.content {
+   min-height: 0px;
+}
     </style>    
 
 
@@ -666,7 +669,7 @@ $(document).ready(function () {
   }).save();
     var timer = setTimeout(function() {
 window.location='<?php  echo base_url();   ?>'+'Cinvoice/manage_trucking'
-        }, 1000);
+        }, 2000);
    });
    $( '.modal' ).addClass( 'open' );
 

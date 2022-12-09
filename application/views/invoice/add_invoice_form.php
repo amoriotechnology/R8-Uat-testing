@@ -2010,20 +2010,7 @@ function packing(id)
 
 
 
-<?php 
 
-    if(isset($_SESSION['invoiceid']))
-        { ?>
-
-    <script type="text/javascript">
-        $(document).ready(function(){
-
-
-           $('#myModal1').modal('show');
-           hide();
-        });
-    </script>
-    <?php } ?>
 
 
 

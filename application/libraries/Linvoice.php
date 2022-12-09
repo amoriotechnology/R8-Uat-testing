@@ -478,7 +478,7 @@ class Linvoice {
             'customer_list' => $get_customer
 
         );
-print_r($purchase_detail);
+
 
 
         $chapterList = $CI->parser->parse('invoice/edit_trucking_form', $data, true);
@@ -1094,7 +1094,10 @@ print_r($purchase_detail);
         }
 
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+        $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
         $data = array(
+            'curn_info_default' =>$curn_info_default[0]['currency_name'],
+            'currency'  =>$currency_details[0]['currency'],
             'title'           => display('invoice_edit'),
             'invoice_id'      => $invoice_detail[0]['invoice_id'],
             'customer_id'     => $invoice_detail[0]['customer_id'],
@@ -1170,13 +1173,23 @@ print_r($purchase_detail);
 
         }
 
-
-
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+        $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+      
+        $customer = $CI->Invoices->profarma_invoice_customer();
+        $taxfield1 = $CI->db->select('tax_id,tax')
+        ->from('tax_information')
+        ->get()
+        ->result_array();
 
         $data = array(
+            'customer'  => $customer,
+           
+            'curn_info_default' =>$curn_info_default[0]['currency_name'],
+            'currency'  =>$currency_details[0]['currency'],
 
             'title'         => 'Edit Profarma Invoice',
+            'tax' =>$taxfield1,
 
             'purchase_id'   => $purchase_detail[0]['purchase_id'],
 

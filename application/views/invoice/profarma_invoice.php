@@ -83,10 +83,7 @@ textarea:focus, input:focus{
                     </div>
 
                     <div class="panel-body">
-                    <?php 
-//   print_r($data);die();  
-                    echo form_open_multipart('Cinvoice/performer_ins',array('class' => 'form-vertical', 'id' => 'insert_sale','name' => 'insert_sale'))?>
- 
+  <form id="insert_trucking"  method="post">  
                         <div class="row">
                             <div class="col-sm-6" style="display:none;">
                                <div class="form-group row">
@@ -154,7 +151,8 @@ textarea:focus, input:focus{
                             </div>
                         </div>
 
-
+                        <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
+                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group row">
@@ -412,61 +410,15 @@ textarea:focus, input:focus{
                                <table>
                                 <tr>
                                     <td>
-                                        <input type="hidden" name="uid" value="<?php echo $_SESSION['user_id']; ?>">
-    
-                                        <input type="submit"  class="btn btn-primary btn-large"  onclick="  $('#btn1_download').css('display','block');
-                                        $('#btn1_email').css('display','block');" id='add_purchase' name="add-purchase" value="<?php echo display('Save') ?>" />
-                                    </td>
+                                    <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
+                                <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
+
+<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
+<a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
                                     <td>&nbsp;</td>
                                     <td id="btn1_download">
                                         
-                                        <?php if(isset( $_SESSION['perfarma_invoice_id'])){?>
-
-                                            <a href="<?php echo base_url('Cinvoice/manage_profarma_invoice/'); ?><?php echo $_SESSION['perfarma_invoice_id'];?>" id="down" class="btn btn-primary">
-                                            submit  
-                                        </a>
-                                        <a href="<?php echo base_url('Cinvoice/performa_pdf/'); ?><?php echo $_SESSION['perfarma_invoice_id'];?>" id="down" class="btn btn-primary">
-                                            Donwload  
-                                        </a>
-                                        <a class="btn  btn-primary" style=" color: #fff;"  data-toggle="modal" data-target="#emailmodal">Send mail with attachment</a>
-
-  <!-- Modal -->
-<div id="emailmodal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-<form action="insert_role">    <!-- Modal content-->
-    <div class="modal-content" >
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Select Email Template </h4>
-      </div>
-      <div class="modal-body">
-     <div class="row">
-        <div class="col-sm-6" style="border: 1px solid #6666;text-align: center;">  <p style="font-weight: bold;">Standard</p>
-            <br>
-            <i>Standard Email Temeplate</i>
-            <br>
-            <br>
-         <a href="<?php echo base_url('Cinvoice/profarma_with_attachment_stand/').$_SESSION['perfarma_invoice_id'];;  ?>" class="btn btn-default">Select</a></div>
-        <div class="col-sm-6" style="border: 1px solid #6666;text-align: center;">  <p style="font-weight: bold;">Custom</p>
-            <br>
-            <i>Custom Email Temeplate</i>
-            <br>
-            <br>
-         <a class="btn btn-default" href="<?php echo base_url('Cinvoice/profarma__with_attachment_cus/').$_SESSION['perfarma_invoice_id'];  ?>">Select</a></div>
-       
-     </div>
-
-
-</div>
-      <div class="modal-footer">
-      
-      </div>
-    </div>
-
-  </div>
-</div>
-                                        
-                                    <?php } ?>
+                                     
 
                                     </td>
                                     <td>&nbsp;</td>
@@ -481,29 +433,30 @@ textarea:focus, input:focus{
 
 <input type="hidden" id="currency"/>
                                 
-<?php echo form_close()?>
+                                 </form>
                     </div>
                 </div>
 
             </div>
         </div>
-        <?php 
 
-        if(isset($_SESSION['perfarma_invoice_id']))
-        {
-        ?>
-        <div class="modal fade" id="myModal1" role="dialog">
+
+    </section>
+    <input type="hidden" id="hdn"/>
+<input type="text" id="gtotal_dup"/>
+
+<div class="modal fade" id="myModal1" role="dialog" >
     <div class="modal-dialog">
     
       <!-- Modal content-->
-      <div class="modal-content" style="    margin-top: 190px;">
+      <div class="modal-content" style="margin-top: 190px;">
         <div class="modal-header" style="">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Performa invoice</h4>
+          <h4 class="modal-title">Sales - Profarma Invoice</h4>
         </div>
-        <div class="modal-body">
+        <div class="modal-body" id="bodyModal1" style="text-align:center;font-weight:bold;">
           
-          <h4>Performa Invoice  Created Succefully</h4>
+      
      
         </div>
         <div class="modal-footer">
@@ -513,13 +466,28 @@ textarea:focus, input:focus{
       
     </div>
   </div>
-<?php } ?>
-
-    </section>
-    <input type="hidden" id="hdn"/>
-<input type="text" id="gtotal_dup"/>
-<input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
-                
+          <div id="myModal3" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title">Confirmation</h4>
+			</div>
+			<div class="modal-body">
+				<p>Your Invoice is not submitted. Would you like to submit or discard
+				</p>
+				<p class="text-warning">
+					<small>If you don't submit, your changes will not be saved.</small>
+				</p>
+			</div>
+			<div class="modal-footer">
+				<input type="submit" id="ok" class="btn btn-primary pull-left final_submit" onclick="submit_redirect()"  value="Submit"/>
+                <button id="btdelete" type="button" class="btn btn-danger pull-left" onclick="discard()">Discard</button>
+			
+			</div>
+		</div>
+	</div>
+</div>         
 
 <style>
  #btn1_download{
@@ -533,32 +501,13 @@ display:none;
     <script>
 
 
-      /* function currency(){
-
-var data = {};
-  data[csrfName] = csrfHash;
-$.ajax({
-    type:'POST',
-    data: data, 
-    dataType:"json",
-    url:'<?php //echo// base_url();?>Cproduct/scrape',
-    success: function(result, statut) {
-        if(result.csrfName){
-           csrfName = result.csrfName;
-           csrfHash = result.csrfHash;
-           console.log(result.product_name);
-        }
-        console.log(result);
-       
-        }
-
-    });
-}*/
-
-
         var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 $(document).ready(function(){
+    $('#final_submit').hide();
+$('#download').hide();
+
+$('#email').hide();
     addprod();
     addtax();
   //  currency();
@@ -587,7 +536,30 @@ var answer=0;
  var value=amt*parseInt(custo_amt);
  var custo_final = isNaN(parseInt(value)) ? 0 : parseInt(value)
 $('#customer_gtotal').val(custo_final);  
-calculate();
+var first=$("#Total").val();
+    var tax= $('#product_tax').val();
+
+    // console.log(tax);
+
+var field = tax.split('-');
+
+var percent = field[1];
+var answer=0;
+  var answer = parseInt((percent / 100) * first);
+  // console.log(answer);
+  var gtotal = parseInt(first + answer);
+  console.log(gtotal);
+ var final_g= $('#final_gtotal').val();
+
+
+ var amt=parseInt(answer)+parseInt(first);
+ var num = isNaN(parseInt(amt)) ? 0 : parseInt(amt)
+ var custo_amt=$('#custocurrency_rate').val();
+ $("#gtotal").val(num);  
+ console.log(num +"-"+custo_amt);
+ var value=amt*parseInt(custo_amt);
+ var custo_final = isNaN(parseInt(value)) ? 0 : parseInt(value)
+$('#customer_gtotal').val(custo_final);  
 });
 });
 $( document ).ready(function() {
@@ -783,38 +755,7 @@ function addprod(){
 $("#custocurrency_rate").inputFilter(function(value) {
   return /^-?\d*[.,]?\d*$/.test(value); }, "Must be a floating (real) Number");
 
-  /*
- $(function () {
-  
-       
 
-          $.ajax({
-            type: 'GET',
-            url: '../assets/Fetch_Data_from_db.php',
-            data: $('#form3').serialize(),
-            success: function (response) {
-                      var fields = response.split('/');
-
-var invoice_template = fields[0];
-var account = fields[1];
-var remarks = fields[2];
-$("textarea#details").val(account);
-$("textarea#remarks").val(remarks);
-        ////     alert(response);
-            }
-          });
-
-        
-        
-
-      });
-
-function ajaxcall(){
-      
-
-
-}
-*/
 </script>
 </div>
 <!-- Purchase Report End -->
@@ -828,59 +769,121 @@ function ajaxcall(){
 var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 
+function discard(){
+   $.get(
+    "<?php echo base_url(); ?>Cpurchase/delete_trucking/", 
+   { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
+   function(responseText){
+    console.log(responseText);
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been Discared";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
 
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_profarma_invoice";
+      }, 2000);
+   }
+); 
+}
+     function submit_redirect(){
+        window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been created Successfully";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
 
-    //create data object here so we can dynamically set new csrfName/Hash
-  /*  $('#add_purchase').click(function(id){
-      
-        
-        var aval = $('#available_quantity').val();
-        var formdata = $('#pdt').serialize();
-    var data = {
-        formdata:$('#pdt').serialize(),
-     
-        billing_address:$('#billing_address').val(),
-        chalan_no:$('#chalan_no').val(),
-        date:$('#date').val(),
-        pre_carriage:$('#pre_carriage').val(),
-        eta:$('#eta').val(),
-        shipping_line:$('#shipping_line').val(),
-        container_no:$('#container_no').val(),
-        bl_number:$('#bl_number').val(),
-        bd_number:$('#bd_number').val(),
-        delivery:$('#delivery').val(),
-        goods:$('#goods').val(),
-        details:$('#details').val(),
-        customer_id:$('#customer_id').val()
-      
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_profarma_invoice";
+      }, 2000);
+     }
 
-    };
-    data[formdata] = $('#pdt').serialize();
-    data[csrfName] = csrfHash;
+$('#insert_trucking').submit(function (event) {
    
+       
+    var dataString = {
+        dataString : $("#insert_trucking").serialize()
+    
+   };
+   dataString[csrfName] = csrfHash;
+  
     $.ajax({
-        type:'POST',
-        data: data, 
-        //dataType tells jQuery to expect JSON response
+        type:"POST",
         dataType:"json",
-        url:'<?php echo base_url();?>Cinvoice/performer_ins',
-        success: function(result, statut) {
-            if(result.csrfName){
-               //assign the new csrfName/Hash
-               csrfName = result.csrfName;
-               csrfHash = result.csrfHash;
-            }
-           // var parsedData = JSON.parse(result);
-          //  alert(result[0].p_quantity);
-       //   $(".available_quantity_"+ id).val(result[0]['p_quantity']);
-        //  $("#product_rate_"+ id).val(result[0]['price']);
-          //  $('#available_quantity_'+ id).html(result[0].p_quantity);
-            console.log(result);
-        }
-    });
+        url:"<?php echo base_url(); ?>Cinvoice/performer_ins",
+        data:$("#insert_trucking").serialize(),
 
+        success:function (data) {
+        console.log(data);
+        var input_hdn="Profarma invoice created Successfully";
+        $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+        $('#final_submit').show();
+        $('#download').show();
+        $('#email').show();
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+ },2500);
+
+            var split = data.split("/");
+            $('#invoice_hdn1').val(split[0]);
+         
+     
+         $('#invoice_hdn').val(split[1]);
+       }
+
+    });
+    event.preventDefault();
 });
-*/
+$('#download').on('click', function (e) {
+var link=localStorage.getItem("truck");
+console.log(link);
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/performa_pdf/"+$('#invoice_hdn1').val());
+ 
+    window.setTimeout(function(){
+        popout.close();
+   
+     }, 1500);
+      e.preventDefault();
+
+});  
+
+
+$('.final_submit').on('click', function (e) {
+
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been created Successfully";
+  
+    console.log(input_hdn);
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_profarma_invoice";
+      }, 2000);
+       
+});
+
+window.onbeforeunload = function(){
+    if(!window.btn_clicked){
+       // window.btn_clicked = true; 
+        $('#myModal3').modal('show');
+       return false;
+    }
+};
+ 
+
+
 function addInputField(t) {
     //debugger;
     var row = $("#normalinvoice tbody tr").length;
@@ -1109,14 +1112,4 @@ $.ajax({
      
 </script>
 
-</td>
-<?php 
-if(isset($_SESSION['']))
-{ ?>
-<script type="text/javascript">
 
-      $('#myModal1').modal('show');
-      hide();
-  
-</script>
-<?php } ?>
