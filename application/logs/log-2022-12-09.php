@@ -21774,3 +21774,7795 @@ INFO - 2022-12-09 07:45:19 --> Model "Units" initialized
 DEBUG - 2022-12-09 07:45:19 --> Auth class already loaded. Second attempt ignored.
 INFO - 2022-12-09 07:45:19 --> Final output sent to browser
 DEBUG - 2022-12-09 07:45:19 --> Total execution time: 0.0360
+ERROR - 2022-12-09 10:46:57 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:46:57 --> Config Class Initialized
+INFO - 2022-12-09 10:46:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:46:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:46:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:46:57 --> URI Class Initialized
+INFO - 2022-12-09 10:46:57 --> Router Class Initialized
+INFO - 2022-12-09 10:46:57 --> Output Class Initialized
+INFO - 2022-12-09 10:46:57 --> Security Class Initialized
+DEBUG - 2022-12-09 10:46:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:46:57 --> CSRF cookie sent
+INFO - 2022-12-09 10:46:57 --> Input Class Initialized
+INFO - 2022-12-09 10:46:57 --> Language Class Initialized
+INFO - 2022-12-09 10:46:57 --> Loader Class Initialized
+INFO - 2022-12-09 10:46:57 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:46:57 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:46:57 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:46:57 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:46:57 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:46:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:46:57 --> Parser Class Initialized
+INFO - 2022-12-09 10:46:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:46:57 --> Pagination Class Initialized
+INFO - 2022-12-09 10:46:57 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:46:57 --> Controller Class Initialized
+INFO - 2022-12-09 10:46:57 --> Model "Web_settings" initialized
+ERROR - 2022-12-09 10:46:57 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:46:57 --> Config Class Initialized
+INFO - 2022-12-09 10:46:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:46:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:46:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:46:57 --> URI Class Initialized
+INFO - 2022-12-09 10:46:57 --> Router Class Initialized
+INFO - 2022-12-09 10:46:57 --> Output Class Initialized
+INFO - 2022-12-09 10:46:57 --> Security Class Initialized
+DEBUG - 2022-12-09 10:46:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:46:57 --> CSRF cookie sent
+INFO - 2022-12-09 10:46:57 --> Input Class Initialized
+INFO - 2022-12-09 10:46:57 --> Language Class Initialized
+INFO - 2022-12-09 10:46:57 --> Loader Class Initialized
+INFO - 2022-12-09 10:46:57 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:46:57 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:46:57 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:46:57 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:46:57 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:46:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:46:57 --> Parser Class Initialized
+INFO - 2022-12-09 10:46:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:46:57 --> Pagination Class Initialized
+INFO - 2022-12-09 10:46:57 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:46:57 --> Controller Class Initialized
+INFO - 2022-12-09 10:46:57 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:46:57 --> Model "reports" initialized
+INFO - 2022-12-09 10:46:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\user/admin_login_form.php
+DEBUG - 2022-12-09 10:46:57 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:46:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:46:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:46:57 --> Model "Products" initialized
+INFO - 2022-12-09 16:16:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:16:57 --> Final output sent to browser
+DEBUG - 2022-12-09 16:16:57 --> Total execution time: 0.0630
+ERROR - 2022-12-09 10:47:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:47:03 --> Config Class Initialized
+INFO - 2022-12-09 10:47:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:47:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:47:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:47:03 --> URI Class Initialized
+INFO - 2022-12-09 10:47:03 --> Router Class Initialized
+INFO - 2022-12-09 10:47:03 --> Output Class Initialized
+INFO - 2022-12-09 10:47:03 --> Security Class Initialized
+DEBUG - 2022-12-09 10:47:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:47:03 --> CSRF cookie sent
+INFO - 2022-12-09 10:47:03 --> CSRF token verified
+INFO - 2022-12-09 10:47:03 --> Input Class Initialized
+INFO - 2022-12-09 10:47:03 --> Language Class Initialized
+INFO - 2022-12-09 10:47:03 --> Loader Class Initialized
+INFO - 2022-12-09 10:47:03 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:47:03 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:47:03 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:47:03 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:47:03 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:47:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:47:03 --> Parser Class Initialized
+INFO - 2022-12-09 10:47:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:47:03 --> Pagination Class Initialized
+INFO - 2022-12-09 10:47:03 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:47:03 --> Controller Class Initialized
+INFO - 2022-12-09 10:47:03 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:47:03 --> Model "reports" initialized
+INFO - 2022-12-09 10:47:03 --> Email Class Initialized
+ERROR - 2022-12-09 10:47:05 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() D:\wamp\www\R8-Uat-testing\system\libraries\Email.php 1902
+INFO - 2022-12-09 10:47:05 --> Language file loaded: language/english/email_lang.php
+ERROR - 2022-12-09 10:47:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:47:05 --> Config Class Initialized
+INFO - 2022-12-09 10:47:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:47:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:47:05 --> URI Class Initialized
+INFO - 2022-12-09 10:47:05 --> Router Class Initialized
+INFO - 2022-12-09 10:47:05 --> Output Class Initialized
+INFO - 2022-12-09 10:47:05 --> Security Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:47:05 --> CSRF cookie sent
+INFO - 2022-12-09 10:47:05 --> Input Class Initialized
+INFO - 2022-12-09 10:47:05 --> Language Class Initialized
+INFO - 2022-12-09 10:47:05 --> Loader Class Initialized
+INFO - 2022-12-09 10:47:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:47:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:47:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:47:05 --> Parser Class Initialized
+INFO - 2022-12-09 10:47:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:47:05 --> Pagination Class Initialized
+INFO - 2022-12-09 10:47:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:47:05 --> Controller Class Initialized
+INFO - 2022-12-09 10:47:05 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:47:05 --> Model "reports" initialized
+INFO - 2022-12-09 10:47:05 --> Model "Users" initialized
+INFO - 2022-12-09 10:47:05 --> Final output sent to browser
+DEBUG - 2022-12-09 10:47:05 --> Total execution time: 0.0371
+ERROR - 2022-12-09 10:47:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:47:05 --> Config Class Initialized
+INFO - 2022-12-09 10:47:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:47:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:47:05 --> URI Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> No URI present. Default controller set.
+INFO - 2022-12-09 10:47:05 --> Router Class Initialized
+INFO - 2022-12-09 10:47:05 --> Output Class Initialized
+INFO - 2022-12-09 10:47:05 --> Security Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:47:05 --> CSRF cookie sent
+INFO - 2022-12-09 10:47:05 --> Input Class Initialized
+INFO - 2022-12-09 10:47:05 --> Language Class Initialized
+INFO - 2022-12-09 10:47:05 --> Loader Class Initialized
+INFO - 2022-12-09 10:47:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:47:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:47:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:47:05 --> Parser Class Initialized
+INFO - 2022-12-09 10:47:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:47:05 --> Pagination Class Initialized
+INFO - 2022-12-09 10:47:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:47:05 --> Controller Class Initialized
+INFO - 2022-12-09 10:47:05 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:47:05 --> Model "reports" initialized
+INFO - 2022-12-09 10:47:05 --> Model "Customers" initialized
+INFO - 2022-12-09 10:47:05 --> Model "Products" initialized
+INFO - 2022-12-09 10:47:05 --> Model "Suppliers" initialized
+DEBUG - 2022-12-09 10:47:05 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:47:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:47:05 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:47:05 --> Model "Purchases" initialized
+ERROR - 2022-12-09 10:47:05 --> Severity: Notice --> Undefined variable: vendor D:\wamp\www\R8-Uat-testing\application\views\include\admin_home.php 257
+ERROR - 2022-12-09 10:47:05 --> Severity: Notice --> Undefined variable: searchdate D:\wamp\www\R8-Uat-testing\application\views\include\admin_home.php 320
+ERROR - 2022-12-09 10:47:05 --> Severity: Notice --> Undefined variable: chart_label D:\wamp\www\R8-Uat-testing\application\views\include\admin_home.php 578
+INFO - 2022-12-09 10:47:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_home.php
+DEBUG - 2022-12-09 10:47:05 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:47:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:47:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 16:17:05 --> Model "Users" initialized
+INFO - 2022-12-09 16:17:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:17:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:17:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:17:05 --> Final output sent to browser
+DEBUG - 2022-12-09 16:17:05 --> Total execution time: 0.3099
+ERROR - 2022-12-09 10:47:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:47:05 --> Config Class Initialized
+INFO - 2022-12-09 10:47:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:47:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:47:05 --> URI Class Initialized
+INFO - 2022-12-09 10:47:05 --> Router Class Initialized
+INFO - 2022-12-09 10:47:05 --> Output Class Initialized
+INFO - 2022-12-09 10:47:05 --> Security Class Initialized
+DEBUG - 2022-12-09 10:47:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:47:05 --> CSRF cookie sent
+INFO - 2022-12-09 10:47:05 --> Input Class Initialized
+INFO - 2022-12-09 10:47:05 --> Language Class Initialized
+INFO - 2022-12-09 10:47:05 --> Loader Class Initialized
+INFO - 2022-12-09 10:47:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:47:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:47:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:47:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:47:05 --> Parser Class Initialized
+INFO - 2022-12-09 10:47:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:47:05 --> Pagination Class Initialized
+INFO - 2022-12-09 10:47:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:47:05 --> Controller Class Initialized
+INFO - 2022-12-09 10:47:05 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:47:05 --> Model "reports" initialized
+INFO - 2022-12-09 10:47:05 --> Final output sent to browser
+DEBUG - 2022-12-09 10:47:05 --> Total execution time: 0.0243
+ERROR - 2022-12-09 10:47:09 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:47:09 --> Config Class Initialized
+INFO - 2022-12-09 10:47:09 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:47:09 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:47:09 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:47:09 --> URI Class Initialized
+INFO - 2022-12-09 10:47:09 --> Router Class Initialized
+INFO - 2022-12-09 10:47:09 --> Output Class Initialized
+INFO - 2022-12-09 10:47:09 --> Security Class Initialized
+DEBUG - 2022-12-09 10:47:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:47:09 --> CSRF cookie sent
+INFO - 2022-12-09 10:47:09 --> Input Class Initialized
+INFO - 2022-12-09 10:47:09 --> Language Class Initialized
+INFO - 2022-12-09 10:47:09 --> Loader Class Initialized
+INFO - 2022-12-09 10:47:09 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:47:09 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:47:09 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:47:09 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:47:09 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:47:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:47:09 --> Parser Class Initialized
+INFO - 2022-12-09 10:47:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:47:09 --> Pagination Class Initialized
+INFO - 2022-12-09 10:47:09 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:47:09 --> Controller Class Initialized
+INFO - 2022-12-09 10:47:09 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:47:09 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:47:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:47:09 --> Model "Customers" initialized
+INFO - 2022-12-09 10:47:09 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:47:09 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 10:47:09 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\invoice.php 199
+ERROR - 2022-12-09 10:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\invoice.php 199
+ERROR - 2022-12-09 10:47:09 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\invoice.php 199
+INFO - 2022-12-09 10:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 10:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 10:47:09 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:47:09 --> Model "Products" initialized
+INFO - 2022-12-09 16:17:09 --> Model "reports" initialized
+INFO - 2022-12-09 16:17:09 --> Model "Users" initialized
+INFO - 2022-12-09 16:17:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:17:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:17:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:17:09 --> Final output sent to browser
+DEBUG - 2022-12-09 16:17:09 --> Total execution time: 0.3390
+ERROR - 2022-12-09 10:47:10 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:47:10 --> Config Class Initialized
+INFO - 2022-12-09 10:47:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:47:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:47:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:47:10 --> URI Class Initialized
+INFO - 2022-12-09 10:47:10 --> Router Class Initialized
+INFO - 2022-12-09 10:47:10 --> Output Class Initialized
+INFO - 2022-12-09 10:47:10 --> Security Class Initialized
+DEBUG - 2022-12-09 10:47:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:47:10 --> CSRF cookie sent
+INFO - 2022-12-09 10:47:10 --> CSRF token verified
+INFO - 2022-12-09 10:47:10 --> Input Class Initialized
+INFO - 2022-12-09 10:47:10 --> Language Class Initialized
+INFO - 2022-12-09 10:47:10 --> Loader Class Initialized
+INFO - 2022-12-09 10:47:10 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:47:10 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:47:10 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:47:10 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:47:10 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:47:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:47:10 --> Parser Class Initialized
+INFO - 2022-12-09 10:47:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:47:10 --> Pagination Class Initialized
+INFO - 2022-12-09 10:47:10 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:47:10 --> Controller Class Initialized
+INFO - 2022-12-09 10:47:10 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:47:10 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:47:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:47:10 --> Model "Customers" initialized
+INFO - 2022-12-09 10:47:10 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:47:10 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1183
+ERROR - 2022-12-09 10:47:10 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1183
+ERROR - 2022-12-09 10:47:10 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1184
+ERROR - 2022-12-09 10:47:10 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1184
+ERROR - 2022-12-09 10:47:10 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1185
+ERROR - 2022-12-09 10:47:10 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1185
+INFO - 2022-12-09 10:47:10 --> Final output sent to browser
+DEBUG - 2022-12-09 10:47:10 --> Total execution time: 0.0122
+ERROR - 2022-12-09 10:50:21 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:50:21 --> Config Class Initialized
+INFO - 2022-12-09 10:50:21 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:50:21 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:50:21 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:50:21 --> URI Class Initialized
+INFO - 2022-12-09 10:50:21 --> Router Class Initialized
+INFO - 2022-12-09 10:50:21 --> Output Class Initialized
+INFO - 2022-12-09 10:50:21 --> Security Class Initialized
+DEBUG - 2022-12-09 10:50:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:50:21 --> CSRF cookie sent
+INFO - 2022-12-09 10:50:21 --> Input Class Initialized
+INFO - 2022-12-09 10:50:21 --> Language Class Initialized
+INFO - 2022-12-09 10:50:21 --> Loader Class Initialized
+INFO - 2022-12-09 10:50:21 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:50:21 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:50:21 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:50:21 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:50:21 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:50:21 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:50:21 --> Parser Class Initialized
+INFO - 2022-12-09 10:50:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:50:21 --> Pagination Class Initialized
+INFO - 2022-12-09 10:50:21 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:50:21 --> Controller Class Initialized
+INFO - 2022-12-09 10:50:21 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:50:21 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:50:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:50:21 --> Model "Customers" initialized
+INFO - 2022-12-09 10:50:21 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:50:21 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 10:50:21 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\invoice.php 199
+ERROR - 2022-12-09 10:50:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\invoice.php 199
+ERROR - 2022-12-09 10:50:21 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\invoice.php 199
+INFO - 2022-12-09 10:50:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 10:50:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 10:50:21 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:50:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:50:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:50:21 --> Model "Products" initialized
+INFO - 2022-12-09 16:20:21 --> Model "reports" initialized
+INFO - 2022-12-09 16:20:21 --> Model "Users" initialized
+INFO - 2022-12-09 16:20:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:20:21 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:20:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:20:21 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:20:21 --> Final output sent to browser
+DEBUG - 2022-12-09 16:20:21 --> Total execution time: 0.3200
+ERROR - 2022-12-09 10:50:22 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:50:22 --> Config Class Initialized
+INFO - 2022-12-09 10:50:22 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:50:22 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:50:22 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:50:22 --> URI Class Initialized
+INFO - 2022-12-09 10:50:22 --> Router Class Initialized
+INFO - 2022-12-09 10:50:22 --> Output Class Initialized
+INFO - 2022-12-09 10:50:22 --> Security Class Initialized
+DEBUG - 2022-12-09 10:50:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:50:22 --> CSRF cookie sent
+INFO - 2022-12-09 10:50:22 --> CSRF token verified
+INFO - 2022-12-09 10:50:22 --> Input Class Initialized
+INFO - 2022-12-09 10:50:22 --> Language Class Initialized
+INFO - 2022-12-09 10:50:22 --> Loader Class Initialized
+INFO - 2022-12-09 10:50:22 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:50:22 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:50:22 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:50:22 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:50:22 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:50:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:50:22 --> Parser Class Initialized
+INFO - 2022-12-09 10:50:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:50:22 --> Pagination Class Initialized
+INFO - 2022-12-09 10:50:22 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:50:22 --> Controller Class Initialized
+INFO - 2022-12-09 10:50:22 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:50:22 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:50:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:50:22 --> Model "Customers" initialized
+INFO - 2022-12-09 10:50:22 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:50:22 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1183
+ERROR - 2022-12-09 10:50:22 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1183
+ERROR - 2022-12-09 10:50:22 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1184
+ERROR - 2022-12-09 10:50:22 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1184
+ERROR - 2022-12-09 10:50:22 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1185
+ERROR - 2022-12-09 10:50:22 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1185
+INFO - 2022-12-09 10:50:22 --> Final output sent to browser
+DEBUG - 2022-12-09 10:50:22 --> Total execution time: 0.0133
+ERROR - 2022-12-09 10:50:24 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:50:24 --> Config Class Initialized
+INFO - 2022-12-09 10:50:24 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:50:24 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:50:24 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:50:24 --> URI Class Initialized
+INFO - 2022-12-09 10:50:24 --> Router Class Initialized
+INFO - 2022-12-09 10:50:24 --> Output Class Initialized
+INFO - 2022-12-09 10:50:24 --> Security Class Initialized
+DEBUG - 2022-12-09 10:50:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:50:24 --> CSRF cookie sent
+INFO - 2022-12-09 10:50:24 --> Input Class Initialized
+INFO - 2022-12-09 10:50:24 --> Language Class Initialized
+INFO - 2022-12-09 10:50:24 --> Loader Class Initialized
+INFO - 2022-12-09 10:50:24 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:50:24 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:50:24 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:50:24 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:50:24 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:50:24 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:50:24 --> Parser Class Initialized
+INFO - 2022-12-09 10:50:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:50:24 --> Pagination Class Initialized
+INFO - 2022-12-09 10:50:24 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:50:24 --> Controller Class Initialized
+INFO - 2022-12-09 10:50:24 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:50:24 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:50:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:50:24 --> Model "Customers" initialized
+INFO - 2022-12-09 10:50:24 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1102
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1102
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1103
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1103
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1104
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1104
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1105
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1105
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1106
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1106
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1107
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1107
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1108
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1108
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 10:50:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 10:50:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 10:50:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 10:50:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 10:50:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 10:50:24 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 10:50:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 10:50:24 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 10:50:24 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:50:24 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:50:24 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:50:24 --> Model "Products" initialized
+INFO - 2022-12-09 16:20:24 --> Model "reports" initialized
+INFO - 2022-12-09 16:20:24 --> Model "Users" initialized
+INFO - 2022-12-09 16:20:24 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:20:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:20:24 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:20:24 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:20:24 --> Final output sent to browser
+DEBUG - 2022-12-09 16:20:24 --> Total execution time: 0.3859
+ERROR - 2022-12-09 10:51:39 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:51:39 --> Config Class Initialized
+INFO - 2022-12-09 10:51:39 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:51:39 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:51:39 --> URI Class Initialized
+INFO - 2022-12-09 10:51:39 --> Router Class Initialized
+INFO - 2022-12-09 10:51:39 --> Output Class Initialized
+INFO - 2022-12-09 10:51:39 --> Security Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:51:39 --> CSRF cookie sent
+INFO - 2022-12-09 10:51:39 --> Input Class Initialized
+INFO - 2022-12-09 10:51:39 --> Language Class Initialized
+ERROR - 2022-12-09 10:51:39 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 10:51:39 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:51:39 --> Config Class Initialized
+INFO - 2022-12-09 10:51:39 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:51:39 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:51:39 --> URI Class Initialized
+INFO - 2022-12-09 10:51:39 --> Router Class Initialized
+INFO - 2022-12-09 10:51:39 --> Output Class Initialized
+INFO - 2022-12-09 10:51:39 --> Security Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:51:39 --> CSRF cookie sent
+INFO - 2022-12-09 10:51:39 --> Input Class Initialized
+INFO - 2022-12-09 10:51:39 --> Language Class Initialized
+ERROR - 2022-12-09 10:51:39 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 10:51:39 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 10:51:39 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:51:39 --> Config Class Initialized
+INFO - 2022-12-09 10:51:39 --> Hooks Class Initialized
+INFO - 2022-12-09 10:51:39 --> Config Class Initialized
+INFO - 2022-12-09 10:51:39 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:51:39 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:51:39 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:51:39 --> URI Class Initialized
+INFO - 2022-12-09 10:51:39 --> URI Class Initialized
+INFO - 2022-12-09 10:51:39 --> Router Class Initialized
+INFO - 2022-12-09 10:51:39 --> Output Class Initialized
+INFO - 2022-12-09 10:51:39 --> Router Class Initialized
+INFO - 2022-12-09 10:51:39 --> Security Class Initialized
+INFO - 2022-12-09 10:51:39 --> Output Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:51:39 --> Security Class Initialized
+INFO - 2022-12-09 10:51:39 --> CSRF cookie sent
+INFO - 2022-12-09 10:51:39 --> Input Class Initialized
+DEBUG - 2022-12-09 10:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:51:39 --> Language Class Initialized
+INFO - 2022-12-09 10:51:39 --> CSRF cookie sent
+INFO - 2022-12-09 10:51:39 --> Input Class Initialized
+ERROR - 2022-12-09 10:51:39 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-12-09 10:51:39 --> Language Class Initialized
+ERROR - 2022-12-09 10:51:39 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 10:53:48 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:53:48 --> Config Class Initialized
+INFO - 2022-12-09 10:53:48 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:53:48 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:53:48 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:53:48 --> URI Class Initialized
+INFO - 2022-12-09 10:53:48 --> Router Class Initialized
+INFO - 2022-12-09 10:53:48 --> Output Class Initialized
+INFO - 2022-12-09 10:53:48 --> Security Class Initialized
+DEBUG - 2022-12-09 10:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:53:48 --> CSRF cookie sent
+INFO - 2022-12-09 10:53:48 --> Input Class Initialized
+INFO - 2022-12-09 10:53:48 --> Language Class Initialized
+INFO - 2022-12-09 10:53:48 --> Loader Class Initialized
+INFO - 2022-12-09 10:53:48 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:53:48 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:53:48 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:53:48 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:53:48 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:53:48 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:53:48 --> Parser Class Initialized
+INFO - 2022-12-09 10:53:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:53:48 --> Pagination Class Initialized
+INFO - 2022-12-09 10:53:48 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:53:48 --> Controller Class Initialized
+INFO - 2022-12-09 10:53:48 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:53:48 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:53:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:53:48 --> Model "Customers" initialized
+INFO - 2022-12-09 10:53:48 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:53:48 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 10:53:48 --> Severity: error --> Exception: Call to undefined method Web_settings::retrieve_email_setting() D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 15
+ERROR - 2022-12-09 10:54:52 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:54:52 --> Config Class Initialized
+INFO - 2022-12-09 10:54:52 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:54:52 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:54:52 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:54:52 --> URI Class Initialized
+INFO - 2022-12-09 10:54:52 --> Router Class Initialized
+INFO - 2022-12-09 10:54:52 --> Output Class Initialized
+INFO - 2022-12-09 10:54:52 --> Security Class Initialized
+DEBUG - 2022-12-09 10:54:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:54:52 --> CSRF cookie sent
+INFO - 2022-12-09 10:54:52 --> Input Class Initialized
+INFO - 2022-12-09 10:54:52 --> Language Class Initialized
+INFO - 2022-12-09 10:54:52 --> Loader Class Initialized
+INFO - 2022-12-09 10:54:52 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:54:52 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:54:52 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:54:52 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:54:52 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:54:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:54:52 --> Parser Class Initialized
+INFO - 2022-12-09 10:54:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:54:52 --> Pagination Class Initialized
+INFO - 2022-12-09 10:54:52 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:54:52 --> Controller Class Initialized
+ERROR - 2022-12-09 10:54:52 --> Severity: Compile Error --> Cannot redeclare Web_settings::retrieve_setting_editdata() D:\wamp\www\R8-Uat-testing\application\models\Web_settings.php 41
+ERROR - 2022-12-09 10:55:22 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:55:22 --> Config Class Initialized
+INFO - 2022-12-09 10:55:22 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:55:22 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:55:22 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:55:22 --> URI Class Initialized
+INFO - 2022-12-09 10:55:22 --> Router Class Initialized
+INFO - 2022-12-09 10:55:22 --> Output Class Initialized
+INFO - 2022-12-09 10:55:22 --> Security Class Initialized
+DEBUG - 2022-12-09 10:55:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:55:22 --> CSRF cookie sent
+INFO - 2022-12-09 10:55:22 --> Input Class Initialized
+INFO - 2022-12-09 10:55:22 --> Language Class Initialized
+INFO - 2022-12-09 10:55:22 --> Loader Class Initialized
+INFO - 2022-12-09 10:55:22 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:55:22 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:55:22 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:55:22 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:55:22 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:55:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:55:22 --> Parser Class Initialized
+INFO - 2022-12-09 10:55:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:55:22 --> Pagination Class Initialized
+INFO - 2022-12-09 10:55:22 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:55:22 --> Controller Class Initialized
+INFO - 2022-12-09 10:55:22 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:55:22 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:55:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:55:22 --> Model "Customers" initialized
+INFO - 2022-12-09 10:55:22 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:55:22 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 10:55:22 --> Severity: error --> Exception: Call to undefined method Web_settings::retrieve_email_setting() D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 15
+ERROR - 2022-12-09 10:55:23 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:55:23 --> Config Class Initialized
+INFO - 2022-12-09 10:55:23 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:55:23 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:55:23 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:55:23 --> URI Class Initialized
+INFO - 2022-12-09 10:55:23 --> Router Class Initialized
+INFO - 2022-12-09 10:55:23 --> Output Class Initialized
+INFO - 2022-12-09 10:55:23 --> Security Class Initialized
+DEBUG - 2022-12-09 10:55:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:55:23 --> CSRF cookie sent
+INFO - 2022-12-09 10:55:23 --> Input Class Initialized
+INFO - 2022-12-09 10:55:23 --> Language Class Initialized
+INFO - 2022-12-09 10:55:23 --> Loader Class Initialized
+INFO - 2022-12-09 10:55:23 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:55:23 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:55:23 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:55:23 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:55:23 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:55:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:55:23 --> Parser Class Initialized
+INFO - 2022-12-09 10:55:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:55:23 --> Pagination Class Initialized
+INFO - 2022-12-09 10:55:23 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:55:23 --> Controller Class Initialized
+INFO - 2022-12-09 10:55:23 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:55:23 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:55:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:55:23 --> Model "Customers" initialized
+INFO - 2022-12-09 10:55:23 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:55:23 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 10:55:23 --> Severity: error --> Exception: Call to undefined method Web_settings::retrieve_email_setting() D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 15
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+INFO - 2022-12-09 10:56:14 --> Loader Class Initialized
+INFO - 2022-12-09 10:56:14 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:56:14 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:56:14 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:56:14 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:56:14 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:56:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:56:14 --> Parser Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:56:14 --> Pagination Class Initialized
+INFO - 2022-12-09 10:56:14 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:56:14 --> Controller Class Initialized
+INFO - 2022-12-09 10:56:14 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:56:14 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:56:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:14 --> Model "Customers" initialized
+INFO - 2022-12-09 10:56:14 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:56:14 --> Model "Permission_model" initialized
+INFO - 2022-12-09 10:56:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 10:56:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 10:56:14 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:56:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:56:14 --> Model "Products" initialized
+INFO - 2022-12-09 16:26:14 --> Model "reports" initialized
+INFO - 2022-12-09 16:26:14 --> Model "Users" initialized
+INFO - 2022-12-09 16:26:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:26:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:26:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:26:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:26:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:26:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:26:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:26:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:26:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:26:14 --> Final output sent to browser
+DEBUG - 2022-12-09 16:26:14 --> Total execution time: 0.3014
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+ERROR - 2022-12-09 10:56:14 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+ERROR - 2022-12-09 10:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-12-09 10:56:14 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+ERROR - 2022-12-09 10:56:14 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+ERROR - 2022-12-09 10:56:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 10:56:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:14 --> Config Class Initialized
+INFO - 2022-12-09 10:56:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:14 --> URI Class Initialized
+INFO - 2022-12-09 10:56:14 --> Router Class Initialized
+INFO - 2022-12-09 10:56:14 --> Output Class Initialized
+INFO - 2022-12-09 10:56:14 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:14 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:14 --> CSRF token verified
+INFO - 2022-12-09 10:56:14 --> Input Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language Class Initialized
+INFO - 2022-12-09 10:56:14 --> Loader Class Initialized
+INFO - 2022-12-09 10:56:14 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:56:14 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:56:14 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:56:14 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:56:14 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:56:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:56:14 --> Parser Class Initialized
+INFO - 2022-12-09 10:56:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:56:14 --> Pagination Class Initialized
+INFO - 2022-12-09 10:56:14 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:56:14 --> Controller Class Initialized
+INFO - 2022-12-09 10:56:14 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:56:14 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:56:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:14 --> Model "Customers" initialized
+INFO - 2022-12-09 10:56:14 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:56:14 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:56:14 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:56:14 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:56:14 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:56:14 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:56:14 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:56:14 --> Final output sent to browser
+DEBUG - 2022-12-09 10:56:14 --> Total execution time: 0.0155
+ERROR - 2022-12-09 10:56:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:54 --> Config Class Initialized
+INFO - 2022-12-09 10:56:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:54 --> URI Class Initialized
+INFO - 2022-12-09 10:56:54 --> Router Class Initialized
+INFO - 2022-12-09 10:56:54 --> Output Class Initialized
+INFO - 2022-12-09 10:56:54 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:54 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:54 --> Input Class Initialized
+INFO - 2022-12-09 10:56:54 --> Language Class Initialized
+INFO - 2022-12-09 10:56:54 --> Loader Class Initialized
+INFO - 2022-12-09 10:56:54 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:56:54 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:56:54 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:56:54 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:56:54 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:56:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:56:54 --> Parser Class Initialized
+INFO - 2022-12-09 10:56:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:56:54 --> Pagination Class Initialized
+INFO - 2022-12-09 10:56:54 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:56:54 --> Controller Class Initialized
+INFO - 2022-12-09 10:56:54 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:56:54 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:56:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:54 --> Model "Customers" initialized
+INFO - 2022-12-09 10:56:54 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:56:54 --> Model "Permission_model" initialized
+INFO - 2022-12-09 10:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 10:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 10:56:54 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:56:54 --> Model "Products" initialized
+INFO - 2022-12-09 16:26:54 --> Model "reports" initialized
+INFO - 2022-12-09 16:26:54 --> Model "Users" initialized
+INFO - 2022-12-09 16:26:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:26:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:26:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:26:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:26:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:26:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:26:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:26:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:26:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:26:54 --> Final output sent to browser
+DEBUG - 2022-12-09 16:26:54 --> Total execution time: 0.2892
+ERROR - 2022-12-09 10:56:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:55 --> Config Class Initialized
+INFO - 2022-12-09 10:56:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:55 --> URI Class Initialized
+INFO - 2022-12-09 10:56:55 --> Router Class Initialized
+INFO - 2022-12-09 10:56:55 --> Output Class Initialized
+INFO - 2022-12-09 10:56:55 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:55 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:55 --> CSRF token verified
+INFO - 2022-12-09 10:56:55 --> Input Class Initialized
+INFO - 2022-12-09 10:56:55 --> Language Class Initialized
+INFO - 2022-12-09 10:56:55 --> Loader Class Initialized
+INFO - 2022-12-09 10:56:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:56:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:56:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:56:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:56:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:56:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:56:55 --> Parser Class Initialized
+INFO - 2022-12-09 10:56:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:56:55 --> Pagination Class Initialized
+INFO - 2022-12-09 10:56:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:56:55 --> Controller Class Initialized
+INFO - 2022-12-09 10:56:55 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:56:55 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:56:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:55 --> Model "Customers" initialized
+INFO - 2022-12-09 10:56:55 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:56:55 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:56:55 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:56:55 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:56:55 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:56:55 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:56:55 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:56:55 --> Final output sent to browser
+DEBUG - 2022-12-09 10:56:55 --> Total execution time: 0.0203
+ERROR - 2022-12-09 10:56:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:55 --> Config Class Initialized
+INFO - 2022-12-09 10:56:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:55 --> URI Class Initialized
+INFO - 2022-12-09 10:56:55 --> Router Class Initialized
+INFO - 2022-12-09 10:56:55 --> Output Class Initialized
+INFO - 2022-12-09 10:56:55 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:55 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:55 --> Input Class Initialized
+INFO - 2022-12-09 10:56:55 --> Language Class Initialized
+INFO - 2022-12-09 10:56:55 --> Loader Class Initialized
+INFO - 2022-12-09 10:56:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:56:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:56:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:56:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:56:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:56:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:56:55 --> Parser Class Initialized
+INFO - 2022-12-09 10:56:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:56:55 --> Pagination Class Initialized
+INFO - 2022-12-09 10:56:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:56:55 --> Controller Class Initialized
+INFO - 2022-12-09 10:56:55 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:56:55 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:56:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:55 --> Model "Customers" initialized
+INFO - 2022-12-09 10:56:55 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:56:55 --> Model "Permission_model" initialized
+INFO - 2022-12-09 10:56:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 10:56:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 10:56:55 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:56:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:56:55 --> Model "Products" initialized
+INFO - 2022-12-09 16:26:55 --> Model "reports" initialized
+INFO - 2022-12-09 16:26:55 --> Model "Users" initialized
+INFO - 2022-12-09 16:26:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:26:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:26:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:26:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:26:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:26:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:26:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:26:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:26:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:26:55 --> Final output sent to browser
+DEBUG - 2022-12-09 16:26:55 --> Total execution time: 0.2897
+ERROR - 2022-12-09 10:56:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:56 --> Config Class Initialized
+INFO - 2022-12-09 10:56:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:56 --> URI Class Initialized
+INFO - 2022-12-09 10:56:56 --> Router Class Initialized
+INFO - 2022-12-09 10:56:56 --> Output Class Initialized
+INFO - 2022-12-09 10:56:56 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:56 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:56 --> CSRF token verified
+INFO - 2022-12-09 10:56:56 --> Input Class Initialized
+INFO - 2022-12-09 10:56:56 --> Language Class Initialized
+INFO - 2022-12-09 10:56:56 --> Loader Class Initialized
+INFO - 2022-12-09 10:56:56 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:56:56 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:56:56 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:56:56 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:56:56 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:56:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:56:56 --> Parser Class Initialized
+INFO - 2022-12-09 10:56:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:56:56 --> Pagination Class Initialized
+INFO - 2022-12-09 10:56:56 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:56:56 --> Controller Class Initialized
+INFO - 2022-12-09 10:56:56 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:56:56 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:56:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:56:56 --> Model "Customers" initialized
+INFO - 2022-12-09 10:56:56 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:56:56 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:56:56 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:56:56 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:56:56 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:56:56 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:56:56 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:56:56 --> Final output sent to browser
+DEBUG - 2022-12-09 10:56:56 --> Total execution time: 0.0110
+ERROR - 2022-12-09 10:56:57 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:56:57 --> Config Class Initialized
+INFO - 2022-12-09 10:56:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:56:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:56:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:56:57 --> URI Class Initialized
+INFO - 2022-12-09 10:56:57 --> Router Class Initialized
+INFO - 2022-12-09 10:56:57 --> Output Class Initialized
+INFO - 2022-12-09 10:56:57 --> Security Class Initialized
+DEBUG - 2022-12-09 10:56:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:56:57 --> CSRF cookie sent
+INFO - 2022-12-09 10:56:57 --> Input Class Initialized
+INFO - 2022-12-09 10:56:57 --> Language Class Initialized
+ERROR - 2022-12-09 10:56:57 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 10:57:44 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:44 --> Config Class Initialized
+INFO - 2022-12-09 10:57:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:44 --> URI Class Initialized
+INFO - 2022-12-09 10:57:44 --> Router Class Initialized
+INFO - 2022-12-09 10:57:44 --> Output Class Initialized
+INFO - 2022-12-09 10:57:44 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:44 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:44 --> Input Class Initialized
+INFO - 2022-12-09 10:57:44 --> Language Class Initialized
+INFO - 2022-12-09 10:57:44 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:44 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:44 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:44 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:44 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:44 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:44 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:44 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:44 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:44 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:44 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 10:57:44 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:57:44 --> Model "Purchases" initialized
+ERROR - 2022-12-09 10:57:44 --> Severity: Notice --> Undefined variable: expense D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:44 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:44 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:44 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 10:57:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/purchase.php
+ERROR - 2022-12-09 10:57:44 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 10:57:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/purchase.php
+DEBUG - 2022-12-09 10:57:44 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:57:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:57:44 --> Model "Products" initialized
+INFO - 2022-12-09 16:27:44 --> Model "reports" initialized
+INFO - 2022-12-09 16:27:44 --> Model "Users" initialized
+INFO - 2022-12-09 16:27:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:45 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:27:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:27:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:27:45 --> Final output sent to browser
+DEBUG - 2022-12-09 16:27:45 --> Total execution time: 0.2727
+ERROR - 2022-12-09 10:57:45 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:45 --> Config Class Initialized
+INFO - 2022-12-09 10:57:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:45 --> URI Class Initialized
+INFO - 2022-12-09 10:57:45 --> Router Class Initialized
+INFO - 2022-12-09 10:57:45 --> Output Class Initialized
+INFO - 2022-12-09 10:57:45 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:45 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:45 --> CSRF token verified
+INFO - 2022-12-09 10:57:45 --> Input Class Initialized
+INFO - 2022-12-09 10:57:45 --> Language Class Initialized
+INFO - 2022-12-09 10:57:45 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:45 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:45 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:45 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:45 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:45 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:45 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:45 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:45 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:45 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:45 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:45 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:57:45 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:57:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:45 --> Model "Customers" initialized
+INFO - 2022-12-09 10:57:45 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:57:45 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:57:45 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:57:45 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:57:45 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:57:45 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:57:45 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:57:45 --> Final output sent to browser
+DEBUG - 2022-12-09 10:57:45 --> Total execution time: 0.0202
+ERROR - 2022-12-09 10:57:46 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:46 --> Config Class Initialized
+INFO - 2022-12-09 10:57:46 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:46 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:46 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:46 --> URI Class Initialized
+INFO - 2022-12-09 10:57:46 --> Router Class Initialized
+INFO - 2022-12-09 10:57:46 --> Output Class Initialized
+INFO - 2022-12-09 10:57:46 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:46 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:46 --> Input Class Initialized
+INFO - 2022-12-09 10:57:46 --> Language Class Initialized
+INFO - 2022-12-09 10:57:46 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:46 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:46 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:46 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:46 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:46 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:46 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:46 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:46 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:46 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:46 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 10:57:46 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:57:46 --> Model "Purchases" initialized
+INFO - 2022-12-09 10:57:46 --> Model "Suppliers" initialized
+INFO - 2022-12-09 10:57:46 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/edit_purchase_form.php
+DEBUG - 2022-12-09 10:57:46 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:46 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:57:46 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:57:46 --> Model "Products" initialized
+INFO - 2022-12-09 16:27:46 --> Model "reports" initialized
+INFO - 2022-12-09 16:27:46 --> Model "Users" initialized
+INFO - 2022-12-09 16:27:47 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:47 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:27:47 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:27:47 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:27:47 --> Final output sent to browser
+DEBUG - 2022-12-09 16:27:47 --> Total execution time: 0.2836
+ERROR - 2022-12-09 10:57:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:51 --> Config Class Initialized
+INFO - 2022-12-09 10:57:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:51 --> URI Class Initialized
+INFO - 2022-12-09 10:57:51 --> Router Class Initialized
+INFO - 2022-12-09 10:57:51 --> Output Class Initialized
+INFO - 2022-12-09 10:57:51 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:51 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:51 --> Input Class Initialized
+INFO - 2022-12-09 10:57:51 --> Language Class Initialized
+INFO - 2022-12-09 10:57:51 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:51 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:51 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:51 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:51 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:51 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:51 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:51 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:51 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:51 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:51 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 10:57:51 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:57:51 --> Model "Purchases" initialized
+ERROR - 2022-12-09 10:57:51 --> Severity: Notice --> Undefined variable: expense D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:51 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:51 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 10:57:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/purchase.php
+ERROR - 2022-12-09 10:57:51 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 10:57:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/purchase.php
+DEBUG - 2022-12-09 10:57:51 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:57:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:57:51 --> Model "Products" initialized
+INFO - 2022-12-09 16:27:51 --> Model "reports" initialized
+INFO - 2022-12-09 16:27:51 --> Model "Users" initialized
+INFO - 2022-12-09 16:27:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:27:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:27:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:27:51 --> Final output sent to browser
+DEBUG - 2022-12-09 16:27:51 --> Total execution time: 0.3266
+ERROR - 2022-12-09 10:57:52 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:52 --> Config Class Initialized
+INFO - 2022-12-09 10:57:52 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:52 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:52 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:52 --> URI Class Initialized
+INFO - 2022-12-09 10:57:52 --> Router Class Initialized
+INFO - 2022-12-09 10:57:52 --> Output Class Initialized
+INFO - 2022-12-09 10:57:52 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:52 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:52 --> CSRF token verified
+INFO - 2022-12-09 10:57:52 --> Input Class Initialized
+INFO - 2022-12-09 10:57:52 --> Language Class Initialized
+INFO - 2022-12-09 10:57:52 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:52 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:52 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:52 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:52 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:52 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:52 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:52 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:52 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:52 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:52 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:57:52 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:57:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:52 --> Model "Customers" initialized
+INFO - 2022-12-09 10:57:52 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:57:52 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:57:52 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:57:52 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:57:52 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:57:52 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:57:52 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:57:52 --> Final output sent to browser
+DEBUG - 2022-12-09 10:57:52 --> Total execution time: 0.0357
+ERROR - 2022-12-09 10:57:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:53 --> Config Class Initialized
+INFO - 2022-12-09 10:57:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:53 --> URI Class Initialized
+INFO - 2022-12-09 10:57:53 --> Router Class Initialized
+INFO - 2022-12-09 10:57:53 --> Output Class Initialized
+INFO - 2022-12-09 10:57:53 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:53 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:53 --> Input Class Initialized
+INFO - 2022-12-09 10:57:53 --> Language Class Initialized
+INFO - 2022-12-09 10:57:53 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:53 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:53 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:53 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:53 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:53 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:53 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:53 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:53 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:53 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:53 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 10:57:53 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:57:53 --> Model "Purchases" initialized
+INFO - 2022-12-09 10:57:53 --> Model "Suppliers" initialized
+INFO - 2022-12-09 10:57:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/edit_purchase_form.php
+DEBUG - 2022-12-09 10:57:53 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:57:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:57:53 --> Model "Products" initialized
+INFO - 2022-12-09 16:27:53 --> Model "reports" initialized
+INFO - 2022-12-09 16:27:53 --> Model "Users" initialized
+INFO - 2022-12-09 16:27:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:27:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:27:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:27:53 --> Final output sent to browser
+DEBUG - 2022-12-09 16:27:53 --> Total execution time: 0.3020
+ERROR - 2022-12-09 10:57:57 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:57 --> Config Class Initialized
+INFO - 2022-12-09 10:57:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:57 --> URI Class Initialized
+INFO - 2022-12-09 10:57:57 --> Router Class Initialized
+INFO - 2022-12-09 10:57:57 --> Output Class Initialized
+INFO - 2022-12-09 10:57:57 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:57 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:57 --> Input Class Initialized
+INFO - 2022-12-09 10:57:57 --> Language Class Initialized
+INFO - 2022-12-09 10:57:57 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:57 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:57 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:57 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:57 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:57 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:57 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:57 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:57 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:57 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:57 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 10:57:57 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:57:57 --> Model "Purchases" initialized
+ERROR - 2022-12-09 10:57:57 --> Severity: Notice --> Undefined variable: expense D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:57 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:57 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 10:57:57 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 10:57:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/purchase.php
+ERROR - 2022-12-09 10:57:57 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 10:57:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/purchase.php
+DEBUG - 2022-12-09 10:57:57 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:57:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:57:57 --> Model "Products" initialized
+INFO - 2022-12-09 16:27:57 --> Model "reports" initialized
+INFO - 2022-12-09 16:27:57 --> Model "Users" initialized
+INFO - 2022-12-09 16:27:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:27:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:27:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:27:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:27:58 --> Final output sent to browser
+DEBUG - 2022-12-09 16:27:58 --> Total execution time: 0.2888
+ERROR - 2022-12-09 10:57:58 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:58 --> Config Class Initialized
+INFO - 2022-12-09 10:57:58 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:58 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:58 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:58 --> URI Class Initialized
+INFO - 2022-12-09 10:57:58 --> Router Class Initialized
+INFO - 2022-12-09 10:57:58 --> Output Class Initialized
+INFO - 2022-12-09 10:57:58 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:58 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:58 --> CSRF token verified
+INFO - 2022-12-09 10:57:58 --> Input Class Initialized
+INFO - 2022-12-09 10:57:58 --> Language Class Initialized
+INFO - 2022-12-09 10:57:58 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:58 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:58 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:58 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:58 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:58 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:58 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:58 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:58 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:58 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:58 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:57:58 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:57:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:58 --> Model "Customers" initialized
+INFO - 2022-12-09 10:57:58 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:57:58 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:57:58 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:57:58 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:57:58 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:57:58 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:57:58 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:57:58 --> Final output sent to browser
+DEBUG - 2022-12-09 10:57:58 --> Total execution time: 0.0367
+ERROR - 2022-12-09 10:57:59 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:57:59 --> Config Class Initialized
+INFO - 2022-12-09 10:57:59 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:57:59 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:57:59 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:57:59 --> URI Class Initialized
+INFO - 2022-12-09 10:57:59 --> Router Class Initialized
+INFO - 2022-12-09 10:57:59 --> Output Class Initialized
+INFO - 2022-12-09 10:57:59 --> Security Class Initialized
+DEBUG - 2022-12-09 10:57:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:57:59 --> CSRF cookie sent
+INFO - 2022-12-09 10:57:59 --> Input Class Initialized
+INFO - 2022-12-09 10:57:59 --> Language Class Initialized
+INFO - 2022-12-09 10:57:59 --> Loader Class Initialized
+INFO - 2022-12-09 10:57:59 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:57:59 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:57:59 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:57:59 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:57:59 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:57:59 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:57:59 --> Parser Class Initialized
+INFO - 2022-12-09 10:57:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:57:59 --> Pagination Class Initialized
+INFO - 2022-12-09 10:57:59 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:57:59 --> Controller Class Initialized
+INFO - 2022-12-09 10:57:59 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 10:57:59 --> Model "Web_settings" initialized
+INFO - 2022-12-09 10:57:59 --> Model "Purchases" initialized
+INFO - 2022-12-09 10:57:59 --> Model "Suppliers" initialized
+INFO - 2022-12-09 10:57:59 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/edit_purchase_form.php
+DEBUG - 2022-12-09 10:57:59 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:57:59 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:57:59 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:57:59 --> Model "Products" initialized
+INFO - 2022-12-09 16:27:59 --> Model "reports" initialized
+INFO - 2022-12-09 16:27:59 --> Model "Users" initialized
+INFO - 2022-12-09 16:28:00 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:28:00 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:28:00 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:28:00 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:28:00 --> Final output sent to browser
+DEBUG - 2022-12-09 16:28:00 --> Total execution time: 0.2953
+ERROR - 2022-12-09 10:58:13 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:58:13 --> Config Class Initialized
+INFO - 2022-12-09 10:58:13 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:58:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:58:13 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:58:13 --> URI Class Initialized
+INFO - 2022-12-09 10:58:13 --> Router Class Initialized
+INFO - 2022-12-09 10:58:13 --> Output Class Initialized
+INFO - 2022-12-09 10:58:13 --> Security Class Initialized
+DEBUG - 2022-12-09 10:58:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:58:13 --> CSRF cookie sent
+INFO - 2022-12-09 10:58:13 --> Input Class Initialized
+INFO - 2022-12-09 10:58:13 --> Language Class Initialized
+INFO - 2022-12-09 10:58:13 --> Loader Class Initialized
+INFO - 2022-12-09 10:58:13 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:58:13 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:58:13 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:58:13 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:58:13 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:58:13 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:58:13 --> Parser Class Initialized
+INFO - 2022-12-09 10:58:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:58:13 --> Pagination Class Initialized
+INFO - 2022-12-09 10:58:13 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:58:13 --> Controller Class Initialized
+INFO - 2022-12-09 10:58:13 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:58:13 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:58:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:58:13 --> Model "Customers" initialized
+INFO - 2022-12-09 10:58:13 --> Model "Invoices" initialized
+INFO - 2022-12-09 10:58:13 --> Model "Permission_model" initialized
+INFO - 2022-12-09 10:58:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 10:58:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 10:58:13 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:58:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 10:58:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 10:58:13 --> Model "Products" initialized
+INFO - 2022-12-09 16:28:13 --> Model "reports" initialized
+INFO - 2022-12-09 16:28:13 --> Model "Users" initialized
+INFO - 2022-12-09 16:28:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:28:13 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:28:13 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:28:13 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:28:13 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:28:13 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:28:13 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:28:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:28:13 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:28:13 --> Final output sent to browser
+DEBUG - 2022-12-09 16:28:13 --> Total execution time: 0.3319
+ERROR - 2022-12-09 10:58:13 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:58:13 --> Config Class Initialized
+INFO - 2022-12-09 10:58:13 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:58:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:58:13 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:58:13 --> URI Class Initialized
+INFO - 2022-12-09 10:58:13 --> Router Class Initialized
+INFO - 2022-12-09 10:58:13 --> Output Class Initialized
+INFO - 2022-12-09 10:58:13 --> Security Class Initialized
+DEBUG - 2022-12-09 10:58:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:58:13 --> CSRF cookie sent
+INFO - 2022-12-09 10:58:13 --> CSRF token verified
+INFO - 2022-12-09 10:58:13 --> Input Class Initialized
+INFO - 2022-12-09 10:58:13 --> Language Class Initialized
+INFO - 2022-12-09 10:58:13 --> Loader Class Initialized
+INFO - 2022-12-09 10:58:13 --> Helper loaded: url_helper
+INFO - 2022-12-09 10:58:13 --> Helper loaded: file_helper
+INFO - 2022-12-09 10:58:13 --> Helper loaded: form_helper
+INFO - 2022-12-09 10:58:13 --> Helper loaded: lang_helper
+INFO - 2022-12-09 10:58:13 --> Database Driver Class Initialized
+INFO - 2022-12-09 10:58:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 10:58:14 --> Parser Class Initialized
+INFO - 2022-12-09 10:58:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 10:58:14 --> Pagination Class Initialized
+INFO - 2022-12-09 10:58:14 --> Form Validation Class Initialized
+INFO - 2022-12-09 10:58:14 --> Controller Class Initialized
+INFO - 2022-12-09 10:58:14 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 10:58:14 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 10:58:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 10:58:14 --> Model "Customers" initialized
+INFO - 2022-12-09 10:58:14 --> Model "Invoices" initialized
+ERROR - 2022-12-09 10:58:14 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:58:14 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 10:58:14 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:58:14 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 10:58:14 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 10:58:14 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 10:58:14 --> Final output sent to browser
+DEBUG - 2022-12-09 10:58:14 --> Total execution time: 0.0188
+ERROR - 2022-12-09 10:58:17 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 10:58:17 --> Config Class Initialized
+INFO - 2022-12-09 10:58:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 10:58:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 10:58:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 10:58:17 --> URI Class Initialized
+INFO - 2022-12-09 10:58:17 --> Router Class Initialized
+INFO - 2022-12-09 10:58:17 --> Output Class Initialized
+INFO - 2022-12-09 10:58:17 --> Security Class Initialized
+DEBUG - 2022-12-09 10:58:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 10:58:17 --> CSRF cookie sent
+INFO - 2022-12-09 10:58:17 --> Input Class Initialized
+INFO - 2022-12-09 10:58:17 --> Language Class Initialized
+ERROR - 2022-12-09 10:58:17 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 11:00:57 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:00:57 --> Config Class Initialized
+INFO - 2022-12-09 11:00:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:00:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:00:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:00:57 --> URI Class Initialized
+INFO - 2022-12-09 11:00:57 --> Router Class Initialized
+INFO - 2022-12-09 11:00:57 --> Output Class Initialized
+INFO - 2022-12-09 11:00:57 --> Security Class Initialized
+DEBUG - 2022-12-09 11:00:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:00:57 --> CSRF cookie sent
+INFO - 2022-12-09 11:00:57 --> Input Class Initialized
+INFO - 2022-12-09 11:00:57 --> Language Class Initialized
+INFO - 2022-12-09 11:00:57 --> Loader Class Initialized
+INFO - 2022-12-09 11:00:57 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:00:57 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:00:57 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:00:57 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:00:57 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:00:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:00:57 --> Parser Class Initialized
+INFO - 2022-12-09 11:00:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:00:57 --> Pagination Class Initialized
+INFO - 2022-12-09 11:00:57 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:00:57 --> Controller Class Initialized
+INFO - 2022-12-09 11:00:57 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 11:00:57 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:00:57 --> Model "Purchases" initialized
+INFO - 2022-12-09 11:00:57 --> Model "Suppliers" initialized
+INFO - 2022-12-09 11:00:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\purchase/edit_purchase_form.php
+DEBUG - 2022-12-09 11:00:57 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:00:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:00:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:00:57 --> Model "Products" initialized
+INFO - 2022-12-09 16:30:57 --> Model "reports" initialized
+INFO - 2022-12-09 16:30:57 --> Model "Users" initialized
+INFO - 2022-12-09 16:30:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:30:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:30:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:30:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:30:58 --> Final output sent to browser
+DEBUG - 2022-12-09 16:30:58 --> Total execution time: 0.3039
+ERROR - 2022-12-09 11:01:02 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:02 --> Config Class Initialized
+INFO - 2022-12-09 11:01:02 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:02 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:02 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:02 --> URI Class Initialized
+INFO - 2022-12-09 11:01:02 --> Router Class Initialized
+INFO - 2022-12-09 11:01:02 --> Output Class Initialized
+INFO - 2022-12-09 11:01:02 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:02 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:02 --> Input Class Initialized
+INFO - 2022-12-09 11:01:02 --> Language Class Initialized
+INFO - 2022-12-09 11:01:02 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:02 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:02 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:02 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:02 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:02 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:02 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:02 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:02 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:02 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:02 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:02 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:02 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:02 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:02 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:02 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:01:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:01:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:01:02 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:01:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:01:02 --> Model "Products" initialized
+INFO - 2022-12-09 16:31:02 --> Model "reports" initialized
+INFO - 2022-12-09 16:31:02 --> Model "Users" initialized
+INFO - 2022-12-09 16:31:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:31:02 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:31:02 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:31:02 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:31:02 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:31:02 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:31:02 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:31:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:31:02 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:31:02 --> Final output sent to browser
+DEBUG - 2022-12-09 16:31:02 --> Total execution time: 0.3279
+ERROR - 2022-12-09 11:01:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:03 --> Config Class Initialized
+INFO - 2022-12-09 11:01:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:03 --> URI Class Initialized
+INFO - 2022-12-09 11:01:03 --> Router Class Initialized
+INFO - 2022-12-09 11:01:03 --> Output Class Initialized
+INFO - 2022-12-09 11:01:03 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:03 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:03 --> CSRF token verified
+INFO - 2022-12-09 11:01:03 --> Input Class Initialized
+INFO - 2022-12-09 11:01:03 --> Language Class Initialized
+INFO - 2022-12-09 11:01:03 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:03 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:03 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:03 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:03 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:03 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:03 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:03 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:03 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:03 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:03 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:03 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:03 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:03 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:01:03 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:01:03 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:01:03 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:01:03 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:01:03 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 11:01:03 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 11:01:03 --> Final output sent to browser
+DEBUG - 2022-12-09 11:01:03 --> Total execution time: 0.0271
+ERROR - 2022-12-09 11:01:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:05 --> Config Class Initialized
+INFO - 2022-12-09 11:01:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:05 --> URI Class Initialized
+INFO - 2022-12-09 11:01:05 --> Router Class Initialized
+INFO - 2022-12-09 11:01:05 --> Output Class Initialized
+INFO - 2022-12-09 11:01:05 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:05 --> Input Class Initialized
+INFO - 2022-12-09 11:01:05 --> Language Class Initialized
+ERROR - 2022-12-09 11:01:05 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 11:01:25 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:25 --> Config Class Initialized
+INFO - 2022-12-09 11:01:25 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:25 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:25 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:25 --> URI Class Initialized
+INFO - 2022-12-09 11:01:25 --> Router Class Initialized
+INFO - 2022-12-09 11:01:25 --> Output Class Initialized
+INFO - 2022-12-09 11:01:25 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:25 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:25 --> Input Class Initialized
+INFO - 2022-12-09 11:01:25 --> Language Class Initialized
+INFO - 2022-12-09 11:01:25 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:25 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:25 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:25 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:25 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:25 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:25 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:25 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:25 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:25 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:25 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:25 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:25 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:25 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:25 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:01:41 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:41 --> Config Class Initialized
+INFO - 2022-12-09 11:01:41 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:41 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:41 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:41 --> URI Class Initialized
+INFO - 2022-12-09 11:01:41 --> Router Class Initialized
+INFO - 2022-12-09 11:01:41 --> Output Class Initialized
+INFO - 2022-12-09 11:01:41 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:41 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:41 --> Input Class Initialized
+INFO - 2022-12-09 11:01:41 --> Language Class Initialized
+INFO - 2022-12-09 11:01:41 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:41 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:41 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:41 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:41 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:41 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:41 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:41 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:41 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:41 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:41 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:41 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:41 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:41 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:41 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:01:42 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:42 --> Config Class Initialized
+INFO - 2022-12-09 11:01:42 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:42 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:42 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:42 --> URI Class Initialized
+INFO - 2022-12-09 11:01:42 --> Router Class Initialized
+INFO - 2022-12-09 11:01:42 --> Output Class Initialized
+INFO - 2022-12-09 11:01:42 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:42 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:42 --> Input Class Initialized
+INFO - 2022-12-09 11:01:42 --> Language Class Initialized
+INFO - 2022-12-09 11:01:42 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:42 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:42 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:42 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:42 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:42 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:42 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:42 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:42 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:42 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:42 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:42 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:42 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:42 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:42 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:01:42 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:42 --> Config Class Initialized
+INFO - 2022-12-09 11:01:42 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:42 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:42 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:42 --> URI Class Initialized
+INFO - 2022-12-09 11:01:42 --> Router Class Initialized
+INFO - 2022-12-09 11:01:42 --> Output Class Initialized
+INFO - 2022-12-09 11:01:42 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:42 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:42 --> Input Class Initialized
+INFO - 2022-12-09 11:01:42 --> Language Class Initialized
+INFO - 2022-12-09 11:01:42 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:42 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:42 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:42 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:42 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:42 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:42 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:42 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:42 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:42 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:42 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:42 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:42 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:42 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:42 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:01:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:51 --> Config Class Initialized
+INFO - 2022-12-09 11:01:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:51 --> URI Class Initialized
+INFO - 2022-12-09 11:01:51 --> Router Class Initialized
+INFO - 2022-12-09 11:01:51 --> Output Class Initialized
+INFO - 2022-12-09 11:01:51 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:51 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:51 --> Input Class Initialized
+INFO - 2022-12-09 11:01:51 --> Language Class Initialized
+INFO - 2022-12-09 11:01:51 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:51 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:51 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:51 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:51 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:51 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:51 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:51 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:51 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:51 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:51 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:51 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:51 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:51 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:51 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:01:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:01:54 --> Config Class Initialized
+INFO - 2022-12-09 11:01:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:01:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:01:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:01:54 --> URI Class Initialized
+INFO - 2022-12-09 11:01:54 --> Router Class Initialized
+INFO - 2022-12-09 11:01:54 --> Output Class Initialized
+INFO - 2022-12-09 11:01:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:01:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:01:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:01:54 --> Input Class Initialized
+INFO - 2022-12-09 11:01:54 --> Language Class Initialized
+INFO - 2022-12-09 11:01:54 --> Loader Class Initialized
+INFO - 2022-12-09 11:01:54 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:01:54 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:01:54 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:01:54 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:01:54 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:01:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:01:54 --> Parser Class Initialized
+INFO - 2022-12-09 11:01:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:01:54 --> Pagination Class Initialized
+INFO - 2022-12-09 11:01:54 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:01:54 --> Controller Class Initialized
+INFO - 2022-12-09 11:01:54 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:01:54 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:01:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:01:54 --> Model "Customers" initialized
+INFO - 2022-12-09 11:01:54 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:01:54 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:02:39 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:02:39 --> Config Class Initialized
+INFO - 2022-12-09 11:02:39 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:02:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:02:39 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:02:39 --> URI Class Initialized
+INFO - 2022-12-09 11:02:39 --> Router Class Initialized
+INFO - 2022-12-09 11:02:39 --> Output Class Initialized
+INFO - 2022-12-09 11:02:39 --> Security Class Initialized
+DEBUG - 2022-12-09 11:02:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:02:39 --> CSRF cookie sent
+INFO - 2022-12-09 11:02:39 --> Input Class Initialized
+INFO - 2022-12-09 11:02:39 --> Language Class Initialized
+INFO - 2022-12-09 11:02:39 --> Loader Class Initialized
+INFO - 2022-12-09 11:02:39 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:02:39 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:02:39 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:02:39 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:02:39 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:02:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:02:39 --> Parser Class Initialized
+INFO - 2022-12-09 11:02:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:02:39 --> Pagination Class Initialized
+INFO - 2022-12-09 11:02:39 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:02:39 --> Controller Class Initialized
+INFO - 2022-12-09 11:02:39 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:02:39 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:02:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:02:39 --> Model "Customers" initialized
+INFO - 2022-12-09 11:02:39 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:02:39 --> Model "Permission_model" initialized
+ERROR - 2022-12-09 11:02:45 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:02:45 --> Config Class Initialized
+INFO - 2022-12-09 11:02:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:02:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:02:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:02:45 --> URI Class Initialized
+INFO - 2022-12-09 11:02:45 --> Router Class Initialized
+INFO - 2022-12-09 11:02:45 --> Output Class Initialized
+INFO - 2022-12-09 11:02:45 --> Security Class Initialized
+DEBUG - 2022-12-09 11:02:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:02:45 --> CSRF cookie sent
+INFO - 2022-12-09 11:02:45 --> Input Class Initialized
+INFO - 2022-12-09 11:02:45 --> Language Class Initialized
+INFO - 2022-12-09 11:02:45 --> Loader Class Initialized
+INFO - 2022-12-09 11:02:45 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:02:45 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:02:45 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:02:45 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:02:45 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:02:45 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:02:45 --> Parser Class Initialized
+INFO - 2022-12-09 11:02:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:02:45 --> Pagination Class Initialized
+INFO - 2022-12-09 11:02:45 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:02:45 --> Controller Class Initialized
+INFO - 2022-12-09 11:02:45 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:02:45 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:02:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:02:45 --> Model "Customers" initialized
+INFO - 2022-12-09 11:02:45 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:02:45 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:02:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:02:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:02:45 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:02:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:02:45 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:02:45 --> Model "Products" initialized
+INFO - 2022-12-09 16:32:45 --> Model "reports" initialized
+INFO - 2022-12-09 16:32:45 --> Model "Users" initialized
+INFO - 2022-12-09 16:32:46 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:32:46 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:32:46 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:32:46 --> Final output sent to browser
+DEBUG - 2022-12-09 16:32:46 --> Total execution time: 0.2930
+ERROR - 2022-12-09 11:02:46 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:02:46 --> Config Class Initialized
+INFO - 2022-12-09 11:02:46 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:02:46 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:02:46 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:02:46 --> URI Class Initialized
+INFO - 2022-12-09 11:02:46 --> Router Class Initialized
+INFO - 2022-12-09 11:02:46 --> Output Class Initialized
+INFO - 2022-12-09 11:02:46 --> Security Class Initialized
+DEBUG - 2022-12-09 11:02:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:02:46 --> CSRF cookie sent
+INFO - 2022-12-09 11:02:46 --> CSRF token verified
+INFO - 2022-12-09 11:02:46 --> Input Class Initialized
+INFO - 2022-12-09 11:02:46 --> Language Class Initialized
+INFO - 2022-12-09 11:02:46 --> Loader Class Initialized
+INFO - 2022-12-09 11:02:46 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:02:46 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:02:46 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:02:46 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:02:46 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:02:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:02:46 --> Parser Class Initialized
+INFO - 2022-12-09 11:02:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:02:46 --> Pagination Class Initialized
+INFO - 2022-12-09 11:02:46 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:02:46 --> Controller Class Initialized
+INFO - 2022-12-09 11:02:46 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:02:46 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:02:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:02:46 --> Model "Customers" initialized
+INFO - 2022-12-09 11:02:46 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:02:46 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:02:46 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:02:46 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:02:46 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:02:46 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 11:02:46 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 11:02:46 --> Final output sent to browser
+DEBUG - 2022-12-09 11:02:46 --> Total execution time: 0.0129
+ERROR - 2022-12-09 11:02:48 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:02:48 --> Config Class Initialized
+INFO - 2022-12-09 11:02:48 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:02:48 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:02:48 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:02:48 --> URI Class Initialized
+INFO - 2022-12-09 11:02:48 --> Router Class Initialized
+INFO - 2022-12-09 11:02:48 --> Output Class Initialized
+INFO - 2022-12-09 11:02:48 --> Security Class Initialized
+DEBUG - 2022-12-09 11:02:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:02:48 --> CSRF cookie sent
+INFO - 2022-12-09 11:02:48 --> Input Class Initialized
+INFO - 2022-12-09 11:02:48 --> Language Class Initialized
+ERROR - 2022-12-09 11:02:48 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 11:03:50 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:03:50 --> Config Class Initialized
+INFO - 2022-12-09 11:03:50 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:03:50 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:03:50 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:03:50 --> URI Class Initialized
+INFO - 2022-12-09 11:03:50 --> Router Class Initialized
+INFO - 2022-12-09 11:03:50 --> Output Class Initialized
+INFO - 2022-12-09 11:03:50 --> Security Class Initialized
+DEBUG - 2022-12-09 11:03:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:03:50 --> CSRF cookie sent
+INFO - 2022-12-09 11:03:50 --> Input Class Initialized
+INFO - 2022-12-09 11:03:50 --> Language Class Initialized
+INFO - 2022-12-09 11:03:50 --> Loader Class Initialized
+INFO - 2022-12-09 11:03:50 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:03:50 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:03:50 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:03:50 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:03:50 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:03:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:03:50 --> Parser Class Initialized
+INFO - 2022-12-09 11:03:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:03:50 --> Pagination Class Initialized
+INFO - 2022-12-09 11:03:50 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:03:50 --> Controller Class Initialized
+INFO - 2022-12-09 11:03:50 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:03:50 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:03:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:03:50 --> Model "Customers" initialized
+INFO - 2022-12-09 11:03:50 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:03:50 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:03:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:03:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:03:50 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:03:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:03:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:03:50 --> Model "Products" initialized
+INFO - 2022-12-09 16:33:50 --> Model "reports" initialized
+INFO - 2022-12-09 16:33:50 --> Model "Users" initialized
+INFO - 2022-12-09 16:33:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:33:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:33:50 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:33:50 --> Final output sent to browser
+DEBUG - 2022-12-09 16:33:50 --> Total execution time: 0.3086
+ERROR - 2022-12-09 11:03:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:03:51 --> Config Class Initialized
+INFO - 2022-12-09 11:03:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:03:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:03:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:03:51 --> URI Class Initialized
+INFO - 2022-12-09 11:03:51 --> Router Class Initialized
+INFO - 2022-12-09 11:03:51 --> Output Class Initialized
+INFO - 2022-12-09 11:03:51 --> Security Class Initialized
+DEBUG - 2022-12-09 11:03:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:03:51 --> CSRF cookie sent
+INFO - 2022-12-09 11:03:51 --> CSRF token verified
+INFO - 2022-12-09 11:03:51 --> Input Class Initialized
+INFO - 2022-12-09 11:03:51 --> Language Class Initialized
+INFO - 2022-12-09 11:03:51 --> Loader Class Initialized
+INFO - 2022-12-09 11:03:51 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:03:51 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:03:51 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:03:51 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:03:51 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:03:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:03:51 --> Parser Class Initialized
+INFO - 2022-12-09 11:03:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:03:51 --> Pagination Class Initialized
+INFO - 2022-12-09 11:03:51 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:03:51 --> Controller Class Initialized
+INFO - 2022-12-09 11:03:51 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:03:51 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:03:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:03:51 --> Model "Customers" initialized
+INFO - 2022-12-09 11:03:51 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:03:51 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:03:51 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:03:51 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:03:51 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:03:51 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 11:03:51 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 11:03:51 --> Final output sent to browser
+DEBUG - 2022-12-09 11:03:51 --> Total execution time: 0.0208
+ERROR - 2022-12-09 11:03:52 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:03:52 --> Config Class Initialized
+INFO - 2022-12-09 11:03:52 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:03:52 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:03:52 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:03:52 --> URI Class Initialized
+INFO - 2022-12-09 11:03:52 --> Router Class Initialized
+INFO - 2022-12-09 11:03:52 --> Output Class Initialized
+INFO - 2022-12-09 11:03:52 --> Security Class Initialized
+DEBUG - 2022-12-09 11:03:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:03:52 --> CSRF cookie sent
+INFO - 2022-12-09 11:03:52 --> Input Class Initialized
+INFO - 2022-12-09 11:03:52 --> Language Class Initialized
+ERROR - 2022-12-09 11:03:52 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 11:03:57 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:03:57 --> Config Class Initialized
+INFO - 2022-12-09 11:03:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:03:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:03:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:03:57 --> URI Class Initialized
+INFO - 2022-12-09 11:03:57 --> Router Class Initialized
+INFO - 2022-12-09 11:03:57 --> Output Class Initialized
+INFO - 2022-12-09 11:03:57 --> Security Class Initialized
+DEBUG - 2022-12-09 11:03:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:03:57 --> CSRF cookie sent
+INFO - 2022-12-09 11:03:57 --> Input Class Initialized
+INFO - 2022-12-09 11:03:57 --> Language Class Initialized
+INFO - 2022-12-09 11:03:57 --> Loader Class Initialized
+INFO - 2022-12-09 11:03:57 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:03:57 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:03:57 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:03:57 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:03:57 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:03:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:03:57 --> Parser Class Initialized
+INFO - 2022-12-09 11:03:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:03:57 --> Pagination Class Initialized
+INFO - 2022-12-09 11:03:57 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:03:57 --> Controller Class Initialized
+INFO - 2022-12-09 11:03:57 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:03:57 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:03:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:03:57 --> Model "Customers" initialized
+INFO - 2022-12-09 11:03:57 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:03:57 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:03:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:03:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:03:57 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:03:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:03:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:03:57 --> Model "Products" initialized
+INFO - 2022-12-09 16:33:57 --> Model "reports" initialized
+INFO - 2022-12-09 16:33:57 --> Model "Users" initialized
+INFO - 2022-12-09 16:33:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:33:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:33:57 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:33:57 --> Final output sent to browser
+DEBUG - 2022-12-09 16:33:57 --> Total execution time: 0.2959
+ERROR - 2022-12-09 11:03:58 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:03:58 --> Config Class Initialized
+INFO - 2022-12-09 11:03:58 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:03:58 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:03:58 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:03:58 --> URI Class Initialized
+INFO - 2022-12-09 11:03:58 --> Router Class Initialized
+INFO - 2022-12-09 11:03:58 --> Output Class Initialized
+INFO - 2022-12-09 11:03:58 --> Security Class Initialized
+DEBUG - 2022-12-09 11:03:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:03:58 --> CSRF cookie sent
+INFO - 2022-12-09 11:03:58 --> CSRF token verified
+INFO - 2022-12-09 11:03:58 --> Input Class Initialized
+INFO - 2022-12-09 11:03:58 --> Language Class Initialized
+INFO - 2022-12-09 11:03:58 --> Loader Class Initialized
+INFO - 2022-12-09 11:03:58 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:03:58 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:03:58 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:03:58 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:03:58 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:03:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:03:58 --> Parser Class Initialized
+INFO - 2022-12-09 11:03:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:03:58 --> Pagination Class Initialized
+INFO - 2022-12-09 11:03:58 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:03:58 --> Controller Class Initialized
+INFO - 2022-12-09 11:03:58 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:03:58 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:03:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:03:58 --> Model "Customers" initialized
+INFO - 2022-12-09 11:03:58 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:03:58 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:03:58 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1232
+ERROR - 2022-12-09 11:03:58 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:03:58 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1233
+ERROR - 2022-12-09 11:03:58 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+ERROR - 2022-12-09 11:03:58 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1234
+INFO - 2022-12-09 11:03:58 --> Final output sent to browser
+DEBUG - 2022-12-09 11:03:58 --> Total execution time: 0.0113
+ERROR - 2022-12-09 11:04:00 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:04:00 --> Config Class Initialized
+INFO - 2022-12-09 11:04:00 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:04:00 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:04:00 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:04:00 --> URI Class Initialized
+INFO - 2022-12-09 11:04:00 --> Router Class Initialized
+INFO - 2022-12-09 11:04:00 --> Output Class Initialized
+INFO - 2022-12-09 11:04:00 --> Security Class Initialized
+DEBUG - 2022-12-09 11:04:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:04:00 --> CSRF cookie sent
+INFO - 2022-12-09 11:04:00 --> Input Class Initialized
+INFO - 2022-12-09 11:04:00 --> Language Class Initialized
+ERROR - 2022-12-09 11:04:00 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 11:04:07 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:04:07 --> Config Class Initialized
+INFO - 2022-12-09 11:04:07 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:04:07 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:04:07 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:04:07 --> URI Class Initialized
+INFO - 2022-12-09 11:04:07 --> Router Class Initialized
+INFO - 2022-12-09 11:04:07 --> Output Class Initialized
+INFO - 2022-12-09 11:04:07 --> Security Class Initialized
+DEBUG - 2022-12-09 11:04:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:04:07 --> CSRF cookie sent
+INFO - 2022-12-09 11:04:07 --> Input Class Initialized
+INFO - 2022-12-09 11:04:07 --> Language Class Initialized
+ERROR - 2022-12-09 11:04:07 --> 404 Page Not Found: Cinvoice/get_customer
+ERROR - 2022-12-09 11:05:34 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:34 --> Config Class Initialized
+INFO - 2022-12-09 11:05:34 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:34 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:34 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:34 --> URI Class Initialized
+INFO - 2022-12-09 11:05:34 --> Router Class Initialized
+INFO - 2022-12-09 11:05:34 --> Output Class Initialized
+INFO - 2022-12-09 11:05:34 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:34 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:34 --> Input Class Initialized
+INFO - 2022-12-09 11:05:34 --> Language Class Initialized
+INFO - 2022-12-09 11:05:34 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:34 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:34 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:34 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:34 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:34 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:34 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:34 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:34 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:34 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:34 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:05:34 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:05:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:05:34 --> Model "Customers" initialized
+INFO - 2022-12-09 11:05:34 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:05:34 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:05:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:05:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:05:34 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:05:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:05:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:05:34 --> Model "Products" initialized
+INFO - 2022-12-09 16:35:34 --> Model "reports" initialized
+INFO - 2022-12-09 16:35:34 --> Model "Users" initialized
+INFO - 2022-12-09 16:35:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:35:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:35:34 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:35:34 --> Final output sent to browser
+DEBUG - 2022-12-09 16:35:34 --> Total execution time: 0.3377
+ERROR - 2022-12-09 11:05:34 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:34 --> Config Class Initialized
+INFO - 2022-12-09 11:05:34 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:34 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:34 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:34 --> URI Class Initialized
+INFO - 2022-12-09 11:05:34 --> Router Class Initialized
+INFO - 2022-12-09 11:05:34 --> Output Class Initialized
+INFO - 2022-12-09 11:05:34 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:34 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:34 --> CSRF token verified
+INFO - 2022-12-09 11:05:34 --> Input Class Initialized
+INFO - 2022-12-09 11:05:34 --> Language Class Initialized
+INFO - 2022-12-09 11:05:34 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:34 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:34 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:34 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:34 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:34 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:34 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:34 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:34 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:34 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:34 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:05:34 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:05:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:05:35 --> Model "Customers" initialized
+INFO - 2022-12-09 11:05:35 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:05:35 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 11:05:35 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 11:05:35 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:05:35 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:05:35 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:05:35 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 11:05:35 --> Final output sent to browser
+DEBUG - 2022-12-09 11:05:35 --> Total execution time: 0.0200
+ERROR - 2022-12-09 11:05:36 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:36 --> Config Class Initialized
+INFO - 2022-12-09 11:05:36 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:36 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:36 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:36 --> URI Class Initialized
+INFO - 2022-12-09 11:05:36 --> Router Class Initialized
+INFO - 2022-12-09 11:05:36 --> Output Class Initialized
+INFO - 2022-12-09 11:05:36 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:36 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:36 --> Input Class Initialized
+INFO - 2022-12-09 11:05:36 --> Language Class Initialized
+INFO - 2022-12-09 11:05:36 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:36 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:36 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:36 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:36 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:36 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:36 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:36 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:36 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:36 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:36 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:05:36 --> Final output sent to browser
+DEBUG - 2022-12-09 11:05:36 --> Total execution time: 0.0164
+ERROR - 2022-12-09 11:05:39 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:39 --> Config Class Initialized
+INFO - 2022-12-09 11:05:39 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:39 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:39 --> URI Class Initialized
+INFO - 2022-12-09 11:05:39 --> Router Class Initialized
+INFO - 2022-12-09 11:05:39 --> Output Class Initialized
+INFO - 2022-12-09 11:05:39 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:39 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:39 --> Input Class Initialized
+INFO - 2022-12-09 11:05:39 --> Language Class Initialized
+INFO - 2022-12-09 11:05:39 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:39 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:39 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:39 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:39 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:39 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:39 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:39 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:39 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:39 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:39 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:05:39 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:05:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:05:39 --> Model "Customers" initialized
+INFO - 2022-12-09 11:05:39 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:05:39 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:05:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:05:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:05:39 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:05:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:05:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:05:39 --> Model "Products" initialized
+INFO - 2022-12-09 16:35:39 --> Model "reports" initialized
+INFO - 2022-12-09 16:35:39 --> Model "Users" initialized
+INFO - 2022-12-09 16:35:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:35:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:35:39 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:35:39 --> Final output sent to browser
+DEBUG - 2022-12-09 16:35:39 --> Total execution time: 0.2770
+ERROR - 2022-12-09 11:05:41 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:41 --> Config Class Initialized
+INFO - 2022-12-09 11:05:41 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:41 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:41 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:41 --> URI Class Initialized
+INFO - 2022-12-09 11:05:41 --> Router Class Initialized
+INFO - 2022-12-09 11:05:41 --> Output Class Initialized
+INFO - 2022-12-09 11:05:41 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:41 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:41 --> CSRF token verified
+INFO - 2022-12-09 11:05:41 --> Input Class Initialized
+INFO - 2022-12-09 11:05:41 --> Language Class Initialized
+INFO - 2022-12-09 11:05:41 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:41 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:41 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:41 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:41 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:41 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:41 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:41 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:41 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:41 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:41 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:05:41 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:05:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:05:41 --> Model "Customers" initialized
+INFO - 2022-12-09 11:05:41 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:05:41 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 11:05:41 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 11:05:41 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:05:41 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:05:41 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:05:41 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 11:05:41 --> Final output sent to browser
+DEBUG - 2022-12-09 11:05:41 --> Total execution time: 0.0250
+ERROR - 2022-12-09 11:05:42 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:42 --> Config Class Initialized
+INFO - 2022-12-09 11:05:42 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:42 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:42 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:42 --> URI Class Initialized
+INFO - 2022-12-09 11:05:42 --> Router Class Initialized
+INFO - 2022-12-09 11:05:42 --> Output Class Initialized
+INFO - 2022-12-09 11:05:42 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:42 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:42 --> Input Class Initialized
+INFO - 2022-12-09 11:05:42 --> Language Class Initialized
+INFO - 2022-12-09 11:05:42 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:42 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:42 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:42 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:42 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:42 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:42 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:42 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:42 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:42 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:42 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:42 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:05:42 --> Final output sent to browser
+DEBUG - 2022-12-09 11:05:42 --> Total execution time: 0.0330
+ERROR - 2022-12-09 11:05:44 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:05:44 --> Config Class Initialized
+INFO - 2022-12-09 11:05:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:05:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:05:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:05:44 --> URI Class Initialized
+INFO - 2022-12-09 11:05:44 --> Router Class Initialized
+INFO - 2022-12-09 11:05:44 --> Output Class Initialized
+INFO - 2022-12-09 11:05:44 --> Security Class Initialized
+DEBUG - 2022-12-09 11:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:05:44 --> CSRF cookie sent
+INFO - 2022-12-09 11:05:44 --> Input Class Initialized
+INFO - 2022-12-09 11:05:44 --> Language Class Initialized
+INFO - 2022-12-09 11:05:44 --> Loader Class Initialized
+INFO - 2022-12-09 11:05:44 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:05:44 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:05:44 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:05:44 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:05:44 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:05:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:05:44 --> Parser Class Initialized
+INFO - 2022-12-09 11:05:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:05:44 --> Pagination Class Initialized
+INFO - 2022-12-09 11:05:44 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:05:44 --> Controller Class Initialized
+INFO - 2022-12-09 11:05:44 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:05:44 --> Final output sent to browser
+DEBUG - 2022-12-09 11:05:44 --> Total execution time: 0.0096
+ERROR - 2022-12-09 11:06:38 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:38 --> Config Class Initialized
+INFO - 2022-12-09 11:06:38 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:38 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:38 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:38 --> URI Class Initialized
+INFO - 2022-12-09 11:06:38 --> Router Class Initialized
+INFO - 2022-12-09 11:06:38 --> Output Class Initialized
+INFO - 2022-12-09 11:06:38 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:38 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:38 --> Input Class Initialized
+INFO - 2022-12-09 11:06:38 --> Language Class Initialized
+INFO - 2022-12-09 11:06:38 --> Loader Class Initialized
+INFO - 2022-12-09 11:06:38 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:06:38 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:06:38 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:06:38 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:06:38 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:06:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:06:38 --> Parser Class Initialized
+INFO - 2022-12-09 11:06:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:06:38 --> Pagination Class Initialized
+INFO - 2022-12-09 11:06:38 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:06:38 --> Controller Class Initialized
+INFO - 2022-12-09 11:06:38 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:06:38 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:06:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:06:38 --> Model "Customers" initialized
+INFO - 2022-12-09 11:06:38 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:06:38 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:06:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:06:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:06:38 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:06:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:06:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:06:38 --> Model "Products" initialized
+INFO - 2022-12-09 16:36:38 --> Model "reports" initialized
+INFO - 2022-12-09 16:36:38 --> Model "Users" initialized
+INFO - 2022-12-09 16:36:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:36:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:36:38 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:36:38 --> Final output sent to browser
+DEBUG - 2022-12-09 16:36:38 --> Total execution time: 0.3122
+ERROR - 2022-12-09 11:06:38 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:38 --> Config Class Initialized
+INFO - 2022-12-09 11:06:38 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:38 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:38 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:38 --> URI Class Initialized
+INFO - 2022-12-09 11:06:38 --> Router Class Initialized
+INFO - 2022-12-09 11:06:38 --> Output Class Initialized
+INFO - 2022-12-09 11:06:38 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:38 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:38 --> CSRF token verified
+INFO - 2022-12-09 11:06:38 --> Input Class Initialized
+INFO - 2022-12-09 11:06:38 --> Language Class Initialized
+INFO - 2022-12-09 11:06:38 --> Loader Class Initialized
+INFO - 2022-12-09 11:06:38 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:06:38 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:06:38 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:06:38 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:06:38 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:06:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:06:38 --> Parser Class Initialized
+INFO - 2022-12-09 11:06:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:06:38 --> Pagination Class Initialized
+INFO - 2022-12-09 11:06:38 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:06:38 --> Controller Class Initialized
+INFO - 2022-12-09 11:06:38 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:06:38 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:06:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:06:38 --> Model "Customers" initialized
+INFO - 2022-12-09 11:06:38 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:06:38 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 11:06:38 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 11:06:38 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:06:38 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:06:38 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:06:38 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 11:06:38 --> Final output sent to browser
+DEBUG - 2022-12-09 11:06:38 --> Total execution time: 0.0241
+ERROR - 2022-12-09 11:06:40 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:40 --> Config Class Initialized
+INFO - 2022-12-09 11:06:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:40 --> URI Class Initialized
+INFO - 2022-12-09 11:06:40 --> Router Class Initialized
+INFO - 2022-12-09 11:06:40 --> Output Class Initialized
+INFO - 2022-12-09 11:06:40 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:40 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:40 --> Input Class Initialized
+INFO - 2022-12-09 11:06:40 --> Language Class Initialized
+ERROR - 2022-12-09 11:06:40 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:06:40 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:06:40 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:40 --> Config Class Initialized
+INFO - 2022-12-09 11:06:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:40 --> Config Class Initialized
+INFO - 2022-12-09 11:06:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:40 --> Hooks Class Initialized
+INFO - 2022-12-09 11:06:40 --> URI Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:40 --> Router Class Initialized
+INFO - 2022-12-09 11:06:40 --> URI Class Initialized
+INFO - 2022-12-09 11:06:40 --> Output Class Initialized
+INFO - 2022-12-09 11:06:40 --> Router Class Initialized
+INFO - 2022-12-09 11:06:40 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:40 --> Output Class Initialized
+INFO - 2022-12-09 11:06:40 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:40 --> Input Class Initialized
+INFO - 2022-12-09 11:06:40 --> Language Class Initialized
+INFO - 2022-12-09 11:06:40 --> Security Class Initialized
+ERROR - 2022-12-09 11:06:40 --> 404 Page Not Found: Assets/js
+DEBUG - 2022-12-09 11:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:40 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:40 --> Input Class Initialized
+INFO - 2022-12-09 11:06:40 --> Language Class Initialized
+ERROR - 2022-12-09 11:06:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:06:40 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:40 --> Config Class Initialized
+INFO - 2022-12-09 11:06:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:40 --> URI Class Initialized
+INFO - 2022-12-09 11:06:40 --> Router Class Initialized
+INFO - 2022-12-09 11:06:40 --> Output Class Initialized
+INFO - 2022-12-09 11:06:40 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:40 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:40 --> Input Class Initialized
+INFO - 2022-12-09 11:06:40 --> Language Class Initialized
+ERROR - 2022-12-09 11:06:40 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:06:40 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:40 --> Config Class Initialized
+INFO - 2022-12-09 11:06:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:40 --> URI Class Initialized
+INFO - 2022-12-09 11:06:40 --> Router Class Initialized
+INFO - 2022-12-09 11:06:40 --> Output Class Initialized
+INFO - 2022-12-09 11:06:40 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:40 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:40 --> Input Class Initialized
+INFO - 2022-12-09 11:06:40 --> Language Class Initialized
+ERROR - 2022-12-09 11:06:40 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:06:43 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:06:43 --> Config Class Initialized
+INFO - 2022-12-09 11:06:43 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:06:43 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:06:43 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:06:43 --> URI Class Initialized
+INFO - 2022-12-09 11:06:43 --> Router Class Initialized
+INFO - 2022-12-09 11:06:43 --> Output Class Initialized
+INFO - 2022-12-09 11:06:43 --> Security Class Initialized
+DEBUG - 2022-12-09 11:06:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:06:43 --> CSRF cookie sent
+INFO - 2022-12-09 11:06:43 --> Input Class Initialized
+INFO - 2022-12-09 11:06:43 --> Language Class Initialized
+INFO - 2022-12-09 11:06:43 --> Loader Class Initialized
+INFO - 2022-12-09 11:06:43 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:06:43 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:06:43 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:06:43 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:06:43 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:06:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:06:43 --> Parser Class Initialized
+INFO - 2022-12-09 11:06:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:06:43 --> Pagination Class Initialized
+INFO - 2022-12-09 11:06:43 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:06:43 --> Controller Class Initialized
+INFO - 2022-12-09 11:06:43 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:06:43 --> Final output sent to browser
+DEBUG - 2022-12-09 11:06:43 --> Total execution time: 0.0359
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+INFO - 2022-12-09 11:07:29 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:29 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:07:29 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:29 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:29 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:29 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:29 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:29 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:29 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:29 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:29 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:07:29 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:07:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:29 --> Model "Customers" initialized
+INFO - 2022-12-09 11:07:29 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:07:29 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:07:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:07:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:07:29 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:07:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:07:29 --> Model "Products" initialized
+INFO - 2022-12-09 16:37:29 --> Model "reports" initialized
+INFO - 2022-12-09 16:37:29 --> Model "Users" initialized
+INFO - 2022-12-09 16:37:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:37:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:37:29 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:37:29 --> Final output sent to browser
+DEBUG - 2022-12-09 16:37:29 --> Total execution time: 0.2786
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:29 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:29 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+ERROR - 2022-12-09 11:07:29 --> 404 Page Not Found: Assets/datatables
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:29 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:07:29 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:29 --> Config Class Initialized
+INFO - 2022-12-09 11:07:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:29 --> URI Class Initialized
+INFO - 2022-12-09 11:07:29 --> Router Class Initialized
+INFO - 2022-12-09 11:07:29 --> Output Class Initialized
+INFO - 2022-12-09 11:07:29 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:29 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:29 --> CSRF token verified
+INFO - 2022-12-09 11:07:29 --> Input Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language Class Initialized
+INFO - 2022-12-09 11:07:29 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:29 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:07:29 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:29 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:29 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:29 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:29 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:29 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:29 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:29 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:29 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:07:29 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:07:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:29 --> Model "Customers" initialized
+INFO - 2022-12-09 11:07:29 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:07:29 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:07:29 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:07:29 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:07:29 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:07:29 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:07:29 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:07:29 --> Final output sent to browser
+DEBUG - 2022-12-09 11:07:29 --> Total execution time: 0.0366
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+INFO - 2022-12-09 11:07:30 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:30 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:07:30 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:30 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:30 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:30 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:30 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:30 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:30 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:30 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:30 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:07:30 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:07:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:30 --> Model "Customers" initialized
+INFO - 2022-12-09 11:07:30 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:07:30 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:07:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:07:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:07:30 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:07:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:07:30 --> Model "Products" initialized
+INFO - 2022-12-09 16:37:30 --> Model "reports" initialized
+INFO - 2022-12-09 16:37:30 --> Model "Users" initialized
+INFO - 2022-12-09 16:37:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:37:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:37:30 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:37:30 --> Final output sent to browser
+DEBUG - 2022-12-09 16:37:30 --> Total execution time: 0.2745
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:30 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+ERROR - 2022-12-09 11:07:30 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+ERROR - 2022-12-09 11:07:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+INFO - 2022-12-09 11:07:30 --> Config Class Initialized
+INFO - 2022-12-09 11:07:30 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:30 --> Utf8 Class Initialized
+ERROR - 2022-12-09 11:07:30 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:07:30 --> URI Class Initialized
+INFO - 2022-12-09 11:07:30 --> Router Class Initialized
+INFO - 2022-12-09 11:07:30 --> Output Class Initialized
+INFO - 2022-12-09 11:07:30 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:30 --> CSRF token verified
+INFO - 2022-12-09 11:07:30 --> Input Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language Class Initialized
+INFO - 2022-12-09 11:07:30 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:30 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:07:30 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:30 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:30 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:30 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:30 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:30 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:30 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:30 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:30 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:07:30 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:07:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:30 --> Model "Customers" initialized
+INFO - 2022-12-09 11:07:30 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:07:30 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:07:30 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:07:30 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:07:30 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:07:30 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:07:30 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:07:30 --> Final output sent to browser
+DEBUG - 2022-12-09 11:07:30 --> Total execution time: 0.0165
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+INFO - 2022-12-09 11:07:31 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:31 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:07:31 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:31 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:31 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:31 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:31 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:31 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:31 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:31 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:31 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:31 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:07:31 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:07:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:31 --> Model "Customers" initialized
+INFO - 2022-12-09 11:07:31 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:07:31 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:07:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:07:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:07:31 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:07:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:07:31 --> Model "Products" initialized
+INFO - 2022-12-09 16:37:31 --> Model "reports" initialized
+INFO - 2022-12-09 16:37:31 --> Model "Users" initialized
+INFO - 2022-12-09 16:37:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:37:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:37:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:37:31 --> Final output sent to browser
+DEBUG - 2022-12-09 16:37:31 --> Total execution time: 0.3057
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:31 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+ERROR - 2022-12-09 11:07:31 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:07:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+INFO - 2022-12-09 11:07:31 --> Config Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:31 --> Hooks Class Initialized
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+INFO - 2022-12-09 11:07:31 --> URI Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> Router Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+INFO - 2022-12-09 11:07:31 --> Output Class Initialized
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+INFO - 2022-12-09 11:07:31 --> Security Class Initialized
+INFO - 2022-12-09 11:07:31 --> CSRF token verified
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+ERROR - 2022-12-09 11:07:31 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+DEBUG - 2022-12-09 11:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+INFO - 2022-12-09 11:07:31 --> CSRF cookie sent
+ERROR - 2022-12-09 11:07:31 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:07:31 --> Input Class Initialized
+INFO - 2022-12-09 11:07:31 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:31 --> Language Class Initialized
+INFO - 2022-12-09 11:07:31 --> Helper loaded: url_helper
+ERROR - 2022-12-09 11:07:31 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-12-09 11:07:31 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:31 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:31 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:31 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:31 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:31 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:31 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:31 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:31 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:31 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:07:31 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:07:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:07:31 --> Model "Customers" initialized
+INFO - 2022-12-09 11:07:31 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:07:31 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:07:31 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:07:31 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:07:31 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:07:31 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:07:31 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:07:31 --> Final output sent to browser
+DEBUG - 2022-12-09 11:07:31 --> Total execution time: 0.0139
+ERROR - 2022-12-09 11:07:32 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:07:32 --> Config Class Initialized
+INFO - 2022-12-09 11:07:32 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:07:32 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:07:32 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:07:32 --> URI Class Initialized
+INFO - 2022-12-09 11:07:32 --> Router Class Initialized
+INFO - 2022-12-09 11:07:32 --> Output Class Initialized
+INFO - 2022-12-09 11:07:32 --> Security Class Initialized
+DEBUG - 2022-12-09 11:07:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:07:32 --> CSRF cookie sent
+INFO - 2022-12-09 11:07:32 --> Input Class Initialized
+INFO - 2022-12-09 11:07:32 --> Language Class Initialized
+INFO - 2022-12-09 11:07:32 --> Loader Class Initialized
+INFO - 2022-12-09 11:07:32 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:07:32 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:07:32 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:07:32 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:07:32 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:07:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:07:32 --> Parser Class Initialized
+INFO - 2022-12-09 11:07:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:07:32 --> Pagination Class Initialized
+INFO - 2022-12-09 11:07:32 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:07:32 --> Controller Class Initialized
+INFO - 2022-12-09 11:07:32 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:07:32 --> Final output sent to browser
+DEBUG - 2022-12-09 11:07:32 --> Total execution time: 0.0367
+ERROR - 2022-12-09 11:08:15 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:15 --> Config Class Initialized
+INFO - 2022-12-09 11:08:15 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:15 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:15 --> URI Class Initialized
+INFO - 2022-12-09 11:08:15 --> Router Class Initialized
+INFO - 2022-12-09 11:08:15 --> Output Class Initialized
+INFO - 2022-12-09 11:08:15 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:15 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:15 --> Input Class Initialized
+INFO - 2022-12-09 11:08:15 --> Language Class Initialized
+INFO - 2022-12-09 11:08:15 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:15 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:15 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:15 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:15 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:15 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:15 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:15 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:15 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:15 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:15 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:08:15 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:08:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:15 --> Model "Customers" initialized
+INFO - 2022-12-09 11:08:15 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:08:15 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:08:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:08:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:08:15 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:08:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:08:15 --> Model "Products" initialized
+INFO - 2022-12-09 16:38:15 --> Model "reports" initialized
+INFO - 2022-12-09 16:38:15 --> Model "Users" initialized
+INFO - 2022-12-09 16:38:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:38:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:38:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:38:15 --> Final output sent to browser
+DEBUG - 2022-12-09 16:38:15 --> Total execution time: 0.3046
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> CSRF token verified
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+INFO - 2022-12-09 11:08:16 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:16 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:16 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:16 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:16 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:16 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:16 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:16 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:16 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:16 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:16 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:16 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:08:16 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:08:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:16 --> Model "Customers" initialized
+INFO - 2022-12-09 11:08:16 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:08:16 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:08:16 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:08:16 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:08:16 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:08:16 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:08:16 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:08:16 --> Final output sent to browser
+DEBUG - 2022-12-09 11:08:16 --> Total execution time: 0.0191
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+INFO - 2022-12-09 11:08:16 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:16 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:16 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:16 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:16 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:16 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:16 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:16 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:16 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:16 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:16 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:16 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:08:16 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:08:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:16 --> Model "Customers" initialized
+INFO - 2022-12-09 11:08:16 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:08:16 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:08:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:08:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:08:16 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:08:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:08:16 --> Model "Products" initialized
+INFO - 2022-12-09 16:38:16 --> Model "reports" initialized
+INFO - 2022-12-09 16:38:16 --> Model "Users" initialized
+INFO - 2022-12-09 16:38:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:38:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:38:16 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:38:16 --> Final output sent to browser
+DEBUG - 2022-12-09 16:38:16 --> Total execution time: 0.2901
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:08:16 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:16 --> Config Class Initialized
+INFO - 2022-12-09 11:08:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:16 --> URI Class Initialized
+INFO - 2022-12-09 11:08:16 --> Router Class Initialized
+INFO - 2022-12-09 11:08:16 --> Output Class Initialized
+INFO - 2022-12-09 11:08:16 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:16 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:16 --> Input Class Initialized
+INFO - 2022-12-09 11:08:16 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:16 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:08:17 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:17 --> Config Class Initialized
+INFO - 2022-12-09 11:08:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:17 --> URI Class Initialized
+INFO - 2022-12-09 11:08:17 --> Router Class Initialized
+INFO - 2022-12-09 11:08:17 --> Output Class Initialized
+INFO - 2022-12-09 11:08:17 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:17 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:17 --> Input Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:17 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:08:17 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:17 --> Config Class Initialized
+INFO - 2022-12-09 11:08:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:17 --> URI Class Initialized
+INFO - 2022-12-09 11:08:17 --> Router Class Initialized
+INFO - 2022-12-09 11:08:17 --> Output Class Initialized
+INFO - 2022-12-09 11:08:17 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:17 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:17 --> CSRF token verified
+INFO - 2022-12-09 11:08:17 --> Input Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language Class Initialized
+INFO - 2022-12-09 11:08:17 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:17 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:17 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:17 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:17 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:17 --> Database Driver Class Initialized
+ERROR - 2022-12-09 11:08:17 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:08:17 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:17 --> Config Class Initialized
+INFO - 2022-12-09 11:08:17 --> Config Class Initialized
+INFO - 2022-12-09 11:08:17 --> Hooks Class Initialized
+INFO - 2022-12-09 11:08:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:17 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:17 --> URI Class Initialized
+INFO - 2022-12-09 11:08:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:17 --> Router Class Initialized
+INFO - 2022-12-09 11:08:17 --> URI Class Initialized
+INFO - 2022-12-09 11:08:17 --> Output Class Initialized
+INFO - 2022-12-09 11:08:17 --> Security Class Initialized
+INFO - 2022-12-09 11:08:17 --> Router Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:17 --> Output Class Initialized
+INFO - 2022-12-09 11:08:17 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:17 --> Input Class Initialized
+INFO - 2022-12-09 11:08:17 --> Security Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2022-12-09 11:08:17 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:08:17 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:17 --> Input Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language Class Initialized
+ERROR - 2022-12-09 11:08:17 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-12-09 11:08:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:17 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:17 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:17 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:17 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:17 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:08:17 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:08:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:17 --> Model "Customers" initialized
+INFO - 2022-12-09 11:08:17 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:08:17 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:08:17 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:08:17 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:08:17 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:08:17 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:08:17 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:08:17 --> Final output sent to browser
+DEBUG - 2022-12-09 11:08:17 --> Total execution time: 0.0302
+ERROR - 2022-12-09 11:08:17 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:17 --> Config Class Initialized
+INFO - 2022-12-09 11:08:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:17 --> URI Class Initialized
+INFO - 2022-12-09 11:08:17 --> Router Class Initialized
+INFO - 2022-12-09 11:08:17 --> Output Class Initialized
+INFO - 2022-12-09 11:08:17 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:17 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:17 --> Input Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language Class Initialized
+INFO - 2022-12-09 11:08:17 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:17 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:17 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:17 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:17 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:17 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:17 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:17 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:17 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:17 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:17 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:08:17 --> Final output sent to browser
+DEBUG - 2022-12-09 11:08:17 --> Total execution time: 0.0177
+ERROR - 2022-12-09 11:08:23 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:23 --> Config Class Initialized
+INFO - 2022-12-09 11:08:23 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:23 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:23 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:23 --> URI Class Initialized
+INFO - 2022-12-09 11:08:23 --> Router Class Initialized
+INFO - 2022-12-09 11:08:23 --> Output Class Initialized
+INFO - 2022-12-09 11:08:23 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:23 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:23 --> Input Class Initialized
+INFO - 2022-12-09 11:08:23 --> Language Class Initialized
+INFO - 2022-12-09 11:08:23 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:23 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:23 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:23 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:23 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:23 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:23 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:23 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:23 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:23 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:23 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:08:23 --> Model "Invoice_design" initialized
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:23 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\pdf_attach_mail\tcpdf_6_2_13\tcpdf.php 2468
+ERROR - 2022-12-09 11:08:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:31 --> Config Class Initialized
+INFO - 2022-12-09 11:08:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:31 --> URI Class Initialized
+INFO - 2022-12-09 11:08:31 --> Router Class Initialized
+INFO - 2022-12-09 11:08:31 --> Output Class Initialized
+INFO - 2022-12-09 11:08:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:31 --> Input Class Initialized
+INFO - 2022-12-09 11:08:31 --> Language Class Initialized
+INFO - 2022-12-09 11:08:31 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:31 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:31 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:31 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:31 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:31 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:31 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:31 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:31 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:31 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:31 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:31 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:08:31 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:08:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:31 --> Model "Customers" initialized
+INFO - 2022-12-09 11:08:31 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:08:31 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:08:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:08:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:08:31 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:08:31 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:08:31 --> Model "Products" initialized
+INFO - 2022-12-09 16:38:31 --> Model "reports" initialized
+INFO - 2022-12-09 16:38:31 --> Model "Users" initialized
+INFO - 2022-12-09 16:38:32 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:38:32 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:38:32 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:38:32 --> Final output sent to browser
+DEBUG - 2022-12-09 16:38:32 --> Total execution time: 0.2515
+ERROR - 2022-12-09 11:08:32 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:08:32 --> Config Class Initialized
+INFO - 2022-12-09 11:08:32 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:08:32 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:08:32 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:08:32 --> URI Class Initialized
+INFO - 2022-12-09 11:08:32 --> Router Class Initialized
+INFO - 2022-12-09 11:08:32 --> Output Class Initialized
+INFO - 2022-12-09 11:08:32 --> Security Class Initialized
+DEBUG - 2022-12-09 11:08:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:08:32 --> CSRF cookie sent
+INFO - 2022-12-09 11:08:32 --> CSRF token verified
+INFO - 2022-12-09 11:08:32 --> Input Class Initialized
+INFO - 2022-12-09 11:08:32 --> Language Class Initialized
+INFO - 2022-12-09 11:08:32 --> Loader Class Initialized
+INFO - 2022-12-09 11:08:32 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:08:32 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:08:32 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:08:32 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:08:32 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:08:32 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:08:32 --> Parser Class Initialized
+INFO - 2022-12-09 11:08:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:08:32 --> Pagination Class Initialized
+INFO - 2022-12-09 11:08:32 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:08:32 --> Controller Class Initialized
+INFO - 2022-12-09 11:08:32 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:08:32 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:08:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:08:32 --> Model "Customers" initialized
+INFO - 2022-12-09 11:08:32 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:08:32 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:08:32 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:08:32 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:08:32 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:08:32 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:08:32 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:08:32 --> Final output sent to browser
+DEBUG - 2022-12-09 11:08:32 --> Total execution time: 0.0344
+ERROR - 2022-12-09 11:09:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:05 --> Config Class Initialized
+INFO - 2022-12-09 11:09:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:05 --> URI Class Initialized
+INFO - 2022-12-09 11:09:05 --> Router Class Initialized
+INFO - 2022-12-09 11:09:05 --> Output Class Initialized
+INFO - 2022-12-09 11:09:05 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:05 --> Input Class Initialized
+INFO - 2022-12-09 11:09:05 --> Language Class Initialized
+INFO - 2022-12-09 11:09:05 --> Loader Class Initialized
+INFO - 2022-12-09 11:09:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:09:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:09:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:09:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:09:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:09:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:09:05 --> Parser Class Initialized
+INFO - 2022-12-09 11:09:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:09:05 --> Pagination Class Initialized
+INFO - 2022-12-09 11:09:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:09:05 --> Controller Class Initialized
+INFO - 2022-12-09 11:09:05 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:09:05 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:09:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:05 --> Model "Customers" initialized
+INFO - 2022-12-09 11:09:05 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:09:05 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:09:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:09:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:09:05 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:09:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:09:05 --> Model "Products" initialized
+INFO - 2022-12-09 16:39:05 --> Model "reports" initialized
+INFO - 2022-12-09 16:39:05 --> Model "Users" initialized
+INFO - 2022-12-09 16:39:06 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:39:06 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:39:06 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:39:06 --> Final output sent to browser
+DEBUG - 2022-12-09 16:39:06 --> Total execution time: 0.2512
+ERROR - 2022-12-09 11:09:06 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:06 --> Config Class Initialized
+INFO - 2022-12-09 11:09:06 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:06 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:06 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:06 --> URI Class Initialized
+INFO - 2022-12-09 11:09:06 --> Router Class Initialized
+INFO - 2022-12-09 11:09:06 --> Output Class Initialized
+INFO - 2022-12-09 11:09:06 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:06 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:06 --> CSRF token verified
+INFO - 2022-12-09 11:09:06 --> Input Class Initialized
+INFO - 2022-12-09 11:09:06 --> Language Class Initialized
+INFO - 2022-12-09 11:09:06 --> Loader Class Initialized
+INFO - 2022-12-09 11:09:06 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:09:06 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:09:06 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:09:06 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:09:06 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:09:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:09:06 --> Parser Class Initialized
+INFO - 2022-12-09 11:09:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:09:06 --> Pagination Class Initialized
+INFO - 2022-12-09 11:09:06 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:09:06 --> Controller Class Initialized
+INFO - 2022-12-09 11:09:06 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:09:06 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:09:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:06 --> Model "Customers" initialized
+INFO - 2022-12-09 11:09:06 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:09:06 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:09:06 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 11:09:06 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:09:06 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 11:09:06 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+ERROR - 2022-12-09 11:09:06 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1267
+INFO - 2022-12-09 11:09:06 --> Final output sent to browser
+DEBUG - 2022-12-09 11:09:06 --> Total execution time: 0.0200
+ERROR - 2022-12-09 11:09:08 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:08 --> Config Class Initialized
+INFO - 2022-12-09 11:09:08 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:08 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:08 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:08 --> URI Class Initialized
+INFO - 2022-12-09 11:09:08 --> Router Class Initialized
+INFO - 2022-12-09 11:09:08 --> Output Class Initialized
+INFO - 2022-12-09 11:09:08 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:08 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:08 --> Input Class Initialized
+INFO - 2022-12-09 11:09:08 --> Language Class Initialized
+INFO - 2022-12-09 11:09:08 --> Loader Class Initialized
+INFO - 2022-12-09 11:09:08 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:09:08 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:09:08 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:09:08 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:09:08 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:09:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:09:08 --> Parser Class Initialized
+INFO - 2022-12-09 11:09:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:09:08 --> Pagination Class Initialized
+INFO - 2022-12-09 11:09:08 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:09:08 --> Controller Class Initialized
+INFO - 2022-12-09 11:09:08 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:09:08 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:09:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:08 --> Model "Customers" initialized
+INFO - 2022-12-09 11:09:08 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1108
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1108
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1135
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1135
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:09:08 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:09:08 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:09:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:09:08 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:09:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:09:08 --> Model "Products" initialized
+INFO - 2022-12-09 16:39:08 --> Model "reports" initialized
+INFO - 2022-12-09 16:39:08 --> Model "Users" initialized
+INFO - 2022-12-09 16:39:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:39:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:39:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:39:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:39:09 --> Final output sent to browser
+DEBUG - 2022-12-09 16:39:09 --> Total execution time: 0.4431
+ERROR - 2022-12-09 11:09:13 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:09:13 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:09:13 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:13 --> Config Class Initialized
+INFO - 2022-12-09 11:09:13 --> Hooks Class Initialized
+INFO - 2022-12-09 11:09:13 --> Config Class Initialized
+INFO - 2022-12-09 11:09:13 --> Config Class Initialized
+INFO - 2022-12-09 11:09:13 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:13 --> Hooks Class Initialized
+INFO - 2022-12-09 11:09:13 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:13 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:13 --> URI Class Initialized
+INFO - 2022-12-09 11:09:13 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:13 --> URI Class Initialized
+INFO - 2022-12-09 11:09:13 --> Router Class Initialized
+INFO - 2022-12-09 11:09:13 --> URI Class Initialized
+INFO - 2022-12-09 11:09:13 --> Router Class Initialized
+INFO - 2022-12-09 11:09:13 --> Output Class Initialized
+INFO - 2022-12-09 11:09:13 --> Output Class Initialized
+INFO - 2022-12-09 11:09:13 --> Router Class Initialized
+INFO - 2022-12-09 11:09:13 --> Security Class Initialized
+INFO - 2022-12-09 11:09:13 --> Security Class Initialized
+INFO - 2022-12-09 11:09:13 --> Output Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:09:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:13 --> Security Class Initialized
+INFO - 2022-12-09 11:09:13 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:13 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:13 --> Input Class Initialized
+INFO - 2022-12-09 11:09:13 --> Input Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:13 --> Language Class Initialized
+INFO - 2022-12-09 11:09:13 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:13 --> Language Class Initialized
+INFO - 2022-12-09 11:09:13 --> Input Class Initialized
+ERROR - 2022-12-09 11:09:13 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:09:13 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:09:13 --> Language Class Initialized
+ERROR - 2022-12-09 11:09:13 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:09:13 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:13 --> Config Class Initialized
+INFO - 2022-12-09 11:09:13 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:13 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:13 --> URI Class Initialized
+INFO - 2022-12-09 11:09:13 --> Router Class Initialized
+INFO - 2022-12-09 11:09:13 --> Output Class Initialized
+INFO - 2022-12-09 11:09:13 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:13 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:13 --> Input Class Initialized
+INFO - 2022-12-09 11:09:13 --> Language Class Initialized
+ERROR - 2022-12-09 11:09:13 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:09:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:55 --> Config Class Initialized
+INFO - 2022-12-09 11:09:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:55 --> URI Class Initialized
+INFO - 2022-12-09 11:09:55 --> Router Class Initialized
+INFO - 2022-12-09 11:09:55 --> Output Class Initialized
+INFO - 2022-12-09 11:09:55 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:55 --> Input Class Initialized
+INFO - 2022-12-09 11:09:55 --> Language Class Initialized
+INFO - 2022-12-09 11:09:55 --> Loader Class Initialized
+INFO - 2022-12-09 11:09:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:09:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:09:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:09:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:09:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:09:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:09:55 --> Parser Class Initialized
+INFO - 2022-12-09 11:09:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:09:55 --> Pagination Class Initialized
+INFO - 2022-12-09 11:09:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:09:55 --> Controller Class Initialized
+INFO - 2022-12-09 11:09:55 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:09:55 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:09:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:55 --> Model "Customers" initialized
+INFO - 2022-12-09 11:09:55 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:09:55 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:09:55 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:09:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:09:55 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:09:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:09:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:09:55 --> Model "Products" initialized
+INFO - 2022-12-09 16:39:55 --> Model "reports" initialized
+INFO - 2022-12-09 16:39:55 --> Model "Users" initialized
+INFO - 2022-12-09 16:39:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:39:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:39:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:39:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:39:56 --> Final output sent to browser
+DEBUG - 2022-12-09 16:39:56 --> Total execution time: 0.3724
+ERROR - 2022-12-09 11:09:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:56 --> Config Class Initialized
+INFO - 2022-12-09 11:09:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:56 --> URI Class Initialized
+INFO - 2022-12-09 11:09:56 --> Router Class Initialized
+INFO - 2022-12-09 11:09:56 --> Output Class Initialized
+INFO - 2022-12-09 11:09:56 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:56 --> Input Class Initialized
+INFO - 2022-12-09 11:09:56 --> Language Class Initialized
+ERROR - 2022-12-09 11:09:56 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:09:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:56 --> Config Class Initialized
+INFO - 2022-12-09 11:09:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:56 --> URI Class Initialized
+INFO - 2022-12-09 11:09:56 --> Router Class Initialized
+INFO - 2022-12-09 11:09:56 --> Output Class Initialized
+INFO - 2022-12-09 11:09:56 --> Security Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:56 --> Input Class Initialized
+INFO - 2022-12-09 11:09:56 --> Language Class Initialized
+ERROR - 2022-12-09 11:09:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:09:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:09:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:09:56 --> Config Class Initialized
+INFO - 2022-12-09 11:09:56 --> Config Class Initialized
+INFO - 2022-12-09 11:09:56 --> Hooks Class Initialized
+INFO - 2022-12-09 11:09:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:56 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:09:56 --> URI Class Initialized
+INFO - 2022-12-09 11:09:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:09:56 --> URI Class Initialized
+INFO - 2022-12-09 11:09:56 --> Router Class Initialized
+INFO - 2022-12-09 11:09:56 --> Output Class Initialized
+INFO - 2022-12-09 11:09:56 --> Router Class Initialized
+INFO - 2022-12-09 11:09:56 --> Security Class Initialized
+INFO - 2022-12-09 11:09:56 --> Output Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:56 --> Security Class Initialized
+INFO - 2022-12-09 11:09:56 --> Input Class Initialized
+INFO - 2022-12-09 11:09:56 --> Language Class Initialized
+DEBUG - 2022-12-09 11:09:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:09:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:09:56 --> Input Class Initialized
+ERROR - 2022-12-09 11:09:56 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:09:56 --> Language Class Initialized
+ERROR - 2022-12-09 11:09:56 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:13:07 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:13:07 --> Config Class Initialized
+INFO - 2022-12-09 11:13:07 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:13:07 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:13:07 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:13:07 --> URI Class Initialized
+INFO - 2022-12-09 11:13:07 --> Router Class Initialized
+INFO - 2022-12-09 11:13:07 --> Output Class Initialized
+INFO - 2022-12-09 11:13:07 --> Security Class Initialized
+DEBUG - 2022-12-09 11:13:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:13:07 --> CSRF cookie sent
+INFO - 2022-12-09 11:13:07 --> Input Class Initialized
+INFO - 2022-12-09 11:13:07 --> Language Class Initialized
+INFO - 2022-12-09 11:13:07 --> Loader Class Initialized
+INFO - 2022-12-09 11:13:07 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:13:07 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:13:07 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:13:07 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:13:07 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:13:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:13:07 --> Parser Class Initialized
+INFO - 2022-12-09 11:13:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:13:07 --> Pagination Class Initialized
+INFO - 2022-12-09 11:13:07 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:13:07 --> Controller Class Initialized
+INFO - 2022-12-09 11:13:07 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:13:07 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:13:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:13:07 --> Model "Customers" initialized
+INFO - 2022-12-09 11:13:07 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1104
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1104
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1106
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1106
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1107
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1107
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1134
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1134
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:13:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:13:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:13:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:13:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:13:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:13:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:13:07 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:13:07 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:13:07 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:13:07 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:13:07 --> Model "Products" initialized
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php 5
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php 5
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> date_default_timezone_set(): Timezone ID '' is invalid D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php 5
+INFO - 2022-12-09 11:13:07 --> Model "reports" initialized
+INFO - 2022-12-09 11:13:07 --> Model "Users" initialized
+INFO - 2022-12-09 11:13:07 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 11:13:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 11:13:07 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 11:13:07 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 11:13:07 --> Final output sent to browser
+DEBUG - 2022-12-09 11:13:07 --> Total execution time: 0.4455
+ERROR - 2022-12-09 11:13:07 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:13:07 --> Config Class Initialized
+INFO - 2022-12-09 11:13:07 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:13:07 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:13:07 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:13:08 --> URI Class Initialized
+INFO - 2022-12-09 11:13:08 --> Router Class Initialized
+INFO - 2022-12-09 11:13:08 --> Output Class Initialized
+INFO - 2022-12-09 11:13:08 --> Security Class Initialized
+DEBUG - 2022-12-09 11:13:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:13:08 --> CSRF cookie sent
+INFO - 2022-12-09 11:13:08 --> Input Class Initialized
+INFO - 2022-12-09 11:13:08 --> Language Class Initialized
+ERROR - 2022-12-09 11:13:08 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:13:08 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:13:08 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:13:08 --> Config Class Initialized
+INFO - 2022-12-09 11:13:08 --> Config Class Initialized
+INFO - 2022-12-09 11:13:08 --> Hooks Class Initialized
+INFO - 2022-12-09 11:13:08 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:13:08 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:13:08 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:13:08 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:13:08 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:13:08 --> URI Class Initialized
+INFO - 2022-12-09 11:13:08 --> URI Class Initialized
+INFO - 2022-12-09 11:13:08 --> Router Class Initialized
+INFO - 2022-12-09 11:13:08 --> Router Class Initialized
+INFO - 2022-12-09 11:13:08 --> Output Class Initialized
+INFO - 2022-12-09 11:13:08 --> Output Class Initialized
+INFO - 2022-12-09 11:13:08 --> Security Class Initialized
+INFO - 2022-12-09 11:13:08 --> Security Class Initialized
+DEBUG - 2022-12-09 11:13:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:13:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:13:08 --> CSRF cookie sent
+INFO - 2022-12-09 11:13:08 --> CSRF cookie sent
+INFO - 2022-12-09 11:13:08 --> Input Class Initialized
+INFO - 2022-12-09 11:13:08 --> Input Class Initialized
+INFO - 2022-12-09 11:13:08 --> Language Class Initialized
+INFO - 2022-12-09 11:13:08 --> Language Class Initialized
+ERROR - 2022-12-09 11:13:08 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:13:08 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:13:08 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:13:08 --> Config Class Initialized
+INFO - 2022-12-09 11:13:08 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:13:08 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:13:08 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:13:08 --> URI Class Initialized
+INFO - 2022-12-09 11:13:08 --> Router Class Initialized
+INFO - 2022-12-09 11:13:08 --> Output Class Initialized
+INFO - 2022-12-09 11:13:08 --> Security Class Initialized
+DEBUG - 2022-12-09 11:13:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:13:08 --> CSRF cookie sent
+INFO - 2022-12-09 11:13:08 --> Input Class Initialized
+INFO - 2022-12-09 11:13:08 --> Language Class Initialized
+ERROR - 2022-12-09 11:13:08 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:14:04 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:14:04 --> Config Class Initialized
+INFO - 2022-12-09 11:14:04 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:14:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:14:04 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:14:04 --> URI Class Initialized
+INFO - 2022-12-09 11:14:04 --> Router Class Initialized
+INFO - 2022-12-09 11:14:04 --> Output Class Initialized
+INFO - 2022-12-09 11:14:04 --> Security Class Initialized
+DEBUG - 2022-12-09 11:14:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:14:04 --> CSRF cookie sent
+INFO - 2022-12-09 11:14:04 --> Input Class Initialized
+INFO - 2022-12-09 11:14:04 --> Language Class Initialized
+INFO - 2022-12-09 11:14:04 --> Loader Class Initialized
+INFO - 2022-12-09 11:14:04 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:14:04 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:14:04 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:14:04 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:14:04 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:14:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:14:04 --> Parser Class Initialized
+INFO - 2022-12-09 11:14:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:14:04 --> Pagination Class Initialized
+INFO - 2022-12-09 11:14:04 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:14:04 --> Controller Class Initialized
+INFO - 2022-12-09 11:14:04 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:14:04 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:14:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:14:04 --> Model "Customers" initialized
+INFO - 2022-12-09 11:14:04 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1109
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1128
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1136
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:14:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:14:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:14:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:14:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:14:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:14:04 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:14:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:14:04 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:14:04 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:14:04 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:14:04 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:14:04 --> Model "Products" initialized
+INFO - 2022-12-09 16:44:04 --> Model "reports" initialized
+INFO - 2022-12-09 16:44:04 --> Model "Users" initialized
+INFO - 2022-12-09 16:44:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:44:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:44:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:44:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:44:05 --> Final output sent to browser
+DEBUG - 2022-12-09 16:44:05 --> Total execution time: 0.3897
+ERROR - 2022-12-09 11:14:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:14:05 --> Config Class Initialized
+INFO - 2022-12-09 11:14:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:14:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:14:05 --> URI Class Initialized
+INFO - 2022-12-09 11:14:05 --> Router Class Initialized
+INFO - 2022-12-09 11:14:05 --> Output Class Initialized
+INFO - 2022-12-09 11:14:05 --> Security Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:14:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:14:05 --> Input Class Initialized
+INFO - 2022-12-09 11:14:05 --> Language Class Initialized
+ERROR - 2022-12-09 11:14:05 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:14:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:14:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:14:05 --> Config Class Initialized
+ERROR - 2022-12-09 11:14:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:14:05 --> Hooks Class Initialized
+INFO - 2022-12-09 11:14:05 --> Config Class Initialized
+INFO - 2022-12-09 11:14:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:14:05 --> Config Class Initialized
+INFO - 2022-12-09 11:14:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:14:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:14:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:14:05 --> URI Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:14:05 --> URI Class Initialized
+INFO - 2022-12-09 11:14:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:14:05 --> Router Class Initialized
+INFO - 2022-12-09 11:14:05 --> URI Class Initialized
+INFO - 2022-12-09 11:14:05 --> Output Class Initialized
+INFO - 2022-12-09 11:14:05 --> Router Class Initialized
+INFO - 2022-12-09 11:14:05 --> Security Class Initialized
+INFO - 2022-12-09 11:14:05 --> Router Class Initialized
+INFO - 2022-12-09 11:14:05 --> Output Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:14:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:14:05 --> Output Class Initialized
+INFO - 2022-12-09 11:14:05 --> Security Class Initialized
+INFO - 2022-12-09 11:14:05 --> Input Class Initialized
+INFO - 2022-12-09 11:14:05 --> Security Class Initialized
+INFO - 2022-12-09 11:14:05 --> Language Class Initialized
+DEBUG - 2022-12-09 11:14:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:14:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:14:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:14:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:14:05 --> Input Class Initialized
+ERROR - 2022-12-09 11:14:05 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:14:05 --> Input Class Initialized
+INFO - 2022-12-09 11:14:05 --> Language Class Initialized
+INFO - 2022-12-09 11:14:05 --> Language Class Initialized
+ERROR - 2022-12-09 11:14:05 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:14:05 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:17:09 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:17:09 --> Config Class Initialized
+INFO - 2022-12-09 11:17:09 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:17:09 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:17:09 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:17:09 --> URI Class Initialized
+INFO - 2022-12-09 11:17:09 --> Router Class Initialized
+INFO - 2022-12-09 11:17:09 --> Output Class Initialized
+INFO - 2022-12-09 11:17:09 --> Security Class Initialized
+DEBUG - 2022-12-09 11:17:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:17:09 --> CSRF cookie sent
+INFO - 2022-12-09 11:17:09 --> Input Class Initialized
+INFO - 2022-12-09 11:17:09 --> Language Class Initialized
+INFO - 2022-12-09 11:17:09 --> Loader Class Initialized
+INFO - 2022-12-09 11:17:09 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:17:09 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:17:09 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:17:09 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:17:09 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:17:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:17:09 --> Parser Class Initialized
+INFO - 2022-12-09 11:17:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:17:09 --> Pagination Class Initialized
+INFO - 2022-12-09 11:17:09 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:17:09 --> Controller Class Initialized
+INFO - 2022-12-09 11:17:09 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:17:09 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:17:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:17:09 --> Model "Customers" initialized
+INFO - 2022-12-09 11:17:09 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:17:09 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:17:09 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:17:09 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:17:09 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:17:09 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:17:09 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:17:09 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:17:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:17:09 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:17:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:17:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:17:09 --> Model "Products" initialized
+INFO - 2022-12-09 16:47:09 --> Model "reports" initialized
+INFO - 2022-12-09 16:47:09 --> Model "Users" initialized
+INFO - 2022-12-09 16:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:47:09 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:47:09 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:47:09 --> Final output sent to browser
+DEBUG - 2022-12-09 16:47:09 --> Total execution time: 0.3932
+ERROR - 2022-12-09 11:17:10 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:17:10 --> Config Class Initialized
+INFO - 2022-12-09 11:17:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:17:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:17:10 --> URI Class Initialized
+INFO - 2022-12-09 11:17:10 --> Router Class Initialized
+INFO - 2022-12-09 11:17:10 --> Output Class Initialized
+INFO - 2022-12-09 11:17:10 --> Security Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:17:10 --> CSRF cookie sent
+INFO - 2022-12-09 11:17:10 --> Input Class Initialized
+INFO - 2022-12-09 11:17:10 --> Language Class Initialized
+ERROR - 2022-12-09 11:17:10 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:17:10 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:17:10 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:17:10 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:17:10 --> Config Class Initialized
+INFO - 2022-12-09 11:17:10 --> Hooks Class Initialized
+INFO - 2022-12-09 11:17:10 --> Config Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:17:10 --> Hooks Class Initialized
+INFO - 2022-12-09 11:17:10 --> Config Class Initialized
+INFO - 2022-12-09 11:17:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:17:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:17:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:17:10 --> URI Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:17:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:17:10 --> Router Class Initialized
+INFO - 2022-12-09 11:17:10 --> URI Class Initialized
+INFO - 2022-12-09 11:17:10 --> URI Class Initialized
+INFO - 2022-12-09 11:17:10 --> Output Class Initialized
+INFO - 2022-12-09 11:17:10 --> Router Class Initialized
+INFO - 2022-12-09 11:17:10 --> Security Class Initialized
+INFO - 2022-12-09 11:17:10 --> Router Class Initialized
+INFO - 2022-12-09 11:17:10 --> Output Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:17:10 --> Output Class Initialized
+INFO - 2022-12-09 11:17:10 --> CSRF cookie sent
+INFO - 2022-12-09 11:17:10 --> Security Class Initialized
+INFO - 2022-12-09 11:17:10 --> Input Class Initialized
+INFO - 2022-12-09 11:17:10 --> Security Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:17:10 --> Language Class Initialized
+DEBUG - 2022-12-09 11:17:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:17:10 --> CSRF cookie sent
+INFO - 2022-12-09 11:17:10 --> CSRF cookie sent
+INFO - 2022-12-09 11:17:10 --> Input Class Initialized
+ERROR - 2022-12-09 11:17:10 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:17:10 --> Input Class Initialized
+INFO - 2022-12-09 11:17:10 --> Language Class Initialized
+INFO - 2022-12-09 11:17:10 --> Language Class Initialized
+ERROR - 2022-12-09 11:17:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:17:10 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:18:44 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:44 --> Config Class Initialized
+INFO - 2022-12-09 11:18:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:44 --> URI Class Initialized
+INFO - 2022-12-09 11:18:44 --> Router Class Initialized
+INFO - 2022-12-09 11:18:44 --> Output Class Initialized
+INFO - 2022-12-09 11:18:44 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:44 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:44 --> Input Class Initialized
+INFO - 2022-12-09 11:18:44 --> Language Class Initialized
+INFO - 2022-12-09 11:18:44 --> Loader Class Initialized
+INFO - 2022-12-09 11:18:44 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:18:44 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:18:44 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:18:44 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:18:44 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:18:44 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:18:44 --> Parser Class Initialized
+INFO - 2022-12-09 11:18:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:18:44 --> Pagination Class Initialized
+INFO - 2022-12-09 11:18:44 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:18:44 --> Controller Class Initialized
+INFO - 2022-12-09 11:18:44 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:18:44 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:18:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:18:44 --> Model "Customers" initialized
+INFO - 2022-12-09 11:18:44 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:18:44 --> Severity: Notice --> Undefined variable: total_invoice D:\wamp\www\R8-Uat-testing\application\views\invoice\profarma_invoice_list.php 334
+INFO - 2022-12-09 11:18:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/profarma_invoice_list.php
+DEBUG - 2022-12-09 11:18:44 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:18:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:18:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:18:44 --> Model "Products" initialized
+INFO - 2022-12-09 16:48:44 --> Model "reports" initialized
+INFO - 2022-12-09 16:48:44 --> Model "Users" initialized
+INFO - 2022-12-09 16:48:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:48:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:48:44 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:48:44 --> Final output sent to browser
+DEBUG - 2022-12-09 16:48:44 --> Total execution time: 0.2980
+ERROR - 2022-12-09 11:18:44 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:44 --> Config Class Initialized
+INFO - 2022-12-09 11:18:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:44 --> URI Class Initialized
+INFO - 2022-12-09 11:18:44 --> Router Class Initialized
+INFO - 2022-12-09 11:18:44 --> Output Class Initialized
+INFO - 2022-12-09 11:18:44 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:44 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:44 --> Input Class Initialized
+INFO - 2022-12-09 11:18:44 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:44 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:18:44 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:44 --> Config Class Initialized
+INFO - 2022-12-09 11:18:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:44 --> URI Class Initialized
+INFO - 2022-12-09 11:18:44 --> Router Class Initialized
+INFO - 2022-12-09 11:18:44 --> Output Class Initialized
+INFO - 2022-12-09 11:18:44 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:44 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:44 --> Input Class Initialized
+INFO - 2022-12-09 11:18:44 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:44 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:18:45 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:45 --> Config Class Initialized
+INFO - 2022-12-09 11:18:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:45 --> URI Class Initialized
+INFO - 2022-12-09 11:18:45 --> Router Class Initialized
+INFO - 2022-12-09 11:18:45 --> Output Class Initialized
+INFO - 2022-12-09 11:18:45 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:45 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:45 --> Input Class Initialized
+INFO - 2022-12-09 11:18:45 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:45 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:18:45 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:45 --> Config Class Initialized
+INFO - 2022-12-09 11:18:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:45 --> URI Class Initialized
+INFO - 2022-12-09 11:18:45 --> Router Class Initialized
+INFO - 2022-12-09 11:18:45 --> Output Class Initialized
+INFO - 2022-12-09 11:18:45 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:45 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:45 --> Input Class Initialized
+INFO - 2022-12-09 11:18:45 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:18:45 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:45 --> Config Class Initialized
+INFO - 2022-12-09 11:18:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:45 --> URI Class Initialized
+INFO - 2022-12-09 11:18:45 --> Router Class Initialized
+INFO - 2022-12-09 11:18:45 --> Output Class Initialized
+INFO - 2022-12-09 11:18:45 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:45 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:45 --> Input Class Initialized
+INFO - 2022-12-09 11:18:45 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:45 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:18:45 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:45 --> Config Class Initialized
+INFO - 2022-12-09 11:18:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:45 --> URI Class Initialized
+INFO - 2022-12-09 11:18:45 --> Router Class Initialized
+INFO - 2022-12-09 11:18:45 --> Output Class Initialized
+INFO - 2022-12-09 11:18:45 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:45 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:45 --> CSRF token verified
+INFO - 2022-12-09 11:18:45 --> Input Class Initialized
+INFO - 2022-12-09 11:18:45 --> Language Class Initialized
+INFO - 2022-12-09 11:18:45 --> Loader Class Initialized
+INFO - 2022-12-09 11:18:45 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:18:45 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:18:45 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:18:45 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:18:45 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:18:45 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:18:45 --> Parser Class Initialized
+INFO - 2022-12-09 11:18:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:18:45 --> Pagination Class Initialized
+INFO - 2022-12-09 11:18:45 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:18:45 --> Controller Class Initialized
+INFO - 2022-12-09 11:18:45 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:18:45 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:18:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:18:45 --> Model "Customers" initialized
+INFO - 2022-12-09 11:18:45 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:18:45 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:18:45 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:18:45 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:18:45 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:18:45 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+ERROR - 2022-12-09 11:18:45 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+INFO - 2022-12-09 11:18:45 --> Final output sent to browser
+DEBUG - 2022-12-09 11:18:45 --> Total execution time: 0.0205
+ERROR - 2022-12-09 11:18:46 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:46 --> Config Class Initialized
+INFO - 2022-12-09 11:18:46 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:46 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:46 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:46 --> URI Class Initialized
+INFO - 2022-12-09 11:18:46 --> Router Class Initialized
+INFO - 2022-12-09 11:18:46 --> Output Class Initialized
+INFO - 2022-12-09 11:18:46 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:46 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:46 --> Input Class Initialized
+INFO - 2022-12-09 11:18:46 --> Language Class Initialized
+INFO - 2022-12-09 11:18:46 --> Loader Class Initialized
+INFO - 2022-12-09 11:18:46 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:18:46 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:18:46 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:18:46 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:18:46 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:18:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:18:46 --> Parser Class Initialized
+INFO - 2022-12-09 11:18:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:18:46 --> Pagination Class Initialized
+INFO - 2022-12-09 11:18:46 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:18:46 --> Controller Class Initialized
+INFO - 2022-12-09 11:18:46 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:18:46 --> Final output sent to browser
+DEBUG - 2022-12-09 11:18:46 --> Total execution time: 0.0177
+ERROR - 2022-12-09 11:18:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:54 --> Config Class Initialized
+INFO - 2022-12-09 11:18:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:54 --> URI Class Initialized
+INFO - 2022-12-09 11:18:54 --> Router Class Initialized
+INFO - 2022-12-09 11:18:54 --> Output Class Initialized
+INFO - 2022-12-09 11:18:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:54 --> Input Class Initialized
+INFO - 2022-12-09 11:18:54 --> Language Class Initialized
+INFO - 2022-12-09 11:18:54 --> Loader Class Initialized
+INFO - 2022-12-09 11:18:54 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:18:54 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:18:54 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:18:54 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:18:54 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:18:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:18:54 --> Parser Class Initialized
+INFO - 2022-12-09 11:18:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:18:54 --> Pagination Class Initialized
+INFO - 2022-12-09 11:18:54 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:18:54 --> Controller Class Initialized
+INFO - 2022-12-09 11:18:54 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:18:54 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:18:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:18:54 --> Model "Customers" initialized
+INFO - 2022-12-09 11:18:54 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:18:54 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:18:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:18:54 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:18:54 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 249
+INFO - 2022-12-09 11:18:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/packing_list.php
+ERROR - 2022-12-09 11:18:54 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 249
+INFO - 2022-12-09 11:18:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/packing_list.php
+DEBUG - 2022-12-09 11:18:54 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:18:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:18:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:18:54 --> Model "Products" initialized
+INFO - 2022-12-09 16:48:54 --> Model "reports" initialized
+INFO - 2022-12-09 16:48:54 --> Model "Users" initialized
+INFO - 2022-12-09 16:48:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:48:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:48:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:48:55 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:48:55 --> Final output sent to browser
+DEBUG - 2022-12-09 16:48:55 --> Total execution time: 0.3321
+ERROR - 2022-12-09 11:18:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:55 --> Config Class Initialized
+INFO - 2022-12-09 11:18:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:55 --> URI Class Initialized
+INFO - 2022-12-09 11:18:55 --> Router Class Initialized
+INFO - 2022-12-09 11:18:55 --> Output Class Initialized
+INFO - 2022-12-09 11:18:55 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:55 --> Input Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:55 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:18:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:55 --> Config Class Initialized
+INFO - 2022-12-09 11:18:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:55 --> URI Class Initialized
+INFO - 2022-12-09 11:18:55 --> Router Class Initialized
+INFO - 2022-12-09 11:18:55 --> Output Class Initialized
+INFO - 2022-12-09 11:18:55 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:55 --> Input Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:55 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:18:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:18:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:55 --> Config Class Initialized
+INFO - 2022-12-09 11:18:55 --> Hooks Class Initialized
+ERROR - 2022-12-09 11:18:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+DEBUG - 2022-12-09 11:18:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:55 --> Config Class Initialized
+INFO - 2022-12-09 11:18:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:55 --> Hooks Class Initialized
+INFO - 2022-12-09 11:18:55 --> Config Class Initialized
+INFO - 2022-12-09 11:18:55 --> URI Class Initialized
+INFO - 2022-12-09 11:18:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:55 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:55 --> Router Class Initialized
+INFO - 2022-12-09 11:18:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:55 --> URI Class Initialized
+INFO - 2022-12-09 11:18:55 --> Output Class Initialized
+INFO - 2022-12-09 11:18:55 --> URI Class Initialized
+INFO - 2022-12-09 11:18:55 --> Security Class Initialized
+INFO - 2022-12-09 11:18:55 --> Router Class Initialized
+INFO - 2022-12-09 11:18:55 --> Router Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:55 --> Output Class Initialized
+INFO - 2022-12-09 11:18:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:55 --> Output Class Initialized
+INFO - 2022-12-09 11:18:55 --> Input Class Initialized
+INFO - 2022-12-09 11:18:55 --> Security Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language Class Initialized
+INFO - 2022-12-09 11:18:55 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:18:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:55 --> CSRF cookie sent
+ERROR - 2022-12-09 11:18:55 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:18:55 --> Input Class Initialized
+INFO - 2022-12-09 11:18:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:55 --> Input Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language Class Initialized
+ERROR - 2022-12-09 11:18:55 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:18:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:18:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:18:55 --> Config Class Initialized
+INFO - 2022-12-09 11:18:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:18:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:18:55 --> URI Class Initialized
+INFO - 2022-12-09 11:18:55 --> Router Class Initialized
+INFO - 2022-12-09 11:18:55 --> Output Class Initialized
+INFO - 2022-12-09 11:18:55 --> Security Class Initialized
+DEBUG - 2022-12-09 11:18:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:18:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:18:55 --> CSRF token verified
+INFO - 2022-12-09 11:18:55 --> Input Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language Class Initialized
+INFO - 2022-12-09 11:18:55 --> Loader Class Initialized
+INFO - 2022-12-09 11:18:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:18:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:18:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:18:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:18:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:18:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:18:55 --> Parser Class Initialized
+INFO - 2022-12-09 11:18:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:18:55 --> Pagination Class Initialized
+INFO - 2022-12-09 11:18:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:18:55 --> Controller Class Initialized
+INFO - 2022-12-09 11:18:55 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:18:55 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:18:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:18:55 --> Model "Customers" initialized
+INFO - 2022-12-09 11:18:55 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:18:55 --> Final output sent to browser
+DEBUG - 2022-12-09 11:18:55 --> Total execution time: 0.0146
+ERROR - 2022-12-09 11:19:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:03 --> Config Class Initialized
+INFO - 2022-12-09 11:19:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:03 --> URI Class Initialized
+INFO - 2022-12-09 11:19:03 --> Router Class Initialized
+INFO - 2022-12-09 11:19:03 --> Output Class Initialized
+INFO - 2022-12-09 11:19:03 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:03 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:03 --> Input Class Initialized
+INFO - 2022-12-09 11:19:03 --> Language Class Initialized
+INFO - 2022-12-09 11:19:03 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:03 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:03 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:03 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:03 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:03 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:03 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:03 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:03 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:03 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:03 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:03 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:03 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:03 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:19:03 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:19:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:19:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:19:03 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:19:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:19:03 --> Model "Products" initialized
+INFO - 2022-12-09 16:49:03 --> Model "reports" initialized
+INFO - 2022-12-09 16:49:03 --> Model "Users" initialized
+INFO - 2022-12-09 16:49:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:49:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:49:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:49:03 --> Final output sent to browser
+DEBUG - 2022-12-09 16:49:03 --> Total execution time: 0.2775
+ERROR - 2022-12-09 11:19:04 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:04 --> Config Class Initialized
+INFO - 2022-12-09 11:19:04 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:04 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:04 --> URI Class Initialized
+INFO - 2022-12-09 11:19:04 --> Router Class Initialized
+INFO - 2022-12-09 11:19:04 --> Output Class Initialized
+INFO - 2022-12-09 11:19:04 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:04 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:04 --> CSRF token verified
+INFO - 2022-12-09 11:19:04 --> Input Class Initialized
+INFO - 2022-12-09 11:19:04 --> Language Class Initialized
+INFO - 2022-12-09 11:19:04 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:04 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:04 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:04 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:04 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:04 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:04 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:04 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:04 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:04 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:04 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:04 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:04 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:04 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:19:04 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:19:04 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:19:04 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:19:04 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:19:04 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+ERROR - 2022-12-09 11:19:04 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+INFO - 2022-12-09 11:19:04 --> Final output sent to browser
+DEBUG - 2022-12-09 11:19:04 --> Total execution time: 0.0123
+ERROR - 2022-12-09 11:19:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:05 --> Config Class Initialized
+INFO - 2022-12-09 11:19:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:05 --> URI Class Initialized
+INFO - 2022-12-09 11:19:05 --> Router Class Initialized
+INFO - 2022-12-09 11:19:05 --> Output Class Initialized
+INFO - 2022-12-09 11:19:05 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:05 --> Input Class Initialized
+INFO - 2022-12-09 11:19:05 --> Language Class Initialized
+INFO - 2022-12-09 11:19:05 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:05 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:05 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:05 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:05 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:05 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:05 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:05 --> Model "Tax" initialized
+DEBUG - 2022-12-09 11:19:05 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:05 --> Lcustomer class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:05 --> Smsgateway class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:05 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:19:05 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1183
+ERROR - 2022-12-09 11:19:05 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1213
+ERROR - 2022-12-09 11:19:05 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1236
+ERROR - 2022-12-09 11:19:05 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1236
+ERROR - 2022-12-09 11:19:05 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1267
+INFO - 2022-12-09 11:19:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/add_invoice_form.php
+DEBUG - 2022-12-09 11:19:05 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:19:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:19:05 --> Model "Products" initialized
+INFO - 2022-12-09 16:49:05 --> Model "reports" initialized
+INFO - 2022-12-09 16:49:05 --> Model "Users" initialized
+INFO - 2022-12-09 16:49:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:49:05 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:49:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:49:05 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:49:05 --> Final output sent to browser
+DEBUG - 2022-12-09 16:49:05 --> Total execution time: 0.3894
+ERROR - 2022-12-09 11:19:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:05 --> Config Class Initialized
+INFO - 2022-12-09 11:19:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:05 --> URI Class Initialized
+INFO - 2022-12-09 11:19:05 --> Router Class Initialized
+INFO - 2022-12-09 11:19:05 --> Output Class Initialized
+INFO - 2022-12-09 11:19:05 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:05 --> CSRF token verified
+INFO - 2022-12-09 11:19:05 --> Input Class Initialized
+INFO - 2022-12-09 11:19:05 --> Language Class Initialized
+INFO - 2022-12-09 11:19:05 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:05 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:05 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:05 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:05 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:05 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:05 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:05 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:19:05 --> Final output sent to browser
+DEBUG - 2022-12-09 11:19:05 --> Total execution time: 0.0198
+ERROR - 2022-12-09 11:19:08 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:08 --> Config Class Initialized
+INFO - 2022-12-09 11:19:08 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:08 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:08 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:08 --> URI Class Initialized
+INFO - 2022-12-09 11:19:08 --> Router Class Initialized
+INFO - 2022-12-09 11:19:08 --> Output Class Initialized
+INFO - 2022-12-09 11:19:08 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:08 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:08 --> Input Class Initialized
+INFO - 2022-12-09 11:19:08 --> Language Class Initialized
+INFO - 2022-12-09 11:19:08 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:08 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:08 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:08 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:08 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:08 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:08 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:08 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:08 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:08 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:08 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:08 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:08 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:08 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:08 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:19:08 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:19:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:19:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:19:08 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:19:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:19:08 --> Model "Products" initialized
+INFO - 2022-12-09 16:49:08 --> Model "reports" initialized
+INFO - 2022-12-09 16:49:08 --> Model "Users" initialized
+INFO - 2022-12-09 16:49:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:49:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:49:08 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:49:08 --> Final output sent to browser
+DEBUG - 2022-12-09 16:49:08 --> Total execution time: 0.3063
+ERROR - 2022-12-09 11:19:09 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:09 --> Config Class Initialized
+INFO - 2022-12-09 11:19:09 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:09 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:09 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:09 --> URI Class Initialized
+INFO - 2022-12-09 11:19:09 --> Router Class Initialized
+INFO - 2022-12-09 11:19:09 --> Output Class Initialized
+INFO - 2022-12-09 11:19:09 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:09 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:09 --> CSRF token verified
+INFO - 2022-12-09 11:19:09 --> Input Class Initialized
+INFO - 2022-12-09 11:19:09 --> Language Class Initialized
+INFO - 2022-12-09 11:19:09 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:09 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:09 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:09 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:09 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:09 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:09 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:09 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:09 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:09 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:09 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:09 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:09 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:09 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:19:09 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:19:09 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:19:09 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:19:09 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:19:09 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+ERROR - 2022-12-09 11:19:09 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+INFO - 2022-12-09 11:19:09 --> Final output sent to browser
+DEBUG - 2022-12-09 11:19:09 --> Total execution time: 0.0122
+ERROR - 2022-12-09 11:19:11 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:11 --> Config Class Initialized
+INFO - 2022-12-09 11:19:11 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:11 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:11 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:11 --> URI Class Initialized
+INFO - 2022-12-09 11:19:11 --> Router Class Initialized
+INFO - 2022-12-09 11:19:11 --> Output Class Initialized
+INFO - 2022-12-09 11:19:11 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:11 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:11 --> Input Class Initialized
+INFO - 2022-12-09 11:19:11 --> Language Class Initialized
+INFO - 2022-12-09 11:19:11 --> Loader Class Initialized
+INFO - 2022-12-09 11:19:11 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:19:11 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:19:11 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:19:11 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:19:11 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:19:11 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:19:11 --> Parser Class Initialized
+INFO - 2022-12-09 11:19:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:19:11 --> Pagination Class Initialized
+INFO - 2022-12-09 11:19:11 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:19:11 --> Controller Class Initialized
+INFO - 2022-12-09 11:19:11 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:19:11 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:19:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:11 --> Model "Customers" initialized
+INFO - 2022-12-09 11:19:11 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:19:11 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:19:11 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:19:11 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:19:11 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:19:11 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:19:11 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:19:11 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:19:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:19:11 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:19:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:19:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:19:11 --> Model "Products" initialized
+INFO - 2022-12-09 16:49:11 --> Model "reports" initialized
+INFO - 2022-12-09 16:49:11 --> Model "Users" initialized
+INFO - 2022-12-09 16:49:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:49:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:49:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:49:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:49:11 --> Final output sent to browser
+DEBUG - 2022-12-09 16:49:11 --> Total execution time: 0.4269
+ERROR - 2022-12-09 11:19:15 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:19:15 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:15 --> Config Class Initialized
+INFO - 2022-12-09 11:19:15 --> Hooks Class Initialized
+INFO - 2022-12-09 11:19:15 --> Config Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:15 --> Hooks Class Initialized
+INFO - 2022-12-09 11:19:15 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:15 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:15 --> URI Class Initialized
+INFO - 2022-12-09 11:19:15 --> URI Class Initialized
+INFO - 2022-12-09 11:19:15 --> Router Class Initialized
+INFO - 2022-12-09 11:19:15 --> Router Class Initialized
+INFO - 2022-12-09 11:19:15 --> Output Class Initialized
+INFO - 2022-12-09 11:19:15 --> Output Class Initialized
+INFO - 2022-12-09 11:19:15 --> Security Class Initialized
+INFO - 2022-12-09 11:19:15 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:15 --> CSRF cookie sent
+DEBUG - 2022-12-09 11:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:15 --> Input Class Initialized
+INFO - 2022-12-09 11:19:15 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:15 --> Language Class Initialized
+INFO - 2022-12-09 11:19:15 --> Input Class Initialized
+ERROR - 2022-12-09 11:19:15 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:19:15 --> Language Class Initialized
+ERROR - 2022-12-09 11:19:15 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:19:15 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:15 --> Config Class Initialized
+INFO - 2022-12-09 11:19:15 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:15 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:15 --> URI Class Initialized
+INFO - 2022-12-09 11:19:15 --> Router Class Initialized
+INFO - 2022-12-09 11:19:15 --> Output Class Initialized
+INFO - 2022-12-09 11:19:15 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:15 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:15 --> Input Class Initialized
+INFO - 2022-12-09 11:19:15 --> Language Class Initialized
+ERROR - 2022-12-09 11:19:15 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:19:15 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:19:15 --> Config Class Initialized
+INFO - 2022-12-09 11:19:15 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:19:15 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:19:15 --> URI Class Initialized
+INFO - 2022-12-09 11:19:15 --> Router Class Initialized
+INFO - 2022-12-09 11:19:15 --> Output Class Initialized
+INFO - 2022-12-09 11:19:15 --> Security Class Initialized
+DEBUG - 2022-12-09 11:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:19:15 --> CSRF cookie sent
+INFO - 2022-12-09 11:19:15 --> Input Class Initialized
+INFO - 2022-12-09 11:19:15 --> Language Class Initialized
+ERROR - 2022-12-09 11:19:15 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:21:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:56 --> Config Class Initialized
+INFO - 2022-12-09 11:21:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:56 --> URI Class Initialized
+INFO - 2022-12-09 11:21:56 --> Router Class Initialized
+INFO - 2022-12-09 11:21:56 --> Output Class Initialized
+INFO - 2022-12-09 11:21:56 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:56 --> Input Class Initialized
+INFO - 2022-12-09 11:21:56 --> Language Class Initialized
+INFO - 2022-12-09 11:21:56 --> Loader Class Initialized
+INFO - 2022-12-09 11:21:56 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:21:56 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:21:56 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:21:56 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:21:56 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:21:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:21:56 --> Parser Class Initialized
+INFO - 2022-12-09 11:21:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:21:56 --> Pagination Class Initialized
+INFO - 2022-12-09 11:21:56 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:21:56 --> Controller Class Initialized
+INFO - 2022-12-09 11:21:56 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:21:56 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:21:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:21:56 --> Model "Customers" initialized
+INFO - 2022-12-09 11:21:56 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:21:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:21:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:21:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:21:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:21:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:21:56 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:21:56 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:21:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:21:56 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:21:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:21:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:21:56 --> Model "Products" initialized
+INFO - 2022-12-09 16:51:56 --> Model "reports" initialized
+INFO - 2022-12-09 16:51:56 --> Model "Users" initialized
+INFO - 2022-12-09 16:51:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:51:56 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:51:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:51:56 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:51:56 --> Final output sent to browser
+DEBUG - 2022-12-09 16:51:56 --> Total execution time: 0.4370
+ERROR - 2022-12-09 11:21:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:56 --> Config Class Initialized
+INFO - 2022-12-09 11:21:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:56 --> URI Class Initialized
+INFO - 2022-12-09 11:21:56 --> Router Class Initialized
+INFO - 2022-12-09 11:21:56 --> Output Class Initialized
+INFO - 2022-12-09 11:21:56 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:56 --> Input Class Initialized
+INFO - 2022-12-09 11:21:56 --> Language Class Initialized
+ERROR - 2022-12-09 11:21:56 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:21:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:21:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:56 --> Config Class Initialized
+INFO - 2022-12-09 11:21:56 --> Config Class Initialized
+INFO - 2022-12-09 11:21:56 --> Hooks Class Initialized
+INFO - 2022-12-09 11:21:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:21:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:56 --> URI Class Initialized
+INFO - 2022-12-09 11:21:56 --> URI Class Initialized
+INFO - 2022-12-09 11:21:56 --> Router Class Initialized
+INFO - 2022-12-09 11:21:56 --> Output Class Initialized
+INFO - 2022-12-09 11:21:56 --> Router Class Initialized
+INFO - 2022-12-09 11:21:56 --> Security Class Initialized
+INFO - 2022-12-09 11:21:56 --> Output Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:56 --> Security Class Initialized
+INFO - 2022-12-09 11:21:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:56 --> Input Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:56 --> Language Class Initialized
+INFO - 2022-12-09 11:21:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:56 --> Input Class Initialized
+ERROR - 2022-12-09 11:21:56 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:21:56 --> Language Class Initialized
+ERROR - 2022-12-09 11:21:56 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:21:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:56 --> Config Class Initialized
+INFO - 2022-12-09 11:21:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:56 --> URI Class Initialized
+INFO - 2022-12-09 11:21:56 --> Router Class Initialized
+INFO - 2022-12-09 11:21:56 --> Output Class Initialized
+INFO - 2022-12-09 11:21:56 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:56 --> Input Class Initialized
+INFO - 2022-12-09 11:21:56 --> Language Class Initialized
+ERROR - 2022-12-09 11:21:56 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:21:58 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:58 --> Config Class Initialized
+INFO - 2022-12-09 11:21:58 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:58 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:58 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:58 --> URI Class Initialized
+INFO - 2022-12-09 11:21:58 --> Router Class Initialized
+INFO - 2022-12-09 11:21:58 --> Output Class Initialized
+INFO - 2022-12-09 11:21:58 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:58 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:58 --> Input Class Initialized
+INFO - 2022-12-09 11:21:58 --> Language Class Initialized
+INFO - 2022-12-09 11:21:58 --> Loader Class Initialized
+INFO - 2022-12-09 11:21:58 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:21:58 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:21:58 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:21:58 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:21:58 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:21:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:21:58 --> Parser Class Initialized
+INFO - 2022-12-09 11:21:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:21:58 --> Pagination Class Initialized
+INFO - 2022-12-09 11:21:58 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:21:58 --> Controller Class Initialized
+INFO - 2022-12-09 11:21:58 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:21:58 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:21:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:21:58 --> Model "Customers" initialized
+INFO - 2022-12-09 11:21:58 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:21:58 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:21:58 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:21:58 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:21:58 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 249
+INFO - 2022-12-09 11:21:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/packing_list.php
+ERROR - 2022-12-09 11:21:58 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 249
+INFO - 2022-12-09 11:21:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/packing_list.php
+DEBUG - 2022-12-09 11:21:58 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:21:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:21:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:21:58 --> Model "Products" initialized
+INFO - 2022-12-09 16:51:58 --> Model "reports" initialized
+INFO - 2022-12-09 16:51:58 --> Model "Users" initialized
+INFO - 2022-12-09 16:51:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:51:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:51:58 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:51:58 --> Final output sent to browser
+DEBUG - 2022-12-09 16:51:58 --> Total execution time: 0.2684
+ERROR - 2022-12-09 11:21:58 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:58 --> Config Class Initialized
+INFO - 2022-12-09 11:21:58 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:58 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:58 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:58 --> URI Class Initialized
+INFO - 2022-12-09 11:21:58 --> Router Class Initialized
+INFO - 2022-12-09 11:21:58 --> Output Class Initialized
+INFO - 2022-12-09 11:21:58 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:58 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:58 --> Input Class Initialized
+INFO - 2022-12-09 11:21:58 --> Language Class Initialized
+ERROR - 2022-12-09 11:21:58 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:21:59 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:59 --> Config Class Initialized
+INFO - 2022-12-09 11:21:59 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:59 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:59 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:59 --> URI Class Initialized
+INFO - 2022-12-09 11:21:59 --> Router Class Initialized
+INFO - 2022-12-09 11:21:59 --> Output Class Initialized
+INFO - 2022-12-09 11:21:59 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:59 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:59 --> Input Class Initialized
+INFO - 2022-12-09 11:21:59 --> Language Class Initialized
+ERROR - 2022-12-09 11:21:59 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:21:59 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:21:59 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:21:59 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:59 --> Config Class Initialized
+INFO - 2022-12-09 11:21:59 --> Config Class Initialized
+INFO - 2022-12-09 11:21:59 --> Config Class Initialized
+INFO - 2022-12-09 11:21:59 --> Hooks Class Initialized
+INFO - 2022-12-09 11:21:59 --> Hooks Class Initialized
+INFO - 2022-12-09 11:21:59 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:59 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:21:59 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:21:59 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:59 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:59 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:59 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:59 --> URI Class Initialized
+INFO - 2022-12-09 11:21:59 --> URI Class Initialized
+INFO - 2022-12-09 11:21:59 --> URI Class Initialized
+INFO - 2022-12-09 11:21:59 --> Router Class Initialized
+INFO - 2022-12-09 11:21:59 --> Router Class Initialized
+INFO - 2022-12-09 11:21:59 --> Router Class Initialized
+INFO - 2022-12-09 11:21:59 --> Output Class Initialized
+INFO - 2022-12-09 11:21:59 --> Output Class Initialized
+INFO - 2022-12-09 11:21:59 --> Output Class Initialized
+INFO - 2022-12-09 11:21:59 --> Security Class Initialized
+INFO - 2022-12-09 11:21:59 --> Security Class Initialized
+INFO - 2022-12-09 11:21:59 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:21:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:59 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:59 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:59 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:59 --> Input Class Initialized
+INFO - 2022-12-09 11:21:59 --> Input Class Initialized
+INFO - 2022-12-09 11:21:59 --> Input Class Initialized
+INFO - 2022-12-09 11:21:59 --> Language Class Initialized
+INFO - 2022-12-09 11:21:59 --> Language Class Initialized
+INFO - 2022-12-09 11:21:59 --> Language Class Initialized
+ERROR - 2022-12-09 11:21:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:21:59 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:21:59 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:21:59 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:21:59 --> Config Class Initialized
+INFO - 2022-12-09 11:21:59 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:21:59 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:21:59 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:21:59 --> URI Class Initialized
+INFO - 2022-12-09 11:21:59 --> Router Class Initialized
+INFO - 2022-12-09 11:21:59 --> Output Class Initialized
+INFO - 2022-12-09 11:21:59 --> Security Class Initialized
+DEBUG - 2022-12-09 11:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:21:59 --> CSRF cookie sent
+INFO - 2022-12-09 11:21:59 --> CSRF token verified
+INFO - 2022-12-09 11:21:59 --> Input Class Initialized
+INFO - 2022-12-09 11:21:59 --> Language Class Initialized
+INFO - 2022-12-09 11:21:59 --> Loader Class Initialized
+INFO - 2022-12-09 11:21:59 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:21:59 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:21:59 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:21:59 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:21:59 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:21:59 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:21:59 --> Parser Class Initialized
+INFO - 2022-12-09 11:21:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:21:59 --> Pagination Class Initialized
+INFO - 2022-12-09 11:21:59 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:21:59 --> Controller Class Initialized
+INFO - 2022-12-09 11:21:59 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:21:59 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:21:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:21:59 --> Model "Customers" initialized
+INFO - 2022-12-09 11:21:59 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:21:59 --> Final output sent to browser
+DEBUG - 2022-12-09 11:21:59 --> Total execution time: 0.0225
+ERROR - 2022-12-09 11:22:27 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:22:27 --> Config Class Initialized
+INFO - 2022-12-09 11:22:27 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:27 --> URI Class Initialized
+INFO - 2022-12-09 11:22:27 --> Router Class Initialized
+INFO - 2022-12-09 11:22:27 --> Output Class Initialized
+INFO - 2022-12-09 11:22:27 --> Security Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:27 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:27 --> Input Class Initialized
+INFO - 2022-12-09 11:22:27 --> Language Class Initialized
+INFO - 2022-12-09 11:22:27 --> Loader Class Initialized
+INFO - 2022-12-09 11:22:27 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:22:27 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:22:27 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:22:27 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:22:27 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:22:27 --> Parser Class Initialized
+INFO - 2022-12-09 11:22:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:22:27 --> Pagination Class Initialized
+INFO - 2022-12-09 11:22:27 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:22:27 --> Controller Class Initialized
+INFO - 2022-12-09 11:22:27 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:22:27 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:22:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:22:27 --> Model "Customers" initialized
+INFO - 2022-12-09 11:22:27 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:22:27 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:22:27 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:22:27 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 158
+ERROR - 2022-12-09 11:22:27 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 250
+INFO - 2022-12-09 11:22:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/packing_list.php
+ERROR - 2022-12-09 11:22:27 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\packing_list.php 250
+INFO - 2022-12-09 11:22:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/packing_list.php
+DEBUG - 2022-12-09 11:22:27 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:22:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:22:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:22:27 --> Model "Products" initialized
+INFO - 2022-12-09 16:52:27 --> Model "reports" initialized
+INFO - 2022-12-09 16:52:27 --> Model "Users" initialized
+INFO - 2022-12-09 16:52:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:52:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:52:27 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:52:27 --> Final output sent to browser
+DEBUG - 2022-12-09 16:52:27 --> Total execution time: 0.2905
+ERROR - 2022-12-09 11:22:27 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:22:27 --> Config Class Initialized
+INFO - 2022-12-09 11:22:27 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:27 --> URI Class Initialized
+INFO - 2022-12-09 11:22:27 --> Router Class Initialized
+INFO - 2022-12-09 11:22:27 --> Output Class Initialized
+INFO - 2022-12-09 11:22:27 --> Security Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:27 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:27 --> Input Class Initialized
+INFO - 2022-12-09 11:22:27 --> Language Class Initialized
+ERROR - 2022-12-09 11:22:27 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:22:27 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:22:27 --> Config Class Initialized
+INFO - 2022-12-09 11:22:27 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:27 --> URI Class Initialized
+INFO - 2022-12-09 11:22:27 --> Router Class Initialized
+INFO - 2022-12-09 11:22:27 --> Output Class Initialized
+INFO - 2022-12-09 11:22:27 --> Security Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:27 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:27 --> Input Class Initialized
+INFO - 2022-12-09 11:22:27 --> Language Class Initialized
+ERROR - 2022-12-09 11:22:27 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:22:27 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:22:27 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:22:27 --> Config Class Initialized
+INFO - 2022-12-09 11:22:27 --> Config Class Initialized
+INFO - 2022-12-09 11:22:27 --> Hooks Class Initialized
+INFO - 2022-12-09 11:22:27 --> Hooks Class Initialized
+ERROR - 2022-12-09 11:22:27 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+DEBUG - 2022-12-09 11:22:27 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:22:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:27 --> Config Class Initialized
+INFO - 2022-12-09 11:22:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:27 --> Hooks Class Initialized
+INFO - 2022-12-09 11:22:27 --> URI Class Initialized
+INFO - 2022-12-09 11:22:27 --> URI Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:27 --> Router Class Initialized
+INFO - 2022-12-09 11:22:27 --> Router Class Initialized
+INFO - 2022-12-09 11:22:27 --> URI Class Initialized
+INFO - 2022-12-09 11:22:27 --> Output Class Initialized
+INFO - 2022-12-09 11:22:27 --> Output Class Initialized
+INFO - 2022-12-09 11:22:27 --> Router Class Initialized
+INFO - 2022-12-09 11:22:27 --> Security Class Initialized
+INFO - 2022-12-09 11:22:27 --> Security Class Initialized
+INFO - 2022-12-09 11:22:27 --> Output Class Initialized
+DEBUG - 2022-12-09 11:22:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:27 --> Security Class Initialized
+INFO - 2022-12-09 11:22:27 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:27 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:27 --> Input Class Initialized
+INFO - 2022-12-09 11:22:28 --> Input Class Initialized
+DEBUG - 2022-12-09 11:22:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:28 --> Language Class Initialized
+INFO - 2022-12-09 11:22:28 --> Language Class Initialized
+INFO - 2022-12-09 11:22:28 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:28 --> Input Class Initialized
+ERROR - 2022-12-09 11:22:28 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:22:28 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:22:28 --> Language Class Initialized
+ERROR - 2022-12-09 11:22:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:22:28 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:22:28 --> Config Class Initialized
+INFO - 2022-12-09 11:22:28 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:22:28 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:28 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:28 --> URI Class Initialized
+INFO - 2022-12-09 11:22:28 --> Router Class Initialized
+INFO - 2022-12-09 11:22:28 --> Output Class Initialized
+INFO - 2022-12-09 11:22:28 --> Security Class Initialized
+DEBUG - 2022-12-09 11:22:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:28 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:28 --> CSRF token verified
+INFO - 2022-12-09 11:22:28 --> Input Class Initialized
+INFO - 2022-12-09 11:22:28 --> Language Class Initialized
+INFO - 2022-12-09 11:22:28 --> Loader Class Initialized
+INFO - 2022-12-09 11:22:28 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:22:28 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:22:28 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:22:28 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:22:28 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:22:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:22:28 --> Parser Class Initialized
+INFO - 2022-12-09 11:22:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:22:28 --> Pagination Class Initialized
+INFO - 2022-12-09 11:22:28 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:22:28 --> Controller Class Initialized
+INFO - 2022-12-09 11:22:28 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:22:28 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:22:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:22:28 --> Model "Customers" initialized
+INFO - 2022-12-09 11:22:28 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:22:28 --> Final output sent to browser
+DEBUG - 2022-12-09 11:22:28 --> Total execution time: 0.0183
+ERROR - 2022-12-09 11:22:30 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:22:30 --> Config Class Initialized
+INFO - 2022-12-09 11:22:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:22:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:22:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:22:30 --> URI Class Initialized
+INFO - 2022-12-09 11:22:30 --> Router Class Initialized
+INFO - 2022-12-09 11:22:30 --> Output Class Initialized
+INFO - 2022-12-09 11:22:30 --> Security Class Initialized
+DEBUG - 2022-12-09 11:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:22:30 --> CSRF cookie sent
+INFO - 2022-12-09 11:22:30 --> Input Class Initialized
+INFO - 2022-12-09 11:22:30 --> Language Class Initialized
+INFO - 2022-12-09 11:22:30 --> Loader Class Initialized
+INFO - 2022-12-09 11:22:30 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:22:30 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:22:30 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:22:30 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:22:30 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:22:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:22:30 --> Parser Class Initialized
+INFO - 2022-12-09 11:22:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:22:30 --> Pagination Class Initialized
+INFO - 2022-12-09 11:22:30 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:22:30 --> Controller Class Initialized
+INFO - 2022-12-09 11:22:30 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:22:30 --> Final output sent to browser
+DEBUG - 2022-12-09 11:22:30 --> Total execution time: 0.0207
+ERROR - 2022-12-09 11:23:22 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:22 --> Config Class Initialized
+INFO - 2022-12-09 11:23:22 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:22 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:22 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:22 --> URI Class Initialized
+INFO - 2022-12-09 11:23:22 --> Router Class Initialized
+INFO - 2022-12-09 11:23:22 --> Output Class Initialized
+INFO - 2022-12-09 11:23:22 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:22 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:22 --> Input Class Initialized
+INFO - 2022-12-09 11:23:22 --> Language Class Initialized
+INFO - 2022-12-09 11:23:22 --> Loader Class Initialized
+INFO - 2022-12-09 11:23:22 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:23:22 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:23:22 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:23:22 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:23:22 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:23:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:23:22 --> Parser Class Initialized
+INFO - 2022-12-09 11:23:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:23:22 --> Pagination Class Initialized
+INFO - 2022-12-09 11:23:22 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:23:22 --> Controller Class Initialized
+INFO - 2022-12-09 11:23:22 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:23:22 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:23:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:22 --> Model "Customers" initialized
+INFO - 2022-12-09 11:23:22 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:23:22 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:23:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:23:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:23:22 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:23:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:23:22 --> Model "Products" initialized
+INFO - 2022-12-09 16:53:22 --> Model "reports" initialized
+INFO - 2022-12-09 16:53:22 --> Model "Users" initialized
+INFO - 2022-12-09 16:53:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:53:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:53:22 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:53:22 --> Final output sent to browser
+DEBUG - 2022-12-09 16:53:22 --> Total execution time: 0.2953
+ERROR - 2022-12-09 11:23:23 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:23 --> Config Class Initialized
+INFO - 2022-12-09 11:23:23 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:23 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:23 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:23 --> URI Class Initialized
+INFO - 2022-12-09 11:23:23 --> Router Class Initialized
+INFO - 2022-12-09 11:23:23 --> Output Class Initialized
+INFO - 2022-12-09 11:23:23 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:23 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:23 --> CSRF token verified
+INFO - 2022-12-09 11:23:23 --> Input Class Initialized
+INFO - 2022-12-09 11:23:23 --> Language Class Initialized
+INFO - 2022-12-09 11:23:23 --> Loader Class Initialized
+INFO - 2022-12-09 11:23:23 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:23:23 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:23:23 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:23:23 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:23:23 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:23:23 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:23:23 --> Parser Class Initialized
+INFO - 2022-12-09 11:23:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:23:23 --> Pagination Class Initialized
+INFO - 2022-12-09 11:23:23 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:23:23 --> Controller Class Initialized
+INFO - 2022-12-09 11:23:23 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:23:23 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:23:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:23 --> Model "Customers" initialized
+INFO - 2022-12-09 11:23:23 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:23:23 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:23:23 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:23:23 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:23:23 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:23:23 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+ERROR - 2022-12-09 11:23:23 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+INFO - 2022-12-09 11:23:23 --> Final output sent to browser
+DEBUG - 2022-12-09 11:23:23 --> Total execution time: 0.0117
+ERROR - 2022-12-09 11:23:24 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:24 --> Config Class Initialized
+INFO - 2022-12-09 11:23:24 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:24 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:24 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:24 --> URI Class Initialized
+INFO - 2022-12-09 11:23:24 --> Router Class Initialized
+INFO - 2022-12-09 11:23:24 --> Output Class Initialized
+INFO - 2022-12-09 11:23:24 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:24 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:24 --> Input Class Initialized
+INFO - 2022-12-09 11:23:24 --> Language Class Initialized
+INFO - 2022-12-09 11:23:24 --> Loader Class Initialized
+INFO - 2022-12-09 11:23:24 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:23:24 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:23:24 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:23:24 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:23:24 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:23:24 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:23:24 --> Parser Class Initialized
+INFO - 2022-12-09 11:23:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:23:24 --> Pagination Class Initialized
+INFO - 2022-12-09 11:23:24 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:23:24 --> Controller Class Initialized
+INFO - 2022-12-09 11:23:24 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:23:24 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:23:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:24 --> Model "Customers" initialized
+INFO - 2022-12-09 11:23:24 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:23:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:23:25 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:23:25 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:23:25 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:23:25 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:25 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:23:25 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:23:25 --> Model "Products" initialized
+INFO - 2022-12-09 16:53:25 --> Model "reports" initialized
+INFO - 2022-12-09 16:53:25 --> Model "Users" initialized
+INFO - 2022-12-09 16:53:25 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:53:25 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:53:25 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:53:25 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:53:25 --> Final output sent to browser
+DEBUG - 2022-12-09 16:53:25 --> Total execution time: 0.4049
+ERROR - 2022-12-09 11:23:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:23:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:31 --> Config Class Initialized
+INFO - 2022-12-09 11:23:31 --> Hooks Class Initialized
+INFO - 2022-12-09 11:23:31 --> Config Class Initialized
+INFO - 2022-12-09 11:23:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:31 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:31 --> URI Class Initialized
+INFO - 2022-12-09 11:23:31 --> URI Class Initialized
+INFO - 2022-12-09 11:23:31 --> Router Class Initialized
+INFO - 2022-12-09 11:23:31 --> Router Class Initialized
+INFO - 2022-12-09 11:23:31 --> Output Class Initialized
+INFO - 2022-12-09 11:23:31 --> Output Class Initialized
+INFO - 2022-12-09 11:23:31 --> Security Class Initialized
+INFO - 2022-12-09 11:23:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:23:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:31 --> Input Class Initialized
+INFO - 2022-12-09 11:23:31 --> Input Class Initialized
+INFO - 2022-12-09 11:23:31 --> Language Class Initialized
+INFO - 2022-12-09 11:23:31 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:31 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:23:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:23:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:31 --> Config Class Initialized
+INFO - 2022-12-09 11:23:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:31 --> URI Class Initialized
+INFO - 2022-12-09 11:23:31 --> Router Class Initialized
+INFO - 2022-12-09 11:23:31 --> Output Class Initialized
+INFO - 2022-12-09 11:23:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:31 --> Input Class Initialized
+INFO - 2022-12-09 11:23:31 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:31 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:23:31 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:31 --> Config Class Initialized
+INFO - 2022-12-09 11:23:31 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:31 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:31 --> URI Class Initialized
+INFO - 2022-12-09 11:23:31 --> Router Class Initialized
+INFO - 2022-12-09 11:23:31 --> Output Class Initialized
+INFO - 2022-12-09 11:23:31 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:31 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:31 --> Input Class Initialized
+INFO - 2022-12-09 11:23:31 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:31 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:23:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:53 --> Config Class Initialized
+INFO - 2022-12-09 11:23:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:53 --> URI Class Initialized
+INFO - 2022-12-09 11:23:53 --> Router Class Initialized
+INFO - 2022-12-09 11:23:53 --> Output Class Initialized
+INFO - 2022-12-09 11:23:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:53 --> Input Class Initialized
+INFO - 2022-12-09 11:23:53 --> Language Class Initialized
+INFO - 2022-12-09 11:23:53 --> Loader Class Initialized
+INFO - 2022-12-09 11:23:53 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:23:53 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:23:53 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:23:53 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:23:53 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:23:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:23:53 --> Parser Class Initialized
+INFO - 2022-12-09 11:23:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:23:53 --> Pagination Class Initialized
+INFO - 2022-12-09 11:23:53 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:23:53 --> Controller Class Initialized
+INFO - 2022-12-09 11:23:53 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:23:53 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:23:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:53 --> Model "Customers" initialized
+INFO - 2022-12-09 11:23:53 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Undefined variable: curn_info_default D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1082
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:23:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:23:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:23:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:23:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:23:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:23:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:23:54 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:23:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:23:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:23:54 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:23:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:23:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:23:54 --> Model "Products" initialized
+INFO - 2022-12-09 16:53:54 --> Model "reports" initialized
+INFO - 2022-12-09 16:53:54 --> Model "Users" initialized
+INFO - 2022-12-09 16:53:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:53:54 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:53:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:53:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:53:54 --> Final output sent to browser
+DEBUG - 2022-12-09 16:53:54 --> Total execution time: 0.4109
+ERROR - 2022-12-09 11:23:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:54 --> Config Class Initialized
+INFO - 2022-12-09 11:23:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:54 --> URI Class Initialized
+INFO - 2022-12-09 11:23:54 --> Router Class Initialized
+INFO - 2022-12-09 11:23:54 --> Output Class Initialized
+INFO - 2022-12-09 11:23:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:54 --> Input Class Initialized
+INFO - 2022-12-09 11:23:54 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:54 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:23:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:54 --> Config Class Initialized
+INFO - 2022-12-09 11:23:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:54 --> URI Class Initialized
+INFO - 2022-12-09 11:23:54 --> Router Class Initialized
+INFO - 2022-12-09 11:23:54 --> Output Class Initialized
+INFO - 2022-12-09 11:23:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:54 --> Input Class Initialized
+INFO - 2022-12-09 11:23:54 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:54 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:23:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:54 --> Config Class Initialized
+INFO - 2022-12-09 11:23:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:54 --> URI Class Initialized
+INFO - 2022-12-09 11:23:54 --> Router Class Initialized
+INFO - 2022-12-09 11:23:54 --> Output Class Initialized
+INFO - 2022-12-09 11:23:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:54 --> Input Class Initialized
+INFO - 2022-12-09 11:23:54 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:54 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:23:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:23:54 --> Config Class Initialized
+INFO - 2022-12-09 11:23:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:23:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:23:54 --> URI Class Initialized
+INFO - 2022-12-09 11:23:54 --> Router Class Initialized
+INFO - 2022-12-09 11:23:54 --> Output Class Initialized
+INFO - 2022-12-09 11:23:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:23:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:23:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:23:54 --> Input Class Initialized
+INFO - 2022-12-09 11:23:54 --> Language Class Initialized
+ERROR - 2022-12-09 11:23:54 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:24:10 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:10 --> Config Class Initialized
+INFO - 2022-12-09 11:24:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:10 --> URI Class Initialized
+INFO - 2022-12-09 11:24:10 --> Router Class Initialized
+INFO - 2022-12-09 11:24:10 --> Output Class Initialized
+INFO - 2022-12-09 11:24:10 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:10 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:10 --> Input Class Initialized
+INFO - 2022-12-09 11:24:10 --> Language Class Initialized
+INFO - 2022-12-09 11:24:10 --> Loader Class Initialized
+INFO - 2022-12-09 11:24:10 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:24:10 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:24:10 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:24:10 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:24:10 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:24:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:24:10 --> Parser Class Initialized
+INFO - 2022-12-09 11:24:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:24:10 --> Pagination Class Initialized
+INFO - 2022-12-09 11:24:10 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:24:10 --> Controller Class Initialized
+INFO - 2022-12-09 11:24:10 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:24:10 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:24:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:24:10 --> Model "Customers" initialized
+INFO - 2022-12-09 11:24:10 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: curn_info_default D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1082
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:24:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:24:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:24:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:24:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:24:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:24:10 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:24:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:24:10 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:24:10 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:24:10 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:24:10 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:24:10 --> Model "Products" initialized
+INFO - 2022-12-09 16:54:10 --> Model "reports" initialized
+INFO - 2022-12-09 16:54:10 --> Model "Users" initialized
+INFO - 2022-12-09 16:54:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:54:11 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:54:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:54:11 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:54:11 --> Final output sent to browser
+DEBUG - 2022-12-09 16:54:11 --> Total execution time: 0.3901
+ERROR - 2022-12-09 11:24:11 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:11 --> Config Class Initialized
+INFO - 2022-12-09 11:24:11 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:11 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:11 --> URI Class Initialized
+INFO - 2022-12-09 11:24:11 --> Router Class Initialized
+INFO - 2022-12-09 11:24:11 --> Output Class Initialized
+INFO - 2022-12-09 11:24:11 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:11 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:11 --> Input Class Initialized
+INFO - 2022-12-09 11:24:11 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:11 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:24:11 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:24:11 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:11 --> Config Class Initialized
+INFO - 2022-12-09 11:24:11 --> Hooks Class Initialized
+INFO - 2022-12-09 11:24:11 --> Config Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:11 --> Hooks Class Initialized
+INFO - 2022-12-09 11:24:11 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:11 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:11 --> URI Class Initialized
+INFO - 2022-12-09 11:24:11 --> URI Class Initialized
+ERROR - 2022-12-09 11:24:11 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:11 --> Router Class Initialized
+INFO - 2022-12-09 11:24:11 --> Router Class Initialized
+INFO - 2022-12-09 11:24:11 --> Output Class Initialized
+INFO - 2022-12-09 11:24:11 --> Config Class Initialized
+INFO - 2022-12-09 11:24:11 --> Hooks Class Initialized
+INFO - 2022-12-09 11:24:11 --> Output Class Initialized
+INFO - 2022-12-09 11:24:11 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:11 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:11 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:11 --> CSRF cookie sent
+DEBUG - 2022-12-09 11:24:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:11 --> Input Class Initialized
+INFO - 2022-12-09 11:24:11 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:11 --> URI Class Initialized
+INFO - 2022-12-09 11:24:11 --> Language Class Initialized
+INFO - 2022-12-09 11:24:11 --> Input Class Initialized
+INFO - 2022-12-09 11:24:11 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:11 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:24:11 --> Router Class Initialized
+ERROR - 2022-12-09 11:24:11 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:24:11 --> Output Class Initialized
+INFO - 2022-12-09 11:24:11 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:11 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:11 --> Input Class Initialized
+INFO - 2022-12-09 11:24:11 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:24:18 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:18 --> Config Class Initialized
+INFO - 2022-12-09 11:24:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:18 --> URI Class Initialized
+INFO - 2022-12-09 11:24:18 --> Router Class Initialized
+INFO - 2022-12-09 11:24:18 --> Output Class Initialized
+INFO - 2022-12-09 11:24:18 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:18 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:18 --> Input Class Initialized
+INFO - 2022-12-09 11:24:18 --> Language Class Initialized
+INFO - 2022-12-09 11:24:18 --> Loader Class Initialized
+INFO - 2022-12-09 11:24:18 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:24:18 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:24:18 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:24:18 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:24:18 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:24:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:24:18 --> Parser Class Initialized
+INFO - 2022-12-09 11:24:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:24:18 --> Pagination Class Initialized
+INFO - 2022-12-09 11:24:18 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:24:18 --> Controller Class Initialized
+INFO - 2022-12-09 11:24:18 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:24:18 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:24:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:24:18 --> Model "Customers" initialized
+INFO - 2022-12-09 11:24:18 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:24:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:24:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:24:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:24:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:24:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:24:18 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:24:18 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:24:18 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:24:18 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:24:18 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:24:18 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:24:18 --> Model "Products" initialized
+INFO - 2022-12-09 16:54:18 --> Model "reports" initialized
+INFO - 2022-12-09 16:54:18 --> Model "Users" initialized
+INFO - 2022-12-09 16:54:18 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:54:18 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:54:18 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:54:18 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:54:18 --> Final output sent to browser
+DEBUG - 2022-12-09 16:54:18 --> Total execution time: 0.4250
+ERROR - 2022-12-09 11:24:18 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:18 --> Config Class Initialized
+INFO - 2022-12-09 11:24:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:18 --> URI Class Initialized
+INFO - 2022-12-09 11:24:18 --> Router Class Initialized
+INFO - 2022-12-09 11:24:18 --> Output Class Initialized
+INFO - 2022-12-09 11:24:18 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:18 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:18 --> Input Class Initialized
+INFO - 2022-12-09 11:24:18 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:18 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:24:18 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:18 --> Config Class Initialized
+INFO - 2022-12-09 11:24:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:18 --> URI Class Initialized
+INFO - 2022-12-09 11:24:18 --> Router Class Initialized
+INFO - 2022-12-09 11:24:18 --> Output Class Initialized
+INFO - 2022-12-09 11:24:18 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:18 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:18 --> Input Class Initialized
+INFO - 2022-12-09 11:24:18 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:18 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:24:18 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:24:18 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:18 --> Config Class Initialized
+INFO - 2022-12-09 11:24:18 --> Config Class Initialized
+INFO - 2022-12-09 11:24:18 --> Hooks Class Initialized
+INFO - 2022-12-09 11:24:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:24:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:18 --> URI Class Initialized
+INFO - 2022-12-09 11:24:18 --> URI Class Initialized
+INFO - 2022-12-09 11:24:18 --> Router Class Initialized
+INFO - 2022-12-09 11:24:18 --> Router Class Initialized
+INFO - 2022-12-09 11:24:18 --> Output Class Initialized
+INFO - 2022-12-09 11:24:18 --> Output Class Initialized
+INFO - 2022-12-09 11:24:18 --> Security Class Initialized
+INFO - 2022-12-09 11:24:18 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:18 --> CSRF cookie sent
+DEBUG - 2022-12-09 11:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:18 --> Input Class Initialized
+INFO - 2022-12-09 11:24:18 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:18 --> Language Class Initialized
+INFO - 2022-12-09 11:24:18 --> Input Class Initialized
+INFO - 2022-12-09 11:24:18 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:24:18 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:24:50 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:50 --> Config Class Initialized
+INFO - 2022-12-09 11:24:50 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:50 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:50 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:50 --> URI Class Initialized
+INFO - 2022-12-09 11:24:50 --> Router Class Initialized
+INFO - 2022-12-09 11:24:50 --> Output Class Initialized
+INFO - 2022-12-09 11:24:50 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:50 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:50 --> Input Class Initialized
+INFO - 2022-12-09 11:24:50 --> Language Class Initialized
+INFO - 2022-12-09 11:24:50 --> Loader Class Initialized
+INFO - 2022-12-09 11:24:50 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:24:50 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:24:50 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:24:50 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:24:50 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:24:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:24:50 --> Parser Class Initialized
+INFO - 2022-12-09 11:24:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:24:50 --> Pagination Class Initialized
+INFO - 2022-12-09 11:24:50 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:24:50 --> Controller Class Initialized
+INFO - 2022-12-09 11:24:50 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:24:50 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:24:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:24:50 --> Model "Customers" initialized
+INFO - 2022-12-09 11:24:50 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:24:50 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:24:50 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:24:50 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:24:50 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:24:51 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:24:51 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:24:51 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:24:51 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:24:51 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:24:51 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:24:51 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:24:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:24:51 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:24:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:24:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:24:51 --> Model "Products" initialized
+INFO - 2022-12-09 16:54:51 --> Model "reports" initialized
+INFO - 2022-12-09 16:54:51 --> Model "Users" initialized
+INFO - 2022-12-09 16:54:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:54:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:54:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:54:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:54:51 --> Final output sent to browser
+DEBUG - 2022-12-09 16:54:51 --> Total execution time: 0.4294
+ERROR - 2022-12-09 11:24:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:51 --> Config Class Initialized
+INFO - 2022-12-09 11:24:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:51 --> URI Class Initialized
+INFO - 2022-12-09 11:24:51 --> Router Class Initialized
+INFO - 2022-12-09 11:24:51 --> Output Class Initialized
+INFO - 2022-12-09 11:24:51 --> Security Class Initialized
+DEBUG - 2022-12-09 11:24:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:51 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:51 --> Input Class Initialized
+INFO - 2022-12-09 11:24:51 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:51 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:24:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:51 --> Config Class Initialized
+INFO - 2022-12-09 11:24:51 --> Hooks Class Initialized
+ERROR - 2022-12-09 11:24:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+DEBUG - 2022-12-09 11:24:51 --> UTF-8 Support Enabled
+ERROR - 2022-12-09 11:24:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:24:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:51 --> Config Class Initialized
+INFO - 2022-12-09 11:24:51 --> Hooks Class Initialized
+INFO - 2022-12-09 11:24:51 --> URI Class Initialized
+INFO - 2022-12-09 11:24:51 --> Config Class Initialized
+INFO - 2022-12-09 11:24:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:24:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:51 --> Router Class Initialized
+INFO - 2022-12-09 11:24:51 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:24:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:24:51 --> Output Class Initialized
+INFO - 2022-12-09 11:24:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:24:51 --> URI Class Initialized
+INFO - 2022-12-09 11:24:51 --> URI Class Initialized
+INFO - 2022-12-09 11:24:51 --> Security Class Initialized
+INFO - 2022-12-09 11:24:51 --> Router Class Initialized
+INFO - 2022-12-09 11:24:51 --> Router Class Initialized
+DEBUG - 2022-12-09 11:24:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:51 --> Output Class Initialized
+INFO - 2022-12-09 11:24:51 --> Output Class Initialized
+INFO - 2022-12-09 11:24:51 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:51 --> Input Class Initialized
+INFO - 2022-12-09 11:24:51 --> Security Class Initialized
+INFO - 2022-12-09 11:24:51 --> Security Class Initialized
+INFO - 2022-12-09 11:24:51 --> Language Class Initialized
+DEBUG - 2022-12-09 11:24:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:24:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:24:51 --> CSRF cookie sent
+ERROR - 2022-12-09 11:24:51 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:24:51 --> CSRF cookie sent
+INFO - 2022-12-09 11:24:51 --> Input Class Initialized
+INFO - 2022-12-09 11:24:51 --> Input Class Initialized
+INFO - 2022-12-09 11:24:51 --> Language Class Initialized
+INFO - 2022-12-09 11:24:51 --> Language Class Initialized
+ERROR - 2022-12-09 11:24:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:24:51 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:25:52 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:52 --> Config Class Initialized
+INFO - 2022-12-09 11:25:52 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:52 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:52 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:52 --> URI Class Initialized
+INFO - 2022-12-09 11:25:52 --> Router Class Initialized
+INFO - 2022-12-09 11:25:52 --> Output Class Initialized
+INFO - 2022-12-09 11:25:52 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:52 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:52 --> Input Class Initialized
+INFO - 2022-12-09 11:25:52 --> Language Class Initialized
+INFO - 2022-12-09 11:25:52 --> Loader Class Initialized
+INFO - 2022-12-09 11:25:52 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:25:52 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:25:52 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:25:52 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:25:52 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:25:52 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:25:52 --> Parser Class Initialized
+INFO - 2022-12-09 11:25:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:25:52 --> Pagination Class Initialized
+INFO - 2022-12-09 11:25:52 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:25:52 --> Controller Class Initialized
+INFO - 2022-12-09 11:25:52 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:25:52 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:25:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:25:52 --> Model "Customers" initialized
+INFO - 2022-12-09 11:25:52 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:25:52 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 158
+ERROR - 2022-12-09 11:25:52 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 158
+ERROR - 2022-12-09 11:25:52 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 158
+ERROR - 2022-12-09 11:25:52 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 252
+INFO - 2022-12-09 11:25:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/ocean_export_tracking_invoice_list.php
+ERROR - 2022-12-09 11:25:52 --> Severity: Notice --> Undefined index: purchase_order_id D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 170
+ERROR - 2022-12-09 11:25:52 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 252
+INFO - 2022-12-09 11:25:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/ocean_export_tracking_invoice_list.php
+DEBUG - 2022-12-09 11:25:52 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:25:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:25:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:25:52 --> Model "Products" initialized
+INFO - 2022-12-09 16:55:52 --> Model "reports" initialized
+INFO - 2022-12-09 16:55:52 --> Model "Users" initialized
+INFO - 2022-12-09 16:55:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:55:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:55:52 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:55:52 --> Final output sent to browser
+DEBUG - 2022-12-09 16:55:52 --> Total execution time: 0.3020
+ERROR - 2022-12-09 11:25:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:53 --> Config Class Initialized
+INFO - 2022-12-09 11:25:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:53 --> URI Class Initialized
+INFO - 2022-12-09 11:25:53 --> Router Class Initialized
+INFO - 2022-12-09 11:25:53 --> Output Class Initialized
+INFO - 2022-12-09 11:25:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:53 --> Input Class Initialized
+INFO - 2022-12-09 11:25:53 --> Language Class Initialized
+ERROR - 2022-12-09 11:25:53 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:25:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:53 --> Config Class Initialized
+INFO - 2022-12-09 11:25:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:53 --> URI Class Initialized
+INFO - 2022-12-09 11:25:53 --> Router Class Initialized
+INFO - 2022-12-09 11:25:53 --> Output Class Initialized
+INFO - 2022-12-09 11:25:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:53 --> Input Class Initialized
+INFO - 2022-12-09 11:25:53 --> Language Class Initialized
+ERROR - 2022-12-09 11:25:53 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:25:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:25:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:53 --> Config Class Initialized
+INFO - 2022-12-09 11:25:53 --> Config Class Initialized
+INFO - 2022-12-09 11:25:53 --> Hooks Class Initialized
+INFO - 2022-12-09 11:25:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:25:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:53 --> URI Class Initialized
+INFO - 2022-12-09 11:25:53 --> URI Class Initialized
+INFO - 2022-12-09 11:25:53 --> Router Class Initialized
+INFO - 2022-12-09 11:25:53 --> Router Class Initialized
+INFO - 2022-12-09 11:25:53 --> Output Class Initialized
+INFO - 2022-12-09 11:25:53 --> Output Class Initialized
+INFO - 2022-12-09 11:25:53 --> Security Class Initialized
+INFO - 2022-12-09 11:25:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:53 --> CSRF cookie sent
+DEBUG - 2022-12-09 11:25:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:53 --> Input Class Initialized
+INFO - 2022-12-09 11:25:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:53 --> Language Class Initialized
+INFO - 2022-12-09 11:25:53 --> Input Class Initialized
+INFO - 2022-12-09 11:25:53 --> Language Class Initialized
+ERROR - 2022-12-09 11:25:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:25:53 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 11:25:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:53 --> Config Class Initialized
+INFO - 2022-12-09 11:25:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:53 --> URI Class Initialized
+INFO - 2022-12-09 11:25:53 --> Router Class Initialized
+INFO - 2022-12-09 11:25:53 --> Output Class Initialized
+INFO - 2022-12-09 11:25:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:53 --> CSRF token verified
+INFO - 2022-12-09 11:25:53 --> Input Class Initialized
+INFO - 2022-12-09 11:25:53 --> Language Class Initialized
+INFO - 2022-12-09 11:25:53 --> Loader Class Initialized
+INFO - 2022-12-09 11:25:53 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:25:53 --> Helper loaded: file_helper
+ERROR - 2022-12-09 11:25:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:53 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:25:53 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:25:53 --> Config Class Initialized
+INFO - 2022-12-09 11:25:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:53 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:25:53 --> URI Class Initialized
+INFO - 2022-12-09 11:25:53 --> Router Class Initialized
+INFO - 2022-12-09 11:25:53 --> Output Class Initialized
+INFO - 2022-12-09 11:25:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:53 --> Input Class Initialized
+INFO - 2022-12-09 11:25:53 --> Language Class Initialized
+ERROR - 2022-12-09 11:25:53 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 11:25:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:25:53 --> Parser Class Initialized
+INFO - 2022-12-09 11:25:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:25:53 --> Pagination Class Initialized
+INFO - 2022-12-09 11:25:53 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:25:53 --> Controller Class Initialized
+INFO - 2022-12-09 11:25:53 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:25:53 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:25:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:25:53 --> Model "Customers" initialized
+INFO - 2022-12-09 11:25:53 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:25:53 --> Final output sent to browser
+DEBUG - 2022-12-09 11:25:53 --> Total execution time: 0.0155
+ERROR - 2022-12-09 11:25:55 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:25:55 --> Config Class Initialized
+INFO - 2022-12-09 11:25:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:25:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:25:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:25:55 --> URI Class Initialized
+INFO - 2022-12-09 11:25:55 --> Router Class Initialized
+INFO - 2022-12-09 11:25:55 --> Output Class Initialized
+INFO - 2022-12-09 11:25:55 --> Security Class Initialized
+DEBUG - 2022-12-09 11:25:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:25:55 --> CSRF cookie sent
+INFO - 2022-12-09 11:25:55 --> Input Class Initialized
+INFO - 2022-12-09 11:25:55 --> Language Class Initialized
+INFO - 2022-12-09 11:25:55 --> Loader Class Initialized
+INFO - 2022-12-09 11:25:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:25:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:25:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:25:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:25:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:25:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:25:55 --> Parser Class Initialized
+INFO - 2022-12-09 11:25:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:25:55 --> Pagination Class Initialized
+INFO - 2022-12-09 11:25:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:25:55 --> Controller Class Initialized
+INFO - 2022-12-09 11:25:55 --> Model "Web_settings" initialized
+ERROR - 2022-12-09 11:26:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:03 --> Config Class Initialized
+INFO - 2022-12-09 11:26:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:03 --> URI Class Initialized
+INFO - 2022-12-09 11:26:03 --> Router Class Initialized
+INFO - 2022-12-09 11:26:03 --> Output Class Initialized
+INFO - 2022-12-09 11:26:03 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:03 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:03 --> Input Class Initialized
+INFO - 2022-12-09 11:26:03 --> Language Class Initialized
+INFO - 2022-12-09 11:26:03 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:03 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:03 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:03 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:03 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:03 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:03 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:03 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:03 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:03 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:03 --> Model "Web_settings" initialized
+ERROR - 2022-12-09 11:26:18 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:18 --> Config Class Initialized
+INFO - 2022-12-09 11:26:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:18 --> URI Class Initialized
+INFO - 2022-12-09 11:26:18 --> Router Class Initialized
+INFO - 2022-12-09 11:26:18 --> Output Class Initialized
+INFO - 2022-12-09 11:26:18 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:18 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:18 --> Input Class Initialized
+INFO - 2022-12-09 11:26:18 --> Language Class Initialized
+INFO - 2022-12-09 11:26:18 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:18 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:18 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:18 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:18 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:18 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:18 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:18 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:18 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:18 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:18 --> Model "Web_settings" initialized
+ERROR - 2022-12-09 11:26:36 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:36 --> Config Class Initialized
+INFO - 2022-12-09 11:26:36 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:36 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:36 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:36 --> URI Class Initialized
+INFO - 2022-12-09 11:26:36 --> Router Class Initialized
+INFO - 2022-12-09 11:26:36 --> Output Class Initialized
+INFO - 2022-12-09 11:26:36 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:36 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:36 --> Input Class Initialized
+INFO - 2022-12-09 11:26:36 --> Language Class Initialized
+INFO - 2022-12-09 11:26:36 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:36 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:36 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:36 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:36 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:36 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:36 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:36 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:36 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:36 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:36 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:36 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:26:36 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:26:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:36 --> Model "Customers" initialized
+INFO - 2022-12-09 11:26:36 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:26:36 --> Model "Ppurchases" initialized
+INFO - 2022-12-09 11:26:36 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/ocean_export_tracking.php
+DEBUG - 2022-12-09 11:26:36 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:36 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:26:36 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:26:36 --> Model "Products" initialized
+INFO - 2022-12-09 16:56:36 --> Model "reports" initialized
+INFO - 2022-12-09 16:56:36 --> Model "Users" initialized
+INFO - 2022-12-09 16:56:36 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:56:36 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:56:36 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:56:36 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:56:36 --> Final output sent to browser
+DEBUG - 2022-12-09 16:56:36 --> Total execution time: 0.3929
+ERROR - 2022-12-09 11:26:37 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:37 --> Config Class Initialized
+INFO - 2022-12-09 11:26:37 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:37 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:37 --> URI Class Initialized
+INFO - 2022-12-09 11:26:37 --> Router Class Initialized
+INFO - 2022-12-09 11:26:37 --> Output Class Initialized
+INFO - 2022-12-09 11:26:37 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:37 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:37 --> Input Class Initialized
+INFO - 2022-12-09 11:26:37 --> Language Class Initialized
+ERROR - 2022-12-09 11:26:37 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:26:37 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:37 --> Config Class Initialized
+INFO - 2022-12-09 11:26:37 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:37 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:37 --> URI Class Initialized
+ERROR - 2022-12-09 11:26:37 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:37 --> Router Class Initialized
+INFO - 2022-12-09 11:26:37 --> Output Class Initialized
+INFO - 2022-12-09 11:26:37 --> Config Class Initialized
+INFO - 2022-12-09 11:26:37 --> Hooks Class Initialized
+INFO - 2022-12-09 11:26:37 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:26:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:37 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:37 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:37 --> Input Class Initialized
+INFO - 2022-12-09 11:26:37 --> URI Class Initialized
+INFO - 2022-12-09 11:26:37 --> Language Class Initialized
+INFO - 2022-12-09 11:26:37 --> Router Class Initialized
+ERROR - 2022-12-09 11:26:37 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:26:37 --> Output Class Initialized
+INFO - 2022-12-09 11:26:37 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:37 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:37 --> Input Class Initialized
+INFO - 2022-12-09 11:26:37 --> Language Class Initialized
+ERROR - 2022-12-09 11:26:37 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:26:37 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:37 --> Config Class Initialized
+INFO - 2022-12-09 11:26:37 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:37 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:37 --> URI Class Initialized
+INFO - 2022-12-09 11:26:37 --> Router Class Initialized
+INFO - 2022-12-09 11:26:37 --> Output Class Initialized
+INFO - 2022-12-09 11:26:37 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:37 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:37 --> Input Class Initialized
+INFO - 2022-12-09 11:26:37 --> Language Class Initialized
+ERROR - 2022-12-09 11:26:37 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:26:49 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:49 --> Config Class Initialized
+INFO - 2022-12-09 11:26:49 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:49 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:49 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:49 --> URI Class Initialized
+INFO - 2022-12-09 11:26:49 --> Router Class Initialized
+INFO - 2022-12-09 11:26:49 --> Output Class Initialized
+INFO - 2022-12-09 11:26:49 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:49 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:49 --> CSRF token verified
+INFO - 2022-12-09 11:26:49 --> Input Class Initialized
+INFO - 2022-12-09 11:26:49 --> Language Class Initialized
+INFO - 2022-12-09 11:26:49 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:49 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:49 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:49 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:49 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:49 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:49 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:49 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:49 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:49 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:49 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:26:49 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:26:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:49 --> Model "Customers" initialized
+INFO - 2022-12-09 11:26:49 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:26:49 --> Final output sent to browser
+DEBUG - 2022-12-09 11:26:49 --> Total execution time: 0.0458
+ERROR - 2022-12-09 11:26:51 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:51 --> Config Class Initialized
+INFO - 2022-12-09 11:26:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:51 --> URI Class Initialized
+INFO - 2022-12-09 11:26:51 --> Router Class Initialized
+INFO - 2022-12-09 11:26:51 --> Output Class Initialized
+INFO - 2022-12-09 11:26:51 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:51 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:51 --> Input Class Initialized
+INFO - 2022-12-09 11:26:51 --> Language Class Initialized
+INFO - 2022-12-09 11:26:51 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:51 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:51 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:51 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:51 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:51 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:51 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:51 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:51 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:51 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:51 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:26:51 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:26:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:51 --> Model "Customers" initialized
+INFO - 2022-12-09 11:26:51 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:26:51 --> Model "Ppurchases" initialized
+INFO - 2022-12-09 11:26:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/ocean_export_tracking.php
+DEBUG - 2022-12-09 11:26:51 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:26:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:26:51 --> Model "Products" initialized
+INFO - 2022-12-09 16:56:51 --> Model "reports" initialized
+INFO - 2022-12-09 16:56:51 --> Model "Users" initialized
+INFO - 2022-12-09 16:56:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:56:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:56:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:56:51 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:56:51 --> Final output sent to browser
+DEBUG - 2022-12-09 16:56:51 --> Total execution time: 0.3265
+ERROR - 2022-12-09 11:26:53 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:53 --> Config Class Initialized
+INFO - 2022-12-09 11:26:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:53 --> URI Class Initialized
+INFO - 2022-12-09 11:26:53 --> Router Class Initialized
+INFO - 2022-12-09 11:26:53 --> Output Class Initialized
+INFO - 2022-12-09 11:26:53 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:53 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:53 --> Input Class Initialized
+INFO - 2022-12-09 11:26:53 --> Language Class Initialized
+INFO - 2022-12-09 11:26:53 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:53 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:53 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:53 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:53 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:53 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:53 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:53 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:53 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:53 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:53 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:26:53 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:26:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:53 --> Model "Customers" initialized
+INFO - 2022-12-09 11:26:53 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:26:53 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 158
+ERROR - 2022-12-09 11:26:53 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 158
+ERROR - 2022-12-09 11:26:53 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 158
+ERROR - 2022-12-09 11:26:53 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 252
+INFO - 2022-12-09 11:26:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/ocean_export_tracking_invoice_list.php
+ERROR - 2022-12-09 11:26:53 --> Severity: Notice --> Undefined index: purchase_order_id D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 170
+ERROR - 2022-12-09 11:26:53 --> Severity: Notice --> Undefined index: purchase_order_id D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 170
+ERROR - 2022-12-09 11:26:53 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\ocean_export_tracking_invoice_list.php 252
+INFO - 2022-12-09 11:26:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/ocean_export_tracking_invoice_list.php
+DEBUG - 2022-12-09 11:26:53 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:26:53 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:26:53 --> Model "Products" initialized
+INFO - 2022-12-09 16:56:53 --> Model "reports" initialized
+INFO - 2022-12-09 16:56:53 --> Model "Users" initialized
+INFO - 2022-12-09 16:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:56:54 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:56:54 --> Final output sent to browser
+DEBUG - 2022-12-09 16:56:54 --> Total execution time: 0.2286
+ERROR - 2022-12-09 11:26:54 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:54 --> Config Class Initialized
+INFO - 2022-12-09 11:26:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:54 --> URI Class Initialized
+INFO - 2022-12-09 11:26:54 --> Router Class Initialized
+INFO - 2022-12-09 11:26:54 --> Output Class Initialized
+INFO - 2022-12-09 11:26:54 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:54 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:54 --> CSRF token verified
+INFO - 2022-12-09 11:26:54 --> Input Class Initialized
+INFO - 2022-12-09 11:26:54 --> Language Class Initialized
+INFO - 2022-12-09 11:26:54 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:54 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:54 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:54 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:54 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:54 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:54 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:54 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:54 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:54 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:54 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:26:54 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:26:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:26:54 --> Model "Customers" initialized
+INFO - 2022-12-09 11:26:54 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:26:54 --> Final output sent to browser
+DEBUG - 2022-12-09 11:26:54 --> Total execution time: 0.0211
+ERROR - 2022-12-09 11:26:56 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:26:56 --> Config Class Initialized
+INFO - 2022-12-09 11:26:56 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:26:56 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:26:56 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:26:56 --> URI Class Initialized
+INFO - 2022-12-09 11:26:56 --> Router Class Initialized
+INFO - 2022-12-09 11:26:56 --> Output Class Initialized
+INFO - 2022-12-09 11:26:56 --> Security Class Initialized
+DEBUG - 2022-12-09 11:26:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:26:56 --> CSRF cookie sent
+INFO - 2022-12-09 11:26:56 --> Input Class Initialized
+INFO - 2022-12-09 11:26:56 --> Language Class Initialized
+INFO - 2022-12-09 11:26:56 --> Loader Class Initialized
+INFO - 2022-12-09 11:26:56 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:26:56 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:26:56 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:26:56 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:26:56 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:26:56 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:26:56 --> Parser Class Initialized
+INFO - 2022-12-09 11:26:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:26:56 --> Pagination Class Initialized
+INFO - 2022-12-09 11:26:56 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:26:56 --> Controller Class Initialized
+INFO - 2022-12-09 11:26:56 --> Model "Web_settings" initialized
+ERROR - 2022-12-09 11:27:12 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:27:12 --> Config Class Initialized
+INFO - 2022-12-09 11:27:12 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:27:12 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:12 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:12 --> URI Class Initialized
+INFO - 2022-12-09 11:27:12 --> Router Class Initialized
+INFO - 2022-12-09 11:27:12 --> Output Class Initialized
+INFO - 2022-12-09 11:27:12 --> Security Class Initialized
+DEBUG - 2022-12-09 11:27:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:12 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:12 --> Input Class Initialized
+INFO - 2022-12-09 11:27:12 --> Language Class Initialized
+INFO - 2022-12-09 11:27:12 --> Loader Class Initialized
+INFO - 2022-12-09 11:27:12 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:27:12 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:27:12 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:27:12 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:27:12 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:27:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:27:12 --> Parser Class Initialized
+INFO - 2022-12-09 11:27:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:27:12 --> Pagination Class Initialized
+INFO - 2022-12-09 11:27:12 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:27:12 --> Controller Class Initialized
+INFO - 2022-12-09 11:27:12 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:27:12 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:27:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:27:12 --> Model "Customers" initialized
+INFO - 2022-12-09 11:27:12 --> Model "Invoices" initialized
+INFO - 2022-12-09 11:27:12 --> Model "Permission_model" initialized
+INFO - 2022-12-09 11:27:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 11:27:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 11:27:12 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:27:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:27:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:27:12 --> Model "Products" initialized
+INFO - 2022-12-09 16:57:12 --> Model "reports" initialized
+INFO - 2022-12-09 16:57:12 --> Model "Users" initialized
+INFO - 2022-12-09 16:57:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:57:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:57:12 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:57:12 --> Final output sent to browser
+DEBUG - 2022-12-09 16:57:12 --> Total execution time: 0.2542
+ERROR - 2022-12-09 11:27:12 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:27:12 --> Config Class Initialized
+INFO - 2022-12-09 11:27:12 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:27:12 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:12 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:12 --> URI Class Initialized
+INFO - 2022-12-09 11:27:12 --> Router Class Initialized
+INFO - 2022-12-09 11:27:12 --> Output Class Initialized
+INFO - 2022-12-09 11:27:12 --> Security Class Initialized
+DEBUG - 2022-12-09 11:27:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:12 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:12 --> CSRF token verified
+INFO - 2022-12-09 11:27:12 --> Input Class Initialized
+INFO - 2022-12-09 11:27:12 --> Language Class Initialized
+INFO - 2022-12-09 11:27:12 --> Loader Class Initialized
+INFO - 2022-12-09 11:27:12 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:27:12 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:27:12 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:27:12 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:27:12 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:27:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:27:12 --> Parser Class Initialized
+INFO - 2022-12-09 11:27:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:27:12 --> Pagination Class Initialized
+INFO - 2022-12-09 11:27:12 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:27:12 --> Controller Class Initialized
+INFO - 2022-12-09 11:27:12 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:27:12 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:27:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:27:12 --> Model "Customers" initialized
+INFO - 2022-12-09 11:27:12 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:27:12 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:27:12 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:27:12 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:27:12 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:27:12 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+ERROR - 2022-12-09 11:27:12 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+INFO - 2022-12-09 11:27:12 --> Final output sent to browser
+DEBUG - 2022-12-09 11:27:12 --> Total execution time: 0.0261
+ERROR - 2022-12-09 11:27:14 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:27:14 --> Config Class Initialized
+INFO - 2022-12-09 11:27:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:27:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:14 --> URI Class Initialized
+INFO - 2022-12-09 11:27:14 --> Router Class Initialized
+INFO - 2022-12-09 11:27:14 --> Output Class Initialized
+INFO - 2022-12-09 11:27:14 --> Security Class Initialized
+DEBUG - 2022-12-09 11:27:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:14 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:14 --> Input Class Initialized
+INFO - 2022-12-09 11:27:14 --> Language Class Initialized
+INFO - 2022-12-09 11:27:14 --> Loader Class Initialized
+INFO - 2022-12-09 11:27:14 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:27:14 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:27:14 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:27:14 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:27:14 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:27:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:27:14 --> Parser Class Initialized
+INFO - 2022-12-09 11:27:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:27:14 --> Pagination Class Initialized
+INFO - 2022-12-09 11:27:14 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:27:14 --> Controller Class Initialized
+INFO - 2022-12-09 11:27:14 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:27:14 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:27:14 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:27:14 --> Model "Customers" initialized
+INFO - 2022-12-09 11:27:14 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1110
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1111
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1112
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1113
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1114
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1115
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1116
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1117
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1118
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1119
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1120
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1121
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1122
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1123
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1124
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1125
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1126
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1127
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1129
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1130
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1131
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1132
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1137
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type bool D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\libraries\Linvoice.php 1138
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: customer_details D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 169
+ERROR - 2022-12-09 11:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 516
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 559
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: category_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1176
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: unit_list D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1206
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: taxfield D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1229
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: supplier D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1260
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: packinglist D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1751
+ERROR - 2022-12-09 11:27:14 --> Severity: Notice --> Undefined variable: product D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+ERROR - 2022-12-09 11:27:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\wamp\www\R8-Uat-testing\application\views\invoice\edit_invoice_form.php 1922
+INFO - 2022-12-09 11:27:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/edit_invoice_form.php
+DEBUG - 2022-12-09 11:27:14 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:27:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:27:14 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:27:14 --> Model "Products" initialized
+INFO - 2022-12-09 16:57:14 --> Model "reports" initialized
+INFO - 2022-12-09 16:57:14 --> Model "Users" initialized
+INFO - 2022-12-09 16:57:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Undefined variable: email_setting D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 16:57:15 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 16:57:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:57:15 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:57:15 --> Final output sent to browser
+DEBUG - 2022-12-09 16:57:15 --> Total execution time: 0.3849
+ERROR - 2022-12-09 11:27:20 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:27:20 --> Config Class Initialized
+ERROR - 2022-12-09 11:27:20 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:27:20 --> Hooks Class Initialized
+INFO - 2022-12-09 11:27:20 --> Config Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:20 --> Hooks Class Initialized
+INFO - 2022-12-09 11:27:20 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:20 --> URI Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:20 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:20 --> Router Class Initialized
+INFO - 2022-12-09 11:27:20 --> URI Class Initialized
+INFO - 2022-12-09 11:27:20 --> Output Class Initialized
+INFO - 2022-12-09 11:27:20 --> Router Class Initialized
+INFO - 2022-12-09 11:27:20 --> Security Class Initialized
+INFO - 2022-12-09 11:27:20 --> Output Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:20 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:20 --> Security Class Initialized
+INFO - 2022-12-09 11:27:20 --> Input Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:20 --> Language Class Initialized
+INFO - 2022-12-09 11:27:20 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:20 --> Input Class Initialized
+ERROR - 2022-12-09 11:27:20 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:27:20 --> Language Class Initialized
+ERROR - 2022-12-09 11:27:20 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 11:27:20 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:27:20 --> Config Class Initialized
+INFO - 2022-12-09 11:27:20 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:20 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:20 --> URI Class Initialized
+INFO - 2022-12-09 11:27:20 --> Router Class Initialized
+INFO - 2022-12-09 11:27:20 --> Output Class Initialized
+INFO - 2022-12-09 11:27:20 --> Security Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:20 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:20 --> Input Class Initialized
+INFO - 2022-12-09 11:27:20 --> Language Class Initialized
+ERROR - 2022-12-09 11:27:20 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:27:20 --> 404 Page Not Found: Assets/css
+INFO - 2022-12-09 11:27:20 --> Config Class Initialized
+INFO - 2022-12-09 11:27:20 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:27:20 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:27:20 --> URI Class Initialized
+INFO - 2022-12-09 11:27:20 --> Router Class Initialized
+INFO - 2022-12-09 11:27:20 --> Output Class Initialized
+INFO - 2022-12-09 11:27:20 --> Security Class Initialized
+DEBUG - 2022-12-09 11:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:27:20 --> CSRF cookie sent
+INFO - 2022-12-09 11:27:20 --> Input Class Initialized
+INFO - 2022-12-09 11:27:20 --> Language Class Initialized
+ERROR - 2022-12-09 11:27:20 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:29:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:03 --> Config Class Initialized
+INFO - 2022-12-09 11:29:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:29:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:29:03 --> URI Class Initialized
+INFO - 2022-12-09 11:29:03 --> Router Class Initialized
+INFO - 2022-12-09 11:29:03 --> Output Class Initialized
+INFO - 2022-12-09 11:29:03 --> Security Class Initialized
+DEBUG - 2022-12-09 11:29:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:03 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:03 --> Input Class Initialized
+INFO - 2022-12-09 11:29:03 --> Language Class Initialized
+INFO - 2022-12-09 11:29:03 --> Loader Class Initialized
+INFO - 2022-12-09 11:29:03 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:29:03 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:29:03 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:29:03 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:29:03 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:29:03 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:29:03 --> Parser Class Initialized
+INFO - 2022-12-09 11:29:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:29:03 --> Pagination Class Initialized
+INFO - 2022-12-09 11:29:03 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:29:03 --> Controller Class Initialized
+INFO - 2022-12-09 11:29:03 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:29:03 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:29:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:29:03 --> Model "Customers" initialized
+INFO - 2022-12-09 11:29:03 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:29:03 --> Severity: Notice --> Undefined variable: sale D:\wamp\www\R8-Uat-testing\application\views\invoice\trucking_invoice_list.php 153
+ERROR - 2022-12-09 11:29:03 --> Severity: Notice --> Trying to access array offset on value of type null D:\wamp\www\R8-Uat-testing\application\views\invoice\trucking_invoice_list.php 153
+ERROR - 2022-12-09 11:29:03 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\wamp\www\R8-Uat-testing\application\views\invoice\trucking_invoice_list.php 153
+ERROR - 2022-12-09 11:29:03 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\trucking_invoice_list.php 248
+INFO - 2022-12-09 11:29:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/trucking_invoice_list.php
+ERROR - 2022-12-09 11:29:03 --> Severity: Notice --> Undefined variable: total_purhcase D:\wamp\www\R8-Uat-testing\application\views\invoice\trucking_invoice_list.php 248
+INFO - 2022-12-09 11:29:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\invoice/trucking_invoice_list.php
+DEBUG - 2022-12-09 11:29:03 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:29:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 11:29:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 11:29:03 --> Model "Products" initialized
+INFO - 2022-12-09 16:59:03 --> Model "reports" initialized
+INFO - 2022-12-09 16:59:03 --> Model "Users" initialized
+INFO - 2022-12-09 16:59:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 16:59:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 16:59:03 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 16:59:03 --> Final output sent to browser
+DEBUG - 2022-12-09 16:59:03 --> Total execution time: 0.3165
+ERROR - 2022-12-09 11:29:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:03 --> Config Class Initialized
+INFO - 2022-12-09 11:29:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:29:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:29:03 --> URI Class Initialized
+INFO - 2022-12-09 11:29:03 --> Router Class Initialized
+INFO - 2022-12-09 11:29:03 --> Output Class Initialized
+INFO - 2022-12-09 11:29:03 --> Security Class Initialized
+DEBUG - 2022-12-09 11:29:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:03 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:03 --> Input Class Initialized
+INFO - 2022-12-09 11:29:03 --> Language Class Initialized
+ERROR - 2022-12-09 11:29:03 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 11:29:03 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:03 --> Config Class Initialized
+INFO - 2022-12-09 11:29:03 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:29:03 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:03 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:29:03 --> URI Class Initialized
+INFO - 2022-12-09 11:29:03 --> Router Class Initialized
+INFO - 2022-12-09 11:29:03 --> Output Class Initialized
+INFO - 2022-12-09 11:29:03 --> Security Class Initialized
+DEBUG - 2022-12-09 11:29:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:03 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:03 --> Input Class Initialized
+INFO - 2022-12-09 11:29:03 --> Language Class Initialized
+ERROR - 2022-12-09 11:29:03 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:29:04 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:04 --> Config Class Initialized
+INFO - 2022-12-09 11:29:04 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:29:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:04 --> Utf8 Class Initialized
+ERROR - 2022-12-09 11:29:04 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:04 --> URI Class Initialized
+INFO - 2022-12-09 11:29:04 --> Config Class Initialized
+INFO - 2022-12-09 11:29:04 --> Router Class Initialized
+INFO - 2022-12-09 11:29:04 --> Hooks Class Initialized
+INFO - 2022-12-09 11:29:04 --> Output Class Initialized
+DEBUG - 2022-12-09 11:29:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:04 --> Security Class Initialized
+INFO - 2022-12-09 11:29:04 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 11:29:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:04 --> URI Class Initialized
+INFO - 2022-12-09 11:29:04 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:04 --> CSRF token verified
+INFO - 2022-12-09 11:29:04 --> Input Class Initialized
+INFO - 2022-12-09 11:29:04 --> Router Class Initialized
+INFO - 2022-12-09 11:29:04 --> Language Class Initialized
+INFO - 2022-12-09 11:29:04 --> Loader Class Initialized
+INFO - 2022-12-09 11:29:04 --> Output Class Initialized
+INFO - 2022-12-09 11:29:04 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:29:04 --> Security Class Initialized
+INFO - 2022-12-09 11:29:04 --> Helper loaded: file_helper
+DEBUG - 2022-12-09 11:29:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:04 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:29:04 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:04 --> Input Class Initialized
+INFO - 2022-12-09 11:29:04 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:29:04 --> Language Class Initialized
+ERROR - 2022-12-09 11:29:04 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 11:29:04 --> Database Driver Class Initialized
+ERROR - 2022-12-09 11:29:04 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 11:29:04 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:04 --> Config Class Initialized
+INFO - 2022-12-09 11:29:04 --> Hooks Class Initialized
+INFO - 2022-12-09 11:29:04 --> Config Class Initialized
+INFO - 2022-12-09 11:29:04 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:29:04 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 11:29:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:04 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:29:04 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:29:04 --> URI Class Initialized
+INFO - 2022-12-09 11:29:04 --> URI Class Initialized
+INFO - 2022-12-09 11:29:04 --> Router Class Initialized
+INFO - 2022-12-09 11:29:04 --> Router Class Initialized
+INFO - 2022-12-09 11:29:04 --> Output Class Initialized
+INFO - 2022-12-09 11:29:04 --> Output Class Initialized
+INFO - 2022-12-09 11:29:04 --> Security Class Initialized
+INFO - 2022-12-09 11:29:04 --> Security Class Initialized
+INFO - 2022-12-09 11:29:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2022-12-09 11:29:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 11:29:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:04 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:04 --> Input Class Initialized
+INFO - 2022-12-09 11:29:04 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:04 --> Parser Class Initialized
+INFO - 2022-12-09 11:29:04 --> Input Class Initialized
+INFO - 2022-12-09 11:29:04 --> Language Class Initialized
+INFO - 2022-12-09 11:29:04 --> Language Class Initialized
+ERROR - 2022-12-09 11:29:04 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 11:29:04 --> 404 Page Not Found: Assets/plugins
+INFO - 2022-12-09 11:29:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:29:04 --> Pagination Class Initialized
+INFO - 2022-12-09 11:29:04 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:29:04 --> Controller Class Initialized
+INFO - 2022-12-09 11:29:04 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 11:29:04 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 11:29:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 11:29:04 --> Model "Customers" initialized
+INFO - 2022-12-09 11:29:04 --> Model "Invoices" initialized
+ERROR - 2022-12-09 11:29:04 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:29:04 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1257
+ERROR - 2022-12-09 11:29:04 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:29:04 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1258
+ERROR - 2022-12-09 11:29:04 --> Severity: Notice --> Undefined offset: 0 D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+ERROR - 2022-12-09 11:29:04 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1259
+INFO - 2022-12-09 11:29:04 --> Final output sent to browser
+DEBUG - 2022-12-09 11:29:04 --> Total execution time: 0.0198
+ERROR - 2022-12-09 11:29:05 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 11:29:05 --> Config Class Initialized
+INFO - 2022-12-09 11:29:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 11:29:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 11:29:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 11:29:05 --> URI Class Initialized
+INFO - 2022-12-09 11:29:05 --> Router Class Initialized
+INFO - 2022-12-09 11:29:05 --> Output Class Initialized
+INFO - 2022-12-09 11:29:05 --> Security Class Initialized
+DEBUG - 2022-12-09 11:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 11:29:05 --> CSRF cookie sent
+INFO - 2022-12-09 11:29:05 --> Input Class Initialized
+INFO - 2022-12-09 11:29:05 --> Language Class Initialized
+INFO - 2022-12-09 11:29:05 --> Loader Class Initialized
+INFO - 2022-12-09 11:29:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 11:29:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 11:29:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 11:29:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 11:29:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 11:29:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 11:29:05 --> Parser Class Initialized
+INFO - 2022-12-09 11:29:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 11:29:05 --> Pagination Class Initialized
+INFO - 2022-12-09 11:29:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 11:29:05 --> Controller Class Initialized
+INFO - 2022-12-09 11:29:05 --> Model "Web_settings" initialized
+INFO - 2022-12-09 11:29:05 --> Final output sent to browser
+DEBUG - 2022-12-09 11:29:05 --> Total execution time: 0.0233

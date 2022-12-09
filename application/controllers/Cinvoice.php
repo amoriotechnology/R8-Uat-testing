@@ -76,7 +76,40 @@ class Cinvoice extends CI_Controller {
         $this->template->full_admin_html_view($content);
 
     }
-    
+    // Get Customer on email
+    public function get_customer($id){
+        $id=explode('-',$id);
+        $table=$id[1];
+         $col=$id[2];
+        $id=$id[0];
+    if($table=='ocean_export_tracking')
+    {
+            $sql='SELECT c.* from '.$table.' i JOIN supplier_information c on c.supplier_id=i.supplier_id WHERE i.'.$col.' ="'.$id.'"';
+      $query=$this->db->query($sql);
+      $row=$query->result_array();
+      // print_r($row); die();
+      echo $row[0]['email_address']; die();
+    }
+    elseif ($table=='sale_trucking') {
+      $sql='SELECT c.* from '.$table.' i JOIN customer_information c on i.bill_to=c.customer_id WHERE i.'.$col.' ="'.$id.'"';
+      $query=$this->db->query($sql);
+    }
+    elseif ($table=='sale_packing_list') {
+      $sql='SELECT c.* FROM sale_packing_list s JOIN invoice i JOIN customer_information c on c.customer_id=i.customer_id where s.expense_packing_id='.$id;
+      $query=$this->db->query($sql);
+    }
+    else
+    {
+           $sql='SELECT c.* from '.$table.' i JOIN customer_information c on c.customer_id=i.customer_id WHERE i.'.$col.' ="'.$id.'"';
+        //    echo $this->db->last_query(); die();
+        //    print_r($sql); die();
+    }
+        $sql ;
+      $query=$this->db->query($sql);
+      $row=$query->result_array();
+     
+     echo $row[0]['customer_email'];
+    }
     public function email($customer_id){
         $CI = & get_instance();
         $this->load->model('Invoices');
@@ -978,7 +1011,56 @@ echo json_encode($data);
 
     }
 
-
+    public function sendmail_with_attachments($invoice_id)
+    {
+      $CA = & get_instance();
+      $CI = & get_instance();
+      $CA->load->model('invoice_design');
+      $CA->load->model('Web_settings');
+      $dataw = $CA->invoice_design->retrieve_data();
+      $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+      $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+       // print_r($curn_info_default); die();
+    $uid=$_SESSION['user_id'];
+    $sql='select c.* from company_information c join user_login as u on u.cid=c.company_id where u.user_id='.$uid;
+    $query=$this->db->query($sql);
+    $company_info=$query->result_array();
+    $product_sql='select c.* from invoice i join customer_information c on c.customer_id=i.customer_id where i.invoice_id='.$invoice_id;
+    $query=$this->db->query($product_sql);
+    $customer_info=$query->result_array();
+    // print_r($customer_info); die();
+    $sql='select p.* from `invoice_details` i join product_information p on p.product_id=i.product_id where i.invoice_id="'.$invoice_id.'";';
+    $query=$this->db->query($sql);
+    $product_info=$query->result_array();
+    $invoice_sql='select * from `invoice` i join invoice_details p on p.invoice_id=i.invoice_id';
+    $query=$this->db->query($invoice_sql);
+    $invoice_info=$query->result_array();
+// echo '<pre>';
+//     print_r($invoice_info); die();
+//     echo '</pre>';
+    $sql='select * from invoice where invoice_id='.$invoice_id;
+    $query=$this->db->query($sql);
+    $invoice=$query->result_array();
+    // print_r($invoice); die();
+    $dataw = $CA->invoice_design->retrieve_data();
+    // print_r($dataw); die();
+    $data['curn_info_default'] = $curn_info_default[0]['currency_name'];
+    $data['currency'] = $currency_details;
+    $data['company_info']=$company_info;
+    $data['customer_info']=$customer_info;
+    $data['product_info']=$product_info;
+    $data['invoiceid']=$invoice_id;
+    $data['invoice_info']=$invoice_info;
+    $data['invoice'] = $invoice;
+    $data['template'] = $dataw[0]['template'];
+// print_r($data); die();
+    $content = $this->load->view('pdf_attach_mail/new_sale', $data, true);
+    // if($content)
+    // {
+    //      redirect("Cinvoice/manage_invoice");
+    //  }
+         // $this->template->full_admin_html_view($content);
+}
 
     // invoice Update
 
@@ -1134,39 +1216,31 @@ $this->session->unset_userdata('invoiceid');
 
 
 
-      public function manage_profarma_invoice() {
-
-        $this->session->unset_userdata('perfarma_invoice_id');
-
-
-        $date = $this->input->post("daterange");
-        $CI = & get_instance();
-
-        $this->auth->check_admin_auth();
-
-        $CI->load->library('linvoice');
-
-        $CI->load->model('Invoices');
-
-      $invoice = $CI->Invoices->get_profarma_invoice();
-      
-      $sale = $CI->Invoices->sample($date);
-      $currency_details = $CI->Web_settings->retrieve_setting_editdata();
- 
-        $data = array(
-            'currency' =>$currency_details[0]['currency'],
-            'invoice'         =>  $invoice,
-
-            'sale' => $sale
-
-
-        );
-        $content = $this->load->view('invoice/profarma_invoice_list', $data, true);
-    
-        $this->template->full_admin_html_view($content);
-
-
-    }
+public function manage_profarma_invoice() {
+    $this->session->unset_userdata('perfarma_invoice_id');
+    $date = $this->input->post("daterange");
+    $CI = & get_instance();
+    $CA = & get_instance();
+    $this->auth->check_admin_auth();
+    $CI->load->library('linvoice');
+    $CI->load->model('Invoices');
+    $CA->load->model('Web_settings');
+  $invoice = $CI->Invoices->get_profarma_invoice();
+  $email_setting = $CA->Web_settings->retrieve_email_setting();
+//   print_r($email_setting); die();
+  $sale = $CI->Invoices->sample($date);
+  $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+     $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+    $data = array(
+           'curn_info_default' =>$curn_info_default[0]['currency_name'],
+        'currency' =>$currency_details[0]['currency'],
+        'invoice'         =>  $invoice,
+        'email_setting'  => $email_setting,
+        'sale' => $sale
+    );
+    $content = $this->load->view('invoice/profarma_invoice_list', $data, true);
+    $this->template->full_admin_html_view($content);
+}
     public function get_setting() {
         $CI = & get_instance();
 
@@ -1243,36 +1317,28 @@ $this->db->update('bootgrid_data');
         } 
     
 
-     public function manage_packing_list() {
-
-        $this->session->unset_userdata('packingid');
-
-        $date = $this->input->post("daterange");
-        $CI = & get_instance();
-
-        $this->auth->check_admin_auth();
-
-        $CI->load->library('linvoice');
-
-        $CI->load->model('Invoices');
-        $sale = $CI->Invoices->packing_list($date);
-        $value = $this->linvoice->packing_invoice_list();
-      
- 
-        $data = array(
-        
-             'invoice'         =>  $value,
-
-            'sale' => $sale
-
-
-        );
-      //  print_r($sale);
-        $content = $this->load->view('invoice/packing_list', $data, true);
-    
-        $this->template->full_admin_html_view($content);
-
-    }
+        public function manage_packing_list() {
+            $this->session->unset_userdata('packingid');
+            $date = $this->input->post("daterange");
+            $CI = & get_instance();
+            $CA = & get_instance();
+            $this->auth->check_admin_auth();
+            $CI->load->library('linvoice');
+            $CI->load->model('Invoices');
+             $CA->load->model('Web_settings');
+            $sale = $CI->Invoices->packing_list($date);
+            $value = $this->linvoice->packing_invoice_list();
+            $email_setting = $CA->Web_settings->retrieve_email_setting();
+            // print_r($email_setting); die();
+            $data = array(
+                 'invoice'         =>  $value,
+                 'email_setting' => $email_setting,
+                  'sale' => $sale
+            );
+          //  print_r($sale);
+            $content = $this->load->view('invoice/packing_list', $data, true);
+            $this->template->full_admin_html_view($content);
+        }
     public function packing_list_update_form($purchase_id) {
         $CI = & get_instance();
         $CI->auth->check_admin_auth();
@@ -1280,68 +1346,48 @@ $this->db->update('bootgrid_data');
         $content = $CI->linvoice->packing_list_edit_data($purchase_id);
         $this->template->full_admin_html_view($content);
     } 
-      public function manage_ocean_export_tracking() {
+    public function manage_ocean_export_tracking() {
         $this->session->unset_userdata('oceanid');
-
-
         $CI = & get_instance();
+        $CA = & get_instance();
         $date = $this->input->post("daterange");
         $this->auth->check_admin_auth();
-
         $CI->load->library('linvoice');
-
         $CI->load->model('Invoices');
         $sale = $CI->Invoices->ocean_export($date);
         $value = $this->linvoice->ocean_export_tracking_invoice_list();
-
-     
- 
+        $email_setting = $CA->Web_settings->retrieve_email_setting();
+        // print_r($email_setting); die();
         $data = array(
- 
-
             'invoice'         =>  $value,
-
+            'email_setting' => $email_setting,
             'sale' => $sale
-
-
         );
         $content = $this->load->view('invoice/ocean_export_tracking_invoice_list', $data, true);
-    
         $this->template->full_admin_html_view($content);
-
     }
 
-       public function manage_trucking() {
+    public function manage_trucking() {
         $this->session->unset_userdata('truckid');
-
-
         $CI = & get_instance();
+        $CA = & get_instance();
         $date = $this->input->post("daterange");
         $this->auth->check_admin_auth();
-
         $CI->load->library('linvoice');
-
         $CI->load->model('Invoices');
-
         $value = $this->linvoice->trucking_invoice_list();
         $sale = $CI->Invoices->sale_trucking($date);
-
+        $email_setting = $CA->Web_settings->retrieve_email_setting();
+ // print_r($email_setting); die();
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
- 
         $data = array(
             'currency' =>$currency_details[0]['currency'],
-
             'invoice'         =>  $value,
-
+            'email_setting' => $email_setting,
             'sale' => $sale
-
-
         );
         $content = $this->load->view('invoice/trucking_invoice_list', $data, true);
-    
         $this->template->full_admin_html_view($content);
-     
-
     }
 
 
@@ -3594,36 +3640,47 @@ $content = $this->load->view('pdf_attach_mail/profarma', $data, true);
 
   public function proforma_with_attachment_cus($invoiceid)
   {
-  
+      $CA = & get_instance();
+      $CI = & get_instance();
+      $CA->load->model('invoice_design');
+      $CA->load->model('Web_settings');
+      $dataw = $CA->invoice_design->retrieve_data();
+      $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+      $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+       // print_r($curn_info_default); die();
     $sql='select c.* from user_login  u
-    join 
+    join
     company_information c
     on c.company_id=u.cid
      where u.user_id='.$_SESSION['user_id'];
     $query=$this->db->query($sql);
     $data['company_info']=$query->result_array();
-
-        $sql='SELECT b.* from profarma_invoice a JOIN customer_information b on b.customer_id=a.customer_id
+        $sql='SELECT * from profarma_invoice a JOIN customer_information b on b.customer_id=a.customer_id
  WHERE a.purchase_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['customer_info']=$query->result_array();
-
-      $sql='select a.* from profarma_invoice_details a join product_information b on a.product_id=b.product_id
+      // print_r( $data['customer_info']); die();
+      $sql='select * from profarma_invoice_details a join product_information b on a.product_id=b.product_id
  where a.purchase_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['product_info']=$query->result_array();
-
+   // print_r( $data['product_info']); die();
  $sql='select * from profarma_invoice_details where purchase_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['invoice_details']=$query->result_array();
 $sql='select * from profarma_invoice where purchase_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['invoice']=$query->result_array();
+    // print_r($data['invoice']);
     $sql='select * from invoice_email where uid='.$_SESSION['user_id'];;
     $query=$this->db->query($sql);
-
     $data['mail']= $query->result_array();
-$content = $this->load->view('pdf_attach_mail/profarma', $data, true);
+    $data['template'] = $dataw[0]['template'];
+    $data['curn_info_default'] = $curn_info_default[0]['currency_name'];
+    $data['currency'] = $currency_details;
+    // print_r($data['currency']); die();
+     // print_r($data); die();
+    $content = $this->load->view('pdf_attach_mail/profarma', $data, true);
   }
 
   /////////////////////packing//////////////////////////////////
@@ -3660,34 +3717,48 @@ $sql='select * from sale_packing_list where expense_packing_id='.$invoiceid;
 
   public function packing_with_attachment_cus($invoiceid)
   {
+    $CA = & get_instance();
+    $CI = & get_instance();
+    $CA->load->model('invoice_design');
+    // $CA->load->model('Web_settings');
+      $dataw = $CA->invoice_design->retrieve_data();
+      // $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+      // $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
   $sql='select c.* from user_login  u
-    join 
+    join
     company_information c
     on c.company_id=u.cid
      where u.user_id='.$_SESSION['user_id'];
     $query=$this->db->query($sql);
     $data['company_info']=$query->result_array();
-
-    
-
-      $sql='select a.* from sale_packing_list_detail a join product_information b on a.product_id=b.product_id
- where a.expense_packing_id='.$invoiceid;
+    $sql='select * from sale_packing_list_detail a join product_information b on a.product_id=b.product_id
+      where a.expense_packing_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['product_info']=$query->result_array();
-
- $sql='select * from sale_packing_list_detail where expense_packing_id='.$invoiceid;
+    // print_r($data['product_info']);
+    $sql='select * from sale_packing_list_detail where expense_packing_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['invoice_details']=$query->result_array();
-$sql='select * from sale_packing_list where expense_packing_id='.$invoiceid;
+    $sql='select * from sale_packing_list where expense_packing_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['invoice']=$query->result_array();
+     // print_r($data['invoice']);
     $sql='select * from invoice_email where uid='.$_SESSION['user_id'];;
     $query=$this->db->query($sql);
-
     $data['mail']= $query->result_array();
-   
-$content = $this->load->view('pdf_attach_mail/packing', $data, true);
+     $data['template'] = $dataw[0]['template'];
+    // $data['curn_info_default'] = $curn_info_default[0]['currency_name'];
+    // $data['currency'] = $currency_details;
+    $content = $this->load->view('pdf_attach_mail/packing', $data, true);
   }
+
+
+
+
+
+
+
+
   /////////////////////Ocean//////////////////////////////////
 
   public function ocean_with_attachment_stand($invoiceid)
@@ -3719,33 +3790,25 @@ $content = $this->load->view('pdf_attach_mail/ocean', $data, true);
 
   public function ocean_with_attachment_cus($invoiceid)
   {
-   $sql='select c.* from user_login  u
-    join 
-    company_information c
-    on c.company_id=u.cid
-     where u.user_id='.$_SESSION['user_id'];
+    $CA = & get_instance();
+    $CA->load->model('invoice_design');
+    $dataw = $CA->invoice_design->retrieve_data();
+   $sql='select c.* from user_login  u join company_information c on c.company_id=u.cid where u.user_id='.$_SESSION['user_id'];
     $query=$this->db->query($sql);
     $data['company_info']=$query->result_array();
-
-        echo $sql='SELECT b.* from ocean_export_tracking a JOIN supplier_information b on b.supplier_id=a.supplier_id
- WHERE a.ocean_export_tracking_id='.$invoiceid;
+   $sql='select b.* from ocean_export_tracking a join supplier_information b on b.supplier_id=a.supplier_id WHERE a.ocean_export_tracking_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['supplier_info']=$query->result_array();
-
-  
-
- 
-$sql='select * from ocean_export_tracking where ocean_export_tracking_id='.$invoiceid;
+   $sql='select * from ocean_export_tracking where ocean_export_tracking_id='.$invoiceid;
     $query=$this->db->query($sql);
-    $data['cocean']=$query->result_array();
-
+    $data['ocean']=$query->result_array();
+    // print_r($data['ocean']);
    $sql='select * from invoice_email where uid='.$_SESSION['user_id'];;
     $query=$this->db->query($sql);
-
     $data['mail']= $query->result_array();
-
-$content = $this->load->view('pdf_attach_mail/ocean', $data, true);
-  }
+    $data['template'] = $dataw[0]['template'];
+    $content = $this->load->view('pdf_attach_mail/ocean_export', $data, true);
+}
   /////////////////////Trucking//////////////////////////////////
 
   public function trucking_with_attachment_stand($invoiceid)
@@ -3783,36 +3846,38 @@ $content = $this->load->view('pdf_attach_mail/trucking', $data, true);
 
   public function trucking_with_attachment_cus($invoiceid)
   {
- $sql='select c.* from user_login  u
-    join 
+    $CA = & get_instance();
+    $CI = & get_instance();
+    $CA->load->model('invoice_design');
+    $CI->load->model('Web_settings');
+    $dataw = $CA->invoice_design->retrieve_data();
+    $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+    $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+   $sql='select c.* from user_login  u
+    join
     company_information c
     on c.company_id=u.cid
      where u.user_id='.$_SESSION['user_id'];
     $query=$this->db->query($sql);
     $data['company_info']=$query->result_array();
-
-       
-   $sql=' SELECT b.* FROM `sale_trucking` a join customer_information b on b.customer_id=a.bill_to where trucking_id='.$invoiceid;
+   $sql=' SELECT * FROM `sale_trucking` a join customer_information b on b.customer_id=a.bill_to where trucking_id='.$invoiceid;
     $query=$this->db->query($sql);
-    $data['customer_info']=$query->result_array(); 
- 
-
-  $sql='select * from sale_trucking_details where sale_trucking_id='.$invoiceid;
+    $data['customer_info']=$query->result_array();
+   $sql='select * from sale_trucking_details where sale_trucking_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['sale_trucking_details']=$query->result_array();
-$sql='select * from sale_trucking where trucking_id='.$invoiceid;
+    // print_r($data['sale_trucking_details']);
+   $sql='select * from sale_trucking where trucking_id='.$invoiceid;
     $query=$this->db->query($sql);
     $data['sale_trucking']=$query->result_array();
-
-$sql='select * from invoice_email where uid='.$_SESSION['user_id'];;
+    $sql='select * from invoice_email where uid='.$_SESSION['user_id'];;
     $query=$this->db->query($sql);
-
     $data['mail']= $query->result_array();
-
-
-// print_r($data);
+    $data['template'] = $dataw[0]['template'];
+    $data['curn_info_default'] = $curn_info_default[0]['currency_name'];
+    $data['currency'] = $currency_details;
+// print_r($data['curn_info_default']);
 // exit;
-    
 $content = $this->load->view('pdf_attach_mail/trucking', $data, true);
   }
 }
