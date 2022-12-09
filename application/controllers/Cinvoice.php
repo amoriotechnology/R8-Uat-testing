@@ -3428,7 +3428,7 @@ $this->db->update('bootgrid_data');
         $this->load->helper('form');
         $this->load->helper('url');
         $this->load->library('form_validation');
-      
+     
       // print_r($_POST);
     
          $purchase_id = date('YmdHis');
@@ -3461,12 +3461,32 @@ $this->db->update('bootgrid_data');
                     'ac_details'=>$this->input->post('ac_details'),
                     'sales_by'        => $this->session->userdata('user_id')
                  );
-                $content = $this->load->view('invoice/profarma_invoice', $data, true);
+            //    $content = $this->load->view('invoice/profarma_invoice', $data, true);
 
-                $this->template->full_admin_html_view($content);
+             //   $this->template->full_admin_html_view($content);
 
+
+                $purchase_id_1 = $this->db->where('chalan_no',$this->input->post('chalan_no',TRUE));
+                $q=$this->db->get('profarma_invoice');
+            
+                $row = $q->row_array();
+            if(!empty($row['purchase_id'])){
+                $this->session->set_userdata("profarma_1",$row['purchase_id']);
+           $this->db->where('purchase_id', $this->session->userdata("profarma_1"));
+          $this->db->delete('profarma_invoice');
+        
+                $this->db->insert('profarma_invoice', $data);
+             
+           }   
+            else{
+            $this->db->insert('profarma_invoice', $data);
+      
+          
+            }
+            $purchase_id = $this->db->select('purchase_id')->from('profarma_invoice')->where('chalan_no',$this->input->post('chalan_no',TRUE))->get()->row()->purchase_id;
+              $this->session->set_userdata("profarma_2",$purchase_id);
                   
-                 $this->db->insert('profarma_invoice', $data);
+               
                  $avl = $this->input->post('available_quantity');
                  $p_id = $this->input->post('product_id');
                  // print_r($p_id); exit();
@@ -3485,7 +3505,7 @@ $this->db->update('bootgrid_data');
                     $total_price = $t_price[$i];
                     $data1 = array(
                         'purchase_detail_id' => $this->generator(15),
-                        'purchase_id'        => $purchase_id,
+                        'purchase_id'        => $this->session->userdata("profarma_2"),
                         'product_id'         => $product_id,
                         // 'product_name'         => $product_name,
                         'quantity'           => $product_quantity,
@@ -3497,15 +3517,20 @@ $this->db->update('bootgrid_data');
                     // print_r($data1); exit();
 
                   // echo json_encode($data1);
-             
-                    $this->db->insert('profarma_invoice_details', $data1);
+                  $this->db->where('purchase_id', $this->session->userdata("profarma_1"));
+
+                  $this->db->delete('profarma_invoice_details');
+                
+                  $this->db->insert('profarma_invoice_details', $data1);
+                
                     
                 }
-                   
-                    $this->session->set_userdata(array('perfarma_invoice_id' => $purchase_id));
+                $final_return = $purchase_id."/".$chalan_no;
+                echo json_encode($final_return);
+                  //  $this->session->set_userdata(array('perfarma_invoice_id' => $purchase_id));
 
 
-                    redirect('Cinvoice/profarma_invoice');
+                 //   redirect('Cinvoice/profarma_invoice');
                     
             
 

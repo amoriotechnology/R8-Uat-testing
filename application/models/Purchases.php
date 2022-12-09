@@ -1418,7 +1418,7 @@ return $output;
             'payment_type'       =>  $this->input->post('paytype',TRUE),
              'image'              =>  $profile_img,
         );
-        print_r($data);
+      //  print_r($data);
         $purchase_id_1 = $this->db->where('chalan_no',$this->input->post('chalan',TRUE));
         $q=$this->db->get('product_purchase');
         $row = $q->row_array();

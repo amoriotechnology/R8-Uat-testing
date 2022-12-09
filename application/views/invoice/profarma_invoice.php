@@ -413,10 +413,19 @@ textarea:focus, input:focus{
                                     <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
+<<<<<<< HEAD
+<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
+<a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
+                                    <td>&nbsp;</td>
+                                    <td id="btn1_download">
+                                        
+                                     
+=======
                                 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
                                 <a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
                                     <td>&nbsp;</td>
                                     <td id="btn1_download">
+>>>>>>> e7ac2ac9cdaec4ffbd50022b54083ae31bd5354e
 
                                     </td>
                                     <td>&nbsp;</td>
@@ -465,6 +474,28 @@ textarea:focus, input:focus{
     </div>
   </div>
           <div id="myModal3" class="modal fade">
+<<<<<<< HEAD
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title">Confirmation</h4>
+			</div>
+			<div class="modal-body">
+				<p>Your Invoice is not submitted. Would you like to submit or discard
+				</p>
+				<p class="text-warning">
+					<small>If you don't submit, your changes will not be saved.</small>
+				</p>
+			</div>
+			<div class="modal-footer">
+				<input type="submit" id="ok" class="btn btn-primary pull-left final_submit" onclick="submit_redirect()"  value="Submit"/>
+                <button id="btdelete" type="button" class="btn btn-danger pull-left" onclick="discard()">Discard</button>
+			
+			</div>
+		</div>
+	</div>
+=======
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -485,6 +516,7 @@ textarea:focus, input:focus{
             </div>
         </div>
     </div>
+>>>>>>> e7ac2ac9cdaec4ffbd50022b54083ae31bd5354e
 </div>         
 
 <style>
