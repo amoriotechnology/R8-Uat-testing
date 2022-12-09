@@ -7,15 +7,16 @@ class Linvoice {
 
     //Retrieve  Invoice List
     public function invoice_list() {
-
         $CI = & get_instance();
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $CI->load->model('Permission_model');
         $assign_role=$CI->Permission_model->assign_role();
         $email_setting=$CI->Web_settings->retrieve_email_setting();
+
         $sale = $CI->Invoices->newsale();
-      
+ 
+
         // print_r($sale); die();
         $CI->load->library('occational');
         $company_info = $CI->Invoices->retrieve_company();
@@ -30,7 +31,7 @@ class Linvoice {
             'sale' => $sale
         );
         // echo '<pre>';
-        // print_r($data); die();
+
         // echo '</pre>';
         $invoiceList = $CI->parser->parse('invoice/invoice', $data, true);
         return $invoiceList;
@@ -1080,7 +1081,7 @@ class Linvoice {
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $invoice_detail = $CI->Invoices->retrieve_invoice_editdata($invoice_id);
-
+        print_r($invoice_detail);
         //echo "<pre>"; print_r($invoice_detail); die;
         $bank_list      = $CI->Web_settings->bank_list();
         $taxinfo        = $CI->Invoices->service_invoice_taxinfo($invoice_id);
@@ -1101,7 +1102,9 @@ class Linvoice {
         }
 
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+   
         $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
+      
         $data = array(
             'curn_info_default' =>$curn_info_default[0]['currency_name'],
             'currency'  =>$currency_details[0]['currency'],

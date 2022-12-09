@@ -2589,7 +2589,7 @@ $stock_in=$stock[$i];
 
         $query = $this->db->get();
 
-
+echo $this->db->last_query();
 
         if ($query->num_rows() > 0) {
 
