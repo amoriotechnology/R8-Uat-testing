@@ -167,12 +167,15 @@ $today = date('Y-m-d');
   <div class="form-group">
   <td>
   <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;" href="<?php echo base_url()?>Cinvoice/trucking_details_data/<?php echo  $arr['trucking_id'];  ?>"><i class="fa fa-download" aria-hidden="true"></i></a>
-  <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+
+  <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal" onclick="truckingmail(<?php echo  $arr['trucking_id'];  ?>,'sale_trucking','trucking_id')"><i class="fa fa-envelope" aria-hidden="true" ></i></a>
+  
+  <!-- <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal"><i class="fa fa-envelope" aria-hidden="true"></i></a> -->
 
   <!-- Modal -->
-<div id="emailmodal" class="modal fade" role="dialog">
+<!-- <div id="emailmodal" class="modal fade" role="dialog">
   <div class="modal-dialog">
-<form action="insert_role">    <!-- Modal content-->
+<form action="insert_role">    
     <div class="modal-content" >
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -203,7 +206,7 @@ $today = date('Y-m-d');
     </div>
 
   </div>
-</div>
+</div> -->
     <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;" href="<?php echo base_url()?>Cinvoice/trucking_update_form/<?php echo  $arr['trucking_id'];  ?>"><i class="fa fa-pencil" aria-hidden="true"></i></a>
   </td>
   </div>

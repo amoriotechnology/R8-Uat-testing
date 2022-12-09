@@ -126,8 +126,9 @@ $Web_settings = $CI->Web_settings->retrieve_setting_editdata();
                   
                    
                     <th class="text-white text-center">Width</th>
-                        <th class="text-white text-center">Height</th>
-       </tr>
+                    <th class="text-white text-center">Height</th>
+                </tr>
+                
                 </thead>
                 <tbody>
       

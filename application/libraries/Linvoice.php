@@ -13,8 +13,10 @@ class Linvoice {
         $CI->load->model('Web_settings');
         $CI->load->model('Permission_model');
         $assign_role=$CI->Permission_model->assign_role();
+        $email_setting=$CI->Web_settings->retrieve_email_setting();
+        $sale = $CI->Invoices->newsale();
       
-       
+        // print_r($sale); die();
         $CI->load->library('occational');
         $company_info = $CI->Invoices->retrieve_company();
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
@@ -24,10 +26,16 @@ class Linvoice {
             'currency'      => $currency_details[0]['currency'],
             'company_info'  => $company_info,
             'role'  => $assign_role,
+            'email_setting'  => $email_setting,
+            'sale' => $sale
         );
+        // echo '<pre>';
+        // print_r($data); die();
+        // echo '</pre>';
         $invoiceList = $CI->parser->parse('invoice/invoice', $data, true);
         return $invoiceList;
     }
+    
     public function packing_list_edit_data($purchase_id) {
 
         $CI = & get_instance();
@@ -115,19 +123,25 @@ class Linvoice {
     }
 
      public function profarma_invoice_list() {
-
-
         $CI = & get_instance();
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $CI->load->library('occational');
         $company_info = $CI->Invoices->retrieve_company();
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+        // $email_setting = $CI->Web_settings->retrieve_email_setting();
+        $sale = $CI->Invoices->newsale();
+    $customer=  $CI->Invoices->profarma_invoice_customer();
+
+        // print_r($email_setting); die();
         $data = array(
+               'customer' => $customer,
             'title'         => display('manage_invoice'),
             'total_invoice' => $CI->Invoices->count_invoice(),
             'currency'      => $currency_details[0]['currency'],
             'company_info'  => $company_info,
+            // 'email_setting'  => $email_setting,
+            'sale' => $sale
         );
         $invoiceList = $CI->parser->parse('invoice/profarma_invoice_list', $data, true);
         return $invoiceList;
@@ -891,32 +905,25 @@ class Linvoice {
         return $invoiceForm;
     }
     public function invoice_add_form1() {
-
         $CI = & get_instance();
         ////////////Tax value////////////////
-
         $tx=& get_instance();
         $tx->load->model('Tax');
         $tx->Tax->taxlist();
        // $taxfield = $CI->db->select('tax_name,default_value')
        // ->from('tax_settings')
        // ->get()
-       // ->result_array();   
+       // ->result_array();
        // $data1 = array(
-           
        //     'taxes'         => $taxfield
-            
       //  );
       //  $invoiceForm = $CI->parser->parse('invoice/add_invoice_form', $data1, true);
         $CI = & get_instance();
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $customer_details = $CI->Invoices->pos_customer_setup();
-       
-       
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
         $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
-       
         $taxfield1 = $CI->db->select('tax_id,tax')
         ->from('tax_information')
         ->get()
@@ -932,6 +939,7 @@ class Linvoice {
         ->result_array();
         $voucher_no = $CI->Invoices->commercial_inv_number();
         $data = array(
+
             'curn_info_default' =>$curn_info_default[0]['currency_name'],
             //  'curn_info_customer'=>$curn_info_customer[0]['currency_name'],
               'currency'  =>$currency_details[0]['currency'],
@@ -947,7 +955,6 @@ class Linvoice {
             'voucher_no' => $voucher_no,
                 'tax_name'=>'ww',
         );
-     
       //  $invoiceForm = $CI->parser->parse('invoice/add_invoice_form', $data, true);
         $invoiceForm = $CI->parser->parse('invoice/profarma_invoice', $data, true);
         return $invoiceForm;

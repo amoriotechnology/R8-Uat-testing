@@ -143,7 +143,7 @@ $today = date('Y-m-d');
                 
       <li><a href="#" onclick="generate()"> <img src="<?php echo base_url()?>assets/images/pdf.png" width="24px"> PDF</a></li>
       
-      <li class="divider"></li> 		
+      <li class="divider"></li>         
                   
       <li><a href="#" onclick="$('#ProfarmaInvList').tableExport({type:'excel',escape:'false'});"> <img src="<?php echo base_url()?>assets/images/xls.png" width="24px"> XLS</a></li>
                  
@@ -209,12 +209,15 @@ $today = date('Y-m-d');
   <div class="form-group">
   <td>
   <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;" href="<?php echo base_url()?>Cinvoice/invoice_inserted_data/<?php echo  $arr['invoice_id'];  ?>"><i class="fa fa-download" aria-hidden="true"></i></a>
-  <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+
+  <!-- <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal"><i class="fa fa-envelope" aria-hidden="true"></i></a> -->
+
+  <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal" onclick="mail(<?php echo  $arr['invoice_id'];  ?>,'invoice','invoice_id')"><i class="fa fa-envelope" aria-hidden="true" ></i></a>
 
   <!-- Modal -->
-<div id="emailmodal" class="modal fade" role="dialog">
+<!-- <div id="emailmodal" class="modal fade" role="dialog">
   <div class="modal-dialog">
-<form action="insert_role">    <!-- Modal content-->
+<form action="insert_role">    
     <div class="modal-content" >
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -233,7 +236,9 @@ $today = date('Y-m-d');
             <i>Custom Email Temeplate</i>
             <br>
             <br>
-         <a class="btn btn-default" href="<?php echo base_url('Cinvoice/newsale_with_attachment_cus/').$arr['invoice_id'];  ?>">Select</a></div>
+         <a class="btn btn-default" href="<?php echo base_url('Cinvoice/newsale_with_attachment_cus/').$arr['invoice_id'];  ?>">Select</a>
+         <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;"  data-toggle="modal" data-target="#emailmodal" onclick="mail(<?php echo  $arr['invoice_id'];  ?>,'invoice','invoice_id')"><i class="fa fa-envelope" aria-hidden="true" ></i></a>
+     </div>
        
      </div>
 
@@ -245,7 +250,7 @@ $today = date('Y-m-d');
     </div>
 
   </div>
-</div>
+</div> -->
     <a class="btn  btn-sm" style="background-color: #3ca5de; color: #fff;" href="<?php echo base_url()?>Cinvoice/invoice_update_form/<?php echo  $arr['invoice_id'];  ?>"><i class="fa fa-pencil" aria-hidden="true"></i></a>
   </td>
   </div>
@@ -380,7 +385,7 @@ $editor = $('#submit'),
        };
        data[csrfName] = csrfHash;
 $.ajax({
-	
+    
     type: "POST",  
     url:'<?php echo base_url();?>Cinvoice/setting',
    
@@ -406,7 +411,7 @@ $.ajax({
       
        data[csrfName] = csrfHash;
     $.ajax({
-	
+    
     type: "POST",  
     url:'<?php echo base_url();?>Cinvoice/get_setting',
    

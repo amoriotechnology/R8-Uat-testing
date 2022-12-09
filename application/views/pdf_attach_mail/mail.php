@@ -49,7 +49,7 @@ try {
   
     $mail->setFrom($company_info[0]['email'], $company_info[0]['company_name']);           
               
-    $mail->addAddress('ajithkumar0902001@gmail.com');
+    $mail->addAddress('madhu.amoriotech@gmail.com');
   
        
     $mail->isHTML(true);  

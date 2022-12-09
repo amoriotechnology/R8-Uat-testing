@@ -6,8 +6,6 @@ include_once('tcpdf_6_2_13/tcpdf.php');
   
 if(1==1) 
 {
-
-
 	//----- Code for generate pdf
 	$pdf = new TCPDF('P', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
 	$pdf->SetCreator(PDF_CREATOR);  
@@ -26,10 +24,7 @@ if(1==1)
 	//$pdf->AddPage('P','A5'); //when you require custome page size 
 	
 	$content = ''; 
-
-	
-		
-	$content .= '<!DOCTYPE html>
+  	$content .= '<!DOCTYPE html>
 <html>
   <head>
     <style>
@@ -57,57 +52,294 @@ if(1==1)
         background-color: #5961b3;
         padding: 10px 40px;
       }
+      table .heading{
+            border: 1px solid #111;
+            background-color:#5961b3;
+        }
+        .text_color{
+            color: #fff;
+        }
+        .heading_view{
+           margin-left: 10px;
+        }
+
     </style>
   </head>
-  <body>
-    <table>
+  <body>';
+	if($template==2){
+		
+
+   $content .= '<table>
       <tr class="header_view">
         <th style="border: none">
           <img src="../../assets/'.$company_info[0]['logo'].'" width="100px" />
           <br />
-          <h4 style="color: #fff">'.$company_info[0]['company_name'].'</h4>
         </th>
+         <th style="border: none; color: white">'.$company_info[0]['address'].'</th>
+        <th style="border: none; text-align: right; color: white">'.$company_info[0]['address'].'</th>
+      </tr>
+    </table>
+    <br><br>
+
+    <table class="table_view_content">
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Commercial Invoice Number</b>&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['commercial_invoice_number'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Container Number</b>&nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['container_no'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Customer Name </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span> &nbsp; : &nbsp;Name</span></th>
+        <th style="border: none; font-weight: normal;"><b>BL/No </b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['bl_no'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Invoice No</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="margin-left: 4px;">&nbsp; : &nbsp;'.$invoice[0]['invoice'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Number of days</b>  &nbsp; &nbsp; <span>&nbsp; : &nbsp;'.$invoice[0]['number_of_days'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Payment due date</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="margin-left: 4px;">&nbsp; : &nbsp;'.$invoice[0]['payment_due_date'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Port of discharge</b>  &nbsp;<span style="margin-left:2px;">&nbsp; : &nbsp;'.$invoice[0]['port_of_discharge'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>ETA </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['eta'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Billing Address </b>  &nbsp; &nbsp; &nbsp;<span >&nbsp; : &nbsp;'.$invoice[0]['billing_address'].'</span></th>
+      </tr>
+       <br />
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>ETD </b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['etd'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Payment Type </b>  &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['payment_type'].'</span></th>
+      </tr>
+    </table>
+
+    <br><br><br>
+    <table class="table_width">
+      <tr class="heading">
+        <th class="text_color">S.No</th>
+        <th class="text_color">Product Name</th>
+        <th class="text_color">In Stock</th>
+        <th class="text_color">Quantity / Sq ft.</th>
+        <th class="text_color">Amount</th>
+        <th class="text_color">Total</th>
+      </tr>
+
+      <tr>';
+       if ($product_info) {
+                               $count=1;
+                                   for($i=0;$i<sizeof($product_info);$i++){
+        $content .='<td class="data_view">'.$count.'</td>                           
+        <td>'.$product_info[0]['product_name'].'</td>
+        <td>'.$product_info[0]['p_quantity'].'</td>
+        <td>'.$invoice_info[0]['quantity'].'</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['rate'].'</td>
+        <td>'.$currency[0]['currency'].' '.$total=$invoice_info[0]['quantity']*$invoice_info[0]['rate'].'.00</td></tr>';
+        $count++;
+      }
+    }
+      $content .='<tr>
+        <td colspan="5" style="text-align: right;">Total:</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['total_price'].'</td>
+      </tr>
+      <tr>
+        <td colspan="5" style="text-align: right;">Tax:</td>
+        <td>'.$currency[0]['currency'].'0.00</td>
+      </tr>
+      <tr>
+        <td colspan="5" style="text-align: right;">Grand Total:</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['total_price'].'</td>
+      </tr>
+     
+    </table>
+    <br>
+    <h3 class="heading_view">Account Details/Additional Information : <span style="font-weight: normal;">'.$invoice[0]['ac_details'].'</span></h3>
+    <h3 class="heading_view">Remarks/Conditions : <span style="font-weight: normal;">'.$invoice[0]['remark'].'</span></h3>';
+  }elseif($template==1){
+$content .= '<table>
+      <tr class="header_view">
+        <th style="border: none">
+          <img src="../../assets/'.$company_info[0]['logo'].'" width="100px" />
+          <br />
+        </th>
+         <th style="border: none; color: white">'.$company_info[0]['address'].'</th>
         <th style="border: none; text-align: right; color: white">'.$company_info[0]['address'].'</th>
       </tr>
     </table>
     <br />
 
-    <table>
+    <table class="table_view_content">
       <tr>
-        <th style="border: none">Vendor :'.$customer_info[0]['customer_name'].'</th>
-        <th style="border: none">Expense / Bill Date :'.$invoice[0]['prevous_due'].'</th>
+        <th style="border: none; font-weight: normal;"><b>Commercial Invoice Number</b>&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['commercial_invoice_number'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Container Number</b>&nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['container_no'].'</span></th>
       </tr>
+       <br />
 
       <tr>
-        <th style="border: none">Invoice No :'.$invoice[0]['invoice_id'].'</th>
-        <th style="border: none">Payment Due Date:'.$invoice[0]['payment_due_date'].'</th>
+        <th style="border: none; font-weight: normal;"><b>Customer Name </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span> &nbsp; : &nbsp;Name</span></th>
+        <th style="border: none; font-weight: normal;"><b>BL/No </b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['bl_no'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Invoice No</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="margin-left: 4px;">&nbsp; : &nbsp;'.$invoice[0]['invoice'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Number of days</b>  &nbsp; &nbsp; <span>&nbsp; : &nbsp;'.$invoice[0]['number_of_days'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Payment due date</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="margin-left: 4px;">&nbsp; : &nbsp;'.$invoice[0]['payment_due_date'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Port of discharge</b>  &nbsp;<span style="margin-left:2px;">&nbsp; : &nbsp;'.$invoice[0]['port_of_discharge'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>ETA </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['eta'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Billing Address </b>  &nbsp; &nbsp; &nbsp;<span >&nbsp; : &nbsp;'.$invoice[0]['billing_address'].'</span></th>
+      </tr>
+       <br />
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>ETD </b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['etd'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Payment Type </b>  &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['payment_type'].'</span></th>
       </tr>
     </table>
 
     <br /><br />
-    <table>
-      <tr>
-        <th>Product</th>
-        <th>Description</th>
-        <th>Quantity</th>
-        <th>Rate</th>
-        <th>Total</th>
+    <table class="table_width">
+      <tr class="heading">
+        <th class="text_color">S.No</th>
+        <th class="text_color">Product Name</th>
+        <th class="text_color">In Stock</th>
+        <th class="text_color">Quantity / Sq ft.</th>
+        <th class="text_color">Amount</th>
+        <th class="text_color">Total</th>
       </tr>
 
-      <tr>
+      <tr>';
+       if ($product_info) {
+                               $count=1;
+                                   for($i=0;$i<sizeof($product_info);$i++){
+        $content .='<td class="data_view">'.$count.'</td>                           
         <td>'.$product_info[0]['product_name'].'</td>
-        <td>'.$product_info[0]['product_details'].'</td>
         <td>'.$product_info[0]['p_quantity'].'</td>
-        <td>'.$product_info[0]['price'].'</td>
-        <td>'.$total=$product_info[0]['p_quantity']*$product_info[0]['price'].'</td>
-      
-       
+        <td>'.$invoice_info[0]['quantity'].'</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['rate'].'</td>
+        <td>'.$currency[0]['currency'].' '.$total=$invoice_info[0]['quantity']*$invoice_info[0]['rate'].'.00</td></tr>';
+        $count++;
+      }
+    }
+      $content .='<tr>
+        <td colspan="5" style="text-align: right;">Total:</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['total_price'].'</td>
+      </tr>
+      <tr>
+        <td colspan="5" style="text-align: right;">Tax:</td>
+        <td>'.$currency[0]['currency'].'0.00</td>
+      </tr>
+      <tr>
+        <td colspan="5" style="text-align: right;">Grand Total:</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['total_price'].'</td>
       </tr>
      
     </table>
-  </body>
-</html>
-'; 
+    <br>
+    <h3 class="heading_view">Account Details/Additional Information : <span style="font-weight: normal;">'.$invoice[0]['ac_details'].'</span></h3>
+    <h3 class="heading_view">Remarks/Conditions : <span style="font-weight: normal;">'.$invoice[0]['remark'].'</span></h3>';
+  }elseif($template==3){
+    $content .= '<table>
+      <tr class="header_view">
+        <th style="border: none">
+          <img src="../../assets/'.$company_info[0]['logo'].'" width="100px" />
+          <br />
+        </th>
+         <th style="border: none; color: white">'.$company_info[0]['address'].'</th>
+        <th style="border: none; text-align: right; color: white">'.$company_info[0]['address'].'</th>
+      </tr>
+    </table>
+    <br />
+
+    <table class="table_view_content">
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Commercial Invoice Number</b>&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['commercial_invoice_number'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Container Number</b>&nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['container_no'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Customer Name </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span> &nbsp; : &nbsp;Name</span></th>
+        <th style="border: none; font-weight: normal;"><b>BL/No </b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['bl_no'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Invoice No</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="margin-left: 4px;">&nbsp; : &nbsp;'.$invoice[0]['invoice'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Number of days</b>  &nbsp; &nbsp; <span>&nbsp; : &nbsp;'.$invoice[0]['number_of_days'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>Payment due date</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="margin-left: 4px;">&nbsp; : &nbsp;'.$invoice[0]['payment_due_date'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Port of discharge</b>  &nbsp;<span style="margin-left:2px;">&nbsp; : &nbsp;'.$invoice[0]['port_of_discharge'].'</span></th>
+      </tr>
+       <br />
+
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>ETA </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['eta'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Billing Address </b>  &nbsp; &nbsp; &nbsp;<span >&nbsp; : &nbsp;'.$invoice[0]['billing_address'].'</span></th>
+      </tr>
+       <br />
+      <tr>
+        <th style="border: none; font-weight: normal;"><b>ETD </b>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['etd'].'</span></th>
+        <th style="border: none; font-weight: normal;"><b>Payment Type </b>  &nbsp; &nbsp; &nbsp; &nbsp;<span>&nbsp; : &nbsp;'.$invoice[0]['payment_type'].'</span></th>
+      </tr>
+    </table>
+
+    <br /><br />
+    <table class="table_width">
+      <tr class="heading">
+        <th class="text_color">S.No</th>
+        <th class="text_color">Product Name</th>
+        <th class="text_color">In Stock</th>
+        <th class="text_color">Quantity / Sq ft.</th>
+        <th class="text_color">Amount</th>
+        <th class="text_color">Total</th>
+      </tr>
+
+      <tr>';
+       if ($product_info) {
+                               $count=1;
+                                   for($i=0;$i<sizeof($product_info);$i++){
+        $content .='<td class="data_view">'.$count.'</td>                           
+        <td>'.$product_info[0]['product_name'].'</td>
+        <td>'.$product_info[0]['p_quantity'].'</td>
+        <td>'.$invoice_info[0]['quantity'].'</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['rate'].'</td>
+        <td>'.$currency[0]['currency'].' '.$total=$invoice_info[0]['quantity']*$invoice_info[0]['rate'].'.00</td></tr>';
+        $count++;
+      }
+    }
+      $content .='<tr>
+        <td colspan="5" style="text-align: right;">Total:</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['total_price'].'</td>
+      </tr>
+      <tr>
+        <td colspan="5" style="text-align: right;">Tax:</td>
+        <td>'.$currency[0]['currency'].'0.00</td>
+      </tr>
+      <tr>
+        <td colspan="5" style="text-align: right;">Grand Total:</td>
+        <td>'.$currency[0]['currency'].' '.$invoice_info[0]['total_price'].'</td>
+      </tr>
+     
+    </table>
+    <br>
+    <h3 class="heading_view">Account Details/Additional Information : <span style="font-weight: normal;">'.$invoice[0]['ac_details'].'</span></h3>
+    <h3 class="heading_view">Remarks/Conditions : <span style="font-weight: normal;">'.$invoice[0]['remark'].'</span></h3>';
+  }
+  $content .= '</body></html>'; 
  $content;
 // echo $content;
 // die();
