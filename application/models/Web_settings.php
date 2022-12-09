@@ -48,6 +48,28 @@ class Web_settings extends CI_Model {
 
     }
 
+    // Email Invoice Setting
+    public function retrieve_email_setting() {
+
+        $uid=$_SESSION['user_id'];
+        $this->db->select('*');
+
+        $this->db->from('invoice_email');
+
+        $this->db->where('uid',$uid);
+
+        $query = $this->db->get();
+       
+        if ($query->num_rows() > 0) {
+
+            return $query->result_array();
+
+        }
+
+        // return false;
+
+    }
+
 
        public function retrieve_setting_new_sale_invoice() {
 

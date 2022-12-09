@@ -28,14 +28,14 @@ if(1==1)
 	
 	$content = ''; 
 
-	
-		
+
 	$content .= '<!DOCTYPE html>
 <html>
   <head>
     <style>
       body {
         border: 1px solid #dee2e6;
+        margin-top:50px;
       }
       table {
         font-family: arial, sans-serif;
@@ -47,27 +47,43 @@ if(1==1)
       th {
         border: 1px solid #dddddd;
         text-align: left;
-        padding: 8px;
+        padding: 35px;
       }
       .table_view {
         border: 1px solid #111;
         background-color: #5961b3;
+        color:#fff;
       }
 
       .header_view {
         background-color: #5961b3;
         padding: 10px 40px;
       }
+      table .heading{
+            border: 1px solid #111;
+            background-color:#5961b3;
+        }
+        .text_color{
+            color: #fff;
+        }
+        .heading_view{
+           margin-left: 10px;
+        }
+        .data_view{
+          text-align: center;
+        }
     </style>
   </head>
-  <body>
-    <table>
+  <body>';
+
+ if($template == 2) { 
+ 
+  $content .= '<table>
       <tr class="header_view">
         <th style="border: none">
           <img src="../../assets/'.$company_info[0]['logo'].'" width="100px" />
-          <br />
-          <h4 style="color: #fff">'.$company_info[0]['company_name'].'</h4>
         </th>
+        <th style="border: none; color: white">'.$company_info[0]['company_name'].'</th>
         <th style="border: none; text-align: right; color: white">'.$company_info[0]['address'].'</th>
       </tr>
     </table>
@@ -75,42 +91,244 @@ if(1==1)
 
     <table>
       <tr>
-        <th style="border: none">Packing List No :'.$invoice[0]['invoice_no'].'</th>
-        <th style="border: none">Invoice Date:'.$invoice[0]['invoice_date'].'</th>
+      <th style="border: none; font-weight: normal; "><b>Packing List No</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['invoice_no'].'</span></th>
+
+      <th style="border: none; font-weight: normal; "><b>Invoice Date</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['invoice_date'].'</span></th>
+      
       </tr>
+      <br><br>
 
       <tr>
-        <th style="border: none">Gross Weight :'.$invoice[0]['gross_weight'].'</th>
-        <th style="border: none">Container No:'.$invoice[0]['container_no'].'</th>
+      <th style="border: none; font-weight: normal; "><b>Gross Weight</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left: 2px;">&nbsp;: &nbsp;'.$invoice[0]['gross_weight'].'</span></th>
+      
+       <th style="border: none; font-weight: normal; "><b>Container No</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left: 2px;">&nbsp;: &nbsp;'.$invoice[0]['container_no'].'</span></th>
+        
       </tr>
+      
     </table>
-
-    <br /><br />
     
 
-    <br /><br />
+    <br><br>
     <table>
       <tr class="table_view">
-        <th style="color: #fff; text-align: center">Product Name</th>
-        <th style="color: #fff; text-align: center">In stock</th>
-        <th style="color: #fff; text-align: center">Quantity / Sq ft.</th>
-        <th style="color: #fff; text-align: center">Amount</th>
+        <th style="color: #fff; text-align: center">Product</th>
+        <th style="color: #fff; text-align: center">Description</th>
+        <th style="color: #fff; text-align: center">Thickness</th>
        
       </tr>
 
       <tr>
-        <td>'.$product_info[0]['product_name'].'</td>
-        <td>'.$product_info[0]['p_quantity'].'</td>
-        <td>'.$product_info[0]['unit'].'</td>
-        <td>'.$product_info[0]['price'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['product_name'].'</td>
+        <td style="text-align: center;">'.$invoice[0]['description'].'</td>
+        <td style="text-align: center;">'.$invoice[0]['thickness'].'</td>
       
-      
-     
+      </tr>
      
     </table>
-  </body>
-</html>
-'; 
+
+     <br><br>
+    <table>
+      <tr  class="table_view">
+        <th rowspan="2" style="color:#fff; text-align: center;">Serial No</th>
+        <th rowspan="2" style="color:#fff; text-align: center;">SLAB NO</th>
+        <th colspan="2" style="color:#fff; text-align: center;">Net Measurement (Inches)</th>
+        <th rowspan="2" style="color:#fff; text-align: center;">Area (Sq. Ft)</th>
+      </tr>
+      <tr class="table_view"> 
+        <th style="color:#fff; text-align: center;">Width</th>
+        <th style="color:#fff; text-align: center;">Height</th>
+      </tr>
+
+      <tr>';
+      if ($product_info) {
+        $count=1;
+        for($i=0;$i<sizeof($product_info);$i++){
+        $content .='<td style="text-align: center;">'.$count.'</td>
+        <td style="text-align: center;">'.$product_info[0]['slab_no'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['width'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['height'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['area'].'</td></tr>';
+      $count++;
+      }
+    }  
+   $content .='
+      <tr>
+        <td colspan="4" style="text-align: right">Total:</td>
+        <td class="data_view">'.$invoice[0]['grand_total_amount'].'</td>
+      </tr>
+      </table>
+     <br>
+
+     <h4 style="margin-left: 10px;">Remarks/Conditions</h4>'.$invoice[0]['remarks'].'<br><br>';
+
+
+ }elseif($template == 1){
+
+     $content .= '<table>
+      <tr class="header_view">
+        <th style="border: none">
+          <img src="../../assets/'.$company_info[0]['logo'].'" width="100px" />
+        </th>
+        <th style="border: none; color: white">'.$company_info[0]['company_name'].'</th>
+        <th style="border: none; text-align: right; color: white">'.$company_info[0]['address'].'</th>
+      </tr>
+    </table>
+    <br />
+
+    <table>
+      <tr>
+      <th style="border: none; font-weight: normal; "><b>Packing List No</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['invoice_no'].'</span></th>
+
+      <th style="border: none; font-weight: normal; "><b>Invoice Date</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['invoice_date'].'</span></th>
+      
+      </tr>
+      <br><br>
+
+      <tr>
+      <th style="border: none; font-weight: normal; "><b>Gross Weight</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left: 2px;">&nbsp;: &nbsp;'.$invoice[0]['gross_weight'].'</span></th>
+      
+       <th style="border: none; font-weight: normal; "><b>Container No</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left: 2px;">&nbsp;: &nbsp;'.$invoice[0]['container_no'].'</span></th>
+        
+      </tr>
+      
+    </table>
+    
+
+    <br><br>
+    <table>
+      <tr class="table_view">
+        <th style="color: #fff; text-align: center">Product</th>
+        <th style="color: #fff; text-align: center">Description</th>
+        <th style="color: #fff; text-align: center">Thickness</th>
+       
+      </tr>
+
+      <tr>
+        <td style="text-align: center;">'.$product_info[0]['product_name'].'</td>
+        <td style="text-align: center;">'.$invoice[0]['description'].'</td>
+        <td style="text-align: center;">'.$invoice[0]['thickness'].'</td>
+      
+      </tr>
+     
+    </table>
+
+     <br><br>
+    <table>
+      <tr  class="table_view">
+        <th rowspan="2" style="color:#fff; text-align: center;">Serial No</th>
+        <th rowspan="2" style="color:#fff; text-align: center;">SLAB NO</th>
+        <th colspan="2" style="color:#fff; text-align: center;">Net Measurement (Inches)</th>
+        <th rowspan="2" style="color:#fff; text-align: center;">Area (Sq. Ft)</th>
+      </tr>
+      <tr class="table_view"> 
+        <th style="color:#fff; text-align: center;">Width</th>
+        <th style="color:#fff; text-align: center;">Height</th>
+      </tr>
+
+      <tr>';
+      if ($product_info) {
+        $count=1;
+        for($i=0;$i<sizeof($product_info);$i++){
+        $content .='<td style="text-align: center;">'.$count.'</td>
+        <td style="text-align: center;">'.$product_info[0]['slab_no'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['width'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['height'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['area'].'</td></tr>';
+      $count++;
+      }
+    }  
+   $content .='</table>
+     <br>
+
+     <h4 style="margin-left: 10px;">Remarks/Conditions</h4>'.$invoice[0]['remarks'].'<br><br>';
+
+
+
+ }elseif($template == 3){
+
+    $content .= '<table>
+      <tr class="header_view">
+        <th style="border: none">
+          <img src="../../assets/'.$company_info[0]['logo'].'" width="100px" />
+        </th>
+        <th style="border: none; color: white">'.$company_info[0]['company_name'].'</th>
+        <th style="border: none; text-align: right; color: white">'.$company_info[0]['address'].'</th>
+      </tr>
+    </table>
+    <br />
+
+    <table>
+      <tr>
+      <th style="border: none; font-weight: normal; "><b>Packing List No</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['invoice_no'].'</span></th>
+
+      <th style="border: none; font-weight: normal; "><b>Invoice Date</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;: &nbsp;'.$invoice[0]['invoice_date'].'</span></th>
+      
+      </tr>
+      <br><br>
+
+      <tr>
+      <th style="border: none; font-weight: normal; "><b>Gross Weight</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left: 2px;">&nbsp;: &nbsp;'.$invoice[0]['gross_weight'].'</span></th>
+      
+       <th style="border: none; font-weight: normal; "><b>Container No</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left: 2px;">&nbsp;: &nbsp;'.$invoice[0]['container_no'].'</span></th>
+        
+      </tr>
+      
+    </table>
+    
+
+    <br><br>
+    <table>
+      <tr class="table_view">
+        <th style="color: #fff; text-align: center">Product</th>
+        <th style="color: #fff; text-align: center">Description</th>
+        <th style="color: #fff; text-align: center">Thickness</th>
+       
+      </tr>
+
+      <tr>
+        <td style="text-align: center;">'.$product_info[0]['product_name'].'</td>
+        <td style="text-align: center;">'.$invoice[0]['description'].'</td>
+        <td style="text-align: center;">'.$invoice[0]['thickness'].'</td>
+      
+      </tr>
+     
+    </table>
+
+     <br><br>
+    <table>
+      <tr  class="table_view">
+        <th rowspan="2" style="color:#fff; text-align: center;">Serial No</th>
+        <th rowspan="2" style="color:#fff; text-align: center;">SLAB NO</th>
+        <th colspan="2" style="color:#fff; text-align: center;">Net Measurement (Inches)</th>
+        <th rowspan="2" style="color:#fff; text-align: center;">Area (Sq. Ft)</th>
+      </tr>
+      <tr class="table_view"> 
+        <th style="color:#fff; text-align: center;">Width</th>
+        <th style="color:#fff; text-align: center;">Height</th>
+      </tr>
+
+      <tr>';
+      if ($product_info) {
+        $count=1;
+        for($i=0;$i<sizeof($product_info);$i++){
+        $content .='<td style="text-align: center;">'.$count.'</td>
+        <td style="text-align: center;">'.$product_info[0]['slab_no'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['width'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['height'].'</td>
+        <td style="text-align: center;">'.$product_info[0]['area'].'</td></tr>';
+      $count++;
+      }
+    }  
+   $content .='</table>
+     <br>
+
+    <h4 style="margin-left: 10px;">Remarks/Conditions</h4>'.$invoice[0]['remarks'].'<br><br>';
+
+ }
+
+	
+		
+ $content .= '</body></html>'; 
  $content;
 // echo $content;
 // die();
