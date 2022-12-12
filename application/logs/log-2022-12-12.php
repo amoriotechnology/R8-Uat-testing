@@ -24284,3 +24284,64 @@ ERROR - 2022-12-12 10:43:43 --> Severity: Notice --> Trying to get property 'set
 INFO - 2022-12-12 10:43:43 --> Final output sent to browser
 DEBUG - 2022-12-12 10:43:43 --> Total execution time: 0.0365
 >>>>>>> 3cb765d9d3b15f5a71f4f37f592716ebc448552c
+ERROR - 2022-12-12 11:15:19 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-12 11:15:19 --> Config Class Initialized
+INFO - 2022-12-12 11:15:19 --> Hooks Class Initialized
+DEBUG - 2022-12-12 11:15:19 --> UTF-8 Support Enabled
+INFO - 2022-12-12 11:15:19 --> Utf8 Class Initialized
+INFO - 2022-12-12 11:15:19 --> URI Class Initialized
+INFO - 2022-12-12 11:15:19 --> Router Class Initialized
+INFO - 2022-12-12 11:15:19 --> Output Class Initialized
+INFO - 2022-12-12 11:15:19 --> Security Class Initialized
+DEBUG - 2022-12-12 11:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-12 11:15:19 --> CSRF cookie sent
+INFO - 2022-12-12 11:15:19 --> Input Class Initialized
+INFO - 2022-12-12 11:15:19 --> Language Class Initialized
+INFO - 2022-12-12 11:15:19 --> Loader Class Initialized
+INFO - 2022-12-12 11:15:19 --> Helper loaded: url_helper
+INFO - 2022-12-12 11:15:19 --> Helper loaded: file_helper
+INFO - 2022-12-12 11:15:19 --> Helper loaded: form_helper
+INFO - 2022-12-12 11:15:19 --> Helper loaded: lang_helper
+INFO - 2022-12-12 11:15:19 --> Database Driver Class Initialized
+INFO - 2022-12-12 11:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-12 11:15:19 --> Parser Class Initialized
+INFO - 2022-12-12 11:15:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-12 11:15:19 --> Pagination Class Initialized
+INFO - 2022-12-12 11:15:19 --> Form Validation Class Initialized
+INFO - 2022-12-12 11:15:19 --> Controller Class Initialized
+INFO - 2022-12-12 11:15:19 --> Model "Web_settings" initialized
+ERROR - 2022-12-12 11:15:19 --> $config['composer_autoload'] is set to TRUE but D:\wamp\www\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-12 11:15:19 --> Config Class Initialized
+INFO - 2022-12-12 11:15:19 --> Hooks Class Initialized
+DEBUG - 2022-12-12 11:15:19 --> UTF-8 Support Enabled
+INFO - 2022-12-12 11:15:19 --> Utf8 Class Initialized
+INFO - 2022-12-12 11:15:19 --> URI Class Initialized
+INFO - 2022-12-12 11:15:19 --> Router Class Initialized
+INFO - 2022-12-12 11:15:19 --> Output Class Initialized
+INFO - 2022-12-12 11:15:19 --> Security Class Initialized
+DEBUG - 2022-12-12 11:15:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-12 11:15:19 --> CSRF cookie sent
+INFO - 2022-12-12 11:15:19 --> Input Class Initialized
+INFO - 2022-12-12 11:15:19 --> Language Class Initialized
+INFO - 2022-12-12 11:15:19 --> Loader Class Initialized
+INFO - 2022-12-12 11:15:19 --> Helper loaded: url_helper
+INFO - 2022-12-12 11:15:19 --> Helper loaded: file_helper
+INFO - 2022-12-12 11:15:19 --> Helper loaded: form_helper
+INFO - 2022-12-12 11:15:19 --> Helper loaded: lang_helper
+INFO - 2022-12-12 11:15:19 --> Database Driver Class Initialized
+INFO - 2022-12-12 11:15:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-12 11:15:19 --> Parser Class Initialized
+INFO - 2022-12-12 11:15:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-12 11:15:19 --> Pagination Class Initialized
+INFO - 2022-12-12 11:15:19 --> Form Validation Class Initialized
+INFO - 2022-12-12 11:15:19 --> Controller Class Initialized
+INFO - 2022-12-12 11:15:19 --> Model "Web_settings" initialized
+INFO - 2022-12-12 11:15:19 --> Model "reports" initialized
+INFO - 2022-12-12 11:15:19 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\user/admin_login_form.php
+DEBUG - 2022-12-12 11:15:19 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-12 11:15:19 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-12 11:15:19 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-12 11:15:19 --> Model "Products" initialized
+INFO - 2022-12-12 16:45:19 --> File loaded: D:\wamp\www\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-12 16:45:19 --> Final output sent to browser
+DEBUG - 2022-12-12 16:45:19 --> Total execution time: 0.0517
