@@ -319,7 +319,8 @@
                                 <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="<?php echo display('save') ?>" />
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
-<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>   
+<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a> 
                             </div>
                         </div>
 
@@ -607,6 +608,7 @@ $('#insert_purchase').submit(function (event) {
             $("#myModal1").find('.modal-body').text('Packing List Updated Successfully');
             $('#final_submit').show();
 $('#download').show();
+$('#email_btn').show();
     $('#myModal1').modal('show');
     window.setTimeout(function(){
         $('.modal').modal('hide');
@@ -637,6 +639,7 @@ var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
         $(document).ready(function(){
             $('#final_submit').hide();
 $('#download').hide();
+$('#email_btn').hide();
    });
    function discard(){
    $.get(

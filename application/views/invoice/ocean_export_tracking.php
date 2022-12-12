@@ -99,8 +99,7 @@ if(isset($_SESSION['oceanid']))
                     </div>
 
                     <div class="panel-body">
-                     <?php  echo form_open_multipart('Cinvoice/insert_ocean_export',array('class' => 'form-vertical', 'id' => 'createform','name' => 'createform'));
-                 ?>           
+                    <form id="insert_ocean"  method="post">                   
 
                         <div class="row">
                            
@@ -200,7 +199,7 @@ if(isset($_SESSION['oceanid']))
                                         <i class="text-danger">*</i>
                                     </label>
                                     <div class="col-sm-8">
-                                        <input type="text" tabindex="3" class="form-control" name="etd" placeholder="Notify Party" id="notify_party" required/>
+                                        <input type="text" tabindex="3" class="form-control" name="notify_party" placeholder="Notify Party" id="notify_party" required/>
                                     </div>
                                 </div>
                             </div>
@@ -216,7 +215,8 @@ if(isset($_SESSION['oceanid']))
                             </div>
                         </div>
 
-
+                        <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
+   
 
 
                          <div class="row">
@@ -296,7 +296,7 @@ if(isset($_SESSION['oceanid']))
                                 </div> 
                             </div>
                         </div>
-
+                        <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group row">
@@ -335,7 +335,7 @@ if(isset($_SESSION['oceanid']))
                                     </label>
                                     <div class="col-sm-8">
                                     <?php $date = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control " name="delivery_date" value="<?php echo $date; ?>" id="date"  />
+                                        <input type="date" required tabindex="2" class="form-control " name="etd" value="<?php echo $date; ?>" id="date"  />
                                     </div>
                                 </div>
                             </div>
@@ -347,7 +347,7 @@ if(isset($_SESSION['oceanid']))
                                     </label>
                                     <div class="col-sm-8">
                                     <?php $date = date('Y-m-d'); ?>
-                                        <input type="date" required tabindex="2" class="form-control " name="arrival" value="<?php echo $date; ?>" id="date"  />
+                                        <input type="date" required tabindex="2" class="form-control " name="eta" value="<?php echo $date; ?>" id="date"  />
                                     </div>
                                 </div> 
                             </div>
@@ -359,7 +359,7 @@ if(isset($_SESSION['oceanid']))
                                         <i class="text-danger"></i>
                                     </label>
                                     <div class="col-sm-10">
-                                       <textarea class="form-control" tabindex="4" id="particular" name="particular"  rows="2"></textarea>
+                                       <textarea class="form-control" tabindex="4" id="particular" name="particulars"  rows="2"></textarea>
                                     </div>
                                 </div>
                             </div>
@@ -403,64 +403,15 @@ if(isset($_SESSION['oceanid']))
                                  <table>
                                 <tr>
                                     <td>
-                                        <input type="hidden" name="uid" value="<?php echo $_SESSION['user_id']; ?>">
-    
-                                        <input type="submit" id="ocean_export_tracking" class="btn btn-primary btn-large" name="add-ocean-export" onclick="  
-                                        "name="add-purchase" value="<?php echo display('Save') ?>" />
+                                    <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-ocean-Export" value="Save" />
+                                                       
+                                                       <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
+                        
+                        <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
+                        <a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a> 
                                     </td>
-                                    <td>&nbsp;</td>
-                                   <?php  if(isset($_SESSION['oceanid']))    {?>    
-                                    <td>
-                                       <a href="<?php echo base_url('Cinvoice/manage_ocean_export_tracking/'); ?>" style="color: #fff ;" id="save_another" class="btn btn-primary">
-                                           Submit
-                                        </a>
-                                        <a href="<?php echo base_url('Cinvoice/invoice_inserted_data/'); ?><?php echo $this->session->userdata('oceanid');?>" id="download" class="btn btn-primary">
-                                            Download 
-                                        </a>
-
-                                    </td>
-                                    <td>&nbsp;</td>
-                                    <td>
-                                       <a class="btn  btn-primary" style=" color: #fff;"  data-toggle="modal" data-target="#emailmodal">Send mail with attachment</a>
-
-  <!-- Modal -->
-<div id="emailmodal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-<form action="insert_role">    <!-- Modal content-->
-    <div class="modal-content" >
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Select Email Template </h4>
-      </div>
-      <div class="modal-body">
-     <div class="row">
-        <div class="col-sm-6" style="border: 1px solid #6666;text-align: center;">  <p style="font-weight: bold;">Standard</p>
-            <br>
-            <i>Standard Email Temeplate</i>
-            <br>
-            <br>
-         <a href="<?php echo base_url('Cinvoice/ocean_with_attachment_stand/').$this->session->userdata('oceanid');  ?>" class="btn btn-default">Select</a></div>
-        <div class="col-sm-6" style="border: 1px solid #6666;text-align: center;">  <p style="font-weight: bold;">Custom</p>
-            <br>
-            <i>Custom Email Temeplate</i>
-            <br>
-            <br>
-         <a class="btn btn-default" href="<?php echo base_url('Cinvoice/ocean_with_attachment_cus/').$this->session->userdata('oceanid');  ?>">Select</a></div>
-       
-     </div>
-
-
-</div>
-      <div class="modal-footer">
-      
-      </div>
-    </div>
-
-  </div>
-</div>
-                                         
-                                    </td>
-                                <?php } ?>
+                            
+                                 
                                   
                                   
                                     
@@ -471,7 +422,7 @@ if(isset($_SESSION['oceanid']))
 
                         <input type ="hidden" name="csrf_test_name" id="csrf_test_name" value="<?php echo $this->security->get_csrf_hash();?>">
 
-                  <?php      echo form_close(); ?>
+                        </form>
                     </div>
                 </div>
 
@@ -690,7 +641,7 @@ if(isset($_SESSION['oceanid']))
 
                         </div>
 
-                        <?php echo form_close() ?>
+        </form>
 
                     </div><!-- /.modal-content -->
 
@@ -698,6 +649,176 @@ if(isset($_SESSION['oceanid']))
 
             </div><!-- /.modal -->
 
+            <div class="modal fade" id="myModal1" role="dialog" >
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content" style="margin-top: 190px;">
+        <div class="modal-header" style="">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Sales - Ocean</h4>
+        </div>
+        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
+          
+      
+     
+        </div>
+        <div class="modal-footer">
+          
+        </div>
+      </div>
+      
+    </div>
+  </div>
+          <div id="myModal3" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title">Confirmation</h4>
+			</div>
+			<div class="modal-body">
+				<p>Your Invoice is not submitted. Would you like to submit or discard
+				</p>
+				<p class="text-warning">
+					<small>If you don't submit, your changes will not be saved.</small>
+				</p>
+			</div>
+			<div class="modal-footer">
+				<input type="submit" id="ok" class="btn btn-primary pull-left final_submit" onclick="submit_redirect()"  value="Submit"/>
+                <button id="btdelete" type="button" class="btn btn-danger pull-left" onclick="discard()">Discard</button>
+			
+			</div>
+		</div>
+	</div>
+</div>   
+
+<script type="text/javascript">
+            var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
+var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
+        $(document).ready(function(){
+
+            $('#final_submit').hide();
+$('#download').hide();
+$('#email_btn').hide();
+        });
+        $('#insert_ocean').submit(function (event) {
+    var dataString = {
+        dataString : $("#insert_ocean").serialize()
+    
+   };
+   dataString[csrfName] = csrfHash;
+  
+    $.ajax({
+        type:"POST",
+        dataType:"json",
+        url:"<?php echo base_url(); ?>Cinvoice/insert_ocean_export",
+        data:$("#insert_ocean").serialize(),
+
+        success:function (data) {
+            $('#final_submit').show();
+$('#download').show();
+$('#email_btn').show();
+        console.log(data);
+        var split = data.split("/");
+        var input_hdn="Ocean Export Created Successfully";
+  
+  console.log(input_hdn);
+  $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+     
+           $('#invoice_hdn').val(split[0]);
+           $('#invoice_hdn1').val(split[1]);
+       }
+
+    });
+    event.preventDefault();
+});
+$('#download').on('click', function (e) {
+var link= $('#invoice_hdn').val();
+console.log(link);
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/ocean_export_tracking_details_data/"+link);
+ 
+    window.setTimeout(function(){
+         popout.close();
+      
+      }, 2500);
+      e.preventDefault();
+
+});  
+$('#add_purchase').on('click', function (e) {
+    
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+ },2500);
+
+$('#final_submit').show();
+$('#download').show();
+});
+function discard(){
+   $.get(
+    "<?php echo base_url(); ?>Cinvoice/delete_ocean_export/", 
+   { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
+   function(responseText){
+    console.log(responseText);
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Booking No :"+$('#invoice_hdn1').val()+" has been Discarded";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_ocean_export_tracking";
+      }, 2000);
+   }
+); 
+}
+     function submit_redirect(){
+        window.btn_clicked = true;      //set btn_clicked to true
+        var input_hdn="Your Booking List No :"+$('#invoice_hdn1').val()+" has been saved Successfully";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_ocean_export_tracking";
+      }, 2000);
+     }
+
+$('#final_submit').on('click', function (e) {
+
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Booking  No :"+$('#invoice_hdn1').val()+" has been Updated Successfully";
+  
+    console.log(input_hdn);
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_ocean_export_tracking";
+      }, 2000);
+       
+});
+
+window.onbeforeunload = function(){
+    if(!window.btn_clicked){
+       // window.btn_clicked = true; 
+        $('#myModal3').modal('show');
+       return false;
+    }
+}
+    </script>
+ 
 
 <style>
  #btn1_download{

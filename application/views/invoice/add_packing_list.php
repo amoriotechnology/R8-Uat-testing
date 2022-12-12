@@ -335,59 +335,7 @@
     
                                         <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="Save" />
                                     </td>
-                                    <td>&nbsp;</td>
-                                    <?php  if(isset($_SESSION['packingid']))    {?>    
-                                    <td>
-                                       <a href="<?php echo base_url('Cinvoice/manage_packing_list/'); ?>" style="color: #fff ;" id="save_another" class="btn btn-primary">
-                                           Submit
-                                        </a>
-                                        <a href="<?php echo base_url('Cinvoice/invoice_inserted_data/'); ?><?php echo $this->session->userdata('packingid');?>" id="download" class="btn btn-primary">
-                                            Download 
-                                        </a>
-
-                                    </td>
-                                    <td>&nbsp;</td>
-                                    <td>
-                                       <a class="btn  btn-primary" style=" color: #fff;"  data-toggle="modal" data-target="#emailmodal">Send mail with attachment</a>
-
-  <!-- Modal -->
-<div id="emailmodal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-<form action="insert_role">    <!-- Modal content-->
-    <div class="modal-content" >
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Select Email Template </h4>
-      </div>
-      <div class="modal-body">
-     <div class="row">
-        <div class="col-sm-6" style="border: 1px solid #6666;text-align: center;">  <p style="font-weight: bold;">Standard</p>
-            <br>
-            <i>Standard Email Temeplate</i>
-            <br>
-            <br>
-         <a href="<?php echo base_url('Cinvoice/packing_with_attachment_stand/').$_SESSION['packingid'];  ?>" class="btn btn-default">Select</a></div>
-        <div class="col-sm-6" style="border: 1px solid #6666;text-align: center;">  <p style="font-weight: bold;">Custom</p>
-            <br>
-            <i>Custom Email Temeplate</i>
-            <br>
-            <br>
-         <a class="btn btn-default" href="<?php echo base_url('Cinvoice/packing_with_attachment_cus/').$_SESSION['packingid'];  ?>">Select</a></div>
-       
-     </div>
-
-
-</div>
-      <div class="modal-footer">
-      
-      </div>
-    </div>
-
-  </div>
-</div>
-                                         
-                                    </td>
-                                <?php } ?>
+        
                                   
                                   
                                     

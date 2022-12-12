@@ -209,7 +209,7 @@ textarea:focus, input:focus{
                                 
                                 </div> 
                             </div>
-                            <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
+                            <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
 
                             <div class="col-sm-6">
                                <div class="form-group row">
@@ -391,6 +391,7 @@ preg_match('#\((.*?)\)#', $d, $match);
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>
                             </div>
                         </div>
                         <div class="form-group row">
@@ -689,6 +690,7 @@ $('#insert_trucking').submit(function (event) {
         $('#myModal1').modal('show');
         $('#final_submit').show();
         $('#download').show();
+        $('#email_btn').show();
     window.setTimeout(function(){
         $('.modal').modal('hide');
        
@@ -816,7 +818,7 @@ function addTruckingOrderField(t) {
     $(document).ready(function(){
         $('#final_submit').hide();
 $('#download').hide();
-
+$('#email_btn').hide();
 
 $('#product_tax').on('change', function (e) {
     var first=$("#Total").val();
