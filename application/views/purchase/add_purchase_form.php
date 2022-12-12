@@ -1128,7 +1128,7 @@ textarea:focus, input:focus{
     </div>
   </div>
 
-<<<<<<< HEAD
+
   <div id="myModal3" class="modal fade">
 	<div class="modal-dialog">
 		<div class="modal-content">
@@ -1151,13 +1151,11 @@ textarea:focus, input:focus{
 	</div>
 </div>
              
-=======
+
 
 
 </script>
-<input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
-              
->>>>>>> 1aea0f6a65819f2c47e1cde06fbcdf8bca6e6c51
+
 <script type="text/javascript">
     var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';

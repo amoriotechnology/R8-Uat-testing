@@ -329,6 +329,8 @@
                                <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a> 
+
                             </div>
                         </div>
 
