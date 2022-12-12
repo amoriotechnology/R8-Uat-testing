@@ -671,7 +671,7 @@ echo json_encode($data);
 
         if(!empty($invoice_id)){
 
-        $data['status'] = true;
+      //  $data['status'] = true;
 
         $data['invoice_id'] = $invoice_id;
 
@@ -703,7 +703,7 @@ echo json_encode($data);
 
 
 
-        echo json_encode($data);
+        echo json_encode($invoice_id);
 
     }
 

@@ -806,7 +806,15 @@ function discard(){
         window.location = "<?php  echo base_url(); ?>Cinvoice/manage_profarma_invoice";
       }, 2000);
      }
-
+     $('#email').on('click', function (e) {
+// var link=localStorage.getItem("truck");
+// console.log(link);
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/proforma_with_attachment_cus/"+$('#invoice_hdn1').val());
+    // window.setTimeout(function(){
+    //     popout.close();
+    //  }, 1500);
+      e.preventDefault();
+});
 $('#insert_trucking').submit(function (event) {
    
        

@@ -279,7 +279,7 @@
                                     <div class="col-sm-8">
 
                                         <select   name="payment_terms" id="payment_terms" class=" form-control" placeholder='Payment Terms' id="payment_terms">
-                                         <option value=""></option>   
+                                         <option value="<?php echo $payment_terms ; ?>"><?php  echo $payment_terms ;  ?></option>   
                                         <option value="100%">100%</option> 
                                         <option value="30-70">30-70%</option> 
                                         <option value="70-30">70-30%</option> 
@@ -298,7 +298,7 @@
                                     <div class="col-sm-8">
 
                                         <select type="text"  name="number_of_days" id=number_of_days class=" form-control" placeholder='Number of days' id="number_of_days"> 
-                                            <option value="">number_of_days</option>
+                                            <option value="<?php  echo $number_of_days ;  ?>"><?php  echo $number_of_days ;  ?></option>
                                             <?php 
                                             for($i=1;$i<100;$i++)
                                             {
@@ -317,7 +317,7 @@
 
                                     <div class="col-sm-8">
 
-                                        <input type="date" name="etd" class="form-control">
+                                        <input type="date" name="etd" value= "<?php  echo $etd ;  ?>" class="form-control">
                                     </div>
 
                                 </div> 
@@ -405,7 +405,7 @@
 
                                         ?>
 
-                                        <input class="form-control" type="date" size="50" name="payment_due_date" id="date1" required  tabindex="4" />
+                                        <input class="form-control" type="date" size="50" value="<?php echo $payment_due_date; ?>" name="payment_due_date" id="date1" required  tabindex="4" />
 
                                     </div>
 
@@ -424,7 +424,7 @@
 
                                         ?>
 
-                                        <input class="form-control" type="date" size="50" name="eta" id="date1" required  tabindex="4" />
+                                        <input class="form-control" type="date" size="50" value="<?php echo $eta; ?>"  name="eta" id="date1" required  tabindex="4" />
 
                                     </div>
 
@@ -505,15 +505,18 @@ input[type=number]::-webkit-outer-spin-button {
                         <tr>
                       <td class="hiden" style="width:30%;border:none;">
                          </td>
-                
+                         <?php  $d= $total_tax; 
+preg_match('#\((.*?)\)#', $d, $match);
+
+ ?>      
                                 <td class="hiden" style="width:200px;padding:5px;background-color: #38469f;border:none;font-weight:bold;color:white;">1 <?php  echo $curn_info_default;  ?>
                                  = <input style="width:50px;text-align:center;color:black;padding:5px;" type="text" id="custocurrency_rate"/>&nbsp;<label for="custocurrency" style="color:white;background-color: #38469f;"></label></td>
                     <td style="border:none;text-align:right;font-weight:bold;">Tax : 
                                  </td>
                                 <td style="width:40%">
 <select name="tx"  id="product_tax" class="form-control" >
-<option value="Select the Tax" selected>Select the Tax</option>
-<?php foreach($tax as $tx){?>
+<option value="<?php echo $match[1];  ?>" selected><?php echo $match[1];  ?></option>
+<?php foreach($all_tax as $tx){?>
   
     <option value="<?php echo $tx['tax_id'].'-'.$tx['tax'].'%';?>">  <?php echo $tx['tax_id'].'-'.$tx['tax'].'%';  ?></option>
 <?php } ?>
@@ -561,11 +564,11 @@ textarea:focus, input:focus{
                                                 <option value="<?php echo $tx['product_name'].'-'.$tx['product_model'];?>">  <?php echo $tx['product_name'].'-'.$tx['product_model'];  ?></option>
                                            <?php } ?>
                                         </select>
-                                        <input type='hidden' class='common_product autocomplete_hidden_value  product_id_1' name='product_id[]' id='SchoolHiddenId' />
+                                        <input type='hidden' class='common_product autocomplete_hidden_value  product_id_1' value="{product_id}" name='product_id[]' id='SchoolHiddenId' />
                                         </td>
 
                                        <td class="wt">
-                                                <input type="text" id="available_quantity[]" value="{stock_qty}" name="available_quantity[]" class="form-control text-right available_quantity_1" placeholder="0.00" readonly/>
+                                                <input type="text" id="available_quantity[]"  value="{in_stock}" name="available_quantity[]" class="form-control text-right available_quantity_1" placeholder="0.00" readonly/>
                                             </td>
                                         
                                             <td class="text-right">
@@ -1772,6 +1775,64 @@ $('#customer_gtotal').val(custo_final);
   </div>
 </div>
 <script type="text/javascript">
+    //Add Input Field Of Row
+    function addInputField(t) {
+    //debugger;
+    var row = $("#normalinvoice tbody tr").length;
+    var count = row + 1;
+      var  tab1 = 0;
+      var  tab2 = 0;
+      var  tab3 = 0;
+      var  tab4 = 0;
+      var  tab5 = 0;
+      var  tab6 = 0;
+      var  tab7 = 0;
+      var  tab8 = 0;
+      var  tab9 = 0;
+      var  tab10 = 0;
+      var  tab11 = 0;
+      var  tab12 = 0;
+    var limits = 500;
+     var taxnumber = $("#txfieldnum").val();
+    var tbfild ='';
+    for(var i=0;i<taxnumber;i++){
+        var taxincrefield = '<input id="total_tax'+i+'_'+count+'" class="total_tax'+i+'_'+count+'" type="hidden"><input id="all_tax'+i+'_'+count+'" class="total_tax'+i+'" type="hidden" name="tax[]">';
+         tbfild +=taxincrefield;
+    }
+    if (count == limits)
+        alert("You have reached the limit of adding " + count + " inputs");
+    else {
+        var a = "product_name_" + count,
+                tabindex = count * 6,
+                e = document.createElement("tr");
+        tab1 = tabindex + 1;
+        tab2 = tabindex + 2;
+        tab3 = tabindex + 3;
+        tab4 = tabindex + 4;
+        tab5 = tabindex + 5;
+        tab6 = tabindex + 6;
+        tab7 = tabindex + 7;
+        tab8 = tabindex + 8;
+        tab9 = tabindex + 9;
+        tab10 = tabindex + 10;
+        tab11 = tabindex + 11;
+        tab12 = tabindex + 12;
+        e.innerHTML = "<td><select name='prodt[]' id='prodt_" + count + "' class='form-control product_name' onchange='available_quantity("+ count +");'>"+
+        "<option value='Select the Product' selected>Select the Product</option><?php  foreach($product as $tx){?>"+
+       " <option value='<?php echo $tx['product_name'].'-'.$tx['product_model'];?>'>  <?php echo $tx['product_name'].'-'.$tx['product_model'];  ?></option>"+
+        "<?php } ?> </select><input type='hidden' class='common_product autocomplete_hidden_value  product_id_" + count + "' name='product_id[]' id='SchoolHiddenId' /></td><td><input type='text' name='available_quantity[]' id='available_quantity[]' class='form-control text-right common_avail_qnt available_quantity_" + count + "' value='0' readonly='readonly' /></td><td> <input type='text' name='product_quantity[]' id='cartoon_" + count + "'  required='required' onkeyup='total_amt(" + count + ");'  onchange='total_amt(" + count + ");' id='total_qntt_" + count + "' class='common_qnt total_qntt_" + count + " form-control text-right'  placeholder='0.00' min='0' tabindex='" + tab3 + "'/></td><td> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input type='text' name='product_rate[]' id='product_rate_" + count + "' onkeyup='quantity_calculate(" + count + ");' onchange='quantity_calculate(" + count + ");' id='price_item_" + count + "' class='common_rate price_item" + count + "' required placeholder='0.00' min='0' tabindex='" + tab4 + "'/></span></td><td class='text-right'> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input class='common_total_price total_price' type='text' name='total_price[]' id='total_price_" + count + "' value='0.00' readonly='readonly'/></span></td><td>"+tbfild+"<input type='hidden' id='all_discount_" + count + "' class='total_discount dppr' name='discount_amount[]'/><button tabindex='" + tab5 + "' style='text-align: right;' class='btn btn-danger' type='button' value='Delete' onclick='deleteRow(this)'><i class='fa fa-close'></i></button></td>",
+                document.getElementById(t).appendChild(e),
+                document.getElementById(a).focus(),
+                document.getElementById("add_invoice_item").setAttribute("tabindex", tab6);
+                document.getElementById("details").setAttribute("tabindex", tab7);
+                document.getElementById("invoice_discount").setAttribute("tabindex", tab8);
+                document.getElementById("shipping_cost").setAttribute("tabindex", tab9);    
+                document.getElementById("paidAmount").setAttribute("tabindex", tab10);
+                document.getElementById("full_paid_tab").setAttribute("tabindex", tab11);
+                document.getElementById("add_invoice").setAttribute("tabindex", tab12);
+                count++
+    }
+}
     $('#add_purchase').on('click', function() {
     $('#send_email1').show();
     $('#send_email2').show();
@@ -1877,63 +1938,7 @@ $('#customer_gtotal').val(custo_final);
    });
  
 
-   function addInputField(t) {
-    //debugger;
-    var row = $("#normalinvoice tbody tr").length;
-    var count = row + 1;
-      var  tab1 = 0;
-      var  tab2 = 0;
-      var  tab3 = 0;
-      var  tab4 = 0;
-      var  tab5 = 0;
-      var  tab6 = 0;
-      var  tab7 = 0;
-      var  tab8 = 0;
-      var  tab9 = 0;
-      var  tab10 = 0;
-      var  tab11 = 0;
-      var  tab12 = 0;
-    var limits = 500;
-     var taxnumber = $("#txfieldnum").val();
-    var tbfild ='';
-    for(var i=0;i<taxnumber;i++){
-        var taxincrefield = '<input id="total_tax'+i+'_'+count+'" class="total_tax'+i+'_'+count+'" type="hidden"><input id="all_tax'+i+'_'+count+'" class="total_tax'+i+'" type="hidden" name="tax[]">';
-         tbfild +=taxincrefield;
-    }
-    if (count == limits)
-        alert("You have reached the limit of adding " + count + " inputs");
-    else {
-        var a = "product_name_" + count,
-                tabindex = count * 6,
-                e = document.createElement("tr");
-        tab1 = tabindex + 1;
-        tab2 = tabindex + 2;
-        tab3 = tabindex + 3;
-        tab4 = tabindex + 4;
-        tab5 = tabindex + 5;
-        tab6 = tabindex + 6;
-        tab7 = tabindex + 7;
-        tab8 = tabindex + 8;
-        tab9 = tabindex + 9;
-        tab10 = tabindex + 10;
-        tab11 = tabindex + 11;
-        tab12 = tabindex + 12;
-        e.innerHTML = "<td><select name='prodt[]' id='prodt_" + count + "' class='form-control product_name' onchange='available_quantity("+ count +");'>"+
-        "<option value='Select the Product' selected>Select the Product</option><?php  foreach($product as $tx){?>"+
-       " <option value='<?php echo $tx['product_name'].'-'.$tx['product_model'];?>'>  <?php echo $tx['product_name'].'-'.$tx['product_model'];  ?></option>"+
-        "<?php } ?> </select><input type='hidden' class='common_product autocomplete_hidden_value  product_id_" + count + "' name='product_id[]' id='SchoolHiddenId' /></td><td><input type='text' name='available_quantity[]' id='available_quantity[]' class='form-control text-right common_avail_qnt available_quantity_" + count + "' value='0' readonly='readonly' /></td><td> <input type='text' name='product_quantity[]' id='cartoon_" + count + "'  required='required' onkeyup='total_amt(" + count + ");'  onchange='total_amt(" + count + ");' id='total_qntt_" + count + "' class='common_qnt total_qntt_" + count + " form-control text-right'  placeholder='0.00' min='0' tabindex='" + tab3 + "'/></td><td> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input type='text' name='product_rate[]' id='product_rate_" + count + "' onkeyup='quantity_calculate(" + count + ");' onchange='quantity_calculate(" + count + ");' id='price_item_" + count + "' class='common_rate price_item" + count + "' required placeholder='0.00' min='0' tabindex='" + tab4 + "'/></span></td><td class='text-right'> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input class='common_total_price total_price' type='text' name='total_price[]' id='total_price_" + count + "' value='0.00' readonly='readonly'/></span></td><td>"+tbfild+"<input type='hidden' id='all_discount_" + count + "' class='total_discount dppr' name='discount_amount[]'/><button tabindex='" + tab5 + "' style='text-align: right;' class='btn btn-danger' type='button' value='Delete' onclick='deleteRow(this)'><i class='fa fa-close'></i></button></td>",
-                document.getElementById(t).appendChild(e),
-                document.getElementById(a).focus(),
-                document.getElementById("add_invoice_item").setAttribute("tabindex", tab6);
-                document.getElementById("details").setAttribute("tabindex", tab7);
-                document.getElementById("invoice_discount").setAttribute("tabindex", tab8);
-                document.getElementById("shipping_cost").setAttribute("tabindex", tab9);    
-                document.getElementById("paidAmount").setAttribute("tabindex", tab10);
-                document.getElementById("full_paid_tab").setAttribute("tabindex", tab11);
-                document.getElementById("add_invoice").setAttribute("tabindex", tab12);
-                count++
-    }
-}
+  
 $('#email_send').click(function(){
       
       var data = {

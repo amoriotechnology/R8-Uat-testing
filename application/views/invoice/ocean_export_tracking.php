@@ -296,7 +296,7 @@ if(isset($_SESSION['oceanid']))
                                 </div> 
                             </div>
                         </div>
-                        <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group row">
@@ -733,6 +733,13 @@ $('#email_btn').show();
 
     });
     event.preventDefault();
+});
+$('#email_btn').on('click', function (e) {
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/ocean_with_attachment_cus/"+$('#invoice_hdn1').val());
+    // window.setTimeout(function(){
+    //      popout.close();
+    //   }, 1500);
+      e.preventDefault();
 });
 $('#download').on('click', function (e) {
 var link= $('#invoice_hdn').val();

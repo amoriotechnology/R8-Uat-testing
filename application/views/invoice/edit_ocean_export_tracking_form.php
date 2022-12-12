@@ -209,7 +209,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+                            <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                             <div class="col-sm-6">
                                <div class="form-group row">
                                     <label for="eta" class="col-sm-4 col-form-label">Vessel
@@ -398,7 +398,7 @@ var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 
             $('#final_submit').hide();
 $('#download').hide();
-        
+$('#email_btn').hide();   
         });
         $('#insert_ocean').submit(function (event) {
     var dataString = {
@@ -452,6 +452,7 @@ $('.modal-backdrop').remove();
 
 $('#final_submit').show();
 $('#download').show();
+$('#email_btn').show();   
 });
 function discard(){
    $.get(

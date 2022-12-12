@@ -451,6 +451,13 @@ $(document).ready(function () {
       
     });
 });
+$('#email_btn').on('click', function (e) {
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/packing_with_attachment_cus/"+$('#invoice_hdn1').val());
+    // window.setTimeout(function(){
+    //      popout.close();
+    //   }, 1500);
+      e.preventDefault();
+});
 </script>
 
 
