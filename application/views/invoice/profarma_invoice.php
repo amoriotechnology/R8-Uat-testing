@@ -413,8 +413,8 @@ textarea:focus, input:focus{
                                     <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
-<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
-<a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
+                                <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
+                                <a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
                                     <td>&nbsp;</td>
                                     <td id="btn1_download">
                                         
@@ -847,8 +847,8 @@ $('.modal-backdrop').remove();
     event.preventDefault();
 });
 $('#download').on('click', function (e) {
-var link=localStorage.getItem("truck");
-console.log(link);
+// var link=localStorage.getItem("truck");
+// console.log(link);
  var popout = window.open("<?php  echo base_url(); ?>Cinvoice/performa_pdf/"+$('#invoice_hdn1').val());
  
     window.setTimeout(function(){
@@ -858,6 +858,19 @@ console.log(link);
       e.preventDefault();
 
 });  
+
+$('#email').on('click', function (e) {
+// var link=localStorage.getItem("truck");
+// console.log(link);
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/proforma_with_attachment_cus/"+$('#invoice_hdn1').val());
+ 
+    // window.setTimeout(function(){
+    //     popout.close();
+   
+    //  }, 1500);
+      e.preventDefault();
+
+}); 
 
 
 $('.final_submit').on('click', function (e) {

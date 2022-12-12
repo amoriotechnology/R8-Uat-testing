@@ -260,6 +260,8 @@
 
                                 </div>
 
+                                <input type="hidden" id="invoice_hdn1"/>
+
 
                                       <div class="form-group row">
 
@@ -659,6 +661,15 @@ textarea:focus, input:focus{
                                     <td>
                                     <input type="hidden" name="packing_id" value="" id="packing_id">
                                         <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="Save" />
+
+                                        <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
+                                <a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>  
+                                    <td>&nbsp;</td>
+                                     </td>
+                                    <td>&nbsp;</td>
+                                    <td id="btn1_download">
+
+                                    </td>
                                     </td>
                                     <td>&nbsp;</td>
                                      <?php 
@@ -668,10 +679,6 @@ textarea:focus, input:focus{
                                     <td >
                                         
                                     <a href="<?php echo base_url('Cinvoice/invoice_inserted_data/'); ?><?php echo $this->session->userdata('invoiceid');?>" class="btn btn-primary" style="color:#fff;" id="send_email1">Pdf Download</a>
-
-                                        
-                                        
-
 
                                     </td>
 
@@ -719,12 +726,6 @@ textarea:focus, input:focus{
                                     <td>&nbsp;</td>
                                 <?php } ?>
                                     
-                                   
-                                     
-                                   
-                                   
-                                  
-                                  
                                     
                                 </tr>
                           
@@ -777,6 +778,16 @@ textarea:focus, input:focus{
                     <input type="hidden" id="hdn"/>
 <input type="text" id="gtotal_dup"/>
                     <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
+
+
+<style>
+ #btn1_download{
+display:none;
+ }
+     #btn1_email{
+        display:none;
+     }
+    </style>
             
                   
 

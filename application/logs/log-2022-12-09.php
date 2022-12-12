@@ -47952,3 +47952,3124 @@ ERROR - 2022-12-09 11:39:08 --> Severity: Notice --> Undefined offset: 0 D:\wamp
 ERROR - 2022-12-09 11:39:08 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\wamp\www\R8-Uat-testing\application\controllers\Cinvoice.php 1266
 INFO - 2022-12-09 11:39:08 --> Final output sent to browser
 DEBUG - 2022-12-09 11:39:08 --> Total execution time: 0.0313
+ERROR - 2022-12-09 12:54:57 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:54:57 --> Config Class Initialized
+INFO - 2022-12-09 12:54:57 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:54:57 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:54:57 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:54:57 --> URI Class Initialized
+DEBUG - 2022-12-09 12:54:57 --> No URI present. Default controller set.
+INFO - 2022-12-09 12:54:57 --> Router Class Initialized
+INFO - 2022-12-09 12:54:57 --> Output Class Initialized
+INFO - 2022-12-09 12:54:57 --> Security Class Initialized
+DEBUG - 2022-12-09 12:54:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:54:57 --> CSRF cookie sent
+INFO - 2022-12-09 12:54:57 --> Input Class Initialized
+INFO - 2022-12-09 12:54:57 --> Language Class Initialized
+INFO - 2022-12-09 12:54:57 --> Loader Class Initialized
+INFO - 2022-12-09 12:54:57 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:54:57 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:54:57 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:54:57 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:54:57 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:54:57 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:54:58 --> Parser Class Initialized
+INFO - 2022-12-09 12:54:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:54:58 --> Pagination Class Initialized
+INFO - 2022-12-09 12:54:58 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:54:58 --> Controller Class Initialized
+INFO - 2022-12-09 12:54:58 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:54:58 --> Model "reports" initialized
+ERROR - 2022-12-09 12:54:58 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:54:58 --> Config Class Initialized
+INFO - 2022-12-09 12:54:58 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:54:58 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:54:58 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:54:58 --> URI Class Initialized
+INFO - 2022-12-09 12:54:58 --> Router Class Initialized
+INFO - 2022-12-09 12:54:58 --> Output Class Initialized
+INFO - 2022-12-09 12:54:58 --> Security Class Initialized
+DEBUG - 2022-12-09 12:54:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:54:58 --> CSRF cookie sent
+INFO - 2022-12-09 12:54:58 --> Input Class Initialized
+INFO - 2022-12-09 12:54:58 --> Language Class Initialized
+INFO - 2022-12-09 12:54:58 --> Loader Class Initialized
+INFO - 2022-12-09 12:54:58 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:54:58 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:54:58 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:54:58 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:54:58 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:54:58 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:54:58 --> Parser Class Initialized
+INFO - 2022-12-09 12:54:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:54:58 --> Pagination Class Initialized
+INFO - 2022-12-09 12:54:58 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:54:58 --> Controller Class Initialized
+INFO - 2022-12-09 12:54:58 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:54:58 --> Model "reports" initialized
+INFO - 2022-12-09 12:54:58 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\user/admin_login_form.php
+DEBUG - 2022-12-09 12:54:58 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:54:58 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:54:58 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:54:58 --> Model "Products" initialized
+INFO - 2022-12-09 17:24:58 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:24:58 --> Final output sent to browser
+DEBUG - 2022-12-09 17:24:58 --> Total execution time: 0.2154
+ERROR - 2022-12-09 12:55:05 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:05 --> Config Class Initialized
+INFO - 2022-12-09 12:55:05 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:05 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:05 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:05 --> URI Class Initialized
+INFO - 2022-12-09 12:55:05 --> Router Class Initialized
+INFO - 2022-12-09 12:55:05 --> Output Class Initialized
+INFO - 2022-12-09 12:55:05 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:05 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:05 --> CSRF token verified
+INFO - 2022-12-09 12:55:05 --> Input Class Initialized
+INFO - 2022-12-09 12:55:05 --> Language Class Initialized
+INFO - 2022-12-09 12:55:05 --> Loader Class Initialized
+INFO - 2022-12-09 12:55:05 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:55:05 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:55:05 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:55:05 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:55:05 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:55:05 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:55:05 --> Parser Class Initialized
+INFO - 2022-12-09 12:55:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:55:05 --> Pagination Class Initialized
+INFO - 2022-12-09 12:55:05 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:55:05 --> Controller Class Initialized
+INFO - 2022-12-09 12:55:05 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:55:05 --> Model "reports" initialized
+INFO - 2022-12-09 12:55:05 --> Email Class Initialized
+ERROR - 2022-12-09 12:55:07 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() D:\xampp\htdocs\R8-Uat-testing\system\libraries\Email.php 1902
+INFO - 2022-12-09 12:55:07 --> Language file loaded: language/english/email_lang.php
+ERROR - 2022-12-09 12:55:07 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:07 --> Config Class Initialized
+INFO - 2022-12-09 12:55:07 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:07 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:07 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:07 --> URI Class Initialized
+INFO - 2022-12-09 12:55:07 --> Router Class Initialized
+INFO - 2022-12-09 12:55:07 --> Output Class Initialized
+INFO - 2022-12-09 12:55:07 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:07 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:07 --> Input Class Initialized
+INFO - 2022-12-09 12:55:07 --> Language Class Initialized
+INFO - 2022-12-09 12:55:07 --> Loader Class Initialized
+INFO - 2022-12-09 12:55:07 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:55:07 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:55:07 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:55:07 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:55:07 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:55:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:55:07 --> Parser Class Initialized
+INFO - 2022-12-09 12:55:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:55:07 --> Pagination Class Initialized
+INFO - 2022-12-09 12:55:07 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:55:07 --> Controller Class Initialized
+INFO - 2022-12-09 12:55:07 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:55:07 --> Model "reports" initialized
+INFO - 2022-12-09 12:55:07 --> Model "Users" initialized
+INFO - 2022-12-09 12:55:07 --> Final output sent to browser
+DEBUG - 2022-12-09 12:55:07 --> Total execution time: 0.0323
+ERROR - 2022-12-09 12:55:07 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:07 --> Config Class Initialized
+INFO - 2022-12-09 12:55:07 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:07 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:07 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:07 --> URI Class Initialized
+DEBUG - 2022-12-09 12:55:07 --> No URI present. Default controller set.
+INFO - 2022-12-09 12:55:07 --> Router Class Initialized
+INFO - 2022-12-09 12:55:07 --> Output Class Initialized
+INFO - 2022-12-09 12:55:07 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:07 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:07 --> Input Class Initialized
+INFO - 2022-12-09 12:55:07 --> Language Class Initialized
+INFO - 2022-12-09 12:55:07 --> Loader Class Initialized
+INFO - 2022-12-09 12:55:07 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:55:07 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:55:07 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:55:07 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:55:07 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:55:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:55:07 --> Parser Class Initialized
+INFO - 2022-12-09 12:55:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:55:07 --> Pagination Class Initialized
+INFO - 2022-12-09 12:55:07 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:55:07 --> Controller Class Initialized
+INFO - 2022-12-09 12:55:07 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:55:07 --> Model "reports" initialized
+INFO - 2022-12-09 12:55:07 --> Model "Customers" initialized
+INFO - 2022-12-09 12:55:07 --> Model "Products" initialized
+INFO - 2022-12-09 12:55:07 --> Model "Suppliers" initialized
+DEBUG - 2022-12-09 12:55:07 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:55:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:55:07 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:55:07 --> Model "Purchases" initialized
+ERROR - 2022-12-09 12:55:07 --> Severity: Notice --> Undefined variable: vendor D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_home.php 257
+ERROR - 2022-12-09 12:55:07 --> Severity: Notice --> Undefined variable: searchdate D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_home.php 320
+ERROR - 2022-12-09 12:55:07 --> Severity: Notice --> Undefined variable: chart_label D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_home.php 578
+INFO - 2022-12-09 12:55:07 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_home.php
+DEBUG - 2022-12-09 12:55:07 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:55:07 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:55:07 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 17:25:08 --> Model "Users" initialized
+INFO - 2022-12-09 17:25:08 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:25:08 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:25:08 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:25:08 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:25:08 --> Final output sent to browser
+DEBUG - 2022-12-09 17:25:08 --> Total execution time: 1.2460
+ERROR - 2022-12-09 12:55:09 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:09 --> Config Class Initialized
+INFO - 2022-12-09 12:55:09 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:09 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:09 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:09 --> URI Class Initialized
+INFO - 2022-12-09 12:55:09 --> Router Class Initialized
+INFO - 2022-12-09 12:55:09 --> Output Class Initialized
+INFO - 2022-12-09 12:55:09 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:09 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:09 --> Input Class Initialized
+INFO - 2022-12-09 12:55:09 --> Language Class Initialized
+INFO - 2022-12-09 12:55:09 --> Loader Class Initialized
+INFO - 2022-12-09 12:55:09 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:55:09 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:55:09 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:55:09 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:55:09 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:55:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:55:09 --> Parser Class Initialized
+INFO - 2022-12-09 12:55:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:55:09 --> Pagination Class Initialized
+INFO - 2022-12-09 12:55:09 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:55:09 --> Controller Class Initialized
+INFO - 2022-12-09 12:55:09 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:55:09 --> Model "reports" initialized
+INFO - 2022-12-09 12:55:09 --> Final output sent to browser
+DEBUG - 2022-12-09 12:55:09 --> Total execution time: 0.0579
+ERROR - 2022-12-09 12:55:24 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:24 --> Config Class Initialized
+INFO - 2022-12-09 12:55:24 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:24 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:24 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:24 --> URI Class Initialized
+INFO - 2022-12-09 12:55:24 --> Router Class Initialized
+INFO - 2022-12-09 12:55:24 --> Output Class Initialized
+INFO - 2022-12-09 12:55:24 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:24 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:24 --> Input Class Initialized
+INFO - 2022-12-09 12:55:24 --> Language Class Initialized
+INFO - 2022-12-09 12:55:24 --> Loader Class Initialized
+INFO - 2022-12-09 12:55:24 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:55:24 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:55:24 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:55:24 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:55:24 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:55:24 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:55:24 --> Parser Class Initialized
+INFO - 2022-12-09 12:55:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:55:24 --> Pagination Class Initialized
+INFO - 2022-12-09 12:55:24 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:55:24 --> Controller Class Initialized
+INFO - 2022-12-09 12:55:24 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:55:24 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:55:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:55:24 --> Model "Customers" initialized
+INFO - 2022-12-09 12:55:24 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:55:24 --> Model "Permission_model" initialized
+INFO - 2022-12-09 12:55:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 12:55:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 12:55:25 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:55:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:55:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:55:25 --> Model "Products" initialized
+INFO - 2022-12-09 17:25:25 --> Model "reports" initialized
+INFO - 2022-12-09 17:25:25 --> Model "Users" initialized
+INFO - 2022-12-09 17:25:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:25:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:25:25 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:25:25 --> Final output sent to browser
+DEBUG - 2022-12-09 17:25:25 --> Total execution time: 0.8563
+ERROR - 2022-12-09 12:55:25 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:25 --> Config Class Initialized
+INFO - 2022-12-09 12:55:25 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:25 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:25 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:25 --> URI Class Initialized
+INFO - 2022-12-09 12:55:25 --> Router Class Initialized
+INFO - 2022-12-09 12:55:25 --> Output Class Initialized
+INFO - 2022-12-09 12:55:25 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:25 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:25 --> Input Class Initialized
+INFO - 2022-12-09 12:55:25 --> Language Class Initialized
+ERROR - 2022-12-09 12:55:25 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 12:55:25 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:25 --> Config Class Initialized
+INFO - 2022-12-09 12:55:25 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:25 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:25 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:25 --> URI Class Initialized
+INFO - 2022-12-09 12:55:25 --> Router Class Initialized
+INFO - 2022-12-09 12:55:25 --> Output Class Initialized
+INFO - 2022-12-09 12:55:25 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:25 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:25 --> CSRF token verified
+INFO - 2022-12-09 12:55:25 --> Input Class Initialized
+INFO - 2022-12-09 12:55:25 --> Language Class Initialized
+INFO - 2022-12-09 12:55:25 --> Loader Class Initialized
+INFO - 2022-12-09 12:55:25 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:55:25 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:55:25 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:55:25 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:55:25 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:55:25 --> Parser Class Initialized
+INFO - 2022-12-09 12:55:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:55:25 --> Pagination Class Initialized
+INFO - 2022-12-09 12:55:25 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:55:25 --> Controller Class Initialized
+INFO - 2022-12-09 12:55:25 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:55:25 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:55:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:55:25 --> Model "Customers" initialized
+INFO - 2022-12-09 12:55:25 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:55:25 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:55:25 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:55:25 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:55:25 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:55:25 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 12:55:25 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 12:55:25 --> Final output sent to browser
+DEBUG - 2022-12-09 12:55:25 --> Total execution time: 0.0496
+ERROR - 2022-12-09 12:55:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:30 --> Config Class Initialized
+INFO - 2022-12-09 12:55:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:30 --> Utf8 Class Initialized
+ERROR - 2022-12-09 12:55:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:30 --> URI Class Initialized
+INFO - 2022-12-09 12:55:30 --> Config Class Initialized
+INFO - 2022-12-09 12:55:30 --> Hooks Class Initialized
+ERROR - 2022-12-09 12:55:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:30 --> Router Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:30 --> Output Class Initialized
+INFO - 2022-12-09 12:55:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:30 --> Config Class Initialized
+INFO - 2022-12-09 12:55:30 --> Hooks Class Initialized
+INFO - 2022-12-09 12:55:30 --> URI Class Initialized
+INFO - 2022-12-09 12:55:30 --> Security Class Initialized
+INFO - 2022-12-09 12:55:30 --> Router Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:30 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:30 --> Input Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:30 --> Language Class Initialized
+INFO - 2022-12-09 12:55:30 --> Output Class Initialized
+INFO - 2022-12-09 12:55:30 --> URI Class Initialized
+ERROR - 2022-12-09 12:55:30 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 12:55:30 --> Security Class Initialized
+INFO - 2022-12-09 12:55:30 --> Router Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:30 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:30 --> Input Class Initialized
+INFO - 2022-12-09 12:55:30 --> Output Class Initialized
+INFO - 2022-12-09 12:55:30 --> Language Class Initialized
+ERROR - 2022-12-09 12:55:30 --> 404 Page Not Found: Assets/js
+INFO - 2022-12-09 12:55:30 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:30 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:30 --> Input Class Initialized
+INFO - 2022-12-09 12:55:30 --> Language Class Initialized
+ERROR - 2022-12-09 12:55:30 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 12:55:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:30 --> Config Class Initialized
+INFO - 2022-12-09 12:55:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:30 --> URI Class Initialized
+INFO - 2022-12-09 12:55:30 --> Router Class Initialized
+INFO - 2022-12-09 12:55:30 --> Output Class Initialized
+INFO - 2022-12-09 12:55:30 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:30 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:30 --> Input Class Initialized
+INFO - 2022-12-09 12:55:30 --> Language Class Initialized
+ERROR - 2022-12-09 12:55:30 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 12:55:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:55:30 --> Config Class Initialized
+INFO - 2022-12-09 12:55:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:55:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:55:30 --> URI Class Initialized
+INFO - 2022-12-09 12:55:30 --> Router Class Initialized
+INFO - 2022-12-09 12:55:30 --> Output Class Initialized
+INFO - 2022-12-09 12:55:30 --> Security Class Initialized
+DEBUG - 2022-12-09 12:55:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:55:30 --> CSRF cookie sent
+INFO - 2022-12-09 12:55:30 --> Input Class Initialized
+INFO - 2022-12-09 12:55:30 --> Language Class Initialized
+ERROR - 2022-12-09 12:55:30 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 12:56:39 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:56:39 --> Config Class Initialized
+INFO - 2022-12-09 12:56:39 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:56:39 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:56:39 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:56:39 --> URI Class Initialized
+INFO - 2022-12-09 12:56:39 --> Router Class Initialized
+INFO - 2022-12-09 12:56:39 --> Output Class Initialized
+INFO - 2022-12-09 12:56:39 --> Security Class Initialized
+DEBUG - 2022-12-09 12:56:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:56:39 --> CSRF cookie sent
+INFO - 2022-12-09 12:56:39 --> Input Class Initialized
+INFO - 2022-12-09 12:56:39 --> Language Class Initialized
+INFO - 2022-12-09 12:56:39 --> Loader Class Initialized
+INFO - 2022-12-09 12:56:39 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:56:39 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:56:39 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:56:39 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:56:39 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:56:39 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:56:39 --> Parser Class Initialized
+INFO - 2022-12-09 12:56:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:56:39 --> Pagination Class Initialized
+INFO - 2022-12-09 12:56:39 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:56:39 --> Controller Class Initialized
+INFO - 2022-12-09 12:56:39 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:56:39 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:56:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:56:39 --> Model "Customers" initialized
+INFO - 2022-12-09 12:56:39 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:56:39 --> Model "Permission_model" initialized
+INFO - 2022-12-09 12:56:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 12:56:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 12:56:39 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:56:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:56:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:56:39 --> Model "Products" initialized
+INFO - 2022-12-09 17:26:39 --> Model "reports" initialized
+INFO - 2022-12-09 17:26:39 --> Model "Users" initialized
+INFO - 2022-12-09 17:26:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:26:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:26:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:26:40 --> Final output sent to browser
+DEBUG - 2022-12-09 17:26:40 --> Total execution time: 0.4757
+ERROR - 2022-12-09 12:56:40 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:56:40 --> Config Class Initialized
+INFO - 2022-12-09 12:56:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:56:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:56:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:56:40 --> URI Class Initialized
+INFO - 2022-12-09 12:56:40 --> Router Class Initialized
+INFO - 2022-12-09 12:56:40 --> Output Class Initialized
+INFO - 2022-12-09 12:56:40 --> Security Class Initialized
+DEBUG - 2022-12-09 12:56:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:56:40 --> CSRF cookie sent
+INFO - 2022-12-09 12:56:40 --> Input Class Initialized
+INFO - 2022-12-09 12:56:40 --> Language Class Initialized
+ERROR - 2022-12-09 12:56:40 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 12:56:40 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:56:40 --> Config Class Initialized
+INFO - 2022-12-09 12:56:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:56:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:56:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:56:40 --> URI Class Initialized
+INFO - 2022-12-09 12:56:40 --> Router Class Initialized
+INFO - 2022-12-09 12:56:40 --> Output Class Initialized
+INFO - 2022-12-09 12:56:40 --> Security Class Initialized
+DEBUG - 2022-12-09 12:56:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:56:40 --> CSRF cookie sent
+INFO - 2022-12-09 12:56:40 --> CSRF token verified
+INFO - 2022-12-09 12:56:40 --> Input Class Initialized
+INFO - 2022-12-09 12:56:40 --> Language Class Initialized
+INFO - 2022-12-09 12:56:40 --> Loader Class Initialized
+INFO - 2022-12-09 12:56:40 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:56:40 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:56:40 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:56:40 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:56:40 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:56:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:56:40 --> Parser Class Initialized
+INFO - 2022-12-09 12:56:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:56:40 --> Pagination Class Initialized
+INFO - 2022-12-09 12:56:40 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:56:40 --> Controller Class Initialized
+INFO - 2022-12-09 12:56:40 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:56:40 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:56:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:56:40 --> Model "Customers" initialized
+INFO - 2022-12-09 12:56:40 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:56:40 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:56:40 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:56:40 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:56:40 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:56:40 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 12:56:40 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 12:56:40 --> Final output sent to browser
+DEBUG - 2022-12-09 12:56:40 --> Total execution time: 0.0551
+ERROR - 2022-12-09 12:56:53 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:56:53 --> Config Class Initialized
+INFO - 2022-12-09 12:56:53 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:56:53 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:56:53 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:56:53 --> URI Class Initialized
+INFO - 2022-12-09 12:56:53 --> Router Class Initialized
+INFO - 2022-12-09 12:56:53 --> Output Class Initialized
+INFO - 2022-12-09 12:56:53 --> Security Class Initialized
+DEBUG - 2022-12-09 12:56:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:56:53 --> CSRF cookie sent
+INFO - 2022-12-09 12:56:53 --> Input Class Initialized
+INFO - 2022-12-09 12:56:53 --> Language Class Initialized
+INFO - 2022-12-09 12:56:53 --> Loader Class Initialized
+INFO - 2022-12-09 12:56:53 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:56:53 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:56:53 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:56:53 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:56:53 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:56:53 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:56:53 --> Parser Class Initialized
+INFO - 2022-12-09 12:56:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:56:53 --> Pagination Class Initialized
+INFO - 2022-12-09 12:56:53 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:56:53 --> Controller Class Initialized
+INFO - 2022-12-09 12:56:53 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:56:53 --> Final output sent to browser
+DEBUG - 2022-12-09 12:56:53 --> Total execution time: 0.0596
+ERROR - 2022-12-09 12:57:10 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:57:10 --> Config Class Initialized
+INFO - 2022-12-09 12:57:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:57:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:57:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:57:10 --> URI Class Initialized
+INFO - 2022-12-09 12:57:10 --> Router Class Initialized
+INFO - 2022-12-09 12:57:10 --> Output Class Initialized
+INFO - 2022-12-09 12:57:10 --> Security Class Initialized
+DEBUG - 2022-12-09 12:57:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:57:10 --> CSRF cookie sent
+INFO - 2022-12-09 12:57:10 --> Input Class Initialized
+INFO - 2022-12-09 12:57:10 --> Language Class Initialized
+INFO - 2022-12-09 12:57:10 --> Loader Class Initialized
+INFO - 2022-12-09 12:57:10 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:57:10 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:57:10 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:57:10 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:57:10 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:57:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:57:10 --> Parser Class Initialized
+INFO - 2022-12-09 12:57:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:57:10 --> Pagination Class Initialized
+INFO - 2022-12-09 12:57:10 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:57:10 --> Controller Class Initialized
+INFO - 2022-12-09 12:57:10 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:57:10 --> Final output sent to browser
+DEBUG - 2022-12-09 12:57:10 --> Total execution time: 0.0430
+ERROR - 2022-12-09 12:57:49 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:57:49 --> Config Class Initialized
+INFO - 2022-12-09 12:57:49 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:57:49 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:57:49 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:57:49 --> URI Class Initialized
+INFO - 2022-12-09 12:57:49 --> Router Class Initialized
+INFO - 2022-12-09 12:57:49 --> Output Class Initialized
+INFO - 2022-12-09 12:57:49 --> Security Class Initialized
+DEBUG - 2022-12-09 12:57:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:57:49 --> CSRF cookie sent
+INFO - 2022-12-09 12:57:49 --> Input Class Initialized
+INFO - 2022-12-09 12:57:49 --> Language Class Initialized
+INFO - 2022-12-09 12:57:49 --> Loader Class Initialized
+INFO - 2022-12-09 12:57:49 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:57:49 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:57:49 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:57:49 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:57:49 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:57:49 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:57:49 --> Parser Class Initialized
+INFO - 2022-12-09 12:57:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:57:49 --> Pagination Class Initialized
+INFO - 2022-12-09 12:57:49 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:57:49 --> Controller Class Initialized
+INFO - 2022-12-09 12:57:49 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:57:49 --> Final output sent to browser
+DEBUG - 2022-12-09 12:57:49 --> Total execution time: 0.0676
+ERROR - 2022-12-09 12:58:06 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:06 --> Config Class Initialized
+INFO - 2022-12-09 12:58:06 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:06 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:06 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:06 --> URI Class Initialized
+INFO - 2022-12-09 12:58:06 --> Router Class Initialized
+INFO - 2022-12-09 12:58:06 --> Output Class Initialized
+INFO - 2022-12-09 12:58:06 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:06 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:06 --> Input Class Initialized
+INFO - 2022-12-09 12:58:06 --> Language Class Initialized
+INFO - 2022-12-09 12:58:06 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:06 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:06 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:06 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:06 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:06 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:06 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:06 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:06 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:06 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:06 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:58:06 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:06 --> Model "Customers" initialized
+INFO - 2022-12-09 12:58:06 --> Model "Tax" initialized
+DEBUG - 2022-12-09 12:58:06 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:06 --> Lcustomer class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:06 --> Smsgateway class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:06 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:58:06 --> Severity: Notice --> Undefined variable: category_list D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1183
+ERROR - 2022-12-09 12:58:06 --> Severity: Notice --> Undefined variable: unit_list D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1213
+ERROR - 2022-12-09 12:58:06 --> Severity: Notice --> Undefined variable: taxfield D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1236
+ERROR - 2022-12-09 12:58:06 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1236
+ERROR - 2022-12-09 12:58:06 --> Severity: Notice --> Undefined variable: supplier D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\add_invoice_form.php 1267
+INFO - 2022-12-09 12:58:06 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/add_invoice_form.php
+DEBUG - 2022-12-09 12:58:06 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:06 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:58:06 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:58:06 --> Model "Products" initialized
+INFO - 2022-12-09 17:28:06 --> Model "reports" initialized
+INFO - 2022-12-09 17:28:06 --> Model "Users" initialized
+INFO - 2022-12-09 17:28:07 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:28:07 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:28:07 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:28:07 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:28:07 --> Final output sent to browser
+DEBUG - 2022-12-09 17:28:07 --> Total execution time: 0.7986
+ERROR - 2022-12-09 12:58:07 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:07 --> Config Class Initialized
+INFO - 2022-12-09 12:58:07 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:07 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:07 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:07 --> URI Class Initialized
+INFO - 2022-12-09 12:58:07 --> Router Class Initialized
+INFO - 2022-12-09 12:58:07 --> Output Class Initialized
+INFO - 2022-12-09 12:58:07 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:07 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:07 --> CSRF token verified
+INFO - 2022-12-09 12:58:07 --> Input Class Initialized
+INFO - 2022-12-09 12:58:07 --> Language Class Initialized
+INFO - 2022-12-09 12:58:07 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:07 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:07 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:07 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:07 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:07 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:07 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:07 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:07 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:07 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:07 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:07 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:58:07 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:07 --> Model "Customers" initialized
+INFO - 2022-12-09 12:58:07 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:58:07 --> Final output sent to browser
+DEBUG - 2022-12-09 12:58:07 --> Total execution time: 0.0802
+ERROR - 2022-12-09 12:58:12 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:12 --> Config Class Initialized
+INFO - 2022-12-09 12:58:12 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:12 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:12 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:12 --> URI Class Initialized
+INFO - 2022-12-09 12:58:12 --> Router Class Initialized
+INFO - 2022-12-09 12:58:12 --> Output Class Initialized
+INFO - 2022-12-09 12:58:12 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:12 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:12 --> Input Class Initialized
+INFO - 2022-12-09 12:58:12 --> Language Class Initialized
+INFO - 2022-12-09 12:58:12 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:12 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:12 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:12 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:12 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:12 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:12 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:12 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:12 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:12 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:12 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:58:12 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:12 --> Model "Customers" initialized
+INFO - 2022-12-09 12:58:12 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:58:12 --> Model "Permission_model" initialized
+INFO - 2022-12-09 12:58:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 12:58:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 12:58:12 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:58:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:58:12 --> Model "Products" initialized
+INFO - 2022-12-09 17:28:12 --> Model "reports" initialized
+INFO - 2022-12-09 17:28:12 --> Model "Users" initialized
+INFO - 2022-12-09 17:28:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:28:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:28:12 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:28:12 --> Final output sent to browser
+DEBUG - 2022-12-09 17:28:12 --> Total execution time: 0.4446
+ERROR - 2022-12-09 12:58:12 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:12 --> Config Class Initialized
+INFO - 2022-12-09 12:58:12 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:12 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:12 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:12 --> URI Class Initialized
+INFO - 2022-12-09 12:58:12 --> Router Class Initialized
+INFO - 2022-12-09 12:58:12 --> Output Class Initialized
+INFO - 2022-12-09 12:58:12 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:12 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:12 --> Input Class Initialized
+INFO - 2022-12-09 12:58:12 --> Language Class Initialized
+ERROR - 2022-12-09 12:58:12 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 12:58:12 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:12 --> Config Class Initialized
+INFO - 2022-12-09 12:58:12 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:12 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:12 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:12 --> URI Class Initialized
+INFO - 2022-12-09 12:58:12 --> Router Class Initialized
+INFO - 2022-12-09 12:58:12 --> Output Class Initialized
+INFO - 2022-12-09 12:58:12 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:12 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:12 --> CSRF token verified
+INFO - 2022-12-09 12:58:12 --> Input Class Initialized
+INFO - 2022-12-09 12:58:12 --> Language Class Initialized
+INFO - 2022-12-09 12:58:12 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:12 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:12 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:12 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:12 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:12 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:12 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:12 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:12 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:12 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:12 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:12 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:58:12 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:12 --> Model "Customers" initialized
+INFO - 2022-12-09 12:58:12 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:58:12 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:58:12 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:58:12 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:58:12 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:58:12 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 12:58:12 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 12:58:12 --> Final output sent to browser
+DEBUG - 2022-12-09 12:58:12 --> Total execution time: 0.0530
+ERROR - 2022-12-09 12:58:38 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:38 --> Config Class Initialized
+INFO - 2022-12-09 12:58:38 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:38 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:38 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:38 --> URI Class Initialized
+INFO - 2022-12-09 12:58:38 --> Router Class Initialized
+INFO - 2022-12-09 12:58:38 --> Output Class Initialized
+INFO - 2022-12-09 12:58:38 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:38 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:38 --> Input Class Initialized
+INFO - 2022-12-09 12:58:38 --> Language Class Initialized
+INFO - 2022-12-09 12:58:38 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:38 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:38 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:38 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:38 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:38 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:38 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:38 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:38 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:38 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:38 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:58:38 --> Model "reports" initialized
+INFO - 2022-12-09 12:58:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\report/out_of_stock.php
+DEBUG - 2022-12-09 12:58:39 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:58:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:58:39 --> Model "Products" initialized
+INFO - 2022-12-09 17:28:39 --> Model "Users" initialized
+INFO - 2022-12-09 17:28:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:28:39 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:28:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:28:39 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:28:39 --> Final output sent to browser
+DEBUG - 2022-12-09 17:28:39 --> Total execution time: 0.5444
+ERROR - 2022-12-09 12:58:40 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:40 --> Config Class Initialized
+INFO - 2022-12-09 12:58:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:40 --> URI Class Initialized
+INFO - 2022-12-09 12:58:40 --> Router Class Initialized
+INFO - 2022-12-09 12:58:40 --> Output Class Initialized
+INFO - 2022-12-09 12:58:40 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:40 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:40 --> Input Class Initialized
+INFO - 2022-12-09 12:58:40 --> Language Class Initialized
+INFO - 2022-12-09 12:58:40 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:40 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:40 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:40 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:40 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:40 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:40 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:40 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:40 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:40 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:40 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:58:40 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:40 --> Model "Customers" initialized
+INFO - 2022-12-09 12:58:40 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:58:40 --> Model "Permission_model" initialized
+INFO - 2022-12-09 12:58:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 12:58:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 12:58:40 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:58:40 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:58:40 --> Model "Products" initialized
+INFO - 2022-12-09 17:28:40 --> Model "reports" initialized
+INFO - 2022-12-09 17:28:40 --> Model "Users" initialized
+INFO - 2022-12-09 17:28:41 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:28:41 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:28:41 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:28:41 --> Final output sent to browser
+DEBUG - 2022-12-09 17:28:41 --> Total execution time: 0.4866
+ERROR - 2022-12-09 12:58:41 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:58:41 --> Config Class Initialized
+INFO - 2022-12-09 12:58:41 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:58:41 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:58:41 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:58:41 --> URI Class Initialized
+INFO - 2022-12-09 12:58:41 --> Router Class Initialized
+INFO - 2022-12-09 12:58:41 --> Output Class Initialized
+INFO - 2022-12-09 12:58:41 --> Security Class Initialized
+DEBUG - 2022-12-09 12:58:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:58:41 --> CSRF cookie sent
+INFO - 2022-12-09 12:58:41 --> CSRF token verified
+INFO - 2022-12-09 12:58:41 --> Input Class Initialized
+INFO - 2022-12-09 12:58:41 --> Language Class Initialized
+INFO - 2022-12-09 12:58:41 --> Loader Class Initialized
+INFO - 2022-12-09 12:58:41 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:58:41 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:58:41 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:58:41 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:58:41 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:58:41 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:58:41 --> Parser Class Initialized
+INFO - 2022-12-09 12:58:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:58:41 --> Pagination Class Initialized
+INFO - 2022-12-09 12:58:41 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:58:41 --> Controller Class Initialized
+INFO - 2022-12-09 12:58:41 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:58:41 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:58:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:58:41 --> Model "Customers" initialized
+INFO - 2022-12-09 12:58:41 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:58:41 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:58:41 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:58:41 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:58:41 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:58:41 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 12:58:41 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 12:58:41 --> Final output sent to browser
+DEBUG - 2022-12-09 12:58:41 --> Total execution time: 0.0409
+ERROR - 2022-12-09 12:59:22 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:22 --> Config Class Initialized
+INFO - 2022-12-09 12:59:22 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:22 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:22 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:22 --> URI Class Initialized
+INFO - 2022-12-09 12:59:22 --> Router Class Initialized
+INFO - 2022-12-09 12:59:22 --> Output Class Initialized
+INFO - 2022-12-09 12:59:22 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:22 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:22 --> Input Class Initialized
+INFO - 2022-12-09 12:59:22 --> Language Class Initialized
+INFO - 2022-12-09 12:59:22 --> Loader Class Initialized
+INFO - 2022-12-09 12:59:22 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:59:22 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:59:22 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:59:22 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:59:22 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:59:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:59:22 --> Parser Class Initialized
+INFO - 2022-12-09 12:59:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:59:22 --> Pagination Class Initialized
+INFO - 2022-12-09 12:59:22 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:59:22 --> Controller Class Initialized
+INFO - 2022-12-09 12:59:22 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:59:22 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:59:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:59:22 --> Model "Customers" initialized
+INFO - 2022-12-09 12:59:22 --> Model "Invoices" initialized
+INFO - 2022-12-09 12:59:22 --> Model "Permission_model" initialized
+INFO - 2022-12-09 12:59:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+INFO - 2022-12-09 12:59:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/invoice.php
+DEBUG - 2022-12-09 12:59:22 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:59:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:59:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:59:22 --> Model "Products" initialized
+INFO - 2022-12-09 17:29:22 --> Model "reports" initialized
+INFO - 2022-12-09 17:29:22 --> Model "Users" initialized
+INFO - 2022-12-09 17:29:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:29:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:29:22 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:29:22 --> Final output sent to browser
+DEBUG - 2022-12-09 17:29:22 --> Total execution time: 0.4820
+ERROR - 2022-12-09 12:59:22 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:22 --> Config Class Initialized
+INFO - 2022-12-09 12:59:22 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:22 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:22 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:22 --> URI Class Initialized
+INFO - 2022-12-09 12:59:22 --> Router Class Initialized
+INFO - 2022-12-09 12:59:22 --> Output Class Initialized
+INFO - 2022-12-09 12:59:22 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:22 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:22 --> Input Class Initialized
+INFO - 2022-12-09 12:59:22 --> Language Class Initialized
+ERROR - 2022-12-09 12:59:22 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 12:59:22 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:22 --> Config Class Initialized
+INFO - 2022-12-09 12:59:22 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:22 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:22 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:22 --> URI Class Initialized
+INFO - 2022-12-09 12:59:22 --> Router Class Initialized
+INFO - 2022-12-09 12:59:22 --> Output Class Initialized
+INFO - 2022-12-09 12:59:22 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:22 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:22 --> CSRF token verified
+INFO - 2022-12-09 12:59:22 --> Input Class Initialized
+INFO - 2022-12-09 12:59:22 --> Language Class Initialized
+INFO - 2022-12-09 12:59:22 --> Loader Class Initialized
+INFO - 2022-12-09 12:59:22 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:59:22 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:59:22 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:59:22 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:59:22 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:59:22 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:59:22 --> Parser Class Initialized
+INFO - 2022-12-09 12:59:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:59:22 --> Pagination Class Initialized
+INFO - 2022-12-09 12:59:22 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:59:22 --> Controller Class Initialized
+INFO - 2022-12-09 12:59:22 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:59:22 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:59:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:59:22 --> Model "Customers" initialized
+INFO - 2022-12-09 12:59:22 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:59:22 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:59:22 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:59:22 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:59:22 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:59:22 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 12:59:22 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 12:59:22 --> Final output sent to browser
+DEBUG - 2022-12-09 12:59:22 --> Total execution time: 0.0669
+ERROR - 2022-12-09 12:59:28 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:28 --> Config Class Initialized
+INFO - 2022-12-09 12:59:28 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:28 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:28 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:28 --> URI Class Initialized
+INFO - 2022-12-09 12:59:28 --> Router Class Initialized
+INFO - 2022-12-09 12:59:28 --> Output Class Initialized
+INFO - 2022-12-09 12:59:28 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:28 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:28 --> Input Class Initialized
+INFO - 2022-12-09 12:59:28 --> Language Class Initialized
+INFO - 2022-12-09 12:59:28 --> Loader Class Initialized
+INFO - 2022-12-09 12:59:28 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:59:28 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:59:28 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:59:28 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:59:28 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:59:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:59:28 --> Parser Class Initialized
+INFO - 2022-12-09 12:59:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:59:28 --> Pagination Class Initialized
+INFO - 2022-12-09 12:59:28 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:59:28 --> Controller Class Initialized
+INFO - 2022-12-09 12:59:28 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:59:28 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:59:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:59:28 --> Model "Customers" initialized
+INFO - 2022-12-09 12:59:28 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:59:28 --> Severity: Notice --> Undefined variable: total_invoice D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice_list.php 334
+INFO - 2022-12-09 12:59:28 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice_list.php
+DEBUG - 2022-12-09 12:59:28 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:59:28 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 12:59:28 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 12:59:28 --> Model "Products" initialized
+INFO - 2022-12-09 17:29:28 --> Model "reports" initialized
+INFO - 2022-12-09 17:29:28 --> Model "Users" initialized
+INFO - 2022-12-09 17:29:29 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:29:29 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:29:29 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:29:29 --> Final output sent to browser
+DEBUG - 2022-12-09 17:29:29 --> Total execution time: 0.4599
+ERROR - 2022-12-09 12:59:29 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:29 --> Config Class Initialized
+INFO - 2022-12-09 12:59:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:29 --> URI Class Initialized
+INFO - 2022-12-09 12:59:29 --> Router Class Initialized
+INFO - 2022-12-09 12:59:29 --> Output Class Initialized
+INFO - 2022-12-09 12:59:29 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:29 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:29 --> Input Class Initialized
+INFO - 2022-12-09 12:59:29 --> Language Class Initialized
+ERROR - 2022-12-09 12:59:29 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 12:59:29 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:29 --> Config Class Initialized
+INFO - 2022-12-09 12:59:29 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:29 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:29 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:29 --> URI Class Initialized
+INFO - 2022-12-09 12:59:29 --> Router Class Initialized
+INFO - 2022-12-09 12:59:29 --> Output Class Initialized
+INFO - 2022-12-09 12:59:29 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:29 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:29 --> CSRF token verified
+INFO - 2022-12-09 12:59:29 --> Input Class Initialized
+INFO - 2022-12-09 12:59:29 --> Language Class Initialized
+INFO - 2022-12-09 12:59:29 --> Loader Class Initialized
+INFO - 2022-12-09 12:59:29 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:59:29 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:59:29 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:59:29 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:59:29 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:59:29 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:59:29 --> Parser Class Initialized
+INFO - 2022-12-09 12:59:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:59:29 --> Pagination Class Initialized
+INFO - 2022-12-09 12:59:29 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:59:29 --> Controller Class Initialized
+INFO - 2022-12-09 12:59:29 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 12:59:29 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 12:59:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 12:59:29 --> Model "Customers" initialized
+INFO - 2022-12-09 12:59:29 --> Model "Invoices" initialized
+ERROR - 2022-12-09 12:59:29 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:59:29 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 12:59:29 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:59:29 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 12:59:29 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 12:59:29 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 12:59:29 --> Final output sent to browser
+DEBUG - 2022-12-09 12:59:29 --> Total execution time: 0.0577
+ERROR - 2022-12-09 12:59:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 12:59:30 --> Config Class Initialized
+INFO - 2022-12-09 12:59:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 12:59:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 12:59:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 12:59:30 --> URI Class Initialized
+INFO - 2022-12-09 12:59:30 --> Router Class Initialized
+INFO - 2022-12-09 12:59:30 --> Output Class Initialized
+INFO - 2022-12-09 12:59:30 --> Security Class Initialized
+DEBUG - 2022-12-09 12:59:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 12:59:30 --> CSRF cookie sent
+INFO - 2022-12-09 12:59:30 --> Input Class Initialized
+INFO - 2022-12-09 12:59:30 --> Language Class Initialized
+INFO - 2022-12-09 12:59:30 --> Loader Class Initialized
+INFO - 2022-12-09 12:59:30 --> Helper loaded: url_helper
+INFO - 2022-12-09 12:59:30 --> Helper loaded: file_helper
+INFO - 2022-12-09 12:59:30 --> Helper loaded: form_helper
+INFO - 2022-12-09 12:59:30 --> Helper loaded: lang_helper
+INFO - 2022-12-09 12:59:30 --> Database Driver Class Initialized
+INFO - 2022-12-09 12:59:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 12:59:30 --> Parser Class Initialized
+INFO - 2022-12-09 12:59:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 12:59:30 --> Pagination Class Initialized
+INFO - 2022-12-09 12:59:30 --> Form Validation Class Initialized
+INFO - 2022-12-09 12:59:30 --> Controller Class Initialized
+INFO - 2022-12-09 12:59:30 --> Model "Web_settings" initialized
+INFO - 2022-12-09 12:59:30 --> Final output sent to browser
+DEBUG - 2022-12-09 12:59:30 --> Total execution time: 0.0416
+ERROR - 2022-12-09 13:00:06 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:00:06 --> Config Class Initialized
+INFO - 2022-12-09 13:00:06 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:00:06 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:00:06 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:00:06 --> URI Class Initialized
+INFO - 2022-12-09 13:00:06 --> Router Class Initialized
+INFO - 2022-12-09 13:00:06 --> Output Class Initialized
+INFO - 2022-12-09 13:00:06 --> Security Class Initialized
+DEBUG - 2022-12-09 13:00:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:00:06 --> CSRF cookie sent
+INFO - 2022-12-09 13:00:06 --> Input Class Initialized
+INFO - 2022-12-09 13:00:06 --> Language Class Initialized
+INFO - 2022-12-09 13:00:06 --> Loader Class Initialized
+INFO - 2022-12-09 13:00:06 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:00:06 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:00:06 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:00:06 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:00:06 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:00:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:00:06 --> Parser Class Initialized
+INFO - 2022-12-09 13:00:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:00:06 --> Pagination Class Initialized
+INFO - 2022-12-09 13:00:06 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:00:06 --> Controller Class Initialized
+INFO - 2022-12-09 13:00:06 --> Model "Web_settings" initialized
+INFO - 2022-12-09 13:00:06 --> Model "Invoice_design" initialized
+ERROR - 2022-12-09 13:00:06 --> Severity: Notice --> Undefined variable: invoiceid D:\xampp\htdocs\R8-Uat-testing\application\views\pdf_attach_mail\profarma.php 372
+ERROR - 2022-12-09 13:00:15 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:00:15 --> Config Class Initialized
+INFO - 2022-12-09 13:00:15 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:00:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:00:15 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:00:15 --> URI Class Initialized
+INFO - 2022-12-09 13:00:15 --> Router Class Initialized
+INFO - 2022-12-09 13:00:15 --> Output Class Initialized
+INFO - 2022-12-09 13:00:15 --> Security Class Initialized
+DEBUG - 2022-12-09 13:00:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:00:15 --> CSRF cookie sent
+INFO - 2022-12-09 13:00:15 --> Input Class Initialized
+INFO - 2022-12-09 13:00:15 --> Language Class Initialized
+INFO - 2022-12-09 13:00:15 --> Loader Class Initialized
+INFO - 2022-12-09 13:00:15 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:00:15 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:00:15 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:00:15 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:00:15 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:00:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:00:15 --> Parser Class Initialized
+INFO - 2022-12-09 13:00:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:00:15 --> Pagination Class Initialized
+INFO - 2022-12-09 13:00:15 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:00:15 --> Controller Class Initialized
+INFO - 2022-12-09 13:00:15 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:00:15 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:00:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:00:15 --> Model "Customers" initialized
+INFO - 2022-12-09 13:00:15 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:00:15 --> Severity: Notice --> Undefined variable: total_invoice D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice_list.php 334
+INFO - 2022-12-09 13:00:15 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice_list.php
+DEBUG - 2022-12-09 13:00:15 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:00:15 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:00:15 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:00:15 --> Model "Products" initialized
+INFO - 2022-12-09 17:30:15 --> Model "reports" initialized
+INFO - 2022-12-09 17:30:15 --> Model "Users" initialized
+INFO - 2022-12-09 17:30:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:30:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:30:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:30:16 --> Final output sent to browser
+DEBUG - 2022-12-09 17:30:16 --> Total execution time: 0.7003
+ERROR - 2022-12-09 13:00:16 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:00:16 --> Config Class Initialized
+INFO - 2022-12-09 13:00:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:00:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:00:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:00:16 --> URI Class Initialized
+INFO - 2022-12-09 13:00:16 --> Router Class Initialized
+INFO - 2022-12-09 13:00:16 --> Output Class Initialized
+INFO - 2022-12-09 13:00:16 --> Security Class Initialized
+DEBUG - 2022-12-09 13:00:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:00:16 --> CSRF cookie sent
+INFO - 2022-12-09 13:00:16 --> CSRF token verified
+INFO - 2022-12-09 13:00:16 --> Input Class Initialized
+INFO - 2022-12-09 13:00:16 --> Language Class Initialized
+INFO - 2022-12-09 13:00:16 --> Loader Class Initialized
+INFO - 2022-12-09 13:00:16 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:00:16 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:00:16 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:00:16 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:00:16 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:00:16 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:00:16 --> Parser Class Initialized
+INFO - 2022-12-09 13:00:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:00:16 --> Pagination Class Initialized
+INFO - 2022-12-09 13:00:16 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:00:16 --> Controller Class Initialized
+INFO - 2022-12-09 13:00:16 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:00:16 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:00:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:00:16 --> Model "Customers" initialized
+INFO - 2022-12-09 13:00:16 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:00:16 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 13:00:16 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 13:00:16 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 13:00:16 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 13:00:16 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 13:00:16 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 13:00:16 --> Final output sent to browser
+DEBUG - 2022-12-09 13:00:16 --> Total execution time: 0.0513
+ERROR - 2022-12-09 13:03:10 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:03:10 --> Config Class Initialized
+INFO - 2022-12-09 13:03:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:03:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:03:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:03:10 --> URI Class Initialized
+INFO - 2022-12-09 13:03:10 --> Router Class Initialized
+INFO - 2022-12-09 13:03:10 --> Output Class Initialized
+INFO - 2022-12-09 13:03:10 --> Security Class Initialized
+DEBUG - 2022-12-09 13:03:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:03:10 --> CSRF cookie sent
+INFO - 2022-12-09 13:03:10 --> Input Class Initialized
+INFO - 2022-12-09 13:03:10 --> Language Class Initialized
+INFO - 2022-12-09 13:03:10 --> Loader Class Initialized
+INFO - 2022-12-09 13:03:10 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:03:10 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:03:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:03:10 --> Parser Class Initialized
+INFO - 2022-12-09 13:03:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:03:10 --> Pagination Class Initialized
+INFO - 2022-12-09 13:03:10 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:03:10 --> Controller Class Initialized
+INFO - 2022-12-09 13:03:10 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:03:10 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:03:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:10 --> Model "Customers" initialized
+INFO - 2022-12-09 13:03:10 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:03:10 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:03:10 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:03:10 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+INFO - 2022-12-09 13:03:10 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:03:10 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:10 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:03:10 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:03:10 --> Model "Products" initialized
+INFO - 2022-12-09 17:33:10 --> Model "reports" initialized
+INFO - 2022-12-09 17:33:10 --> Model "Users" initialized
+INFO - 2022-12-09 17:33:10 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:33:10 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:33:10 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:33:10 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:33:10 --> Final output sent to browser
+DEBUG - 2022-12-09 17:33:10 --> Total execution time: 0.6696
+ERROR - 2022-12-09 13:03:10 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:03:10 --> Config Class Initialized
+INFO - 2022-12-09 13:03:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:03:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:03:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:03:10 --> URI Class Initialized
+INFO - 2022-12-09 13:03:10 --> Router Class Initialized
+INFO - 2022-12-09 13:03:10 --> Output Class Initialized
+INFO - 2022-12-09 13:03:10 --> Security Class Initialized
+DEBUG - 2022-12-09 13:03:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:03:10 --> CSRF cookie sent
+INFO - 2022-12-09 13:03:10 --> CSRF token verified
+INFO - 2022-12-09 13:03:10 --> Input Class Initialized
+INFO - 2022-12-09 13:03:10 --> Language Class Initialized
+INFO - 2022-12-09 13:03:10 --> Loader Class Initialized
+INFO - 2022-12-09 13:03:10 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: lang_helper
+ERROR - 2022-12-09 13:03:10 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:03:10 --> Config Class Initialized
+INFO - 2022-12-09 13:03:10 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:03:10 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:03:10 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:03:10 --> URI Class Initialized
+INFO - 2022-12-09 13:03:10 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:03:10 --> Router Class Initialized
+INFO - 2022-12-09 13:03:10 --> Output Class Initialized
+INFO - 2022-12-09 13:03:10 --> Security Class Initialized
+DEBUG - 2022-12-09 13:03:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:03:10 --> CSRF cookie sent
+INFO - 2022-12-09 13:03:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:03:10 --> CSRF token verified
+INFO - 2022-12-09 13:03:10 --> Input Class Initialized
+INFO - 2022-12-09 13:03:10 --> Parser Class Initialized
+INFO - 2022-12-09 13:03:10 --> Language Class Initialized
+INFO - 2022-12-09 13:03:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:03:10 --> Pagination Class Initialized
+INFO - 2022-12-09 13:03:10 --> Loader Class Initialized
+INFO - 2022-12-09 13:03:10 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:03:10 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:03:10 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:03:10 --> Controller Class Initialized
+INFO - 2022-12-09 13:03:10 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:03:10 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:03:10 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:03:10 --> Model "Categories" initialized
+INFO - 2022-12-09 13:03:10 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:03:10 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:10 --> Final output sent to browser
+DEBUG - 2022-12-09 13:03:10 --> Total execution time: 0.0605
+INFO - 2022-12-09 13:03:10 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:03:10 --> Parser Class Initialized
+INFO - 2022-12-09 13:03:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:03:10 --> Pagination Class Initialized
+INFO - 2022-12-09 13:03:10 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:03:10 --> Controller Class Initialized
+INFO - 2022-12-09 13:03:10 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:03:11 --> Model "Categories" initialized
+INFO - 2022-12-09 13:03:11 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:03:11 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:11 --> Final output sent to browser
+DEBUG - 2022-12-09 13:03:11 --> Total execution time: 0.0741
+ERROR - 2022-12-09 13:03:17 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:03:17 --> Config Class Initialized
+INFO - 2022-12-09 13:03:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:03:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:03:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:03:17 --> URI Class Initialized
+INFO - 2022-12-09 13:03:17 --> Router Class Initialized
+INFO - 2022-12-09 13:03:17 --> Output Class Initialized
+INFO - 2022-12-09 13:03:17 --> Security Class Initialized
+DEBUG - 2022-12-09 13:03:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:03:17 --> CSRF cookie sent
+INFO - 2022-12-09 13:03:17 --> CSRF token verified
+INFO - 2022-12-09 13:03:17 --> Input Class Initialized
+INFO - 2022-12-09 13:03:17 --> Language Class Initialized
+INFO - 2022-12-09 13:03:17 --> Loader Class Initialized
+INFO - 2022-12-09 13:03:17 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:03:17 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:03:17 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:03:17 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:03:17 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:03:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:03:17 --> Parser Class Initialized
+INFO - 2022-12-09 13:03:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:03:17 --> Pagination Class Initialized
+INFO - 2022-12-09 13:03:17 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:03:17 --> Controller Class Initialized
+INFO - 2022-12-09 13:03:17 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:03:17 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:03:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:17 --> Model "Customers" initialized
+INFO - 2022-12-09 13:03:17 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:03:17 --> Final output sent to browser
+DEBUG - 2022-12-09 13:03:17 --> Total execution time: 0.0374
+ERROR - 2022-12-09 13:03:24 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:03:24 --> Config Class Initialized
+INFO - 2022-12-09 13:03:24 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:03:24 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:03:24 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:03:24 --> URI Class Initialized
+INFO - 2022-12-09 13:03:24 --> Router Class Initialized
+INFO - 2022-12-09 13:03:24 --> Output Class Initialized
+INFO - 2022-12-09 13:03:24 --> Security Class Initialized
+DEBUG - 2022-12-09 13:03:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:03:24 --> CSRF cookie sent
+INFO - 2022-12-09 13:03:24 --> CSRF token verified
+INFO - 2022-12-09 13:03:24 --> Input Class Initialized
+INFO - 2022-12-09 13:03:24 --> Language Class Initialized
+INFO - 2022-12-09 13:03:24 --> Loader Class Initialized
+INFO - 2022-12-09 13:03:24 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:03:24 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:03:24 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:03:24 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:03:24 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:03:24 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:03:24 --> Parser Class Initialized
+INFO - 2022-12-09 13:03:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:03:24 --> Pagination Class Initialized
+INFO - 2022-12-09 13:03:24 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:03:24 --> Controller Class Initialized
+INFO - 2022-12-09 13:03:24 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:03:24 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:03:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:24 --> Model "Customers" initialized
+INFO - 2022-12-09 13:03:24 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:03:24 --> Final output sent to browser
+DEBUG - 2022-12-09 13:03:24 --> Total execution time: 0.0371
+ERROR - 2022-12-09 13:03:28 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:03:28 --> Config Class Initialized
+INFO - 2022-12-09 13:03:28 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:03:28 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:03:28 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:03:28 --> URI Class Initialized
+INFO - 2022-12-09 13:03:28 --> Router Class Initialized
+INFO - 2022-12-09 13:03:28 --> Output Class Initialized
+INFO - 2022-12-09 13:03:28 --> Security Class Initialized
+DEBUG - 2022-12-09 13:03:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:03:28 --> CSRF cookie sent
+INFO - 2022-12-09 13:03:28 --> CSRF token verified
+INFO - 2022-12-09 13:03:28 --> Input Class Initialized
+INFO - 2022-12-09 13:03:28 --> Language Class Initialized
+INFO - 2022-12-09 13:03:28 --> Loader Class Initialized
+INFO - 2022-12-09 13:03:28 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:03:28 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:03:28 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:03:28 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:03:28 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:03:28 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:03:28 --> Parser Class Initialized
+INFO - 2022-12-09 13:03:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:03:28 --> Pagination Class Initialized
+INFO - 2022-12-09 13:03:28 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:03:28 --> Controller Class Initialized
+INFO - 2022-12-09 13:03:28 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:03:28 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:03:28 --> Final output sent to browser
+DEBUG - 2022-12-09 13:03:28 --> Total execution time: 0.1335
+ERROR - 2022-12-09 13:05:13 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:13 --> Config Class Initialized
+INFO - 2022-12-09 13:05:13 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:13 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:13 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:13 --> URI Class Initialized
+INFO - 2022-12-09 13:05:13 --> Router Class Initialized
+INFO - 2022-12-09 13:05:13 --> Output Class Initialized
+INFO - 2022-12-09 13:05:13 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:13 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:13 --> Input Class Initialized
+INFO - 2022-12-09 13:05:13 --> Language Class Initialized
+INFO - 2022-12-09 13:05:13 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:13 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:13 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:13 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:13 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:13 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:13 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:13 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:13 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:13 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:13 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:13 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 13:05:13 --> Model "Web_settings" initialized
+ERROR - 2022-12-09 13:05:14 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:14 --> Config Class Initialized
+INFO - 2022-12-09 13:05:14 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:14 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:14 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:14 --> URI Class Initialized
+INFO - 2022-12-09 13:05:14 --> Router Class Initialized
+INFO - 2022-12-09 13:05:14 --> Output Class Initialized
+INFO - 2022-12-09 13:05:14 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:14 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:14 --> Input Class Initialized
+INFO - 2022-12-09 13:05:14 --> Language Class Initialized
+INFO - 2022-12-09 13:05:14 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:14 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:14 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:14 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:14 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:14 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:14 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:14 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:14 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:14 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:14 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:14 --> Model "Accounts_model" initialized
+INFO - 2022-12-09 13:05:14 --> Model "Web_settings" initialized
+INFO - 2022-12-09 13:05:14 --> Model "Purchases" initialized
+ERROR - 2022-12-09 13:05:14 --> Severity: Notice --> Undefined variable: expense D:\xampp\htdocs\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 13:05:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 13:05:14 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable D:\xampp\htdocs\R8-Uat-testing\application\views\purchase\purchase.php 144
+ERROR - 2022-12-09 13:05:14 --> Severity: Notice --> Undefined variable: total_invoice D:\xampp\htdocs\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 13:05:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\purchase/purchase.php
+ERROR - 2022-12-09 13:05:14 --> Severity: Notice --> Undefined variable: total_invoice D:\xampp\htdocs\R8-Uat-testing\application\views\purchase\purchase.php 234
+INFO - 2022-12-09 13:05:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\purchase/purchase.php
+DEBUG - 2022-12-09 13:05:14 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:05:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:05:14 --> Model "Products" initialized
+INFO - 2022-12-09 17:35:14 --> Model "reports" initialized
+INFO - 2022-12-09 17:35:14 --> Model "Users" initialized
+INFO - 2022-12-09 17:35:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:35:14 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:35:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:35:14 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:35:14 --> Final output sent to browser
+DEBUG - 2022-12-09 17:35:14 --> Total execution time: 0.5341
+ERROR - 2022-12-09 13:05:16 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:16 --> Config Class Initialized
+INFO - 2022-12-09 13:05:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:16 --> URI Class Initialized
+INFO - 2022-12-09 13:05:16 --> Router Class Initialized
+INFO - 2022-12-09 13:05:16 --> Output Class Initialized
+INFO - 2022-12-09 13:05:16 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:16 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:16 --> Input Class Initialized
+INFO - 2022-12-09 13:05:16 --> Language Class Initialized
+INFO - 2022-12-09 13:05:16 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:16 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:16 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:16 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:16 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:16 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:16 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:16 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:16 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:16 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:16 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:16 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:05:16 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:05:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:16 --> Model "Customers" initialized
+INFO - 2022-12-09 13:05:16 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:05:16 --> Severity: Notice --> Undefined variable: total_invoice D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice_list.php 334
+INFO - 2022-12-09 13:05:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice_list.php
+DEBUG - 2022-12-09 13:05:16 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:05:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:05:16 --> Model "Products" initialized
+INFO - 2022-12-09 17:35:16 --> Model "reports" initialized
+INFO - 2022-12-09 17:35:16 --> Model "Users" initialized
+INFO - 2022-12-09 17:35:17 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+INFO - 2022-12-09 17:35:17 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:35:17 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:35:17 --> Final output sent to browser
+DEBUG - 2022-12-09 17:35:17 --> Total execution time: 0.4062
+ERROR - 2022-12-09 13:05:17 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:17 --> Config Class Initialized
+INFO - 2022-12-09 13:05:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:17 --> URI Class Initialized
+INFO - 2022-12-09 13:05:17 --> Router Class Initialized
+INFO - 2022-12-09 13:05:17 --> Output Class Initialized
+INFO - 2022-12-09 13:05:17 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:17 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:17 --> Input Class Initialized
+INFO - 2022-12-09 13:05:17 --> Language Class Initialized
+ERROR - 2022-12-09 13:05:17 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 13:05:17 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:17 --> Config Class Initialized
+INFO - 2022-12-09 13:05:17 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:17 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:17 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:17 --> URI Class Initialized
+INFO - 2022-12-09 13:05:17 --> Router Class Initialized
+INFO - 2022-12-09 13:05:17 --> Output Class Initialized
+INFO - 2022-12-09 13:05:17 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:17 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:17 --> CSRF token verified
+INFO - 2022-12-09 13:05:17 --> Input Class Initialized
+INFO - 2022-12-09 13:05:17 --> Language Class Initialized
+INFO - 2022-12-09 13:05:17 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:17 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:17 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:17 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:17 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:17 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:17 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:17 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:17 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:17 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:17 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:17 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:05:17 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:05:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:17 --> Model "Customers" initialized
+INFO - 2022-12-09 13:05:17 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:05:17 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 13:05:17 --> Severity: Notice --> Trying to get property 'menu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1264
+ERROR - 2022-12-09 13:05:17 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 13:05:17 --> Severity: Notice --> Trying to get property 'submenu' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1265
+ERROR - 2022-12-09 13:05:17 --> Severity: Notice --> Undefined offset: 0 D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+ERROR - 2022-12-09 13:05:17 --> Severity: Notice --> Trying to get property 'setting' of non-object D:\xampp\htdocs\R8-Uat-testing\application\controllers\Cinvoice.php 1266
+INFO - 2022-12-09 13:05:17 --> Final output sent to browser
+DEBUG - 2022-12-09 13:05:17 --> Total execution time: 0.0841
+ERROR - 2022-12-09 13:05:19 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:19 --> Config Class Initialized
+INFO - 2022-12-09 13:05:19 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:19 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:19 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:19 --> URI Class Initialized
+INFO - 2022-12-09 13:05:19 --> Router Class Initialized
+INFO - 2022-12-09 13:05:19 --> Output Class Initialized
+INFO - 2022-12-09 13:05:19 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:19 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:19 --> Input Class Initialized
+INFO - 2022-12-09 13:05:19 --> Language Class Initialized
+INFO - 2022-12-09 13:05:19 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:19 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:19 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:19 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:19 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:19 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:19 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:19 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:19 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:19 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:19 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:05:19 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:05:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:19 --> Model "Customers" initialized
+INFO - 2022-12-09 13:05:19 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:05:19 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:05:19 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:05:19 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+ERROR - 2022-12-09 13:05:19 --> Severity: Notice --> Undefined variable: arr D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 417
+ERROR - 2022-12-09 13:05:19 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 417
+INFO - 2022-12-09 13:05:19 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:05:19 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:19 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:05:19 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:05:19 --> Model "Products" initialized
+INFO - 2022-12-09 17:35:19 --> Model "reports" initialized
+INFO - 2022-12-09 17:35:19 --> Model "Users" initialized
+INFO - 2022-12-09 17:35:20 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:35:20 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:35:20 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:35:20 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:35:20 --> Final output sent to browser
+DEBUG - 2022-12-09 17:35:20 --> Total execution time: 0.4892
+ERROR - 2022-12-09 13:05:20 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:05:20 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:20 --> Config Class Initialized
+INFO - 2022-12-09 13:05:20 --> Hooks Class Initialized
+INFO - 2022-12-09 13:05:20 --> Config Class Initialized
+INFO - 2022-12-09 13:05:20 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:20 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:20 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 13:05:20 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:20 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:20 --> URI Class Initialized
+INFO - 2022-12-09 13:05:20 --> URI Class Initialized
+INFO - 2022-12-09 13:05:20 --> Router Class Initialized
+INFO - 2022-12-09 13:05:20 --> Router Class Initialized
+INFO - 2022-12-09 13:05:20 --> Output Class Initialized
+INFO - 2022-12-09 13:05:20 --> Output Class Initialized
+INFO - 2022-12-09 13:05:20 --> Security Class Initialized
+INFO - 2022-12-09 13:05:20 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 13:05:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:20 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:20 --> CSRF token verified
+INFO - 2022-12-09 13:05:20 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:20 --> Input Class Initialized
+INFO - 2022-12-09 13:05:20 --> CSRF token verified
+INFO - 2022-12-09 13:05:20 --> Input Class Initialized
+INFO - 2022-12-09 13:05:20 --> Language Class Initialized
+INFO - 2022-12-09 13:05:20 --> Language Class Initialized
+INFO - 2022-12-09 13:05:20 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:20 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:20 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:20 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:20 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:20 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:20 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:20 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:20 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:20 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:20 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:20 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:05:20 --> Model "Categories" initialized
+INFO - 2022-12-09 13:05:20 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:05:20 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:20 --> Final output sent to browser
+DEBUG - 2022-12-09 13:05:20 --> Total execution time: 0.0586
+INFO - 2022-12-09 13:05:20 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:20 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:20 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:20 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:20 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:20 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:05:20 --> Model "Categories" initialized
+INFO - 2022-12-09 13:05:20 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:05:20 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:20 --> Final output sent to browser
+DEBUG - 2022-12-09 13:05:20 --> Total execution time: 0.0672
+ERROR - 2022-12-09 13:05:25 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:25 --> Config Class Initialized
+INFO - 2022-12-09 13:05:25 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:25 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:25 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:25 --> URI Class Initialized
+INFO - 2022-12-09 13:05:25 --> Router Class Initialized
+INFO - 2022-12-09 13:05:25 --> Output Class Initialized
+INFO - 2022-12-09 13:05:25 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:25 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:25 --> CSRF token verified
+INFO - 2022-12-09 13:05:25 --> Input Class Initialized
+INFO - 2022-12-09 13:05:25 --> Language Class Initialized
+INFO - 2022-12-09 13:05:25 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:25 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:25 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:25 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:25 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:25 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:25 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:25 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:25 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:25 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:25 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:05:25 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:05:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:25 --> Model "Customers" initialized
+INFO - 2022-12-09 13:05:25 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:05:25 --> Final output sent to browser
+DEBUG - 2022-12-09 13:05:25 --> Total execution time: 0.0355
+ERROR - 2022-12-09 13:05:33 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:33 --> Config Class Initialized
+INFO - 2022-12-09 13:05:33 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:33 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:33 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:33 --> URI Class Initialized
+INFO - 2022-12-09 13:05:33 --> Router Class Initialized
+INFO - 2022-12-09 13:05:33 --> Output Class Initialized
+INFO - 2022-12-09 13:05:33 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:33 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:33 --> CSRF token verified
+INFO - 2022-12-09 13:05:33 --> Input Class Initialized
+INFO - 2022-12-09 13:05:33 --> Language Class Initialized
+INFO - 2022-12-09 13:05:33 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:33 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:33 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:33 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:33 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:33 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:33 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:33 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:33 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:33 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:33 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:05:33 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:05:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:33 --> Model "Customers" initialized
+INFO - 2022-12-09 13:05:33 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:05:33 --> Final output sent to browser
+DEBUG - 2022-12-09 13:05:33 --> Total execution time: 0.0373
+ERROR - 2022-12-09 13:05:38 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:38 --> Config Class Initialized
+INFO - 2022-12-09 13:05:38 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:38 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:38 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:38 --> URI Class Initialized
+INFO - 2022-12-09 13:05:38 --> Router Class Initialized
+INFO - 2022-12-09 13:05:38 --> Output Class Initialized
+INFO - 2022-12-09 13:05:38 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:38 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:38 --> CSRF token verified
+INFO - 2022-12-09 13:05:38 --> Input Class Initialized
+INFO - 2022-12-09 13:05:38 --> Language Class Initialized
+INFO - 2022-12-09 13:05:38 --> Loader Class Initialized
+INFO - 2022-12-09 13:05:38 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:05:38 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:05:38 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:05:38 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:05:38 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:05:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:05:38 --> Parser Class Initialized
+INFO - 2022-12-09 13:05:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:05:38 --> Pagination Class Initialized
+INFO - 2022-12-09 13:05:38 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:05:38 --> Controller Class Initialized
+INFO - 2022-12-09 13:05:38 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:05:38 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:05:38 --> Final output sent to browser
+DEBUG - 2022-12-09 13:05:38 --> Total execution time: 0.1417
+ERROR - 2022-12-09 13:05:44 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:44 --> Config Class Initialized
+INFO - 2022-12-09 13:05:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:44 --> URI Class Initialized
+INFO - 2022-12-09 13:05:44 --> Router Class Initialized
+INFO - 2022-12-09 13:05:44 --> Output Class Initialized
+INFO - 2022-12-09 13:05:44 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:44 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:44 --> Input Class Initialized
+INFO - 2022-12-09 13:05:44 --> Language Class Initialized
+ERROR - 2022-12-09 13:05:44 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 13:05:44 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:05:44 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:44 --> Config Class Initialized
+INFO - 2022-12-09 13:05:44 --> Config Class Initialized
+INFO - 2022-12-09 13:05:44 --> Hooks Class Initialized
+INFO - 2022-12-09 13:05:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:44 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:44 --> URI Class Initialized
+INFO - 2022-12-09 13:05:44 --> URI Class Initialized
+INFO - 2022-12-09 13:05:44 --> Router Class Initialized
+INFO - 2022-12-09 13:05:44 --> Router Class Initialized
+INFO - 2022-12-09 13:05:44 --> Output Class Initialized
+INFO - 2022-12-09 13:05:44 --> Output Class Initialized
+INFO - 2022-12-09 13:05:44 --> Security Class Initialized
+INFO - 2022-12-09 13:05:44 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:44 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:44 --> Input Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:44 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:44 --> Input Class Initialized
+INFO - 2022-12-09 13:05:44 --> Language Class Initialized
+INFO - 2022-12-09 13:05:44 --> Language Class Initialized
+ERROR - 2022-12-09 13:05:44 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 13:05:44 --> 404 Page Not Found: Assets/datatables
+ERROR - 2022-12-09 13:05:44 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:05:44 --> Config Class Initialized
+INFO - 2022-12-09 13:05:44 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:05:44 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:05:44 --> URI Class Initialized
+INFO - 2022-12-09 13:05:44 --> Router Class Initialized
+INFO - 2022-12-09 13:05:44 --> Output Class Initialized
+INFO - 2022-12-09 13:05:44 --> Security Class Initialized
+DEBUG - 2022-12-09 13:05:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:05:44 --> CSRF cookie sent
+INFO - 2022-12-09 13:05:44 --> Input Class Initialized
+INFO - 2022-12-09 13:05:44 --> Language Class Initialized
+ERROR - 2022-12-09 13:05:44 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 13:06:34 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:06:34 --> Config Class Initialized
+INFO - 2022-12-09 13:06:34 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:06:34 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:34 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:06:34 --> URI Class Initialized
+INFO - 2022-12-09 13:06:34 --> Router Class Initialized
+INFO - 2022-12-09 13:06:34 --> Output Class Initialized
+INFO - 2022-12-09 13:06:34 --> Security Class Initialized
+DEBUG - 2022-12-09 13:06:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:34 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:34 --> Input Class Initialized
+INFO - 2022-12-09 13:06:34 --> Language Class Initialized
+INFO - 2022-12-09 13:06:34 --> Loader Class Initialized
+INFO - 2022-12-09 13:06:34 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:06:34 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:06:34 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:06:34 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:06:34 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:06:34 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:06:34 --> Parser Class Initialized
+INFO - 2022-12-09 13:06:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:06:34 --> Pagination Class Initialized
+INFO - 2022-12-09 13:06:34 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:06:34 --> Controller Class Initialized
+INFO - 2022-12-09 13:06:34 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:06:34 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:06:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:06:34 --> Model "Customers" initialized
+INFO - 2022-12-09 13:06:34 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:06:34 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:06:34 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:06:34 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+ERROR - 2022-12-09 13:06:34 --> Severity: Notice --> Undefined variable: purchase_id D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 417
+INFO - 2022-12-09 13:06:34 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:06:34 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:06:34 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:06:34 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:06:34 --> Model "Products" initialized
+INFO - 2022-12-09 17:36:34 --> Model "reports" initialized
+INFO - 2022-12-09 17:36:34 --> Model "Users" initialized
+INFO - 2022-12-09 17:36:35 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:36:35 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:36:35 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:36:35 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:36:35 --> Final output sent to browser
+DEBUG - 2022-12-09 17:36:35 --> Total execution time: 0.6217
+ERROR - 2022-12-09 13:06:35 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:06:35 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:06:35 --> Config Class Initialized
+INFO - 2022-12-09 13:06:35 --> Hooks Class Initialized
+INFO - 2022-12-09 13:06:35 --> Config Class Initialized
+INFO - 2022-12-09 13:06:35 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:06:35 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:35 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 13:06:35 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:35 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:06:35 --> URI Class Initialized
+INFO - 2022-12-09 13:06:35 --> URI Class Initialized
+INFO - 2022-12-09 13:06:35 --> Router Class Initialized
+INFO - 2022-12-09 13:06:35 --> Router Class Initialized
+INFO - 2022-12-09 13:06:35 --> Output Class Initialized
+INFO - 2022-12-09 13:06:35 --> Output Class Initialized
+INFO - 2022-12-09 13:06:35 --> Security Class Initialized
+INFO - 2022-12-09 13:06:35 --> Security Class Initialized
+DEBUG - 2022-12-09 13:06:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:35 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:35 --> CSRF token verified
+INFO - 2022-12-09 13:06:35 --> Input Class Initialized
+DEBUG - 2022-12-09 13:06:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:35 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:35 --> CSRF token verified
+INFO - 2022-12-09 13:06:35 --> Input Class Initialized
+INFO - 2022-12-09 13:06:35 --> Language Class Initialized
+INFO - 2022-12-09 13:06:35 --> Language Class Initialized
+INFO - 2022-12-09 13:06:35 --> Loader Class Initialized
+INFO - 2022-12-09 13:06:35 --> Loader Class Initialized
+INFO - 2022-12-09 13:06:35 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:06:35 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:06:35 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:06:35 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:06:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:06:35 --> Parser Class Initialized
+INFO - 2022-12-09 13:06:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:06:35 --> Pagination Class Initialized
+INFO - 2022-12-09 13:06:35 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:06:35 --> Controller Class Initialized
+INFO - 2022-12-09 13:06:35 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:06:35 --> Model "Categories" initialized
+INFO - 2022-12-09 13:06:35 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:06:35 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:06:35 --> Final output sent to browser
+DEBUG - 2022-12-09 13:06:35 --> Total execution time: 0.0594
+INFO - 2022-12-09 13:06:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:06:35 --> Parser Class Initialized
+INFO - 2022-12-09 13:06:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:06:35 --> Pagination Class Initialized
+INFO - 2022-12-09 13:06:35 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:06:35 --> Controller Class Initialized
+INFO - 2022-12-09 13:06:35 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:06:35 --> Model "Categories" initialized
+INFO - 2022-12-09 13:06:35 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:06:35 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:06:35 --> Final output sent to browser
+DEBUG - 2022-12-09 13:06:35 --> Total execution time: 0.0661
+ERROR - 2022-12-09 13:06:40 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:06:40 --> Config Class Initialized
+INFO - 2022-12-09 13:06:40 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:06:40 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:40 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:06:40 --> URI Class Initialized
+INFO - 2022-12-09 13:06:40 --> Router Class Initialized
+INFO - 2022-12-09 13:06:40 --> Output Class Initialized
+INFO - 2022-12-09 13:06:40 --> Security Class Initialized
+DEBUG - 2022-12-09 13:06:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:40 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:40 --> CSRF token verified
+INFO - 2022-12-09 13:06:40 --> Input Class Initialized
+INFO - 2022-12-09 13:06:40 --> Language Class Initialized
+INFO - 2022-12-09 13:06:40 --> Loader Class Initialized
+INFO - 2022-12-09 13:06:40 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:06:40 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:06:40 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:06:40 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:06:40 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:06:40 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:06:40 --> Parser Class Initialized
+INFO - 2022-12-09 13:06:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:06:40 --> Pagination Class Initialized
+INFO - 2022-12-09 13:06:40 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:06:40 --> Controller Class Initialized
+INFO - 2022-12-09 13:06:40 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:06:40 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:06:40 --> Final output sent to browser
+DEBUG - 2022-12-09 13:06:40 --> Total execution time: 0.0870
+ERROR - 2022-12-09 13:06:45 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:06:45 --> Config Class Initialized
+INFO - 2022-12-09 13:06:45 --> Hooks Class Initialized
+ERROR - 2022-12-09 13:06:45 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:06:45 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+DEBUG - 2022-12-09 13:06:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:45 --> Config Class Initialized
+INFO - 2022-12-09 13:06:45 --> Config Class Initialized
+INFO - 2022-12-09 13:06:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:06:45 --> Hooks Class Initialized
+INFO - 2022-12-09 13:06:45 --> Hooks Class Initialized
+INFO - 2022-12-09 13:06:45 --> URI Class Initialized
+DEBUG - 2022-12-09 13:06:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:45 --> Router Class Initialized
+INFO - 2022-12-09 13:06:45 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 13:06:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:06:45 --> URI Class Initialized
+INFO - 2022-12-09 13:06:45 --> URI Class Initialized
+INFO - 2022-12-09 13:06:45 --> Output Class Initialized
+INFO - 2022-12-09 13:06:45 --> Router Class Initialized
+INFO - 2022-12-09 13:06:45 --> Router Class Initialized
+INFO - 2022-12-09 13:06:45 --> Security Class Initialized
+INFO - 2022-12-09 13:06:45 --> Output Class Initialized
+INFO - 2022-12-09 13:06:45 --> Output Class Initialized
+DEBUG - 2022-12-09 13:06:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:45 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:45 --> Input Class Initialized
+INFO - 2022-12-09 13:06:45 --> Security Class Initialized
+INFO - 2022-12-09 13:06:45 --> Security Class Initialized
+INFO - 2022-12-09 13:06:45 --> Language Class Initialized
+DEBUG - 2022-12-09 13:06:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:45 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:45 --> Input Class Initialized
+ERROR - 2022-12-09 13:06:45 --> 404 Page Not Found: Assets/datatables
+DEBUG - 2022-12-09 13:06:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:45 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:45 --> Language Class Initialized
+INFO - 2022-12-09 13:06:45 --> Input Class Initialized
+INFO - 2022-12-09 13:06:45 --> Language Class Initialized
+ERROR - 2022-12-09 13:06:45 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 13:06:45 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 13:06:45 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:06:45 --> Config Class Initialized
+INFO - 2022-12-09 13:06:45 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:06:45 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:06:45 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:06:45 --> URI Class Initialized
+INFO - 2022-12-09 13:06:45 --> Router Class Initialized
+INFO - 2022-12-09 13:06:45 --> Output Class Initialized
+INFO - 2022-12-09 13:06:45 --> Security Class Initialized
+DEBUG - 2022-12-09 13:06:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:06:45 --> CSRF cookie sent
+INFO - 2022-12-09 13:06:45 --> Input Class Initialized
+INFO - 2022-12-09 13:06:45 --> Language Class Initialized
+ERROR - 2022-12-09 13:06:45 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 13:10:50 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:10:50 --> Config Class Initialized
+INFO - 2022-12-09 13:10:50 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:10:50 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:10:50 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:10:50 --> URI Class Initialized
+INFO - 2022-12-09 13:10:50 --> Router Class Initialized
+INFO - 2022-12-09 13:10:50 --> Output Class Initialized
+INFO - 2022-12-09 13:10:50 --> Security Class Initialized
+DEBUG - 2022-12-09 13:10:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:10:50 --> CSRF cookie sent
+INFO - 2022-12-09 13:10:50 --> Input Class Initialized
+INFO - 2022-12-09 13:10:50 --> Language Class Initialized
+INFO - 2022-12-09 13:10:50 --> Loader Class Initialized
+INFO - 2022-12-09 13:10:50 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:10:50 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:10:50 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:10:50 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:10:50 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:10:50 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:10:50 --> Parser Class Initialized
+INFO - 2022-12-09 13:10:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:10:50 --> Pagination Class Initialized
+INFO - 2022-12-09 13:10:50 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:10:50 --> Controller Class Initialized
+INFO - 2022-12-09 13:10:50 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:10:50 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:10:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:10:50 --> Model "Customers" initialized
+INFO - 2022-12-09 13:10:50 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:10:50 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:10:50 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:10:50 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+INFO - 2022-12-09 13:10:50 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:10:50 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:10:50 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:10:50 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:10:50 --> Model "Products" initialized
+INFO - 2022-12-09 17:40:50 --> Model "reports" initialized
+INFO - 2022-12-09 17:40:50 --> Model "Users" initialized
+INFO - 2022-12-09 17:40:51 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:40:51 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:40:51 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:40:51 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:40:51 --> Final output sent to browser
+DEBUG - 2022-12-09 17:40:51 --> Total execution time: 0.4632
+ERROR - 2022-12-09 13:10:51 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:10:51 --> Config Class Initialized
+INFO - 2022-12-09 13:10:51 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:10:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:10:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:10:51 --> URI Class Initialized
+INFO - 2022-12-09 13:10:51 --> Router Class Initialized
+INFO - 2022-12-09 13:10:51 --> Output Class Initialized
+INFO - 2022-12-09 13:10:51 --> Security Class Initialized
+DEBUG - 2022-12-09 13:10:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:10:51 --> CSRF cookie sent
+INFO - 2022-12-09 13:10:51 --> CSRF token verified
+INFO - 2022-12-09 13:10:51 --> Input Class Initialized
+INFO - 2022-12-09 13:10:51 --> Language Class Initialized
+INFO - 2022-12-09 13:10:51 --> Loader Class Initialized
+INFO - 2022-12-09 13:10:51 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:10:51 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:10:51 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:10:51 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:10:51 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:10:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:10:51 --> Parser Class Initialized
+INFO - 2022-12-09 13:10:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:10:51 --> Pagination Class Initialized
+INFO - 2022-12-09 13:10:51 --> Form Validation Class Initialized
+ERROR - 2022-12-09 13:10:51 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:10:51 --> Controller Class Initialized
+INFO - 2022-12-09 13:10:51 --> Config Class Initialized
+INFO - 2022-12-09 13:10:51 --> Hooks Class Initialized
+INFO - 2022-12-09 13:10:51 --> Model "Suppliers" initialized
+DEBUG - 2022-12-09 13:10:51 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:10:51 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:10:51 --> Model "Categories" initialized
+INFO - 2022-12-09 13:10:51 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:10:51 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:10:51 --> URI Class Initialized
+INFO - 2022-12-09 13:10:51 --> Router Class Initialized
+INFO - 2022-12-09 13:10:51 --> Final output sent to browser
+DEBUG - 2022-12-09 13:10:51 --> Total execution time: 0.0220
+INFO - 2022-12-09 13:10:51 --> Output Class Initialized
+INFO - 2022-12-09 13:10:51 --> Security Class Initialized
+DEBUG - 2022-12-09 13:10:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:10:51 --> CSRF cookie sent
+INFO - 2022-12-09 13:10:51 --> CSRF token verified
+INFO - 2022-12-09 13:10:51 --> Input Class Initialized
+INFO - 2022-12-09 13:10:51 --> Language Class Initialized
+INFO - 2022-12-09 13:10:51 --> Loader Class Initialized
+INFO - 2022-12-09 13:10:51 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:10:51 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:10:51 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:10:51 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:10:51 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:10:51 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:10:51 --> Parser Class Initialized
+INFO - 2022-12-09 13:10:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:10:51 --> Pagination Class Initialized
+INFO - 2022-12-09 13:10:51 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:10:51 --> Controller Class Initialized
+INFO - 2022-12-09 13:10:51 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:10:51 --> Model "Categories" initialized
+INFO - 2022-12-09 13:10:51 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:10:51 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:10:51 --> Final output sent to browser
+DEBUG - 2022-12-09 13:10:51 --> Total execution time: 0.0671
+ERROR - 2022-12-09 13:20:54 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:20:54 --> Config Class Initialized
+INFO - 2022-12-09 13:20:54 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:20:54 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:20:54 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:20:54 --> URI Class Initialized
+INFO - 2022-12-09 13:20:54 --> Router Class Initialized
+INFO - 2022-12-09 13:20:54 --> Output Class Initialized
+INFO - 2022-12-09 13:20:54 --> Security Class Initialized
+DEBUG - 2022-12-09 13:20:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:20:54 --> CSRF cookie sent
+INFO - 2022-12-09 13:20:54 --> Input Class Initialized
+INFO - 2022-12-09 13:20:54 --> Language Class Initialized
+INFO - 2022-12-09 13:20:54 --> Loader Class Initialized
+INFO - 2022-12-09 13:20:54 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:20:54 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:20:54 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:20:54 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:20:54 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:20:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:20:54 --> Parser Class Initialized
+INFO - 2022-12-09 13:20:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:20:54 --> Pagination Class Initialized
+INFO - 2022-12-09 13:20:54 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:20:54 --> Controller Class Initialized
+INFO - 2022-12-09 13:20:54 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:20:54 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:20:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:20:54 --> Model "Customers" initialized
+INFO - 2022-12-09 13:20:54 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:20:54 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:20:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:20:54 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+INFO - 2022-12-09 13:20:54 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:20:54 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:20:54 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:20:54 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:20:54 --> Model "Products" initialized
+INFO - 2022-12-09 17:50:54 --> Model "reports" initialized
+INFO - 2022-12-09 17:50:54 --> Model "Users" initialized
+INFO - 2022-12-09 17:50:55 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:50:55 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:50:55 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:50:55 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:50:55 --> Final output sent to browser
+DEBUG - 2022-12-09 17:50:55 --> Total execution time: 0.6860
+ERROR - 2022-12-09 13:20:55 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:20:55 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:20:55 --> Config Class Initialized
+INFO - 2022-12-09 13:20:55 --> Hooks Class Initialized
+INFO - 2022-12-09 13:20:55 --> Config Class Initialized
+INFO - 2022-12-09 13:20:55 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:20:55 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 13:20:55 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:20:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:20:55 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:20:55 --> URI Class Initialized
+INFO - 2022-12-09 13:20:55 --> URI Class Initialized
+INFO - 2022-12-09 13:20:55 --> Router Class Initialized
+INFO - 2022-12-09 13:20:55 --> Router Class Initialized
+INFO - 2022-12-09 13:20:55 --> Output Class Initialized
+INFO - 2022-12-09 13:20:55 --> Output Class Initialized
+INFO - 2022-12-09 13:20:55 --> Security Class Initialized
+INFO - 2022-12-09 13:20:55 --> Security Class Initialized
+DEBUG - 2022-12-09 13:20:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:20:55 --> CSRF cookie sent
+DEBUG - 2022-12-09 13:20:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:20:55 --> CSRF token verified
+INFO - 2022-12-09 13:20:55 --> CSRF cookie sent
+INFO - 2022-12-09 13:20:55 --> Input Class Initialized
+INFO - 2022-12-09 13:20:55 --> CSRF token verified
+INFO - 2022-12-09 13:20:55 --> Input Class Initialized
+INFO - 2022-12-09 13:20:55 --> Language Class Initialized
+INFO - 2022-12-09 13:20:55 --> Language Class Initialized
+INFO - 2022-12-09 13:20:55 --> Loader Class Initialized
+INFO - 2022-12-09 13:20:55 --> Loader Class Initialized
+INFO - 2022-12-09 13:20:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:20:55 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:20:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:20:55 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:20:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:20:55 --> Parser Class Initialized
+INFO - 2022-12-09 13:20:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:20:55 --> Pagination Class Initialized
+INFO - 2022-12-09 13:20:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:20:55 --> Controller Class Initialized
+INFO - 2022-12-09 13:20:55 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:20:55 --> Model "Categories" initialized
+INFO - 2022-12-09 13:20:55 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:20:55 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:20:55 --> Final output sent to browser
+DEBUG - 2022-12-09 13:20:55 --> Total execution time: 0.0795
+INFO - 2022-12-09 13:20:55 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:20:55 --> Parser Class Initialized
+INFO - 2022-12-09 13:20:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:20:55 --> Pagination Class Initialized
+INFO - 2022-12-09 13:20:55 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:20:55 --> Controller Class Initialized
+INFO - 2022-12-09 13:20:55 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:20:55 --> Model "Categories" initialized
+INFO - 2022-12-09 13:20:55 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:20:55 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:20:55 --> Final output sent to browser
+DEBUG - 2022-12-09 13:20:55 --> Total execution time: 0.0853
+ERROR - 2022-12-09 13:21:09 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:21:09 --> Config Class Initialized
+INFO - 2022-12-09 13:21:09 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:21:09 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:09 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:09 --> URI Class Initialized
+INFO - 2022-12-09 13:21:09 --> Router Class Initialized
+INFO - 2022-12-09 13:21:09 --> Output Class Initialized
+INFO - 2022-12-09 13:21:09 --> Security Class Initialized
+DEBUG - 2022-12-09 13:21:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:09 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:09 --> CSRF token verified
+INFO - 2022-12-09 13:21:09 --> Input Class Initialized
+INFO - 2022-12-09 13:21:09 --> Language Class Initialized
+INFO - 2022-12-09 13:21:09 --> Loader Class Initialized
+INFO - 2022-12-09 13:21:09 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:21:09 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:21:09 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:21:09 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:21:09 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:21:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:21:09 --> Parser Class Initialized
+INFO - 2022-12-09 13:21:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:21:09 --> Pagination Class Initialized
+INFO - 2022-12-09 13:21:09 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:21:09 --> Controller Class Initialized
+INFO - 2022-12-09 13:21:09 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:21:09 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:21:09 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:21:09 --> Model "Customers" initialized
+INFO - 2022-12-09 13:21:09 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:21:09 --> Final output sent to browser
+DEBUG - 2022-12-09 13:21:09 --> Total execution time: 0.0228
+ERROR - 2022-12-09 13:21:15 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:21:15 --> Config Class Initialized
+INFO - 2022-12-09 13:21:15 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:21:15 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:15 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:15 --> URI Class Initialized
+INFO - 2022-12-09 13:21:15 --> Router Class Initialized
+INFO - 2022-12-09 13:21:15 --> Output Class Initialized
+INFO - 2022-12-09 13:21:15 --> Security Class Initialized
+DEBUG - 2022-12-09 13:21:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:15 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:15 --> CSRF token verified
+INFO - 2022-12-09 13:21:15 --> Input Class Initialized
+INFO - 2022-12-09 13:21:15 --> Language Class Initialized
+INFO - 2022-12-09 13:21:15 --> Loader Class Initialized
+INFO - 2022-12-09 13:21:15 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:21:15 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:21:15 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:21:15 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:21:15 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:21:15 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:21:15 --> Parser Class Initialized
+INFO - 2022-12-09 13:21:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:21:15 --> Pagination Class Initialized
+INFO - 2022-12-09 13:21:15 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:21:15 --> Controller Class Initialized
+INFO - 2022-12-09 13:21:15 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:21:15 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:21:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:21:15 --> Model "Customers" initialized
+INFO - 2022-12-09 13:21:15 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:21:15 --> Final output sent to browser
+DEBUG - 2022-12-09 13:21:15 --> Total execution time: 0.0385
+ERROR - 2022-12-09 13:21:19 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:21:19 --> Config Class Initialized
+INFO - 2022-12-09 13:21:19 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:21:19 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:19 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:19 --> URI Class Initialized
+INFO - 2022-12-09 13:21:19 --> Router Class Initialized
+INFO - 2022-12-09 13:21:19 --> Output Class Initialized
+INFO - 2022-12-09 13:21:19 --> Security Class Initialized
+DEBUG - 2022-12-09 13:21:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:19 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:19 --> CSRF token verified
+INFO - 2022-12-09 13:21:19 --> Input Class Initialized
+INFO - 2022-12-09 13:21:19 --> Language Class Initialized
+INFO - 2022-12-09 13:21:19 --> Loader Class Initialized
+INFO - 2022-12-09 13:21:19 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:21:19 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:21:19 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:21:19 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:21:19 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:21:19 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:21:19 --> Parser Class Initialized
+INFO - 2022-12-09 13:21:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:21:19 --> Pagination Class Initialized
+INFO - 2022-12-09 13:21:19 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:21:19 --> Controller Class Initialized
+INFO - 2022-12-09 13:21:19 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:21:19 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:21:19 --> Final output sent to browser
+DEBUG - 2022-12-09 13:21:19 --> Total execution time: 0.1108
+ERROR - 2022-12-09 13:21:24 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:21:24 --> Config Class Initialized
+INFO - 2022-12-09 13:21:24 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:21:24 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:24 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:24 --> URI Class Initialized
+INFO - 2022-12-09 13:21:24 --> Router Class Initialized
+INFO - 2022-12-09 13:21:24 --> Output Class Initialized
+INFO - 2022-12-09 13:21:24 --> Security Class Initialized
+DEBUG - 2022-12-09 13:21:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:24 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:24 --> Input Class Initialized
+INFO - 2022-12-09 13:21:24 --> Language Class Initialized
+INFO - 2022-12-09 13:21:24 --> Loader Class Initialized
+INFO - 2022-12-09 13:21:24 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:21:24 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:21:24 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:21:24 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:21:24 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:21:24 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:21:24 --> Parser Class Initialized
+INFO - 2022-12-09 13:21:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:21:24 --> Pagination Class Initialized
+INFO - 2022-12-09 13:21:24 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:21:24 --> Controller Class Initialized
+INFO - 2022-12-09 13:21:24 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:21:24 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:21:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:21:24 --> Model "Customers" initialized
+INFO - 2022-12-09 13:21:24 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:21:24 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:21:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:21:24 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+INFO - 2022-12-09 13:21:24 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:21:24 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:21:24 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:21:24 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:21:24 --> Model "Products" initialized
+INFO - 2022-12-09 17:51:24 --> Model "reports" initialized
+INFO - 2022-12-09 17:51:24 --> Model "Users" initialized
+INFO - 2022-12-09 17:51:24 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:51:24 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:51:24 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:51:24 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:51:24 --> Final output sent to browser
+DEBUG - 2022-12-09 17:51:24 --> Total execution time: 0.4390
+ERROR - 2022-12-09 13:21:27 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:21:27 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:21:27 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:21:27 --> Config Class Initialized
+INFO - 2022-12-09 13:21:27 --> Config Class Initialized
+INFO - 2022-12-09 13:21:27 --> Hooks Class Initialized
+INFO - 2022-12-09 13:21:27 --> Hooks Class Initialized
+INFO - 2022-12-09 13:21:27 --> Config Class Initialized
+INFO - 2022-12-09 13:21:27 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:21:27 --> UTF-8 Support Enabled
+DEBUG - 2022-12-09 13:21:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:27 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 13:21:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:27 --> URI Class Initialized
+INFO - 2022-12-09 13:21:27 --> URI Class Initialized
+INFO - 2022-12-09 13:21:27 --> URI Class Initialized
+INFO - 2022-12-09 13:21:27 --> Router Class Initialized
+INFO - 2022-12-09 13:21:27 --> Router Class Initialized
+INFO - 2022-12-09 13:21:27 --> Router Class Initialized
+INFO - 2022-12-09 13:21:27 --> Output Class Initialized
+INFO - 2022-12-09 13:21:27 --> Output Class Initialized
+INFO - 2022-12-09 13:21:27 --> Output Class Initialized
+INFO - 2022-12-09 13:21:27 --> Security Class Initialized
+INFO - 2022-12-09 13:21:27 --> Security Class Initialized
+INFO - 2022-12-09 13:21:27 --> Security Class Initialized
+DEBUG - 2022-12-09 13:21:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:27 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:27 --> Input Class Initialized
+DEBUG - 2022-12-09 13:21:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-09 13:21:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:27 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:27 --> Language Class Initialized
+INFO - 2022-12-09 13:21:27 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:27 --> Input Class Initialized
+INFO - 2022-12-09 13:21:27 --> Input Class Initialized
+ERROR - 2022-12-09 13:21:27 --> 404 Page Not Found: Assets/datatables
+INFO - 2022-12-09 13:21:27 --> Language Class Initialized
+INFO - 2022-12-09 13:21:27 --> Language Class Initialized
+ERROR - 2022-12-09 13:21:27 --> 404 Page Not Found: Assets/js
+ERROR - 2022-12-09 13:21:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2022-12-09 13:21:27 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:21:27 --> Config Class Initialized
+INFO - 2022-12-09 13:21:27 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:21:27 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:21:27 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:21:27 --> URI Class Initialized
+INFO - 2022-12-09 13:21:27 --> Router Class Initialized
+INFO - 2022-12-09 13:21:27 --> Output Class Initialized
+INFO - 2022-12-09 13:21:27 --> Security Class Initialized
+DEBUG - 2022-12-09 13:21:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:21:27 --> CSRF cookie sent
+INFO - 2022-12-09 13:21:27 --> Input Class Initialized
+INFO - 2022-12-09 13:21:27 --> Language Class Initialized
+ERROR - 2022-12-09 13:21:27 --> 404 Page Not Found: Assets/css
+ERROR - 2022-12-09 13:23:33 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:23:33 --> Config Class Initialized
+INFO - 2022-12-09 13:23:33 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:23:33 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:23:33 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:23:33 --> URI Class Initialized
+INFO - 2022-12-09 13:23:33 --> Router Class Initialized
+INFO - 2022-12-09 13:23:33 --> Output Class Initialized
+INFO - 2022-12-09 13:23:33 --> Security Class Initialized
+DEBUG - 2022-12-09 13:23:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:23:33 --> CSRF cookie sent
+INFO - 2022-12-09 13:23:33 --> CSRF token verified
+INFO - 2022-12-09 13:23:33 --> Input Class Initialized
+INFO - 2022-12-09 13:23:33 --> Language Class Initialized
+INFO - 2022-12-09 13:23:33 --> Loader Class Initialized
+INFO - 2022-12-09 13:23:33 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:23:33 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:23:33 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:23:33 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:23:33 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:23:33 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:23:33 --> Parser Class Initialized
+INFO - 2022-12-09 13:23:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:23:33 --> Pagination Class Initialized
+INFO - 2022-12-09 13:23:33 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:23:33 --> Controller Class Initialized
+INFO - 2022-12-09 13:23:33 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:23:33 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:23:34 --> Final output sent to browser
+DEBUG - 2022-12-09 13:23:34 --> Total execution time: 0.1607
+ERROR - 2022-12-09 13:24:04 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:04 --> Config Class Initialized
+INFO - 2022-12-09 13:24:04 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:04 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:04 --> URI Class Initialized
+INFO - 2022-12-09 13:24:04 --> Router Class Initialized
+INFO - 2022-12-09 13:24:04 --> Output Class Initialized
+INFO - 2022-12-09 13:24:04 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:04 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:04 --> Input Class Initialized
+INFO - 2022-12-09 13:24:04 --> Language Class Initialized
+INFO - 2022-12-09 13:24:04 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:04 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:04 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:04 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:04 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:04 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:04 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:04 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:24:04 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:24:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:04 --> Model "Customers" initialized
+INFO - 2022-12-09 13:24:04 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:24:04 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:24:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:24:04 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+INFO - 2022-12-09 13:24:04 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:24:04 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:04 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:24:04 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:24:04 --> Model "Products" initialized
+INFO - 2022-12-09 17:54:04 --> Model "reports" initialized
+INFO - 2022-12-09 17:54:04 --> Model "Users" initialized
+INFO - 2022-12-09 17:54:04 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:54:04 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:54:04 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:54:04 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:54:04 --> Final output sent to browser
+DEBUG - 2022-12-09 17:54:04 --> Total execution time: 0.4949
+ERROR - 2022-12-09 13:24:04 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+ERROR - 2022-12-09 13:24:04 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:04 --> Config Class Initialized
+INFO - 2022-12-09 13:24:04 --> Hooks Class Initialized
+INFO - 2022-12-09 13:24:04 --> Config Class Initialized
+INFO - 2022-12-09 13:24:04 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:04 --> Utf8 Class Initialized
+DEBUG - 2022-12-09 13:24:04 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:04 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:04 --> URI Class Initialized
+INFO - 2022-12-09 13:24:04 --> URI Class Initialized
+INFO - 2022-12-09 13:24:04 --> Router Class Initialized
+INFO - 2022-12-09 13:24:04 --> Router Class Initialized
+INFO - 2022-12-09 13:24:04 --> Output Class Initialized
+INFO - 2022-12-09 13:24:04 --> Output Class Initialized
+INFO - 2022-12-09 13:24:04 --> Security Class Initialized
+INFO - 2022-12-09 13:24:04 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:04 --> CSRF cookie sent
+DEBUG - 2022-12-09 13:24:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:04 --> CSRF token verified
+INFO - 2022-12-09 13:24:04 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:04 --> Input Class Initialized
+INFO - 2022-12-09 13:24:04 --> CSRF token verified
+INFO - 2022-12-09 13:24:04 --> Input Class Initialized
+INFO - 2022-12-09 13:24:04 --> Language Class Initialized
+INFO - 2022-12-09 13:24:04 --> Language Class Initialized
+INFO - 2022-12-09 13:24:04 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:04 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:04 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:04 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:04 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:04 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:04 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:04 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:04 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:04 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:04 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:24:04 --> Model "Categories" initialized
+INFO - 2022-12-09 13:24:04 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:24:04 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:04 --> Final output sent to browser
+DEBUG - 2022-12-09 13:24:04 --> Total execution time: 0.0241
+INFO - 2022-12-09 13:24:04 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:04 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:04 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:04 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:05 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:05 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:24:05 --> Model "Categories" initialized
+INFO - 2022-12-09 13:24:05 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:24:05 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:05 --> Final output sent to browser
+DEBUG - 2022-12-09 13:24:05 --> Total execution time: 0.0634
+ERROR - 2022-12-09 13:24:11 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:11 --> Config Class Initialized
+INFO - 2022-12-09 13:24:11 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:11 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:11 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:11 --> URI Class Initialized
+INFO - 2022-12-09 13:24:11 --> Router Class Initialized
+INFO - 2022-12-09 13:24:11 --> Output Class Initialized
+INFO - 2022-12-09 13:24:11 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:11 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:11 --> CSRF token verified
+INFO - 2022-12-09 13:24:11 --> Input Class Initialized
+INFO - 2022-12-09 13:24:11 --> Language Class Initialized
+INFO - 2022-12-09 13:24:11 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:11 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:11 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:11 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:11 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:11 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:11 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:11 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:11 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:11 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:11 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:11 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:24:11 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:24:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:11 --> Model "Customers" initialized
+INFO - 2022-12-09 13:24:11 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:24:11 --> Final output sent to browser
+DEBUG - 2022-12-09 13:24:11 --> Total execution time: 0.0520
+ERROR - 2022-12-09 13:24:18 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:18 --> Config Class Initialized
+INFO - 2022-12-09 13:24:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:18 --> URI Class Initialized
+INFO - 2022-12-09 13:24:18 --> Router Class Initialized
+INFO - 2022-12-09 13:24:18 --> Output Class Initialized
+INFO - 2022-12-09 13:24:18 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:18 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:18 --> CSRF token verified
+INFO - 2022-12-09 13:24:18 --> Input Class Initialized
+INFO - 2022-12-09 13:24:18 --> Language Class Initialized
+INFO - 2022-12-09 13:24:18 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:18 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:18 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:18 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:18 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:18 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:18 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:18 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:18 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:18 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:18 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:24:18 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:24:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:18 --> Model "Customers" initialized
+INFO - 2022-12-09 13:24:18 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:24:18 --> Final output sent to browser
+DEBUG - 2022-12-09 13:24:18 --> Total execution time: 0.0349
+ERROR - 2022-12-09 13:24:21 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:21 --> Config Class Initialized
+INFO - 2022-12-09 13:24:21 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:21 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:21 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:21 --> URI Class Initialized
+INFO - 2022-12-09 13:24:21 --> Router Class Initialized
+INFO - 2022-12-09 13:24:21 --> Output Class Initialized
+INFO - 2022-12-09 13:24:21 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:21 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:21 --> CSRF token verified
+INFO - 2022-12-09 13:24:21 --> Input Class Initialized
+INFO - 2022-12-09 13:24:21 --> Language Class Initialized
+INFO - 2022-12-09 13:24:21 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:21 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:21 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:21 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:21 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:21 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:21 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:21 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:21 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:21 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:21 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:21 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:24:21 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:24:21 --> Final output sent to browser
+DEBUG - 2022-12-09 13:24:21 --> Total execution time: 0.1049
+ERROR - 2022-12-09 13:24:30 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:30 --> Config Class Initialized
+INFO - 2022-12-09 13:24:30 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:30 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:30 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:30 --> URI Class Initialized
+INFO - 2022-12-09 13:24:30 --> Router Class Initialized
+INFO - 2022-12-09 13:24:30 --> Output Class Initialized
+INFO - 2022-12-09 13:24:30 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:30 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:30 --> Input Class Initialized
+INFO - 2022-12-09 13:24:30 --> Language Class Initialized
+INFO - 2022-12-09 13:24:30 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:30 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:30 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:30 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:30 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:30 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:30 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:30 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:30 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:30 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:30 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:30 --> Model "Web_settings" initialized
+INFO - 2022-12-09 13:24:30 --> Model "Invoice_design" initialized
+ERROR - 2022-12-09 13:24:30 --> Severity: Notice --> Undefined variable: invoiceid D:\xampp\htdocs\R8-Uat-testing\application\views\pdf_attach_mail\profarma.php 372
+ERROR - 2022-12-09 13:24:37 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:24:37 --> Config Class Initialized
+INFO - 2022-12-09 13:24:37 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:24:37 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:24:37 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:24:37 --> URI Class Initialized
+INFO - 2022-12-09 13:24:37 --> Router Class Initialized
+INFO - 2022-12-09 13:24:37 --> Output Class Initialized
+INFO - 2022-12-09 13:24:37 --> Security Class Initialized
+DEBUG - 2022-12-09 13:24:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:24:37 --> CSRF cookie sent
+INFO - 2022-12-09 13:24:37 --> Input Class Initialized
+INFO - 2022-12-09 13:24:37 --> Language Class Initialized
+INFO - 2022-12-09 13:24:37 --> Loader Class Initialized
+INFO - 2022-12-09 13:24:37 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:24:37 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:24:37 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:24:37 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:24:37 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:24:38 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:24:38 --> Parser Class Initialized
+INFO - 2022-12-09 13:24:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:24:38 --> Pagination Class Initialized
+INFO - 2022-12-09 13:24:38 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:24:38 --> Controller Class Initialized
+INFO - 2022-12-09 13:24:38 --> Model "Web_settings" initialized
+INFO - 2022-12-09 13:24:38 --> Model "Invoice_design" initialized
+ERROR - 2022-12-09 13:24:38 --> Severity: Notice --> Undefined variable: invoiceid D:\xampp\htdocs\R8-Uat-testing\application\views\pdf_attach_mail\profarma.php 372
+ERROR - 2022-12-09 13:25:06 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:25:06 --> Config Class Initialized
+INFO - 2022-12-09 13:25:06 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:25:06 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:25:06 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:25:06 --> URI Class Initialized
+INFO - 2022-12-09 13:25:06 --> Router Class Initialized
+INFO - 2022-12-09 13:25:06 --> Output Class Initialized
+INFO - 2022-12-09 13:25:06 --> Security Class Initialized
+DEBUG - 2022-12-09 13:25:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:25:06 --> CSRF cookie sent
+INFO - 2022-12-09 13:25:06 --> CSRF token verified
+INFO - 2022-12-09 13:25:06 --> Input Class Initialized
+INFO - 2022-12-09 13:25:06 --> Language Class Initialized
+INFO - 2022-12-09 13:25:06 --> Loader Class Initialized
+INFO - 2022-12-09 13:25:06 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:25:06 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:25:06 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:25:06 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:25:06 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:25:06 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:25:06 --> Parser Class Initialized
+INFO - 2022-12-09 13:25:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:25:06 --> Pagination Class Initialized
+INFO - 2022-12-09 13:25:06 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:25:06 --> Controller Class Initialized
+INFO - 2022-12-09 13:25:06 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:25:06 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:25:06 --> Final output sent to browser
+DEBUG - 2022-12-09 13:25:06 --> Total execution time: 0.2226
+ERROR - 2022-12-09 13:25:09 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:25:09 --> Config Class Initialized
+INFO - 2022-12-09 13:25:09 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:25:09 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:25:09 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:25:09 --> URI Class Initialized
+INFO - 2022-12-09 13:25:09 --> Router Class Initialized
+INFO - 2022-12-09 13:25:09 --> Output Class Initialized
+INFO - 2022-12-09 13:25:09 --> Security Class Initialized
+DEBUG - 2022-12-09 13:25:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:25:09 --> CSRF cookie sent
+INFO - 2022-12-09 13:25:09 --> Input Class Initialized
+INFO - 2022-12-09 13:25:09 --> Language Class Initialized
+INFO - 2022-12-09 13:25:09 --> Loader Class Initialized
+INFO - 2022-12-09 13:25:09 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:25:09 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:25:09 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:25:09 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:25:09 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:25:09 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:25:09 --> Parser Class Initialized
+INFO - 2022-12-09 13:25:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:25:09 --> Pagination Class Initialized
+INFO - 2022-12-09 13:25:09 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:25:09 --> Controller Class Initialized
+INFO - 2022-12-09 13:25:09 --> Model "Web_settings" initialized
+INFO - 2022-12-09 13:25:09 --> Model "Invoice_design" initialized
+ERROR - 2022-12-09 13:25:09 --> Severity: Notice --> Undefined variable: invoiceid D:\xampp\htdocs\R8-Uat-testing\application\views\pdf_attach_mail\profarma.php 372
+ERROR - 2022-12-09 13:25:16 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:25:16 --> Config Class Initialized
+INFO - 2022-12-09 13:25:16 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:25:16 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:25:16 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:25:16 --> URI Class Initialized
+INFO - 2022-12-09 13:25:16 --> Router Class Initialized
+INFO - 2022-12-09 13:25:16 --> Output Class Initialized
+INFO - 2022-12-09 13:25:16 --> Security Class Initialized
+DEBUG - 2022-12-09 13:25:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:25:16 --> CSRF cookie sent
+INFO - 2022-12-09 13:25:16 --> Input Class Initialized
+INFO - 2022-12-09 13:25:16 --> Language Class Initialized
+INFO - 2022-12-09 13:25:16 --> Loader Class Initialized
+INFO - 2022-12-09 13:25:16 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:25:16 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:25:16 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:25:16 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:25:16 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:25:16 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:25:16 --> Parser Class Initialized
+INFO - 2022-12-09 13:25:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:25:16 --> Pagination Class Initialized
+INFO - 2022-12-09 13:25:16 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:25:16 --> Controller Class Initialized
+INFO - 2022-12-09 13:25:16 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:25:16 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:25:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:25:16 --> Model "Customers" initialized
+INFO - 2022-12-09 13:25:16 --> Model "Invoices" initialized
+ERROR - 2022-12-09 13:25:16 --> Severity: Notice --> Undefined variable: tax D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:25:16 --> Severity: Warning --> Invalid argument supplied for foreach() D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 284
+ERROR - 2022-12-09 13:25:16 --> Severity: Notice --> Undefined variable: remarks D:\xampp\htdocs\R8-Uat-testing\application\views\invoice\profarma_invoice.php 401
+INFO - 2022-12-09 13:25:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\invoice/profarma_invoice.php
+DEBUG - 2022-12-09 13:25:16 --> Parser class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:25:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/top_menu.php
+INFO - 2022-12-09 13:25:16 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_loggedin_info.php
+INFO - 2022-12-09 13:25:16 --> Model "Products" initialized
+INFO - 2022-12-09 17:55:16 --> Model "reports" initialized
+INFO - 2022-12-09 17:55:16 --> Model "Users" initialized
+INFO - 2022-12-09 17:55:17 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_header.php
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 106
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 118
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Undefined variable: email_setting D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+ERROR - 2022-12-09 17:55:17 --> Severity: Notice --> Trying to access array offset on value of type null D:\xampp\htdocs\R8-Uat-testing\application\views\include\admin_footer.php 121
+INFO - 2022-12-09 17:55:17 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\include/admin_footer.php
+INFO - 2022-12-09 17:55:17 --> File loaded: D:\xampp\htdocs\R8-Uat-testing\application\views\admin_html_template.php
+INFO - 2022-12-09 17:55:17 --> Final output sent to browser
+DEBUG - 2022-12-09 17:55:17 --> Total execution time: 1.0989
+ERROR - 2022-12-09 13:25:18 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:25:18 --> Config Class Initialized
+INFO - 2022-12-09 13:25:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:25:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:25:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:25:18 --> URI Class Initialized
+INFO - 2022-12-09 13:25:18 --> Router Class Initialized
+INFO - 2022-12-09 13:25:18 --> Output Class Initialized
+INFO - 2022-12-09 13:25:18 --> Security Class Initialized
+DEBUG - 2022-12-09 13:25:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:25:18 --> CSRF cookie sent
+INFO - 2022-12-09 13:25:18 --> CSRF token verified
+INFO - 2022-12-09 13:25:18 --> Input Class Initialized
+INFO - 2022-12-09 13:25:18 --> Language Class Initialized
+INFO - 2022-12-09 13:25:18 --> Loader Class Initialized
+INFO - 2022-12-09 13:25:18 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:25:18 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:25:18 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:25:18 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:25:18 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:25:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:25:18 --> Parser Class Initialized
+INFO - 2022-12-09 13:25:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:25:18 --> Pagination Class Initialized
+ERROR - 2022-12-09 13:25:18 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:25:18 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:25:18 --> Config Class Initialized
+INFO - 2022-12-09 13:25:18 --> Controller Class Initialized
+INFO - 2022-12-09 13:25:18 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:25:18 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:25:18 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:25:18 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:25:18 --> Model "Categories" initialized
+INFO - 2022-12-09 13:25:18 --> URI Class Initialized
+INFO - 2022-12-09 13:25:18 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:25:18 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:25:18 --> Router Class Initialized
+INFO - 2022-12-09 13:25:18 --> Final output sent to browser
+DEBUG - 2022-12-09 13:25:18 --> Total execution time: 0.0282
+INFO - 2022-12-09 13:25:18 --> Output Class Initialized
+INFO - 2022-12-09 13:25:18 --> Security Class Initialized
+DEBUG - 2022-12-09 13:25:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:25:18 --> CSRF cookie sent
+INFO - 2022-12-09 13:25:18 --> CSRF token verified
+INFO - 2022-12-09 13:25:18 --> Input Class Initialized
+INFO - 2022-12-09 13:25:18 --> Language Class Initialized
+INFO - 2022-12-09 13:25:18 --> Loader Class Initialized
+INFO - 2022-12-09 13:25:18 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:25:18 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:25:18 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:25:18 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:25:18 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:25:18 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:25:18 --> Parser Class Initialized
+INFO - 2022-12-09 13:25:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:25:18 --> Pagination Class Initialized
+INFO - 2022-12-09 13:25:18 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:25:18 --> Controller Class Initialized
+INFO - 2022-12-09 13:25:18 --> Model "Suppliers" initialized
+INFO - 2022-12-09 13:25:18 --> Model "Categories" initialized
+INFO - 2022-12-09 13:25:18 --> Model "Units" initialized
+DEBUG - 2022-12-09 13:25:18 --> Auth class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:25:18 --> Final output sent to browser
+DEBUG - 2022-12-09 13:25:18 --> Total execution time: 0.0705
+ERROR - 2022-12-09 13:31:25 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:31:25 --> Config Class Initialized
+INFO - 2022-12-09 13:31:25 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:31:25 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:31:25 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:31:25 --> URI Class Initialized
+INFO - 2022-12-09 13:31:25 --> Router Class Initialized
+INFO - 2022-12-09 13:31:25 --> Output Class Initialized
+INFO - 2022-12-09 13:31:25 --> Security Class Initialized
+DEBUG - 2022-12-09 13:31:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:31:25 --> CSRF cookie sent
+INFO - 2022-12-09 13:31:25 --> CSRF token verified
+INFO - 2022-12-09 13:31:25 --> Input Class Initialized
+INFO - 2022-12-09 13:31:25 --> Language Class Initialized
+INFO - 2022-12-09 13:31:25 --> Loader Class Initialized
+INFO - 2022-12-09 13:31:25 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:31:25 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:31:25 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:31:25 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:31:25 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:31:25 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:31:25 --> Parser Class Initialized
+INFO - 2022-12-09 13:31:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:31:25 --> Pagination Class Initialized
+INFO - 2022-12-09 13:31:25 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:31:25 --> Controller Class Initialized
+INFO - 2022-12-09 13:31:25 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:31:25 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:31:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:31:25 --> Model "Customers" initialized
+INFO - 2022-12-09 13:31:25 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:31:25 --> Final output sent to browser
+DEBUG - 2022-12-09 13:31:25 --> Total execution time: 0.2089
+ERROR - 2022-12-09 13:31:35 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:31:35 --> Config Class Initialized
+INFO - 2022-12-09 13:31:35 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:31:35 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:31:35 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:31:35 --> URI Class Initialized
+INFO - 2022-12-09 13:31:35 --> Router Class Initialized
+INFO - 2022-12-09 13:31:35 --> Output Class Initialized
+INFO - 2022-12-09 13:31:35 --> Security Class Initialized
+DEBUG - 2022-12-09 13:31:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:31:35 --> CSRF cookie sent
+INFO - 2022-12-09 13:31:35 --> CSRF token verified
+INFO - 2022-12-09 13:31:35 --> Input Class Initialized
+INFO - 2022-12-09 13:31:35 --> Language Class Initialized
+INFO - 2022-12-09 13:31:35 --> Loader Class Initialized
+INFO - 2022-12-09 13:31:35 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:31:35 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:31:35 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:31:35 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:31:35 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:31:35 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:31:35 --> Parser Class Initialized
+INFO - 2022-12-09 13:31:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:31:35 --> Pagination Class Initialized
+INFO - 2022-12-09 13:31:35 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:31:35 --> Controller Class Initialized
+INFO - 2022-12-09 13:31:35 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:31:35 --> Auth class already loaded. Second attempt ignored.
+DEBUG - 2022-12-09 13:31:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:31:35 --> Model "Customers" initialized
+INFO - 2022-12-09 13:31:35 --> Model "Invoices" initialized
+INFO - 2022-12-09 13:31:35 --> Final output sent to browser
+DEBUG - 2022-12-09 13:31:35 --> Total execution time: 0.0376
+ERROR - 2022-12-09 13:31:43 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:31:43 --> Config Class Initialized
+INFO - 2022-12-09 13:31:43 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:31:43 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:31:43 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:31:43 --> URI Class Initialized
+INFO - 2022-12-09 13:31:43 --> Router Class Initialized
+INFO - 2022-12-09 13:31:43 --> Output Class Initialized
+INFO - 2022-12-09 13:31:43 --> Security Class Initialized
+DEBUG - 2022-12-09 13:31:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:31:43 --> CSRF cookie sent
+INFO - 2022-12-09 13:31:43 --> CSRF token verified
+INFO - 2022-12-09 13:31:43 --> Input Class Initialized
+INFO - 2022-12-09 13:31:43 --> Language Class Initialized
+INFO - 2022-12-09 13:31:43 --> Loader Class Initialized
+INFO - 2022-12-09 13:31:43 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:31:43 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:31:43 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:31:43 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:31:43 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:31:43 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:31:43 --> Parser Class Initialized
+INFO - 2022-12-09 13:31:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:31:43 --> Pagination Class Initialized
+INFO - 2022-12-09 13:31:43 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:31:43 --> Controller Class Initialized
+INFO - 2022-12-09 13:31:43 --> Model "Web_settings" initialized
+DEBUG - 2022-12-09 13:31:43 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2022-12-09 13:31:43 --> Final output sent to browser
+DEBUG - 2022-12-09 13:31:43 --> Total execution time: 0.1261
+ERROR - 2022-12-09 13:31:46 --> $config['composer_autoload'] is set to TRUE but D:\xampp\htdocs\R8-Uat-testing\application\vendor/autoload.php was not found.
+INFO - 2022-12-09 13:31:46 --> Config Class Initialized
+INFO - 2022-12-09 13:31:46 --> Hooks Class Initialized
+DEBUG - 2022-12-09 13:31:46 --> UTF-8 Support Enabled
+INFO - 2022-12-09 13:31:46 --> Utf8 Class Initialized
+INFO - 2022-12-09 13:31:46 --> URI Class Initialized
+INFO - 2022-12-09 13:31:46 --> Router Class Initialized
+INFO - 2022-12-09 13:31:46 --> Output Class Initialized
+INFO - 2022-12-09 13:31:46 --> Security Class Initialized
+DEBUG - 2022-12-09 13:31:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-12-09 13:31:46 --> CSRF cookie sent
+INFO - 2022-12-09 13:31:46 --> Input Class Initialized
+INFO - 2022-12-09 13:31:46 --> Language Class Initialized
+INFO - 2022-12-09 13:31:46 --> Loader Class Initialized
+INFO - 2022-12-09 13:31:46 --> Helper loaded: url_helper
+INFO - 2022-12-09 13:31:46 --> Helper loaded: file_helper
+INFO - 2022-12-09 13:31:46 --> Helper loaded: form_helper
+INFO - 2022-12-09 13:31:46 --> Helper loaded: lang_helper
+INFO - 2022-12-09 13:31:46 --> Database Driver Class Initialized
+INFO - 2022-12-09 13:31:46 --> Session: Class initialized using 'files' driver.
+INFO - 2022-12-09 13:31:46 --> Parser Class Initialized
+INFO - 2022-12-09 13:31:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-12-09 13:31:46 --> Pagination Class Initialized
+INFO - 2022-12-09 13:31:46 --> Form Validation Class Initialized
+INFO - 2022-12-09 13:31:46 --> Controller Class Initialized
+INFO - 2022-12-09 13:31:46 --> Model "Web_settings" initialized
+INFO - 2022-12-09 13:31:46 --> Model "Invoice_design" initialized
+ERROR - 2022-12-09 13:31:47 --> Severity: Notice --> Undefined variable: invoiceid D:\xampp\htdocs\R8-Uat-testing\application\views\pdf_attach_mail\profarma.php 372

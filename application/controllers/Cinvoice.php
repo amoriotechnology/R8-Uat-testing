@@ -715,7 +715,9 @@ echo json_encode($data);
         $CI->auth->check_admin_auth();
         $CI->load->model('Invoices');
         $invoice_id=$CI->Invoices->ocean_export_entry();
-        echo json_encode($invoice_id);
+        // echo json_encode($invoice_id);
+        $this->session->set_userdata(array('message' => display('successfully_added')));
+        redirect(base_url('Cinvoice/manage_ocean_export_tracking/'.$invoice_id));
         
     }
 

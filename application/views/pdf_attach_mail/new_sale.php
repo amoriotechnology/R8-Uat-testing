@@ -1,8 +1,6 @@
 <?php                
 
 include_once('tcpdf_6_2_13/tcpdf.php'); 
-
-         
   
 if(1==1) 
 {
@@ -118,7 +116,7 @@ if(1==1)
     </table>
 
     <br><br><br>
-    <table class="table_width">
+    <table>
       <tr class="heading">
         <th class="text_color">S.No</th>
         <th class="text_color">Product Name</th>
@@ -137,7 +135,8 @@ if(1==1)
         <td>'.$product_info[0]['p_quantity'].'</td>
         <td>'.$invoice_info[0]['quantity'].'</td>
         <td>'.$currency[0]['currency'].' '.$invoice_info[0]['rate'].'</td>
-        <td>'.$currency[0]['currency'].' '.$total=$invoice_info[0]['quantity']*$invoice_info[0]['rate'].'.00</td></tr>';
+        <td>'.$currency[0]['currency'].' '.$total=$invoice_info[0]['quantity']*$invoice_info[0]['rate'].'.00</td>
+        </tr>';
         $count++;
       }
     }
@@ -208,7 +207,7 @@ $content .= '<table>
     </table>
 
     <br /><br />
-    <table class="table_width">
+    <table>
       <tr class="heading">
         <th class="text_color">S.No</th>
         <th class="text_color">Product Name</th>
@@ -298,7 +297,7 @@ $content .= '<table>
     </table>
 
     <br /><br />
-    <table class="table_width">
+    <table>
       <tr class="heading">
         <th class="text_color">S.No</th>
         <th class="text_color">Product Name</th>
@@ -310,8 +309,8 @@ $content .= '<table>
 
       <tr>';
        if ($product_info) {
-                               $count=1;
-                                   for($i=0;$i<sizeof($product_info);$i++){
+          $count=1;
+          for($i=0;$i<sizeof($product_info);$i++){
         $content .='<td class="data_view">'.$count.'</td>                           
         <td>'.$product_info[0]['product_name'].'</td>
         <td>'.$product_info[0]['p_quantity'].'</td>
@@ -345,11 +344,14 @@ $content .= '<table>
 // die();
 $pdf->writeHTML($content);
 
-$file_location = ""; //add your full path of your server
+// $file_location =  base_url()."Pdf/"; //add your full path of your server
 //$file_location = "/opt/lampp/htdocs/examples/generate_pdf/uploads/"; //for local xampp server
+
+$file_location = "";
 
 $datetime=date('dmY_hms');
 $file_name = $invoiceid."_".$datetime.".pdf";
+//echo $file_location.$file_name;die();
 ob_end_clean();
 
 

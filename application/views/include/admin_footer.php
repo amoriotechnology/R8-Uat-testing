@@ -163,21 +163,13 @@ function hide() {
   var id=id+'-'+table+'-'+col;
 
     // alert(id);
-<<<<<<< HEAD
         var url='<?php echo base_url('cinvoice/get_customer/'); ?>';
-=======
         var url='<?php echo base_url('Cinvoice/get_customer/'); ?>';
->>>>>>> surya
 
        $.ajax({
         url:url+id,
         type: 'GET',
         success: function(res) {
-<<<<<<< HEAD
-          
-=======
-          console.log(res);
->>>>>>> surya
             $('#customer_emailid').val(res);
             console.log(id);
             const myArray = id.split("-");

@@ -35,7 +35,7 @@ try {
     $mail->isSMTP();                                            
     $mail->Host       = 'smtp.gmail.com;';                    
     $mail->SMTPAuth   = true;                             
-   $mail->Username = 'krramjiamorio@gmail.com';               
+    $mail->Username = 'krramjiamorio@gmail.com';               
     $mail->Password = 'fjrcwsrhknchhhzx';                      
     $mail->SMTPOptions = array(
         'ssl' => array(
@@ -67,9 +67,7 @@ try {
  {
    $mail->Subject = 'Sales Invoice';
     $mail->Body    = 'Dear sir,<br><br>
-    Please find the attached<br>
-
-    regards<br>
+    Please find the attached<br>regards<br>
 
     '.$company_info[0]['company_name'].'<br>
     '.$company_info[0]['address'].'<br>
@@ -81,18 +79,17 @@ try {
     $mail->AltBody = 'Body in plain text for non-HTML mail clients';
 
 
-    $mail->addAttachment($file_name,$file_name);
+    $mail->addAttachment($file_name);
     $mail->send();
     
    if($mail->send())
    {
-
-        unlink($file_name);
-      
-
-
+    
+    echo "<script>alert('Email send successfully');</script>";
 
     } 
+
+    // unlink($file_name);
 
    
 } 
