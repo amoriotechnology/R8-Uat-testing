@@ -2570,35 +2570,19 @@ $stock_in=$stock[$i];
     //Retrieve invoice Edit Data
 
     public function retrieve_invoice_editdata($invoice_id) {
-
         $this->db->select('a.*, sum(c.quantity) as sum_quantity, a.total_tax as taxs,a. prevous_due,b.customer_name,c.*,c.tax as total_tax,c.product_id,d.product_name,d.product_model,d.tax,d.unit,d.*');
-
         $this->db->from('invoice a');
-
         $this->db->join('customer_information b', 'b.customer_id = a.customer_id');
-
         $this->db->join('invoice_details c', 'c.invoice_id = a.invoice_id');
-
         $this->db->join('product_information d', 'd.product_id = c.product_id');
-
         $this->db->where('a.invoice_id', $invoice_id);
         $this->db->where('a.sales_by',$this->session->userdata('user_id'));
         $this->db->group_by('d.product_id');
-
-
-
         $query = $this->db->get();
-
-echo $this->db->last_query();
-
         if ($query->num_rows() > 0) {
-
             return $query->result_array();
-
         }
-
         return false;
-
     }
 
     public function retrieve_profarma_invoice_editdata($invoice_id) {

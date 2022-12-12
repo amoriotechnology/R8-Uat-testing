@@ -1081,7 +1081,7 @@ class Linvoice {
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $invoice_detail = $CI->Invoices->retrieve_invoice_editdata($invoice_id);
-        print_r($invoice_detail);
+       
         //echo "<pre>"; print_r($invoice_detail); die;
         $bank_list      = $CI->Web_settings->bank_list();
         $taxinfo        = $CI->Invoices->service_invoice_taxinfo($invoice_id);
@@ -1091,7 +1091,6 @@ class Linvoice {
                 ->result_array();
         $i = 0;
         //echo "<pre>";print_r($invoice_detail); die;
-
         if (!empty($invoice_detail)) {
             foreach ($invoice_detail as $k => $v) {
                 $i++;
@@ -1100,14 +1099,8 @@ class Linvoice {
                 $invoice_detail[$k]['stock_qty'] = $stock + $invoice_detail[$k]['quantity'];
             }
         }
-
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
-   
-        $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
-      
         $data = array(
-            'curn_info_default' =>$curn_info_default[0]['currency_name'],
-            'currency'  =>$currency_details[0]['currency'],
             'title'           => display('invoice_edit'),
             'invoice_id'      => $invoice_detail[0]['invoice_id'],
             'customer_id'     => $invoice_detail[0]['customer_id'],
@@ -1129,7 +1122,7 @@ class Linvoice {
             'tax'             => $invoice_detail[0]['tax'],
             'taxes'          => $taxfield,
             'prev_due'        => $invoice_detail[0]['prevous_due'],
-            'net_total'       => $invoice_detail[0]['prevous_due'] + $invoice_detail[0]['total_amount'], 
+            'net_total'       => $invoice_detail[0]['prevous_due'] + $invoice_detail[0]['total_amount'],
             'shipping_cost'   => $invoice_detail[0]['shipping_cost'],
             'total_tax'       => $invoice_detail[0]['taxs'],
             'invoice_all_data'=> $invoice_detail,
