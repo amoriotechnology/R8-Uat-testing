@@ -209,7 +209,7 @@ textarea:focus, input:focus{
                                 
                                 </div> 
                             </div>
-                            <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+                            <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
 
                             <div class="col-sm-6">
                                <div class="form-group row">

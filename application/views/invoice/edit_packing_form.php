@@ -128,7 +128,7 @@
     margin: 5px;
 ">
 
-
+<input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
 
               <div class="table-responsive" id="quotation_service1">
                         <table class="table table-bordered table-hover" id="packingListTable">
@@ -350,7 +350,7 @@
 
 
                   
-                        </form><input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+                        </form>
                     </div>
                 </div>
 
@@ -708,4 +708,3 @@ window.onbeforeunload = function(){
 
 </script>
 
-</script>
