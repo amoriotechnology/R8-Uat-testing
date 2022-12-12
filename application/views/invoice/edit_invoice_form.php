@@ -144,8 +144,7 @@
 
                     <div class="panel-body">
 
-                        <?php echo form_open_multipart('Cinvoice/manual_sales_insert',array('class' => 'form-vertical', 'id' => 'insert_sale','name' => 'insert_sale'))?>
-
+                        <form id="insert_trucking"  method="post"> 
                         <div class="row">
 
 
@@ -164,11 +163,10 @@
    
                                     <select name="customer_name" class="form-control customer_name" onselect="calculate();" id="customer_name">
 
-                                    <option value="{customer_id}">{customer_name}</option>
-
+<option value="">Select Customer</option>
 <?php foreach($customer_details as $customer){?>
 
-    <option value="<?php echo html_escape($customer['customer_name'])?>"><?php echo html_escape($customer['customer_name']);?></option>
+<option value="<?php echo html_escape($customer['customer_name'])?>"><?php echo html_escape($customer['customer_name']);?></option>
 
 <?php }?>
 
@@ -234,7 +232,11 @@
 
                         </div>
 
+                        <?php  $d= $tax; 
+preg_match('#\((.*?)\)#', $d, $match);
 
+ ?>
+<br>
 
                         <div class="row">
 
@@ -254,7 +256,7 @@
 
                                         ?>
 
-                                        <input class=" form-control" type="date" size="50" name="invoice_date" id="date" required value="{date}" tabindex="4" />
+                                        <input class=" form-control" type="date" size="50" name="invoice_date" id="date" required value="<?php echo html_escape($date); ?>" tabindex="4" />
 
                                     </div>
 
@@ -267,7 +269,8 @@
 
                                     <div class="col-sm-8">
 
-                                    <textarea rows="4" cols="50" name="billing_address" class=" form-control" value="" placeholder='Billing Address' id="billing_address"> {billing_address}</textarea>
+                                        <textarea rows="4" cols="50" name="billing_address" class=" form-control" placeholder='Billing Address' id="billing_address">{billing_address} </textarea>
+
                                     </div>
 
                                 </div> 
@@ -386,7 +389,7 @@
 
                                     <div class="col-sm-8">
 
-                                        <input name="port_of_discharge" class=" form-control" placeholder='Port of discharge' value="{port_of_discharge}" id="port_of_discharge" />
+                                        <input name="port_of_discharge" class=" form-control" value="{port_of_discharge}" placeholder='Port of discharge' id="port_of_discharge" />
                                     </div>
 
                                 </div>
@@ -512,6 +515,7 @@ input[type=number]::-webkit-outer-spin-button {
                                  </td>
                                 <td style="width:40%">
 <select name="tx"  id="product_tax" class="form-control" >
+<option value="<?php echo $match[1];  ?>" selected><?php echo $match[1];  ?></option>
 <option value="Select the Tax" selected>Select the Tax</option>
 <?php foreach($tax as $tx){?>
   
@@ -549,11 +553,12 @@ textarea:focus, input:focus{
 }
 </style>
                                 <tbody id="addPurchaseItem">
-                                {invoice_all_data}
+                         
+                               <?php foreach($invoice_all_data as $pf){ ?>
                                     <tr>
                                         <td>
                                         <select name="prodt[]" id="prodt_1" class="form-control product_name" onchange="available_quantity(1);">
-                                        <option value="{product_name}-({product_model})" selected>{product_name}-({product_model})</option>
+                                        <option value="<?php  echo $pf['product_name']."-(".$pf['product_model'].")"; ?>" selected><?php  echo $pf['product_name']."-(".$pf['product_model'].")"; ?></option>
                                             <?php 
                                        
                                             foreach($product as $tx){?>
@@ -565,7 +570,7 @@ textarea:focus, input:focus{
                                         </td>
 
                                        <td class="wt">
-                                                <input type="text" id="available_quantity[]" value="{stock_qty}" name="available_quantity[]" class="form-control text-right available_quantity_1" placeholder="0.00" readonly/>
+                                                <input type="text" id="available_quantity[]" name="available_quantity[]" class="form-control text-right available_quantity_1" placeholder="0.00" value="{stock_qty}" readonly/>
                                             </td>
                                         
                                             <td class="text-right">
@@ -573,14 +578,13 @@ textarea:focus, input:focus{
                                             </td>
                                             <td>
                                             <span class="form-control" style="background-color: #eee;"><?php  echo $currency;  ?>
-                                                <input type="text" name="product_rate[]" required=""  id="product_rate_1" class="product_rate_1" placeholder="0.00" value="{rate}"  min="0" tabindex="7" readonly/>
+                                                <input type="text" name="product_rate[]" required=""  id="product_rate_1" class="product_rate_1" placeholder="0.00" value="{rate}" min="0" tabindex="7" readonly/>
                                             </span> </td>
                                          
 
                                             <td style="text-align:left;">
                                             <span class="form-control" style="    background-color: #eee;"><?php  echo $currency;  ?> 
-                                                <input class="total_price" type="text" name="total_price[]" id="total_price_1" value="{total_price}"  readonly="readonly" />
-                                                <input type="hidden" name="invoice_details_id[]" id="invoice_details_id" value="{invoice_details_id}"/>
+                                                <input class="total_price" type="text" name="total_price[]" id="total_price_1" value="{total_price}"   readonly="readonly" />
                                                 </span></td>
 
 
@@ -592,7 +596,7 @@ textarea:focus, input:focus{
                                             </td>
                                            
                                     </tr>
-                                    {/invoice_all_data}
+                                    <?php }  ?>
                                 </tbody>
                                 <tfoot>
                                     <tr>
@@ -1921,8 +1925,7 @@ $('#customer_gtotal').val(custo_final);
         e.innerHTML = "<td><select name='prodt[]' id='prodt_" + count + "' class='form-control product_name' onchange='available_quantity("+ count +");'>"+
         "<option value='Select the Product' selected>Select the Product</option><?php  foreach($product as $tx){?>"+
        " <option value='<?php echo $tx['product_name'].'-'.$tx['product_model'];?>'>  <?php echo $tx['product_name'].'-'.$tx['product_model'];  ?></option>"+
-        "<?php } ?> </select><input type='hidden' class='common_product autocomplete_hidden_value  product_id_" + count + "' name='product_id[]' id='SchoolHiddenId' /></td><td><input type='text' name='available_quantity[]' id='available_quantity[]' class='form-control text-right common_avail_qnt available_quantity_" + count + "' value='0' readonly='readonly' /></td><td> <input type='text' name='product_quantity[]' id='cartoon_" + count + "'  required='required' onkeyup='total_amt(" + count + ");'  onchange='total_amt(" + count + ");' id='total_qntt_" + count + "' class='common_qnt total_qntt_" + count + " form-control text-right'  placeholder='0.00' min='0' tabindex='" + tab3 + "'/></td><td> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input type='text' name='product_rate[]' id='product_rate_" + count + "' onkeyup='quantity_calculate(" + count + ");' onchange='quantity_calculate(" + count + ");' id='price_item_" + count + "' class='common_rate price_item" + count + "' required placeholder='0.00' min='0' tabindex='" + tab4 + "'/></span></td><td class='text-right'> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input class='common_total_price total_price' type='text' name='total_price[]' id='total_price_" + count + "' value='0.00' readonly='readonly'/></span></td><td>"+tbfild+"<input type='hidden' id='all_discount_" + count + "' class='total_discount dppr' name='discount_amount[]'/><button tabindex='" + tab5 + "' style='text-align: right;' class='btn btn-danger' type='button' value='Delete' onclick='deleteRow(this)'>"
-        "<i class='fa fa-close'></i></button></td>"
+        "<?php } ?> </select><input type='hidden' class='common_product autocomplete_hidden_value  product_id_" + count + "' name='product_id[]' id='SchoolHiddenId' /></td><td><input type='text' name='available_quantity[]' id='available_quantity[]' class='form-control text-right common_avail_qnt available_quantity_" + count + "' value='0' readonly='readonly' /></td><td> <input type='text' name='product_quantity[]' id='cartoon_" + count + "'  required='required' onkeyup='total_amt(" + count + ");'  onchange='total_amt(" + count + ");' id='total_qntt_" + count + "' class='common_qnt total_qntt_" + count + " form-control text-right'  placeholder='0.00' min='0' tabindex='" + tab3 + "'/></td><td> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input type='text' name='product_rate[]' id='product_rate_" + count + "' onkeyup='quantity_calculate(" + count + ");' onchange='quantity_calculate(" + count + ");' id='price_item_" + count + "' class='common_rate price_item" + count + "' required placeholder='0.00' min='0' tabindex='" + tab4 + "'/></span></td><td class='text-right'> <span class='form-control' style='background-color: #eee;'><?php  echo $currency." ";  ?><input class='common_total_price total_price' type='text' name='total_price[]' id='total_price_" + count + "' value='0.00' readonly='readonly'/></span></td><td>"+tbfild+"<input type='hidden' id='all_discount_" + count + "' class='total_discount dppr' name='discount_amount[]'/><button tabindex='" + tab5 + "' style='text-align: right;' class='btn btn-danger' type='button' value='Delete' onclick='deleteRow(this)'><i class='fa fa-close'></i></button></td>",
                 document.getElementById(t).appendChild(e),
                 document.getElementById(a).focus(),
                 document.getElementById("add_invoice_item").setAttribute("tabindex", tab6);

@@ -1041,7 +1041,7 @@ public function retrieve_packing_editdata($purchase_id) {
         $this->db->where('a.trucking_id', $purchase_id);
         //$this->db->group_by('d.product_id');
         $query = $this->db->get();
-      //  echo $this->db->last_query();
+        echo $this->db->last_query();
         if ($query->num_rows() > 0) {
             return $query->result_array();
         }

@@ -329,6 +329,7 @@
                                <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
                             </div>
                         </div>
 
@@ -390,6 +391,12 @@
 </div>   
 
 <script type="text/javascript">
+        $( document ).ready(function() {
+                 
+                 $('#final_submit').hide();
+$('#download').hide();
+$('#email_btn').hide();
+ });
             var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
         $(document).ready(function(){

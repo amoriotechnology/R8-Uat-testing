@@ -402,7 +402,7 @@ elseif($template==3)
         </div>
         <div class="content">
 
-        <div class="modal-body">
+        <div class="modal-body"  style="font-weight:bold;text-align:center;">
           
           <h4>Packing List Downloaded Successfully</h4>
      

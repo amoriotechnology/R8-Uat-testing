@@ -1100,7 +1100,10 @@ class Linvoice {
             }
         }
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
+        $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
         $data = array(
+            'curn_info_default' =>$curn_info_default[0]['currency_name'],
+            'currency'  =>$currency_details[0]['currency'],
             'title'           => display('invoice_edit'),
             'invoice_id'      => $invoice_detail[0]['invoice_id'],
             'customer_id'     => $invoice_detail[0]['customer_id'],

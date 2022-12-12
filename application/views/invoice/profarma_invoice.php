@@ -1050,68 +1050,7 @@ var answer=0;
  var custo_final = isNaN(parseInt(value)) ? 0 : parseInt(value)
 $('#customer_gtotal').val(custo_final);
 }  
-}/*
-function gtotal(){
-                  
-    var first=$("#Total").val();
-    var tax= $('#product_tax').val();
-
-    // console.log(tax);
-
-var field = tax.split('-');
-
-var percent = field[1];
-var answer=0;
-  var answer = parseInt((percent / 100) * first);
-  // console.log(answer);
-  var gtotal = parseInt(first + answer);
- // console.log(gtotal);
- var final_g= $('#final_gtotal').val();
-                  
-                     var amt=parseInt(answer)+parseInt(gtotal);
-                     console.log("Here  : "  +answer +"-"+gtotal);
- var num = isNaN(amt) ? 0 : amt;
- var custo_amt=$('#custocurrency_rate').val();
- $("#gtotal").val(num);  
-
- var value=amt*custo_amt;
- var custo_final = isNaN(parseInt(value)) ? 0 : parseInt(value)
-$('#customer_gtotal').val(custo_final); 
-                  
-                  
-                  }
-                  */
-      /*  $('#down').click(function(e){
-    e.preventDefault();    
-    var data=$('#hdn').val() ;
-    
-
-        $.ajax({url: "../assets/Invoice_PDF.php?"+data, success: function(result){
-         //   window.location.href = '../assets/Invoice_PDF.php'; 
-  }});
-
-
-
-     });   
-
-       $('#send').click(function(e){
-    e.preventDefault();    
-
-$.ajax({
-            type: 'GET',
-            url: '../assets/Download_Send_Mail.php',
-       
-            success: function (response) {
-           
-              //  console.log(response);
-              window.location.href = '../assets/Download_Send_Mail.php'; 
-    
-            }
-          });
-
-
-     });  */ 
-     
+}
 </script>
 
 
