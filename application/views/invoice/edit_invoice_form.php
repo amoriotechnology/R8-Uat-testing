@@ -144,7 +144,8 @@
 
                     <div class="panel-body">
 
-                        <form id="insert_trucking"  method="post"> 
+                        <?php echo form_open_multipart('Cinvoice/manual_sales_insert',array('class' => 'form-vertical', 'id' => 'insert_sale','name' => 'insert_sale'))?>
+
                         <div class="row">
 
 
@@ -163,10 +164,11 @@
    
                                     <select name="customer_name" class="form-control customer_name" onselect="calculate();" id="customer_name">
 
-<option value="">Select Customer</option>
+                                    <option value="{customer_id}">{customer_name}</option>
+
 <?php foreach($customer_details as $customer){?>
 
-<option value="<?php echo html_escape($customer['customer_name'])?>"><?php echo html_escape($customer['customer_name']);?></option>
+    <option value="<?php echo html_escape($customer['customer_name'])?>"><?php echo html_escape($customer['customer_name']);?></option>
 
 <?php }?>
 
@@ -232,11 +234,7 @@
 
                         </div>
 
-                        <?php  $d= $tax; 
-preg_match('#\((.*?)\)#', $d, $match);
 
- ?>
-<br>
 
                         <div class="row">
 
@@ -256,7 +254,7 @@ preg_match('#\((.*?)\)#', $d, $match);
 
                                         ?>
 
-                                        <input class=" form-control" type="date" size="50" name="invoice_date" id="date" required value="<?php echo html_escape($date); ?>" tabindex="4" />
+                                        <input class=" form-control" type="date" size="50" name="invoice_date" id="date" required value="{date}" tabindex="4" />
 
                                     </div>
 
@@ -269,8 +267,7 @@ preg_match('#\((.*?)\)#', $d, $match);
 
                                     <div class="col-sm-8">
 
-                                        <textarea rows="4" cols="50" name="billing_address" class=" form-control" placeholder='Billing Address' id="billing_address">{billing_address} </textarea>
-
+                                    <textarea rows="4" cols="50" name="billing_address" class=" form-control" value="" placeholder='Billing Address' id="billing_address"> {billing_address}</textarea>
                                     </div>
 
                                 </div> 
@@ -389,7 +386,7 @@ preg_match('#\((.*?)\)#', $d, $match);
 
                                     <div class="col-sm-8">
 
-                                        <input name="port_of_discharge" class=" form-control" value="{port_of_discharge}" placeholder='Port of discharge' id="port_of_discharge" />
+                                        <input name="port_of_discharge" class=" form-control" placeholder='Port of discharge' value="{port_of_discharge}" id="port_of_discharge" />
                                     </div>
 
                                 </div>
@@ -515,7 +512,6 @@ input[type=number]::-webkit-outer-spin-button {
                                  </td>
                                 <td style="width:40%">
 <select name="tx"  id="product_tax" class="form-control" >
-<option value="<?php echo $match[1];  ?>" selected><?php echo $match[1];  ?></option>
 <option value="Select the Tax" selected>Select the Tax</option>
 <?php foreach($tax as $tx){?>
   
@@ -553,12 +549,11 @@ textarea:focus, input:focus{
 }
 </style>
                                 <tbody id="addPurchaseItem">
-                         
-                               <?php foreach($invoice_all_data as $pf){ ?>
+                                {invoice_all_data}
                                     <tr>
                                         <td>
                                         <select name="prodt[]" id="prodt_1" class="form-control product_name" onchange="available_quantity(1);">
-                                        <option value="<?php  echo $pf['product_name']."-(".$pf['product_model'].")"; ?>" selected><?php  echo $pf['product_name']."-(".$pf['product_model'].")"; ?></option>
+                                        <option value="{product_name}-({product_model})" selected>{product_name}-({product_model})</option>
                                             <?php 
                                        
                                             foreach($product as $tx){?>
@@ -570,7 +565,7 @@ textarea:focus, input:focus{
                                         </td>
 
                                        <td class="wt">
-                                                <input type="text" id="available_quantity[]" name="available_quantity[]" class="form-control text-right available_quantity_1" placeholder="0.00" value="{stock_qty}" readonly/>
+                                                <input type="text" id="available_quantity[]" value="{stock_qty}" name="available_quantity[]" class="form-control text-right available_quantity_1" placeholder="0.00" readonly/>
                                             </td>
                                         
                                             <td class="text-right">
@@ -578,13 +573,14 @@ textarea:focus, input:focus{
                                             </td>
                                             <td>
                                             <span class="form-control" style="background-color: #eee;"><?php  echo $currency;  ?>
-                                                <input type="text" name="product_rate[]" required=""  id="product_rate_1" class="product_rate_1" placeholder="0.00" value="{rate}" min="0" tabindex="7" readonly/>
+                                                <input type="text" name="product_rate[]" required=""  id="product_rate_1" class="product_rate_1" placeholder="0.00" value="{rate}"  min="0" tabindex="7" readonly/>
                                             </span> </td>
                                          
 
                                             <td style="text-align:left;">
                                             <span class="form-control" style="    background-color: #eee;"><?php  echo $currency;  ?> 
-                                                <input class="total_price" type="text" name="total_price[]" id="total_price_1" value="{total_price}"   readonly="readonly" />
+                                                <input class="total_price" type="text" name="total_price[]" id="total_price_1" value="{total_price}"  readonly="readonly" />
+                                                <input type="hidden" name="invoice_details_id[]" id="invoice_details_id" value="{invoice_details_id}"/>
                                                 </span></td>
 
 
@@ -596,7 +592,7 @@ textarea:focus, input:focus{
                                             </td>
                                            
                                     </tr>
-                                    <?php }  ?>
+                                    {/invoice_all_data}
                                 </tbody>
                                 <tfoot>
                                     <tr>

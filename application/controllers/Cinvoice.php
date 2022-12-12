@@ -1051,12 +1051,19 @@ echo json_encode($data);
 
 
     //invoice Update Form
+
     public function invoice_update_form($invoice_id) {
+
         $CI = & get_instance();
+
         $CI->auth->check_admin_auth();
+
         $CI->load->library('linvoice');
+
         $content = $CI->linvoice->invoice_edit_data($invoice_id);
+
         $this->template->full_admin_html_view($content);
+
     }
 
     

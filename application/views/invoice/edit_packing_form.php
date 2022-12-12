@@ -87,7 +87,7 @@
                                 </div>
                             </div>
                         </div>
-                        <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group row">
@@ -320,7 +320,6 @@
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>   
-<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
                             </div>
                         </div>
 
@@ -350,7 +349,7 @@
 
 
                   
-                        </form>
+                        </form><input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
                     </div>
                 </div>
 
@@ -368,7 +367,7 @@
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Sales - PackingList</h4>
         </div>
-        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
+        <div class="modal-body" style="font-weight:bold;text-align:center;">
           
           <h4>PackingList Updated Successfully</h4>
      
@@ -608,7 +607,6 @@ $('#insert_purchase').submit(function (event) {
             $("#myModal1").find('.modal-body').text('Packing List Updated Successfully');
             $('#final_submit').show();
 $('#download').show();
-$('#email_btn').show();
     $('#myModal1').modal('show');
     window.setTimeout(function(){
         $('.modal').modal('hide');
@@ -639,7 +637,6 @@ var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
         $(document).ready(function(){
             $('#final_submit').hide();
 $('#download').hide();
-$('#email_btn').hide();
    });
    function discard(){
    $.get(

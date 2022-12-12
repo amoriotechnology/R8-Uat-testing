@@ -387,11 +387,10 @@ preg_match('#\((.*?)\)#', $d, $match);
                         </div>
                         <div class="form-group row">
                             <div class="col-sm-6">
-                            <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
+                                <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
-<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>
                             </div>
                         </div>
                         <div class="form-group row">
@@ -594,7 +593,7 @@ preg_match('#\((.*?)\)#', $d, $match);
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Expenses - Trucking</h4>
         </div>
-        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
+        <div class="modal-body" id="bodyModal1" style="text-align:center;">
           
       
      
@@ -707,7 +706,8 @@ $('.modal-backdrop').remove();
     event.preventDefault();
 });
 $('#download').on('click', function (e) {
-
+var link=localStorage.getItem("truck");
+console.log(link);
  var popout = window.open("<?php  echo base_url(); ?>Cinvoice/trucking_details_data/"+$('#invoice_hdn1').val());
  
     window.setTimeout(function(){
@@ -816,7 +816,7 @@ function addTruckingOrderField(t) {
     $(document).ready(function(){
         $('#final_submit').hide();
 $('#download').hide();
-$('#email_btn').hide();
+
 
 $('#product_tax').on('change', function (e) {
     var first=$("#Total").val();
