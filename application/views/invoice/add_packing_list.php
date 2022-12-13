@@ -61,9 +61,7 @@
                     </div>
 
                     <div class="panel-body">
-                    <?php 
-                    echo form_open_multipart('Cinvoice/insert_packing_list',array('class' => 'form-vertical', 'id' => 'insert_packing_list','name' => 'insert_packing_list'))?>
-                        
+                     <form id="insert_purchase"  method="post">     
                          
                         <div class="row">
 
@@ -176,7 +174,7 @@
 
                                         </td>
 
-
+                                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                                         <td class="span3 supplier">
                                            <input type="text" name="description" required class="form-control" placeholder="<?php echo display('description') ?>"  tabindex="5" >
 
@@ -333,7 +331,11 @@
                                 <tr>
                                     <td>
     
-                                        <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="Save" />
+                                       <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="<?php echo display('save') ?>" />
+                                <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
+
+<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a> 
                                     </td>
         
                                   
@@ -372,7 +374,7 @@
                         </div>
 
  
-                    <?php echo form_close()?>
+                            </form>
                     </div>
                 </div>
 
@@ -386,11 +388,11 @@
       <div class="modal-content" style="    margin-top: 190px;">
         <div class="modal-header" style="">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Packing Invoice</h4>
+          <h4 class="modal-title">Sales - PackingList</h4>
         </div>
-        <div class="modal-body">
+        <div class="modal-body" style="font-weight:bold;text-align:center;">
           
-          <h4>Packing Invoice  Created Succefully</h4>
+          <h4>PackingList Updated Successfully</h4>
      
         </div>
         <div class="modal-footer">
@@ -400,22 +402,48 @@
       
     </div>
   </div>
-</div>
-
-<?php 
-if(isset($_SESSION['packingid'])) 
-{
-
-?>
-<script type="text/javascript">
-     $(document).ready(function(){
-
-     $('#myModal1').modal('show');
-     hide();
-     });
+          <div id="myModal3" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title">Confirmation</h4>
+			</div>
+			<div class="modal-body">
+				<p>Your Invoice is not submitted. Would you like to submit or discard
+				</p>
+				<p class="text-warning">
+					<small>If you don't save, your changes will not be saved.</small>
+				</p>
+			</div>
+			<div class="modal-footer">
+            <input type="submit" id="ok" class="btn btn-primary pull-left final_submit" onclick="submit_redirect()"  value="Submit"/>
+                <button id="btdelete" type="button" class="btn btn-danger pull-left" onclick="discard()">Discard</button>
+			</div>
+		</div>
+	</div>
+</div>   
+<div class="modal fade" id="exampleModalLong" role="dialog" >
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content" style="    margin-top: 190px;">
+        <div class="modal-header" style="">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Sales - PackingList</h4>
+        </div>
+        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
+          
+       
      
-</script>
-<?php } ?>
+        </div>
+        <div class="modal-footer">
+          
+        </div>
+      </div>
+      
+    </div>
+  </div>
 <!-- Purchase Report End -->
 
 <script type="text/javascript">
@@ -600,5 +628,125 @@ $(document).ready(function(){
 
   
 });
+$('#insert_purchase').submit(function (event) {
+    var dataString = {
+        dataString : $("#insert_purchase").serialize()
+    
+   };
+   dataString[csrfName] = csrfHash;
+  
+    $.ajax({
+        type:"POST",
+        dataType:"json",
+        url:"<?php echo base_url(); ?>Cinvoice/insert_packing_list",
+        data:$("#insert_purchase").serialize(),
 
+        success:function (data) {
+        console.log(data);
+   
+            var split = data.split("/");
+            $('#invoice_hdn1').val(split[0]);
+         
+     
+            $('#invoice_hdn').val(split[1]);
+            $("#myModal1").find('.modal-body').text('Packing List Created Successfully');
+            $('#final_submit').show();
+$('#download').show();
+$('#email_btn').show();
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+$("#bodyModal1").html("");
+ },2500);
+
+
+       }
+
+    });
+    event.preventDefault();
+});
+$('#download').on('click', function (e) {
+
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/packing_list_details_data/"+$('#invoice_hdn1').val());
+ 
+    window.setTimeout(function(){
+         popout.close();
+        
+      }, 2500);
+      e.preventDefault();
+
+});  
+var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
+var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
+        $(document).ready(function(){
+            $('#final_submit').hide();
+$('#download').hide();
+$('#email_btn').hide();
+   });
+   function discard(){
+   $.get(
+    "<?php echo base_url(); ?>Cinvoice/delete_packing/", 
+   { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
+   function(responseText){
+    console.log(responseText);
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Packing List No :"+$('#invoice_hdn').val()+" has been Discarded";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#exampleModalLong').modal('show');
+    window.setTimeout(function(){
+       
+
+      window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
+     }, 2000);
+  }
+); 
+}
+     function submit_redirect(){
+        window.btn_clicked = true;      //set btn_clicked to true
+        var input_hdn="Your Packing List No :"+$('#invoice_hdn').val()+" has been Created Successfully";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#exampleModalLong').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
+      }, 2000);
+     }
+$('.final_submit').on('click', function (e) {
+
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Packing List No :"+$('#invoice_hdn').val()+" has been Created Successfully";
+  
+    console.log(input_hdn);
+    $("#myModal1").find('.modal-body').text(input_hdn);
+   // $("#bodyModal1").html(input_hdn);
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+ },2500);
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
+      }, 2500);
+       
+});
+
+window.onbeforeunload = function(){
+    if(!window.btn_clicked){
+       // window.btn_clicked = true; 
+        $('#myModal3').modal('show');
+       return false;
+    }
+}
 </script>

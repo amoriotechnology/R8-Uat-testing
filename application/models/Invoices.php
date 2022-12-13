@@ -1956,21 +1956,27 @@ public function retrieve_packing_editdata($purchase_id) {
 
         );
 
-        $purchase_id_1 = $this->db->where('invoice_id',$invoice_id);
+        $purchase_id_1 = $this->db->select('commercial_invoice_number,invoice_id')->where('invoice_id',$invoice_id);
         $q=$this->db->get('invoice');
-        $row = $q->row_array();
-    if(!empty($row['invoice_id'])){
-        $this->session->set_userdata("sale_1",$row['invoice_id']);
+        $row = $q->result();
       
-        $this->db->where('invoice_id',$this->input->post('invoice_id',TRUE));
+     
+    
+      
+    if(!empty($purchase_id_1)){
+   $this->session->set_userdata("sale_1",$invoice_id);
+      
+        $this->db->where('commercial_invoice_number',$this->input->post('commercial_invoice_number',TRUE));
     
         $this->db->delete('invoice');
-    
+  
         $this->db->insert('invoice', $datainv);
+   
     
     }   
     else{
     $this->db->insert('invoice', $datainv);
+
     
     }
       $purchase_id = $this->db->select('invoice_id')->from('invoice')->where('invoice_id',$invoice_id)->get()->row()->invoice_id;
@@ -2298,9 +2304,10 @@ $stock_in=$stock[$i];
 
             );
 
-            $this->db->where('invoice_id', $this->session->userdata("sale_1"));
+         //   $this->db->where('invoice_id', $this->session->userdata("sale_1"));
  
-            $this->db->delete('invoice_details');
+          //  $this->db->delete('invoice_details');
+          //  echo $this->db->last_query();
             $this->db->insert('invoice_details', $data1);
 
               
@@ -2556,38 +2563,38 @@ $stock_in=$stock[$i];
 
 
      public function supplier_price($product_id) {
-
-        $this->db->select('supplier_price');
-
-        $this->db->from('supplier_product');
         $this->db->where('created_by',$this->session->userdata('user_id'));
         $this->db->where(array('product_id' => $product_id));
-
-        $supplier_product = $this->db->get()->row();
-
-   
-
+       
+        $q = $this->db->get('supplier_product');
+        $data = $q->result_array();
+       
 
 
         $this->db->select('Avg(rate) as supplier_price');
-
-        $this->db->from('product_purchase_details');
-
         $this->db->where('create_by',$this->session->userdata('user_id'));
-
         $this->db->where(array('product_id' => $product_id));
-
-        $purchasedetails = $this->db->get()->row();
+        $q = $this->db->get('product_purchase_details');
+        $data1 = $q->result_array();
+        
     
-      $price = (!empty($purchasedetails->supplier_price)?$purchasedetails->supplier_price:$supplier_product->supplier_price);
-
-if(!empty($price)){
-    return $price;
-}else{
-    return 0;
-}
+   if (!empty($data[0]['supplier_price']) && $data[0]['supplier_price'] !== '') {
      
-       // return (!empty($price)?$price:0);
+       
+        return $data[0]['supplier_price'];
+
+      }elseif (!empty($data1[0]['supplier_price']) &&  $data1[0]['supplier_price']!== '') {
+       
+      
+        return $data1[0]['supplier_price'];
+      }else{
+      
+        $price= '0';
+       
+        return $price;
+      }
+
+    
 
     }
 
@@ -2617,7 +2624,7 @@ if(!empty($price)){
 
         $query = $this->db->get();
 
-echo $this->db->last_query();
+
 
         if ($query->num_rows() > 0) {
 
@@ -4159,6 +4166,7 @@ public function service_invoice_taxinfo($invoice_id){
         $this->db->from('customer_information');
         $this->db->where('customer_name', $value);
         $query = $this->db->get()->result();
+       
         return $query;
     
     }

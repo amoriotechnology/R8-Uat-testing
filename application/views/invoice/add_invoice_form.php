@@ -235,7 +235,7 @@
                         </div>
 
                         <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
-                        <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
 
                         <div class="row">
 
@@ -664,7 +664,7 @@ textarea:focus, input:focus{
                                <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
-<a id="email" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>       
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>   </td>       
                                  
                                     </td>
                                  
@@ -781,7 +781,7 @@ $(document).ready(function(){
     $('#final_submit').hide();
 $('#download').hide();
 
-$('#email').hide();
+$('#email_btn').hide();
 
 });
 function discard(){
@@ -819,7 +819,7 @@ function discard(){
         window.location = "<?php  echo base_url(); ?>Cinvoice/manage_invoice";
       }, 2000);
      }
-     $('#email').on('click', function (e) {
+     $('#email_btn').on('click', function (e) {
 // var link=localStorage.getItem("truck");
 // console.log(link);
  var popout = window.open("<?php  echo base_url(); ?>Cinvoice/sendmail_with_attachments/"+$('#invoice_hdn1').val());
@@ -845,12 +845,12 @@ $('#insert_trucking').submit(function (event) {
 
         success:function (data) {
         console.log(data);
-        var input_hdn="New Sale created Successfully";
-        $("#bodyModal1").html(input_hdn);
+        var input_hdn2="New Sale created Successfully";
+        $("#bodyModal1").html(input_hdn2);
         $('#myModal1').modal('show');
         $('#final_submit').show();
         $('#download').show();
-        $('#email').show();
+        $('#email_btn').show();
     window.setTimeout(function(){
         $('.modal').modal('hide');
        
@@ -875,7 +875,7 @@ console.log(link);
     window.setTimeout(function(){
         popout.close();
    
-     }, 1500);
+     }, 2500);
       e.preventDefault();
 
 });  

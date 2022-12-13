@@ -773,7 +773,7 @@ var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 
 function discard(){
    $.get(
-    "<?php echo base_url(); ?>Cpurchase/delete_trucking/", 
+    "<?php echo base_url(); ?>Cinvoice/deleteprofarma/", 
    { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
    function(responseText){
     console.log(responseText);

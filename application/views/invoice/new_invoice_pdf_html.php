@@ -555,13 +555,13 @@ table th, table td {
       <div class="modal-content" style="width: 500px;height:100px;text-align:center;margin-bottom: 300px;">
         <div class="modal-header" style="">
       
-          <h4 class="modal-title">Sales - Trucking</h4>
+          <h4 class="modal-title">New Sale</h4>
         </div>
         <div class="content">
 
         <div class="modal-body" style="text-align:center;font-weight:bold;">
           
-          <h4>Trucking Invoice Downloaded Successfully</h4>
+          <h4>New Sale Downloaded Successfully</h4>
      
         </div>
         <div class="modal-footer">

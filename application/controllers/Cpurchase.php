@@ -625,7 +625,7 @@ $data=array(
         $this->db->where('expense_trucking_id', $_GET['val']);
         $this->db->delete('expense_trucking_details');
     
-      redirect("Cpurchase/manage_purchase");
+ 
    }
    public function delete_packing() {
     $this->db->where('expense_packing_id', $_GET['val']);

@@ -1081,7 +1081,7 @@ class Linvoice {
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $invoice_detail = $CI->Invoices->retrieve_invoice_editdata($invoice_id);
-        print_r($invoice_detail);
+      
         //echo "<pre>"; print_r($invoice_detail); die;
         $bank_list      = $CI->Web_settings->bank_list();
         $taxinfo        = $CI->Invoices->service_invoice_taxinfo($invoice_id);
@@ -1112,6 +1112,7 @@ class Linvoice {
         ->from('tax_information')
         ->get()
         ->result_array();
+        $all_invoice = $CI->Invoices->all_invoice($invoice_id);
         $data = array(
             'curn_info_default' =>$curn_info_default[0]['currency_name'],
             'currency'  =>$currency_details[0]['currency'],
@@ -1148,12 +1149,23 @@ class Linvoice {
             'total_tax'       => $invoice_detail[0]['taxs'],
             'invoice_all_data'=> $invoice_detail,
             'taxvalu'         => $taxinfo,
-         
+           
+            'all_invoice'=>$all_invoice,
+            'quantity'=> $all_invoice[0]['quantity'],
+            'rate'=> $all_invoice[0]['rate'],
+            'ac_details'=> $all_invoice[0]['ac_details'],
+            'remark'=> $all_invoice[0]['remark'],
+            'total'=> $all_invoice[0]['total_price'],
+            'tax_details'=> $all_invoice[0]['total_tax'],
+            'etd'=> $all_invoice[0]['etd'],
+            'eta'=> $all_invoice[0]['eta'],
+            'gtotal'       => $all_invoice[0]['gtotal'],
             'discount_type'   => $currency_details[0]['discount_type'],
             'bank_list'       => $bank_list,
             'bank_id'         => $invoice_detail[0]['bank_id'],
             'paytype'         => $invoice_detail[0]['payment_type'],
         );
+   
     
         $chapterList = $CI->parser->parse('invoice/edit_invoice_form', $data, true);
         return $chapterList;

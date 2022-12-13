@@ -846,7 +846,7 @@ $("#custocurrency_rate").inputFilter(function(value) {
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Sales - Profarma Invoice</h4>
         </div>
-        <div class="modal-body" id="bodyModal1" style="text-align:center;">
+        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
           
       
      
@@ -887,7 +887,7 @@ var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 function discard(){
    $.get(
-    "<?php echo base_url(); ?>Cpurchase/delete_trucking/", 
+    "<?php echo base_url(); ?>Cinvoice/deleteprofarma/",  
    { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
    function(responseText){
     console.log(responseText);

@@ -416,7 +416,7 @@ $('#email_btn').hide();
         success:function (data) {
         console.log(data);
         var split = data.split("/");
-        var input_hdn="Ocean Export Created Successfully";
+        var input_hdn="Ocean Export Updated Successfully";
   
   console.log(input_hdn);
   $("#bodyModal1").html(input_hdn);
@@ -477,7 +477,7 @@ function discard(){
 }
      function submit_redirect(){
         window.btn_clicked = true;      //set btn_clicked to true
-        var input_hdn="Your Booking List No :"+$('#invoice_hdn1').val()+" has been saved Successfully";
+        var input_hdn="Your Booking List No :"+$('#invoice_hdn1').val()+" has been Updated Successfully";
   
     console.log(input_hdn);
     $('#myModal3').modal('hide');

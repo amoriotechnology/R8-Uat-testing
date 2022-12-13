@@ -424,8 +424,38 @@ echo json_encode($data);
         $CI->load->model('Invoices');
         $value = $this->input->post('value',TRUE);
         $customer_info = $CI->Invoices->getcustomer_data($value);
+     
         echo json_encode($customer_info);
+        
     }
+    public function delete_trucking() {
+        $this->db->where('trucking_id', $_GET['val']);
+        $this->db->delete('sale_trucking');
+        $this->db->where('sale_trucking_id', $_GET['val']);
+        $this->db->delete('sale_trucking_id');
+   }
+   public function delete_ocean_export(){
+    $this->db->where('booking_no', $_GET['val']);
+    $this->db->delete('ocean_export_tracking');
+}
+public function delete_packing() {
+    $this->db->where('expense_packing_id', $_GET['val']);
+    $this->db->delete('expense_packing_list');
+    $this->db->where('expense_packing_id', $_GET['val']);
+    $this->db->delete('expense_packing_list_detail');
+}
+public function deleteprofarma(){
+    $this->db->where('purchase_id', $_GET['val']);
+    $this->db->delete('profarma_invoice');
+    $this->db->where('purchase_id', $_GET['val']);
+    $this->db->delete('profarma_invoice_details');
+}
+public function deletesale(){
+    $this->db->where('invoice_id', $_GET['val']);
+    $this->db->delete('invoice');
+    $this->db->where('invoice_id', $_GET['val']);
+    $this->db->delete('invoice_details');
+}
     public function getcustomer_byID(){
         $CI = & get_instance();
         $this->auth->check_admin_auth();
@@ -1294,7 +1324,7 @@ $set=json_encode( $output['content']);
  $this->db->where('menu', $split[0]);
  $this->db->where('submenu', $split[1]);
  $query = $this->db->get();
-  echo $this->db->last_query();
+
     
         if ($query->num_rows() > 0) {
             $this->db->where('user', $user); 

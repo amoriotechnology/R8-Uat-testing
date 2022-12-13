@@ -63,8 +63,9 @@ $Web_settings = $CI->Web_settings->retrieve_setting_editdata();
 <?php
   $myArray = explode('(',$tax); 
   $tax_amt=$myArray[0];
+  if($myArray[1] !==''){
   $tax_des=$myArray[1];
-
+  }
       //////////////Design one/////////////  
             if($template==1)
             {

@@ -41,16 +41,17 @@ class Csupplier extends CI_Controller {
                 'fax'           => $this->input->post('fax',TRUE),
                 'city'          => $this->input->post('city',TRUE),
                 'state'         => $this->input->post('state',TRUE),
-                'currency_type'         => $this->input->post('currency_type',TRUE),
+                'currency_type'         => $this->input->post('currency_t',TRUE),
                 'zip'           => $this->input->post('zip',TRUE),
                 'country'       => $this->input->post('country',TRUE),
                 'details'       => $this->input->post('details',TRUE),
                 'status'        => 1
             );
+            print_r($data);
     
             $this->db->insert('supplier_information',$data);
-    
-
+    echo $this->db->last_query();
+die();
                 $supplier_id = $this->db->insert_id();
               $coa = $this->Suppliers->headcode();
             if($coa->HeadCode!=NULL){
