@@ -594,7 +594,7 @@ preg_match('#\((.*?)\)#', $d, $match);
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">Expenses - Trucking</h4>
         </div>
-        <div class="modal-body" id="bodyModal1" style="text-align:center;">
+        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
           
       
      
@@ -634,7 +634,7 @@ preg_match('#\((.*?)\)#', $d, $match);
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 function discard(){
    $.get(
-    "<?php echo base_url(); ?>Cpurchase/delete_trucking/", 
+    "<?php echo base_url(); ?>Cinvoice/delete_trucking/", 
    { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
    function(responseText){
     console.log(responseText);
@@ -648,14 +648,14 @@ function discard(){
     window.setTimeout(function(){
        
 
-        window.location = "<?php  echo base_url(); ?>Ccpurchase/manage_trucking";
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_trucking";
       }, 2000);
    }
 ); 
 }
      function submit_redirect(){
         window.btn_clicked = true;      //set btn_clicked to true
-    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been saved Successfully";
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been Updated Successfully";
   
     console.log(input_hdn);
     $('#myModal3').modal('hide');
@@ -664,7 +664,7 @@ function discard(){
     window.setTimeout(function(){
        
 
-        window.location = "<?php  echo base_url(); ?>Ccpurchase/manage_trucking";
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_trucking";
       }, 2000);
      }
 
@@ -685,7 +685,7 @@ $('#insert_trucking').submit(function (event) {
 
         success:function (data) {
         console.log(data);
-        var input_hdn="Trucking invoice created Successfully";
+        var input_hdn="Trucking invoice Updated Successfully";
         $("#bodyModal1").html(input_hdn);
         $('#myModal1').modal('show');
         $('#final_submit').show();
@@ -724,7 +724,7 @@ console.log(link);
 $('.final_submit').on('click', function (e) {
 
     window.btn_clicked = true;      //set btn_clicked to true
-    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been saved Successfully";
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been Updated Successfully";
   
     console.log(input_hdn);
     $("#bodyModal1").html(input_hdn);

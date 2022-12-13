@@ -773,7 +773,7 @@ var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 
 function discard(){
    $.get(
-    "<?php echo base_url(); ?>Cpurchase/delete_trucking/", 
+    "<?php echo base_url(); ?>Cinvoice/deleteprofarma/", 
    { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
    function(responseText){
     console.log(responseText);
@@ -806,7 +806,15 @@ function discard(){
         window.location = "<?php  echo base_url(); ?>Cinvoice/manage_profarma_invoice";
       }, 2000);
      }
-
+     $('#email').on('click', function (e) {
+// var link=localStorage.getItem("truck");
+// console.log(link);
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/proforma_with_attachment_cus/"+$('#invoice_hdn1').val());
+    // window.setTimeout(function(){
+    //     popout.close();
+    //  }, 1500);
+      e.preventDefault();
+});
 $('#insert_trucking').submit(function (event) {
    
        

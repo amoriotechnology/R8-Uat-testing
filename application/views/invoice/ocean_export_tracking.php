@@ -28,20 +28,7 @@
         </div>
     </section>
 
-   <?php 
-if(isset($_SESSION['oceanid']))
-{
 
-?>
-<script type="text/javascript">
-     $(document).ready(function(){
-
-     $('#myModal1').modal('show');
-     hide();
-     });
-     
-</script>
-<?php } ?>
 <div class="modal fade" id="myModal1" role="dialog">
     <div class="modal-dialog">
     
@@ -49,11 +36,11 @@ if(isset($_SESSION['oceanid']))
       <div class="modal-content" style="    margin-top: 190px;">
         <div class="modal-header" style="">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Ocean Export Tracking</h4>
+          <h4 class="modal-title">Sales - Ocean Export</h4>
         </div>
-        <div class="modal-body">
+        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
           
-          <h4>Ocean Export Invoice  Created Succefully</h4>
+         
      
         </div>
         <div class="modal-footer">
@@ -190,7 +177,8 @@ if(isset($_SESSION['oceanid']))
                                 </div> 
                             </div>
                         </div>
-
+                        <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
+   
 
                         <div class="row">
                             <div class="col-sm-6">
@@ -296,7 +284,7 @@ if(isset($_SESSION['oceanid']))
                                 </div> 
                             </div>
                         </div>
-                        <input type="text" id="invoice_hdn"/> <input type="text" id="invoice_hdn1"/>
+                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="form-group row">
@@ -395,32 +383,19 @@ if(isset($_SESSION['oceanid']))
 <br>
                        
 
-                        <div class="form-group row">
+<div class="form-group row">
                             <div class="col-sm-6">
-                                <!-- <input type="submit" id="ocean_export_tracking" class="btn btn-primary btn-large" name="add-ocean-export" value="<?php echo display('submit') ?>" />
-                                <input type="submit" value="<?php echo display('submit_and_add_another') ?>" name="add-ocean-export-another" class="btn btn-large btn-success" id="add-ocean-export-another" > -->
-
-                                 <table>
-                                <tr>
-                                    <td>
-                                    <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-ocean-Export" value="Save" />
+                                <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-ocean-Export" value="Save" />
                                                        
-                                                       <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
-                        
-                        <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
-                        <a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a> 
-                                    </td>
-                            
-                                 
-                                  
-                                  
-                                    
-                                </tr>
-                               </table>
+                               <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
+
+<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a> 
+
                             </div>
                         </div>
 
-                        <input type ="hidden" name="csrf_test_name" id="csrf_test_name" value="<?php echo $this->security->get_csrf_hash();?>">
+
 
                         </form>
                     </div>
@@ -430,17 +405,18 @@ if(isset($_SESSION['oceanid']))
         </div>
     </section>
 </div>
+<!--
 <div class="modal" id="myModal">
   <div class="modal-dialog">
     <div class="modal-content">
 
-      <!-- Modal Header -->
+ 
       <div class="modal-header">
         <h4 class="modal-title">Online Tracking</h4>
         <button type="button" class="close" data-dismiss="modal">&times;</button>
       </div>
 
-      <!-- Modal body -->
+
       <div class="modal-body">
       Vessel
       <br/>
@@ -449,14 +425,14 @@ if(isset($_SESSION['oceanid']))
       tracking
   </div>
 
-      <!-- Modal footer -->
+     
       <div class="modal-footer">
         <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
       </div>
 
     </div>
   </div>
-</div>
+</div>-->
 
 <!-- Purchase Report End -->
 <div class="modal fade modal-success" id="add_vendor" role="dialog">
@@ -642,14 +618,18 @@ if(isset($_SESSION['oceanid']))
                         </div>
 
         </form>
-
+</div>
                     </div><!-- /.modal-content -->
 
                 </div><!-- /.modal-dialog -->
 
             </div><!-- /.modal -->
 
-            <div class="modal fade" id="myModal1" role="dialog" >
+
+<!-- Purchase Report End -->
+
+
+    <div class="modal fade" id="myModal1" role="dialog" >
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -700,7 +680,7 @@ var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 
             $('#final_submit').hide();
 $('#download').hide();
-$('#email_btn').hide();
+$('#email_btn').hide();   
         });
         $('#insert_ocean').submit(function (event) {
     var dataString = {
@@ -716,9 +696,6 @@ $('#email_btn').hide();
         data:$("#insert_ocean").serialize(),
 
         success:function (data) {
-            $('#final_submit').show();
-$('#download').show();
-$('#email_btn').show();
         console.log(data);
         var split = data.split("/");
         var input_hdn="Ocean Export Created Successfully";
@@ -757,6 +734,7 @@ $('.modal-backdrop').remove();
 
 $('#final_submit').show();
 $('#download').show();
+$('#email_btn').show();   
 });
 function discard(){
    $.get(
@@ -781,7 +759,7 @@ function discard(){
 }
      function submit_redirect(){
         window.btn_clicked = true;      //set btn_clicked to true
-        var input_hdn="Your Booking List No :"+$('#invoice_hdn1').val()+" has been saved Successfully";
+        var input_hdn="Your Booking List No :"+$('#invoice_hdn1').val()+" has been Created Successfully";
   
     console.log(input_hdn);
     $('#myModal3').modal('hide');
@@ -797,7 +775,7 @@ function discard(){
 $('#final_submit').on('click', function (e) {
 
     window.btn_clicked = true;      //set btn_clicked to true
-    var input_hdn="Your Booking  No :"+$('#invoice_hdn1').val()+" has been Updated Successfully";
+    var input_hdn="Your Booking  No :"+$('#invoice_hdn1').val()+" has been Created Successfully";
   
     console.log(input_hdn);
     $("#bodyModal1").html(input_hdn);
@@ -819,15 +797,6 @@ window.onbeforeunload = function(){
 }
     </script>
  
-
-<style>
- #btn1_download{
-display:none;
- }
-     #btn1_email{
-        display:none;
-     }
-    </style>
 
     
 

@@ -1081,7 +1081,7 @@ class Linvoice {
         $CI->load->model('Invoices');
         $CI->load->model('Web_settings');
         $invoice_detail = $CI->Invoices->retrieve_invoice_editdata($invoice_id);
-        print_r($invoice_detail);
+      
         //echo "<pre>"; print_r($invoice_detail); die;
         $bank_list      = $CI->Web_settings->bank_list();
         $taxinfo        = $CI->Invoices->service_invoice_taxinfo($invoice_id);
@@ -1104,7 +1104,15 @@ class Linvoice {
         $currency_details = $CI->Web_settings->retrieve_setting_editdata();
    
         $curn_info_default = $CI->db->select('*')->from('currency_tbl')->where('icon',$currency_details[0]['currency'])->get()->result_array();
-      
+        $prodt = $CI->db->select('product_name,product_model,p_quantity')
+        ->from('product_information')
+        ->get()
+        ->result_array();
+        $taxfield1 = $CI->db->select('tax_id,tax')
+        ->from('tax_information')
+        ->get()
+        ->result_array();
+        $all_invoice = $CI->Invoices->all_invoice($invoice_id);
         $data = array(
             'curn_info_default' =>$curn_info_default[0]['currency_name'],
             'currency'  =>$currency_details[0]['currency'],
@@ -1117,8 +1125,9 @@ class Linvoice {
             'billing_address' => $invoice_detail[0]['billing_address'],
             'container_no'=> $invoice_detail[0]['container_no'],
             'bl_no'=> $invoice_detail[0]['bl_no'],
+            'product'       =>$prodt,
             'port_of_discharge' => $invoice_detail[0]['port_of_discharge'],
-            'invoice_details' => $invoice_detail[0]['invoice_details'],
+            'invoice_detail' => $invoice_detail[0]['invoice_details'],
             'invoice'         => $invoice_detail[0]['invoice'],
             'total_amount'    => $invoice_detail[0]['total_amount'],
             'paid_amount'     => $invoice_detail[0]['paid_amount'],
@@ -1127,6 +1136,12 @@ class Linvoice {
             'total_discount'  => $invoice_detail[0]['total_discount'],
             'unit'            => $invoice_detail[0]['unit'],
             'tax'             => $invoice_detail[0]['tax'],
+            'payment_terms'             => $invoice_detail[0]['payment_terms'],
+            'number_of_days'  =>$invoice_detail[0]['number_of_days'],
+            'etd'  =>$invoice_detail[0]['etd'],
+            'eta'  =>$invoice_detail[0]['eta'],
+            'all_tax' =>$taxfield1,
+            'payment_due_date' =>$invoice_detail[0]['payment_due_date'],
             'taxes'          => $taxfield,
             'prev_due'        => $invoice_detail[0]['prevous_due'],
             'net_total'       => $invoice_detail[0]['prevous_due'] + $invoice_detail[0]['total_amount'], 
@@ -1134,12 +1149,24 @@ class Linvoice {
             'total_tax'       => $invoice_detail[0]['taxs'],
             'invoice_all_data'=> $invoice_detail,
             'taxvalu'         => $taxinfo,
+           
+            'all_invoice'=>$all_invoice,
+            'quantity'=> $all_invoice[0]['quantity'],
+            'rate'=> $all_invoice[0]['rate'],
+            'ac_details'=> $all_invoice[0]['ac_details'],
+            'remark'=> $all_invoice[0]['remark'],
+            'total'=> $all_invoice[0]['total_price'],
+            'tax_details'=> $all_invoice[0]['total_tax'],
+            'etd'=> $all_invoice[0]['etd'],
+            'eta'=> $all_invoice[0]['eta'],
+            'gtotal'       => $all_invoice[0]['gtotal'],
             'discount_type'   => $currency_details[0]['discount_type'],
             'bank_list'       => $bank_list,
             'bank_id'         => $invoice_detail[0]['bank_id'],
             'paytype'         => $invoice_detail[0]['payment_type'],
         );
-        //echo "<pre>";print_r($data); die;
+   
+    
         $chapterList = $CI->parser->parse('invoice/edit_invoice_form', $data, true);
         return $chapterList;
     }

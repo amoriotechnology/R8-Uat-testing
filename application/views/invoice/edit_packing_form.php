@@ -350,7 +350,9 @@
 
 
                   
+
                         </form>
+
                     </div>
                 </div>
 
@@ -607,8 +609,9 @@ $('#insert_purchase').submit(function (event) {
             $('#invoice_hdn').val(split[1]);
             $("#myModal1").find('.modal-body').text('Packing List Updated Successfully');
             $('#final_submit').show();
+            $('#email_btn').show();
 $('#download').show();
-$('#email_btn').show();
+
     $('#myModal1').modal('show');
     window.setTimeout(function(){
         $('.modal').modal('hide');
@@ -630,7 +633,7 @@ $('#download').on('click', function (e) {
     window.setTimeout(function(){
          popout.close();
         
-      }, 1500);
+      }, 2500);
       e.preventDefault();
 
 });  
@@ -673,7 +676,7 @@ $('#email_btn').hide();
     window.setTimeout(function(){
        
 
-        window.location = "<?php  echo base_url(); ?>Cpurchase/manage_packing_list";
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
       }, 2000);
      }
 $('.final_submit').on('click', function (e) {
@@ -693,7 +696,7 @@ $('.modal-backdrop').remove();
     window.setTimeout(function(){
        
 
-        window.location = "<?php  echo base_url(); ?>Cpurchase/manage_packing_list";
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
       }, 2500);
        
 });

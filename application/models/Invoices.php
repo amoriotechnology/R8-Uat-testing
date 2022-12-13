@@ -1956,9 +1956,36 @@ public function retrieve_packing_editdata($purchase_id) {
 
         );
 
-
-
+        $purchase_id_1 = $this->db->select('commercial_invoice_number,invoice_id')->where('invoice_id',$invoice_id);
+        $q=$this->db->get('invoice');
+        $row = $q->result();
+      
+     
+    
+      
+    if(!empty($purchase_id_1)){
+   $this->session->set_userdata("sale_1",$invoice_id);
+      
+        $this->db->where('commercial_invoice_number',$this->input->post('commercial_invoice_number',TRUE));
+    
+        $this->db->delete('invoice');
+  
         $this->db->insert('invoice', $datainv);
+   
+    
+    }   
+    else{
+    $this->db->insert('invoice', $datainv);
+
+    
+    }
+      $purchase_id = $this->db->select('invoice_id')->from('invoice')->where('invoice_id',$invoice_id)->get()->row()->invoice_id;
+    
+       $this->session->set_userdata("sale_2",$purchase_id);
+
+
+
+    //    $this->db->insert('invoice', $datainv);
 
         $prinfo  = $this->db->select('product_id,Avg(rate) as product_rate')->from('product_purchase_details')->where_in('product_id',$product_id)->group_by('product_id')->get()->result(); 
 
@@ -2210,7 +2237,7 @@ public function retrieve_packing_editdata($purchase_id) {
 
         $tax_amount          = $this->input->post('tax',TRUE);
 
-        $invoice_description = $this->input->post('desc',TRUE);
+      
 
         $serial_n            = $this->input->post('serial_no',TRUE);
 
@@ -2239,7 +2266,7 @@ $stock_in=$stock[$i];
             // $tax = $tax_amount[$i];
             $tax =0;
 
-            $description = $invoice_description[$i];
+          
 
            
 
@@ -2247,7 +2274,7 @@ $stock_in=$stock[$i];
 
                 'invoice_details_id' => $this->generator(15),
 
-                'invoice_id'         => $invoice_id,
+                'invoice_id'         => $this->session->userdata("sale_2"),
 
                 'product_id'         =>$product_id,
                 'product_name'   => $p_name,
@@ -2259,7 +2286,7 @@ $stock_in=$stock[$i];
 
                 'discount'           => $discount,
 
-                'description'        => $description,
+              
 
                 'discount_per'       => $disper,
 
@@ -2277,9 +2304,13 @@ $stock_in=$stock[$i];
 
             );
 
+         //   $this->db->where('invoice_id', $this->session->userdata("sale_1"));
+ 
+          //  $this->db->delete('invoice_details');
+          //  echo $this->db->last_query();
+            $this->db->insert('invoice_details', $data1);
 
-
-                $this->db->insert('invoice_details', $data1);
+              
 
             
 
@@ -2317,7 +2348,7 @@ $stock_in=$stock[$i];
 
     
 
-        return $invoice_id;
+        return $invoice_id."/".$this->input->post('commercial_invoice_number',TRUE);
 
     }
 
@@ -2532,34 +2563,38 @@ $stock_in=$stock[$i];
 
 
      public function supplier_price($product_id) {
-
-        $this->db->select('supplier_price');
-
-        $this->db->from('supplier_product');
         $this->db->where('created_by',$this->session->userdata('user_id'));
         $this->db->where(array('product_id' => $product_id));
-
-        $supplier_product = $this->db->get()->row();
-
-   
-
+       
+        $q = $this->db->get('supplier_product');
+        $data = $q->result_array();
+       
 
 
         $this->db->select('Avg(rate) as supplier_price');
-
-        $this->db->from('product_purchase_details');
-
         $this->db->where('create_by',$this->session->userdata('user_id'));
-
         $this->db->where(array('product_id' => $product_id));
+        $q = $this->db->get('product_purchase_details');
+        $data1 = $q->result_array();
+        
+    
+   if (!empty($data[0]['supplier_price']) && $data[0]['supplier_price'] !== '') {
+     
+       
+        return $data[0]['supplier_price'];
 
-        $purchasedetails = $this->db->get()->row();
+      }elseif (!empty($data1[0]['supplier_price']) &&  $data1[0]['supplier_price']!== '') {
+       
+      
+        return $data1[0]['supplier_price'];
+      }else{
+      
+        $price= '0';
+       
+        return $price;
+      }
 
-      $price = (!empty($purchasedetails->supplier_price)?$purchasedetails->supplier_price:$supplier_product->supplier_price);
-
- 
-
-        return (!empty($price)?$price:0);
+    
 
     }
 
@@ -2589,7 +2624,7 @@ $stock_in=$stock[$i];
 
         $query = $this->db->get();
 
-echo $this->db->last_query();
+
 
         if ($query->num_rows() > 0) {
 
@@ -4131,6 +4166,7 @@ public function service_invoice_taxinfo($invoice_id){
         $this->db->from('customer_information');
         $this->db->where('customer_name', $value);
         $query = $this->db->get()->result();
+       
         return $query;
     
     }

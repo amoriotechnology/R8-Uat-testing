@@ -61,8 +61,10 @@
                     </div>
 
                     <div class="panel-body">
+
                        
                         <form id="insert_purchase"  method="post">          
+
                         <div class="row">
 
                              <div class="col-sm-6">
@@ -175,7 +177,7 @@
 
                                         </td>
 
-
+                                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                                         <td class="span3 supplier">
                                            <input type="text" name="description" required class="form-control" placeholder="<?php echo display('description') ?>"  tabindex="5" >
 
@@ -330,7 +332,12 @@
                                 <table>
                                 <tr>
                                     <td>
+<<<<<<< HEAD
                                     <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="<?php echo display('save') ?>" />
+=======
+    
+                                       <input type="submit" id="add_purchase" class="btn btn-primary btn-large" name="add-packing-list" value="<?php echo display('save') ?>" />
+>>>>>>> surya
                                 <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
 
 <a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>  
@@ -373,7 +380,11 @@
                         </div>
 
  
+<<<<<<< HEAD
                   <form>
+=======
+                            </form>
+>>>>>>> surya
                     </div>
                 </div>
 
@@ -391,7 +402,11 @@
         </div>
         <div class="modal-body" style="font-weight:bold;text-align:center;">
           
+<<<<<<< HEAD
           <h4>PackingList Created Successfully</h4>
+=======
+          <h4>PackingList Updated Successfully</h4>
+>>>>>>> surya
      
         </div>
         <div class="modal-footer">
@@ -443,9 +458,12 @@
       
     </div>
   </div>
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> surya
 <!-- Purchase Report End -->
 
 <script type="text/javascript">
@@ -516,6 +534,7 @@ $("#bodyModal1").html("");
     });
     event.preventDefault();
 });
+<<<<<<< HEAD
 $('#download').on('click', function (e) {
 
  var popout = window.open("<?php  echo base_url(); ?>Cinvoice/packing_list_details_data/"+$('#invoice_hdn1').val());
@@ -600,6 +619,15 @@ window.onbeforeunload = function(){
 }
 
 
+=======
+$('#email_btn').on('click', function (e) {
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/packing_with_attachment_cus/"+$('#invoice_hdn1').val());
+    // window.setTimeout(function(){
+    //      popout.close();
+    //   }, 1500);
+      e.preventDefault();
+});
+>>>>>>> surya
 </script>
 
 
@@ -742,5 +770,125 @@ $(document).ready(function(){
 
   
 });
+$('#insert_purchase').submit(function (event) {
+    var dataString = {
+        dataString : $("#insert_purchase").serialize()
+    
+   };
+   dataString[csrfName] = csrfHash;
+  
+    $.ajax({
+        type:"POST",
+        dataType:"json",
+        url:"<?php echo base_url(); ?>Cinvoice/insert_packing_list",
+        data:$("#insert_purchase").serialize(),
 
+        success:function (data) {
+        console.log(data);
+   
+            var split = data.split("/");
+            $('#invoice_hdn1').val(split[0]);
+         
+     
+            $('#invoice_hdn').val(split[1]);
+            $("#myModal1").find('.modal-body').text('Packing List Created Successfully');
+            $('#final_submit').show();
+$('#download').show();
+$('#email_btn').show();
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+$("#bodyModal1").html("");
+ },2500);
+
+
+       }
+
+    });
+    event.preventDefault();
+});
+$('#download').on('click', function (e) {
+
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/packing_list_details_data/"+$('#invoice_hdn1').val());
+ 
+    window.setTimeout(function(){
+         popout.close();
+        
+      }, 2500);
+      e.preventDefault();
+
+});  
+var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
+var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
+        $(document).ready(function(){
+            $('#final_submit').hide();
+$('#download').hide();
+$('#email_btn').hide();
+   });
+   function discard(){
+   $.get(
+    "<?php echo base_url(); ?>Cinvoice/delete_packing/", 
+   { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
+   function(responseText){
+    console.log(responseText);
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Packing List No :"+$('#invoice_hdn').val()+" has been Discarded";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#exampleModalLong').modal('show');
+    window.setTimeout(function(){
+       
+
+      window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
+     }, 2000);
+  }
+); 
+}
+     function submit_redirect(){
+        window.btn_clicked = true;      //set btn_clicked to true
+        var input_hdn="Your Packing List No :"+$('#invoice_hdn').val()+" has been Created Successfully";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#exampleModalLong').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
+      }, 2000);
+     }
+$('.final_submit').on('click', function (e) {
+
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Packing List No :"+$('#invoice_hdn').val()+" has been Created Successfully";
+  
+    console.log(input_hdn);
+    $("#myModal1").find('.modal-body').text(input_hdn);
+   // $("#bodyModal1").html(input_hdn);
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+ },2500);
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_packing_list";
+      }, 2500);
+       
+});
+
+window.onbeforeunload = function(){
+    if(!window.btn_clicked){
+       // window.btn_clicked = true; 
+        $('#myModal3').modal('show');
+       return false;
+    }
+}
 </script>

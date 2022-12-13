@@ -74,8 +74,8 @@ textarea:focus, input:focus{
                     </div>
 
                     <div class="panel-body">
-                    <?php echo form_open_multipart('Cinvoice/insert_trucking',array('class' => 'form-vertical', 'id' => 'insert_trucking','name' => 'insert_trucking'))?>
-                        <div class="row">
+                    <form id="insert_trucking"  method="post">     
+                    <div class="row">
 
                              <div class="col-sm-6">
                                 <div class="form-group row">
@@ -112,7 +112,7 @@ textarea:focus, input:focus{
                                 </div>
                             </div>
                         </div>
-
+                        <input type="hidden" id="invoice_hdn"/> <input type="hidden" id="invoice_hdn1"/>
                         <div class="row">
 
                             <div class="col-sm-6">
@@ -185,7 +185,7 @@ textarea:focus, input:focus{
                                 <?php }?>
                                 </div> 
                             </div>
-
+                            <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
 
                            
                         </div>
@@ -399,7 +399,11 @@ textarea:focus, input:focus{
                         
                         <div class="form-group row">
                             <div class="col-sm-6">
-                                <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
+                            <input type="submit" id="add_trucking" class="btn btn-primary btn-large" name="add-trucking" value="Save" />
+                                <a  style="color: #fff;"  id="final_submit" class='final_submit btn btn-primary'>Submit</a>
+
+<a id="download" style="color: #fff;" class='btn btn-primary'>Download</a>
+<a id="email_btn" style="color: #fff;" class='btn btn-primary'>Send Email with Attachment</a>
            
                            
                             </div>
@@ -407,7 +411,7 @@ textarea:focus, input:focus{
                    
                          
                         </div> 
-                    <?php echo form_close()?>
+                              </form>
                     </div>
                 </div>
 
@@ -422,9 +426,9 @@ textarea:focus, input:focus{
 
 
 <!-- Purchase Report End -->
-<div class="modal fade modal-success" id="add_vendor" role="dialog">
+<div class="modal fade" id="add_vendor" >
 
-<div class="modal-dialog" role="document">
+<div class="modal-dialog">
 
     <div class="modal-content">
 
@@ -608,25 +612,28 @@ textarea:focus, input:focus{
                         <?php echo form_close() ?>
                         <input type="hidden" id="hdn"/>
 <input type="text" id="gtotal_dup"/>
-<input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
+
             
                     </div><!-- /.modal-content -->
 
                 </div><!-- /.modal-dialog -->
 
             </div><!-- /.modal -->
-			            <div class="modal fade" id="myModal1" role="dialog" >
+   
+
+
+            <div class="modal fade" id="myModal1" >
     <div class="modal-dialog">
     
       <!-- Modal content-->
-      <div class="modal-content" style="    margin-top: 190px;">
+      <div class="modal-content" style="margin-top: 190px;">
         <div class="modal-header" style="">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Trucking invoice</h4>
+          <h4 class="modal-title">Expenses - Trucking</h4>
         </div>
-        <div class="modal-body">
+        <div class="modal-body" id="bodyModal1" style="font-weight:bold;text-align:center;">
           
-          <h4>Trucking invoice  Created Succefully</h4>
+      
      
         </div>
         <div class="modal-footer">
@@ -636,7 +643,154 @@ textarea:focus, input:focus{
       
     </div>
   </div>
+          <div id="myModal3" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title">Confirmation</h4>
+			</div>
+			<div class="modal-body">
+				<p>Your Invoice is not submitted. Would you like to submit or discard
+				</p>
+				<p class="text-warning">
+					<small>If you don't submit, your changes will not be saved.</small>
+				</p>
+			</div>
+			<div class="modal-footer">
+				<input type="submit" id="ok" class="btn btn-primary pull-left final_submit" onclick="submit_redirect()"  value="Submit"/>
+                <button id="btdelete" type="button" class="btn btn-danger pull-left" onclick="discard()">Discard</button>
+			
+			</div>
+		</div>
+	</div>
+</div>   
+
 <script>
+        var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
+var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
+function discard(){
+   $.get(
+    "<?php echo base_url(); ?>Cinvoice/delete_trucking/", 
+   { val: $("#invoice_hdn1").val(), csrfName:csrfHash }, // put your parameters here
+   function(responseText){
+    console.log(responseText);
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been Discared";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_trucking";
+      }, 2000);
+   }
+); 
+}
+     function submit_redirect(){
+        window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been Updated Successfully";
+  
+    console.log(input_hdn);
+    $('#myModal3').modal('hide');
+    $("#bodyModal1").html(input_hdn);
+    $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_trucking";
+      }, 2000);
+     }
+
+$('#insert_trucking').submit(function (event) {
+   
+       
+    var dataString = {
+        dataString : $("#insert_trucking").serialize()
+    
+   };
+   dataString[csrfName] = csrfHash;
+  
+    $.ajax({
+        type:"POST",
+        dataType:"json",
+        url:"<?php echo base_url(); ?>Cinvoice/insert_trucking",
+        data:$("#insert_trucking").serialize(),
+
+        success:function (data) {
+        console.log(data);
+        var input_hdn="Trucking invoice Updated Successfully";
+        $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+        $('#final_submit').show();
+        $('#download').show();
+        $('#email_btn').show();
+    window.setTimeout(function(){
+        $('.modal').modal('hide');
+       
+$('.modal-backdrop').remove();
+ },2500);
+
+            var split = data.split("/");
+            $('#invoice_hdn1').val(split[0]);
+         
+     
+         $('#invoice_hdn').val(split[1]);
+       }
+
+    });
+    event.preventDefault();
+});
+$('#download').on('click', function (e) {
+var link=localStorage.getItem("truck");
+console.log(link);
+ var popout = window.open("<?php  echo base_url(); ?>Cinvoice/trucking_details_data/"+$('#invoice_hdn1').val());
+ 
+    window.setTimeout(function(){
+        popout.close();
+   
+     }, 1500);
+      e.preventDefault();
+
+});  
+
+
+$('.final_submit').on('click', function (e) {
+
+    window.btn_clicked = true;      //set btn_clicked to true
+    var input_hdn="Your Invoice No :"+$('#invoice_hdn').val()+" has been Updated Successfully";
+  
+    console.log(input_hdn);
+    $("#bodyModal1").html(input_hdn);
+        $('#myModal1').modal('show');
+    window.setTimeout(function(){
+       
+
+        window.location = "<?php  echo base_url(); ?>Cinvoice/manage_trucking";
+      }, 2000);
+       
+});
+
+window.onbeforeunload = function(){
+    if(!window.btn_clicked){
+       // window.btn_clicked = true; 
+        $('#myModal3').modal('show');
+       return false;
+    }
+};
+ 
+
+
+
+$(document).ready(function(){
+        $('#final_submit').hide();
+$('#download').hide();
+$('#email_btn').hide();
+});
+
         var csrfName = '<?php echo $this->security->get_csrf_token_name();?>';
 var csrfHash = '<?php echo $this->security->get_csrf_hash();?>';
 function addTruckingOrderField(t) {
@@ -972,21 +1126,7 @@ $('#customer_gtotal').val(custo_final);
 
 
     </script>
-	
-	    <?php 
 
-    if(isset($_SESSION['truckid']))
-        { ?>
-
-    <script type="text/javascript">
-        $(document).ready(function(){
-
-
-           $('#myModal1').modal('show');
-           hide();
-        });
-    </script>
-     <?php } ?>
 
        <!-- script for currency selector -->
 <script>
